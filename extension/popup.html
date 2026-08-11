@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Salty Bet Bot</title>
+    <link rel="stylesheet" href="popup-controls.css">
+  </head>
+  <body>
+    <section id="extension-controls" aria-live="polite">
+      <div class="control-heading">
+        <div>
+          <strong>Salty Bet Bot</strong>
+          <span id="controller-state">Checking tab status…</span>
+        </div>
+        <span id="mode-badge" class="badge observe">Observe only</span>
+      </div>
+      <label class="toggle-row">
+        <input id="automation-enabled" type="checkbox">
+        <span>Enable automatic betting</span>
+      </label>
+      <button id="claim-controller" type="button">Use this SaltyBet tab</button>
+      <p id="control-message"></p>
+    </section>
+    <script type="module" src="popup-controls.js"></script>
+    <script type="module" src="entries/popup.js"></script>
+  </body>
+</html>

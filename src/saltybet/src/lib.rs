@@ -1,8 +1,8 @@
 use std::cmp::Ordering;
 use std::rc::Rc;
 use std::cell::RefCell;
-use salty_bet_bot::{server_log, percentage, decimal, spawn, wait_until_defined, Debouncer, parse_f64, parse_money, parse_name, ClientPort, get_text_content, to_input_element, get_value, click, query, query_all, display_odds, get_extension_url, reload_page, log, NodeListIter, MutationObserver};
-use salty_bet_bot::api::{records_get_all, records_insert, MAX_MATCH_TIME_LIMIT, WaifuMessage, WaifuBetsOpen, WaifuBetsClosed};
+use salty_bet_bot::{server_log, percentage, decimal, spawn, wait_until_defined, runtime_events, parse_f64, parse_money, parse_name, get_text_content, to_input_element, get_value, click, query, query_all, display_odds, get_extension_url, log, NodeListIter, MutationObserver};
+use salty_bet_bot::api::{controller_register, records_get_all, records_insert, ControllerStatus, RuntimeEvent, MAX_MATCH_TIME_LIMIT, WaifuMessage, WaifuBetsOpen, WaifuBetsClosed};
 use algorithm::record::{Record, Character, Winner, Mode, Tier};
 use algorithm::simulation::{Bet, Simulation, Simulator, Strategy, Elo};
 use algorithm::strategy::{MATCHMAKING_STRATEGY, TOURNAMENT_STRATEGY, CustomStrategy, winrates, average_odds, needed_odds, expected_profits, bettors, expected_glicko_outcome};
@@ -11,15 +11,12 @@ use futures_util::stream::StreamExt;
 use futures_signals::map_ref;
 use futures_signals::signal::{always, Mutable, Signal, SignalExt};
 use dominator::{Dom, HIGHEST_ZINDEX, clone, stylesheet, html, events, class};
-use gloo_timers::callback::Timeout;
 use web_sys::{Node, Element, NodeList, MutationObserverInit};
 use lazy_static::lazy_static;
 use wasm_bindgen::prelude::*;
 use wasm_bindgen::JsCast;
 use discard::DiscardOnDrop;
 
-
-const SHOULD_BET: bool = true;
 
 // 10 minutes
 // TODO is this high enough ?
@@ -56,22 +53,10 @@ macro_rules! unwrap_log {
 
 
 fn on_change(state: &Rc<RefCell<State>>) {
-    fn fallback_bet(_state: &mut State) -> Option<()> {
-        let wager_box = query("#wager").and_then(to_input_element)?;
-
-        let left_button = query("#player1:enabled").and_then(to_input_element)?;
-
-        wager_box.set_value("1");
-
-        click(&left_button);
-
-        Some(())
-    }
-
     fn try_bet(state: &mut State) -> Option<()> {
         if query("#betconfirm").is_none() {
             if !state.waifu4u_alive {
-                return fallback_bet(state);
+                return None;
             }
 
             if state.did_bet {
@@ -125,22 +110,16 @@ fn on_change(state: &Rc<RefCell<State>>) {
 
                 state.did_bet = true;
 
-                let bet = match open.mode {
+                let recommended_bet = match open.mode {
                     Mode::Matchmaking => {
-                        // Always bet in tournament mode
-                        if !SHOULD_BET {
-                            Bet::None
+                        let simulation = &mut state.simulation;
 
-                        } else {
-                            let simulation = &mut state.simulation;
+                        simulation.in_tournament = false;
+                        simulation.sum = current_balance;
 
-                            simulation.in_tournament = false;
-                            simulation.sum = current_balance;
-
-                            match simulation.matchmaking_strategy {
-                                Some(ref a) => simulation.pick_winner(a, &open.tier, &open.left, &open.right, open.date),
-                                None => Bet::None,
-                            }
+                        match simulation.matchmaking_strategy {
+                            Some(ref a) => simulation.pick_winner(a, &open.tier, &open.left, &open.right, open.date),
+                            None => Bet::None,
                         }
                     },
 
@@ -163,7 +142,11 @@ fn on_change(state: &Rc<RefCell<State>>) {
 
                 state.update_info_container(&open.mode, &open.tier, &open.left, &open.right, open.date);
 
-                match bet {
+                if !state.is_controller || !state.automation_enabled {
+                    return Some(());
+                }
+
+                match recommended_bet {
                     Bet::Left(amount) => {
                         if amount.is_nan() {
                             server_log!("Invalid bet: {:#?} {} {:#?}", current_balance, in_tournament, open);
@@ -378,56 +361,23 @@ fn on_change(state: &Rc<RefCell<State>>) {
 }
 
 
-// TODO timer which prints an error message if it's been >5 hours since a successful match recording
-pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A: Stream<Item = Vec<WaifuMessage>> + 'static {
-    // 20 minutes
-    const WAIFU4U_TIMEOUT: u32 = 1000 * 60 * 20;
-
-    let mut debouncer = {
-        let state = state.clone();
-
-        Debouncer::new(move || {
-            server_log!("WAIFU4u is dead");
-
-            let mut state = state.borrow_mut();
-
-            state.clear_info_container();
-
-            // TODO should it reset all of these ?
-            state.did_bet = false;
-            state.open = None;
-            state.closed = None;
-            state.mode_switch = None;
-            state.information = None;
-
-            state.waifu4u_alive = false;
-        })
-    };
-
-    debouncer.reset(WAIFU4U_TIMEOUT);
-
-    let mut process_messages = move |messages: Vec<WaifuMessage>| {
+pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A: Stream<Item = RuntimeEvent> + 'static {
+    let process_state = state.clone();
+    let process_messages = move |messages: Vec<WaifuMessage>| {
         if !messages.is_empty() {
-            let mut state = state.borrow_mut();
+            let mut state = process_state.borrow_mut();
 
             if !state.waifu4u_alive {
                 state.waifu4u_alive = true;
                 server_log!("WAIFU4u is alive");
             }
 
-            debouncer.reset(WAIFU4U_TIMEOUT);
         }
 
         for message in messages {
             match message {
-                // This will only happen if the Twitch chat stops receiving messages for 15 minutes
-                WaifuMessage::ReloadPage => {
-                    reload_page();
-                    return;
-                },
-
                 WaifuMessage::BetsOpen(open) => {
-                    let mut state = state.borrow_mut();
+                    let mut state = process_state.borrow_mut();
 
                     state.clear_info_container();
 
@@ -439,7 +389,7 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
                 },
 
                 WaifuMessage::BetsClosed(closed) => {
-                    let mut state = state.borrow_mut();
+                    let mut state = process_state.borrow_mut();
 
                     state.mode_switch = None;
                     state.information = None;
@@ -471,17 +421,8 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
                     state.closed = None;
                 },
 
-                WaifuMessage::ModeSwitch { date, is_exhibition } => {
-                    // When exhibition mode starts, reload the page, just in case something screwed up on saltybet.com
-                    // TODO reload it when the first exhibition match begins, rather than after 15 minutes
-                    if is_exhibition {
-                        // 15 minutes
-                        Timeout::new(900000, || {
-                            reload_page();
-                        }).forget();
-                    }
-
-                    let mut state = state.borrow_mut();
+                WaifuMessage::ModeSwitch { date, is_exhibition: _ } => {
+                    let mut state = process_state.borrow_mut();
 
                     match state.open {
                         Some(ref open) => {
@@ -514,7 +455,7 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
                 },
 
                 WaifuMessage::Winner(winner) => {
-                    let state: &mut State = &mut state.borrow_mut();
+                    let state: &mut State = &mut process_state.borrow_mut();
 
                     match state.open {
                         Some(ref open) => {
@@ -592,7 +533,9 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
                                                     state.simulation.insert_record(record.clone());
 
                                                     // TODO is this guaranteed to be correctly ordered ?
-                                                    spawn(records_insert(vec![record]));
+                                                    if state.is_controller {
+                                                        spawn(records_insert(vec![record]));
+                                                    }
 
                                                 } else {
                                                     server_log!("Invalid bet data: {:#?} {:#?} {:#?} {:#?}", open, closed, information, winner);
@@ -627,10 +570,82 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
         }
     };
 
-    messages.for_each(move |messages| {
-        process_messages(messages);
+    messages.for_each(move |event| {
+        match event {
+            RuntimeEvent::TwitchEvents { events } => {
+                process_messages(events);
+                on_change(&state);
+            },
+            RuntimeEvent::ControllerStatus {
+                is_controller,
+                controller_tab_id: _,
+                automation_enabled,
+                last_twitch_event_at: _,
+            } => {
+                let mut current = state.borrow_mut();
+                current.is_controller = is_controller;
+                current.automation_enabled = automation_enabled;
+                current.status.set_controller(is_controller, automation_enabled);
+            },
+            RuntimeEvent::HealthStatus { status } => {
+                let mut current = state.borrow_mut();
+                if status == "chat_stale" {
+                    current.waifu4u_alive = false;
+                    current.status.set("Chat stale", "#f59e0b");
+                } else {
+                    current.status.set(&status, "#ef4444");
+                }
+            },
+        }
         async {}
     }).await
+}
+
+
+struct RuntimeStatus {
+    text: Mutable<String>,
+    color: Mutable<String>,
+}
+
+impl RuntimeStatus {
+    fn new() -> Self {
+        Self {
+            text: Mutable::new("Loading history…".to_string()),
+            color: Mutable::new("#64748b".to_string()),
+        }
+    }
+
+    fn set(&self, text: &str, color: &str) {
+        self.text.set_neq(text.to_string());
+        self.color.set_neq(color.to_string());
+    }
+
+    fn set_controller(&self, is_controller: bool, automation_enabled: bool) {
+        if !is_controller {
+            self.set("Standby — another tab controls betting", "#64748b");
+        } else if automation_enabled {
+            self.set("Automation enabled", "#16a34a");
+        } else {
+            self.set("Observe only — no bets will be placed", "#2563eb");
+        }
+    }
+
+    fn render(&self) -> Dom {
+        html!("div", {
+            .style("position", "fixed")
+            .style("top", "8px")
+            .style("right", "8px")
+            .style("z-index", HIGHEST_ZINDEX)
+            .style("padding", "8px 12px")
+            .style("border-radius", "6px")
+            .style("box-shadow", "0 2px 8px rgba(0, 0, 0, 0.35)")
+            .style("color", "white")
+            .style("font-size", "13px")
+            .style("font-weight", "700")
+            .style_signal("background-color", self.color.signal_cloned().map(Some))
+            .text_signal(self.text.signal_cloned())
+        })
+    }
 }
 
 
@@ -643,6 +658,9 @@ pub struct State {
     mode_switch: Option<f64>,
     simulation: Simulation<CustomStrategy, CustomStrategy>,
     info_container: Rc<InfoContainer>,
+    is_controller: bool,
+    automation_enabled: bool,
+    status: Rc<RuntimeStatus>,
 }
 
 impl State {
@@ -1000,9 +1018,11 @@ impl InfoContainer {
 }*/
 
 
-async fn initialize_state(container: Rc<InfoContainer>) -> Result<(), JsValue> {
+async fn initialize_state(container: Rc<InfoContainer>, status: Rc<RuntimeStatus>) -> Result<(), JsValue> {
     let observe = {
-        let port = ClientPort::connect("saltybet");
+        let events = runtime_events::<RuntimeEvent>();
+        let ControllerStatus { is_controller, automation_enabled, .. } = controller_register().await?;
+        status.set_controller(is_controller, automation_enabled);
 
         /*let matchmaking_strategy: FormulaStrategy = serde_json::from_str(include_str!("../../../strategies/matchmaking_strategy")).unwrap();
         let tournament_strategy: FormulaStrategy = serde_json::from_str(include_str!("../../../strategies/tournament_strategy")).unwrap();
@@ -1035,27 +1055,31 @@ async fn initialize_state(container: Rc<InfoContainer>) -> Result<(), JsValue> {
             information: None,
             simulation: simulation,
             info_container: container,
+            is_controller,
+            automation_enabled,
+            status,
         }));
 
-        wait_until_defined(|| query("#lastbet"), clone!(state => move |element: Element| {
-            let mut debouncer = Debouncer::new(move || {
-                on_change(&state);
-            });
-
-            debouncer.reset(10_000);
-
+        wait_until_defined(|| query("body"), clone!(state => move |element: Element| {
+            on_change(&state);
+            let observed_state = state.clone();
             let observer = MutationObserver::new(move |_| {
-                debouncer.reset(10_000);
+                on_change(&observed_state);
             });
 
-            observer.observe(&element, MutationObserverInit::new().child_list(true));
+            let options = MutationObserverInit::new();
+            options.set_child_list(true);
+            options.set_subtree(true);
+            options.set_character_data(true);
+            options.set_attributes(true);
+            observer.observe(&element, &options);
 
             DiscardOnDrop::leak(observer);
 
             log!("Information observer initialized");
         }));
 
-        observe_changes(state, port.messages())
+        observe_changes(state, events)
     };
 
     log!("Initialized state");
@@ -1073,14 +1097,6 @@ pub async fn main_js() -> Result<(), JsValue> {
 
     log!("Initializing...");
 
-    // Reloads the page every 24 hours, just in case something screwed up on saltybet.com
-    // Normally this doesn't happen, because it reloads the page at the start of exhibitions
-    // TODO is 24 hours too long ? can it be made shorter ? should it be made shorter ?
-    Timeout::new(86400000, || {
-        reload_page();
-    }).forget();
-
-
     stylesheet!("body", {
         // Same as Twitch chat
         .style_important("font-family", "Roobert, Helvetica Neue, Helvetica, Arial, sans-serif")
@@ -1088,6 +1104,11 @@ pub async fn main_js() -> Result<(), JsValue> {
 
 
     let container = Rc::new(InfoContainer::new());
+    let status = Rc::new(RuntimeStatus::new());
+
+    wait_until_defined(|| query("body"), clone!(status => move |body: Element| {
+        dominator::append_dom(&body, status.render());
+    }));
 
     wait_until_defined(|| query("#iframeplayer"), clone!(container => move |video: Element| {
         struct Player {
@@ -1168,5 +1189,11 @@ pub async fn main_js() -> Result<(), JsValue> {
     }));
 
 
-    initialize_state(container).await
+    match initialize_state(container, status.clone()).await {
+        Ok(()) => Ok(()),
+        Err(error) => {
+            status.set("Extension error — open the console", "#dc2626");
+            Err(error)
+        },
+    }
 }

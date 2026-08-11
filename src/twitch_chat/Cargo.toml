@@ -22,3 +22,6 @@ version = "0.3.33"
 features = [
     "HtmlImageElement",
 ]
+
+[dev-dependencies]
+wasm-bindgen-test = "0.3"

@@ -23,21 +23,14 @@
 // WAIFU4u: "wtfSalt ♫ "
 
 use std::iter::Iterator;
-use std::rc::Rc;
-use std::cell::RefCell;
 use discard::DiscardOnDrop;
-use gloo_timers::callback::Timeout;
-use salty_bet_bot::{parse_f64, wait_until_defined, ClientPort, get_text_content, query, query_all, regexp, reload_page, Debouncer, server_log, log, NodeListIter, DOCUMENT, MutationObserver};
+use salty_bet_bot::{parse_f64, wait_until_defined, get_text_content, query, query_all, regexp, server_log, log, spawn, NodeListIter, DOCUMENT, MutationObserver};
 use salty_bet_bot::api::{WaifuMessage, WaifuBetsOpen, WaifuBetsClosed, WaifuBetsClosedInfo, WaifuWinner};
 use algorithm::record::{Tier, Mode, Winner};
 use js_sys::Date;
 use web_sys::{Node, Element, HtmlImageElement, MutationRecord, MutationObserverInit};
 use wasm_bindgen::JsCast;
 use wasm_bindgen::prelude::*;
-
-
-// 15 minutes
-const REFRESH_TIME: u32 = 1000 * 60 * 15;
 
 
 fn parse_tier(input: &Option<String>) -> Option<Tier> {
@@ -59,6 +52,7 @@ fn parse_mode(input: &str) -> Option<Mode> {
     match input {
         "(matchmaking) www.saltybet.com" => Some(Mode::Matchmaking),
         "tournament bracket: http://www.saltybet.com/shaker?bracket=1" => Some(Mode::Tournament),
+        "tournament bracket: https://www.saltybet.com/shaker?bracket=1" => Some(Mode::Tournament),
         "(exhibitions) www.saltybet.com" => Some(Mode::Exhibitions),
         _ => None,
     }
@@ -67,7 +61,7 @@ fn parse_mode(input: &str) -> Option<Mode> {
 fn parse_bets_open(input: &str, date: f64) -> Option<WaifuMessage> {
     thread_local! {
         static BET_OPEN_REGEX: regexp::RegExp = regexp::RegExp::new(
-            r"^Bets are OPEN for (.+) vs (.+?) *!(?: \((NEW|None|[XSABP])(?: / (?:NEW|None|[XSABP]))? Tier\))? (?:\(Requested by .+? *\) )?((?:\(matchmaking\) www\.saltybet\.com)|(?:tournament bracket: http://www\.saltybet\.com/shaker\?bracket=1)|(?:\(exhibitions\) www\.saltybet\.com))$"
+            r"^Bets are OPEN for (.+) vs (.+?) *!(?: \((NEW|None|[XSABP])(?: / (?:NEW|None|[XSABP]))? Tier\))? (?:\(Requested by .+? *\) )?((?:\(matchmaking\) www\.saltybet\.com)|(?:tournament bracket: https?://www\.saltybet\.com/shaker\?bracket=1)|(?:\(exhibitions\) www\.saltybet\.com))$"
         );
     }
 
@@ -83,7 +77,7 @@ fn parse_bets_open(input: &str, date: f64) -> Option<WaifuMessage> {
 fn parse_bets_closed(input: &str, date: f64) -> Option<WaifuMessage> {
     thread_local! {
         static BETS_CLOSED_REGEX: regexp::RegExp = regexp::RegExp::new(
-            r"^Bets are locked\. (.+) \((-?[0-9,]+)\) - \$([0-9,]+), (.+) \((-?[0-9,]+)\) - \$([0-9,]+)$"
+            r"^Bets are locked\. (.+?)(?: \((-?[0-9,]+)\))? *- \$([0-9,]+), (.+?)(?: \((-?[0-9,]+)\))? *- \$([0-9,]+)$"
         );
     }
 
@@ -109,26 +103,19 @@ fn parse_bets_closed(input: &str, date: f64) -> Option<WaifuMessage> {
         date: date
     }))*/
 
-    BETS_CLOSED_REGEX.with(|re| re.first_match(input)).and_then(|mut captures|
-        captures[1].take().and_then(|left_name|
-        captures[2].as_ref().and_then(|x| parse_f64(x)).and_then(|left_win_streak|
-        captures[3].as_ref().and_then(|x| parse_f64(x)).and_then(|left_bet_amount|
-        captures[4].take().and_then(|right_name|
-        captures[5].as_ref().and_then(|x| parse_f64(x)).and_then(|right_win_streak|
-        captures[6].as_ref().and_then(|x| parse_f64(x)).map(|right_bet_amount|
-            WaifuMessage::BetsClosed(WaifuBetsClosed {
-                left: WaifuBetsClosedInfo {
-                    name: left_name,
-                    win_streak: left_win_streak,
-                    bet_amount: left_bet_amount,
-                },
-                right: WaifuBetsClosedInfo {
-                    name: right_name,
-                    win_streak: right_win_streak,
-                    bet_amount: right_bet_amount,
-                },
-                date: date
-            }))))))))
+    let mut captures = BETS_CLOSED_REGEX.with(|re| re.first_match(input))?;
+    let left_name = captures[1].take()?;
+    let left_win_streak = captures[2].as_ref().and_then(|x| parse_f64(x)).unwrap_or(0.0);
+    let left_bet_amount = captures[3].as_ref().and_then(|x| parse_f64(x))?;
+    let right_name = captures[4].take()?;
+    let right_win_streak = captures[5].as_ref().and_then(|x| parse_f64(x)).unwrap_or(0.0);
+    let right_bet_amount = captures[6].as_ref().and_then(|x| parse_f64(x))?;
+
+    Some(WaifuMessage::BetsClosed(WaifuBetsClosed {
+        left: WaifuBetsClosedInfo { name: left_name, win_streak: left_win_streak, bet_amount: left_bet_amount },
+        right: WaifuBetsClosedInfo { name: right_name, win_streak: right_win_streak, bet_amount: right_bet_amount },
+        date,
+    }))
 }
 
 
@@ -143,7 +130,7 @@ fn parse_side(input: &str) -> Option<Winner> {
 fn parse_winner(input: &str, date: f64) -> Option<WaifuMessage> {
     thread_local! {
         static WINNER_REGEX: regexp::RegExp = regexp::RegExp::new(
-            r"^(.+) wins! Payouts to Team (Red|Blue)\. "
+            r"^(.+) wins! Payouts to Team (Red|Blue)\.(?: |$)"
         );
     }
 
@@ -250,6 +237,24 @@ pub fn get_waifu_messages() -> Vec<WaifuMessage> {
         .collect()
 }
 
+fn get_added_waifu_messages(node: Node, date: f64) -> Vec<WaifuMessage> {
+    let element = match node.dyn_into::<Element>() {
+        Ok(element) => element,
+        Err(_) => return vec![],
+    };
+    let mut messages = vec![];
+    if element.get_attribute("data-a-target").as_deref() == Some("chat-line-message") {
+        if let Some(message) = get_waifu_message(element.clone().into(), date) {
+            messages.push(message);
+        }
+    }
+    messages.extend(
+        NodeListIter::new(element.query_selector_all("[data-a-target='chat-line-message']").unwrap())
+            .filter_map(|node| get_waifu_message(node, date)),
+    );
+    messages
+}
+
 
 #[wasm_bindgen(start)]
 pub fn main_js() {
@@ -258,64 +263,21 @@ pub fn main_js() {
 
     log!("Initializing...");
 
-    let port = ClientPort::connect("twitch_chat");
-
-    let mut debouncer = {
-        let port = port.clone();
-
-        Debouncer::new(move || {
-            // This will cause the SaltyBet tab to reload
-            port.send_message(&vec![WaifuMessage::ReloadPage]);
-
-            // 5 minutes
-            const RELOAD_DELAY: u32 = 1000 * 60 * 5;
-
-            // This is an extra precaution in case the SaltyBet tab doesn't reload
-            Timeout::new(RELOAD_DELAY, move || reload_page()).forget();
-        })
-    };
-
-    debouncer.reset(REFRESH_TIME);
-
     let observer = {
-        let port = port.clone();
-
         MutationObserver::new(move |records: Vec<MutationRecord>| {
             let now: f64 = Date::now();
 
-            let messages: Vec<WaifuMessage> = records.into_iter().filter_map(|record| {
+            let messages: Vec<WaifuMessage> = records.into_iter().flat_map(|record| {
                 assert_eq!(record.type_().as_str(), "childList");
+                NodeListIter::new(record.added_nodes())
+                    .flat_map(|node| get_added_waifu_messages(node, now))
+            }).collect();
 
-                let inserted_nodes = record.added_nodes();
-
-                if inserted_nodes.length() == 0 {
-                    None
-
-                } else {
-                    debouncer.reset(REFRESH_TIME);
-
-                    Some(
-                        NodeListIter::new(inserted_nodes)
-                            .filter_map(|x| get_waifu_message(x, now))
-                    )
-                }
-            }).flat_map(|x| x).collect();
-
-            if messages.len() != 0 {
-                port.send_message(&messages);
+            if !messages.is_empty() {
+                spawn(salty_bet_bot::api::twitch_events_send(messages));
             }
         })
     };
-
-    let observer = Rc::new(RefCell::new(Some(observer)));
-
-    {
-        let observer = observer.clone();
-
-        DiscardOnDrop::leak(port.on_disconnect(move || {
-            *observer.borrow_mut() = None;
-        }));
-    }
 
     /*wait_until_defined(|| query("body"), move |body| {
         js! { @(no_return)
@@ -325,15 +287,45 @@ pub fn main_js() {
         log!("Body hidden");
     });*/
 
-    wait_until_defined(|| query("[data-a-target='chat-welcome-message']"), move |welcome| {
-        if let Some(observer) = observer.borrow().as_ref() {
-            observer.observe(&welcome.parent_node().unwrap(), MutationObserverInit::new()
-                .child_list(true));
+    wait_until_defined(|| {
+        query("[data-a-target='chat-scrollable-area__message-container']")
+            .or_else(|| query("[data-a-target='chat-welcome-message']").and_then(|node| node.parent_element()))
+    }, move |container| {
+        let options = MutationObserverInit::new();
+        options.set_child_list(true);
+        options.set_subtree(true);
+        observer.observe(&container, &options);
 
-            log!("Observer initialized");
-
-        } else {
-            log!("Port disconnected");
-        }
+        DiscardOnDrop::leak(observer);
+        spawn(salty_bet_bot::api::twitch_events_send(get_waifu_messages()));
+        log!("Observer initialized and existing messages processed");
     });
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use wasm_bindgen_test::*;
+
+    wasm_bindgen_test_configure!(run_in_browser);
+
+    #[wasm_bindgen_test]
+    fn parses_current_match_messages() {
+        assert!(matches!(
+            parse_message("WAIFU4u: Bets are OPEN for Alpha vs Beta! (A / B Tier) (matchmaking) www.saltybet.com", 1.0),
+            Some(WaifuMessage::BetsOpen(_)),
+        ));
+        assert!(matches!(
+            parse_message("WAIFU4u: Bets are locked. Alpha- $723,823, Beta- $60,903", 2.0),
+            Some(WaifuMessage::BetsClosed(_)),
+        ));
+        assert!(matches!(
+            parse_message("WAIFU4u: Alpha wins! Payouts to Team Red.", 3.0),
+            Some(WaifuMessage::Winner(_)),
+        ));
+        assert!(matches!(
+            parse_message("WAIFU4u: Exhibitions will start shortly. Thanks for watching! wtfSALTY", 4.0),
+            Some(WaifuMessage::ModeSwitch { .. }),
+        ));
+    }
 }

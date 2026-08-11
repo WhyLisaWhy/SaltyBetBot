@@ -124,7 +124,7 @@ pub fn main_js() {
 
         static ref CLASS_HR: String = class! {
             .style("width", "100%")
-            .style("border", "none")
+            .style("border-width", "0px")
             .style("border-top", "1px solid gainsboro")
             .style("margin", "10px")
         };
@@ -219,7 +219,31 @@ pub fn main_js() {
 
                         html!("button", {
                             .class(&*CLASS_BUTTON)
-                            .text("Export")
+                            .text("Export personal records")
+                            .event(clone!(loading => move |_: events::Click| {
+                                spawn(clone!(loading => async move {
+                                    log!("Starting personal records export");
+
+                                    loading.show();
+
+                                    let records = time!("Getting personal records", { api::records_get_personal().await? });
+                                    let records = time!("Serializing records", { serialize_records(&records) });
+                                    let blob = time!("Converting into Blob", { str_to_blob(&records) });
+
+                                    time!("Downloading", {
+                                        let value = JsFuture::from(download(&format!("SaltyBet Personal Records ({}).json", current_date()), &blob)).await?;
+                                        assert!(value.is_undefined());
+                                    });
+
+                                    loading.hide();
+                                    Ok(())
+                                }));
+                            }))
+                        }),
+
+                        html!("button", {
+                            .class(&*CLASS_BUTTON)
+                            .text("Export all records")
                             .event(clone!(loading => move |_: events::Click| {
                                 spawn(clone!(loading => async move {
                                     log!("Starting export");
@@ -247,15 +271,15 @@ pub fn main_js() {
                         html!("button", {
                             .class(&*CLASS_BUTTON)
                             .class(&*CLASS_DELETE_BUTTON)
-                            .text("DELETE")
+                            .text("Clear personal records")
                             .event(clone!(loading => move |_: events::Click| {
-                                if confirm("This will PERMANENTLY delete ALL of the match records!\n\nYou should export the match records before doing this.\n\nAre you sure that you want to delete the match records?") {
+                                if confirm("This will permanently clear imported and newly collected personal records.\n\nThe bundled 458,292-match history will remain available.\n\nContinue?") {
                                     spawn(clone!(loading => async move {
-                                        log!("Starting deletion");
+                                        log!("Starting personal records clear");
 
                                         loading.show();
 
-                                        time!("Deleting all records", { api::records_delete_all().await? });
+                                        time!("Clearing personal records", { api::records_clear_personal().await? });
 
                                         loading.hide();
 

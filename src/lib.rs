@@ -1,17 +1,13 @@
-#![feature(is_sorted)]
-
-pub mod indexeddb;
 pub mod regexp;
 pub mod api;
 mod macros;
 
-use std::marker::PhantomData;
 use std::cmp::Ordering;
 use std::mem::ManuallyDrop;
 use std::pin::Pin;
 use std::task::{Poll, Context};
 use std::rc::Rc;
-use std::cell::{Cell, RefCell};
+use std::cell::RefCell;
 use std::future::Future;
 use serde::Serialize;
 use serde::de::DeserializeOwned;
@@ -30,32 +26,62 @@ use js_sys::{Error, Promise, Date, Function};
 use web_sys::{window, Window, Document, Node, Element, HtmlElement, HtmlInputElement, NodeList, FileReader, Blob, ProgressEvent};
 
 
-#[wasm_bindgen(inline_js = "
+#[wasm_bindgen(inline_js = r#"
     export function send_message_raw(message) {
         return new Promise(function (resolve, reject) {
-            chrome.runtime.sendMessage(null, message, null, function (x) {
+            chrome.runtime.sendMessage(null, JSON.parse(message), null, function (x) {
                 var error = chrome.runtime.lastError;
 
                 if (error != null) {
                     reject(new Error(error.message));
 
                 } else {
-                    resolve(x);
+                    resolve(JSON.stringify(x));
                 }
             });
         });
     }
 
-    export function chrome_on_message() {
-        return chrome.runtime.onMessage;
+    const runtimeEventListeners = new WeakMap();
+
+    export function chrome_runtime_events() {
+        return {
+            addListener(listener) {
+                const wrapped = function (message) {
+                    if (message && message.v === 1 && message.type === "runtime.event") {
+                        listener(JSON.stringify(message.payload));
+                    }
+                };
+                runtimeEventListeners.set(listener, wrapped);
+                chrome.runtime.onMessage.addListener(wrapped);
+            },
+            removeListener(listener) {
+                const wrapped = runtimeEventListeners.get(listener);
+                if (wrapped) {
+                    chrome.runtime.onMessage.removeListener(wrapped);
+                    runtimeEventListeners.delete(listener);
+                }
+            }
+        };
     }
 
-    export function chrome_on_connect() {
-        return chrome.runtime.onConnect;
+    export async function fetch_extension_text(url) {
+        const response = await fetch(chrome.runtime.getURL(url));
+        if (!response.ok) {
+            throw new Error(`Unable to load ${url}: HTTP ${response.status}`);
+        }
+        return await response.text();
     }
 
-    export function chrome_port_connect(name) {
-        return chrome.runtime.connect(null, { name: name });
+    export async function fetch_extension_gzip_text(url) {
+        const response = await fetch(chrome.runtime.getURL(url));
+        if (!response.ok) {
+            throw new Error(`Unable to load ${url}: HTTP ${response.status}`);
+        }
+        if (typeof DecompressionStream !== "function") {
+            throw new Error("This Chrome version does not support DecompressionStream");
+        }
+        return await new Response(response.body.pipeThrough(new DecompressionStream("gzip"))).text();
     }
 
     export function get_extension_url(url) {
@@ -64,17 +90,17 @@ use web_sys::{window, Window, Document, Node, Element, HtmlElement, HtmlInputEle
 
     // TODO add to js_sys
     export function format_float(f) {
-        return f.toLocaleString(\"en-US\", {
-            style: \"currency\",
-            currency: \"USD\",
+        return f.toLocaleString("en-US", {
+            style: "currency",
+            currency: "USD",
             minimumFractionDigits: 0
         });
     }
 
     // TODO add to js_sys
     export function decimal(f) {
-        return f.toLocaleString(\"en-US\", {
-            style: \"decimal\",
+        return f.toLocaleString("en-US", {
+            style: "decimal",
             maximumFractionDigits: 2
         });
     }
@@ -82,14 +108,15 @@ use web_sys::{window, Window, Document, Node, Element, HtmlElement, HtmlInputEle
     export function set_utc_date(date, days) {
         date.setUTCDate(days);
     }
-")]
+"#)]
 extern "C" {
     fn send_message_raw(message: &str) -> Promise;
 
-    fn chrome_on_message() -> Event;
-    fn chrome_on_connect() -> Event;
+    fn chrome_runtime_events() -> Event;
 
-    fn chrome_port_connect(name: &str) -> RawPort;
+    pub fn fetch_extension_text(url: &str) -> Promise;
+
+    pub fn fetch_extension_gzip_text(url: &str) -> Promise;
 
     pub fn get_extension_url(url: &str) -> String;
 
@@ -372,120 +399,39 @@ pub fn send_message<A, B>(message: &A) -> impl Future<Output = Result<B, JsValue
 }
 
 
-pub fn send_message_result<A, B>(message: &A) -> impl Future<Output = Result<B, JsValue>>
-    where A: Serialize,
-          Result<B, String>: DeserializeOwned {
-
-    let future = send_message(message);
-
-    async move {
-        let reply: Result<B, String> = future.await?;
-
-        // TODO don't convert to JsValue
-        reply.map_err(|e| Error::new(&e).into())
-    }
+pub struct RuntimeEvents<A> {
+    _listener: DiscardOnDrop<Listener<dyn FnMut(String)>>,
+    receiver: UnboundedReceiver<A>,
 }
 
+impl<A> Unpin for RuntimeEvents<A> {}
 
-pub struct Messages<A> {
-    // TODO use dyn FnMut(String, &JsValue, Function) -> bool
-    _listener: DiscardOnDrop<Listener<dyn FnMut(String, JsValue, Function) -> bool>>,
-    receiver: UnboundedReceiver<(String, Function)>,
-    _value: PhantomData<fn(String) -> A>,
-}
-
-impl<A> Unpin for Messages<A> {}
-
-impl<A> Stream for Messages<A> where A: DeserializeOwned {
-    type Item = Message<A>;
+impl<A> Stream for RuntimeEvents<A> {
+    type Item = A;
 
     #[inline]
     fn poll_next(mut self: Pin<&mut Self>, cx: &mut Context) -> Poll<Option<Self::Item>> {
-        self.receiver.poll_next_unpin(cx).map(|option| {
-            option.map(|(value, reply)| {
-                let value = serde_json::from_str(&value).unwrap();
-                Message { value, reply }
-            })
-        })
+        self.receiver.poll_next_unpin(cx)
     }
 }
 
+pub fn runtime_events<A>() -> RuntimeEvents<A>
+    where A: DeserializeOwned + 'static {
 
-#[derive(Debug)]
-pub struct Message<A> {
-    value: A,
-    reply: Function,
-}
+    let (sender, receiver) = unbounded();
 
-impl<A> Message<A> {
-    pub fn with<B, F>(self, f: F) -> impl Future<Output = ()>
-        where B: Future<Output = String>,
-              F: FnOnce(A) -> B {
-
-        let Message { value, reply } = self;
-
-        let fut = f(value);
-
-        async move {
-            let message = fut.await;
-
-            // TODO make this more efficient ?
-            match reply.call1(&JsValue::UNDEFINED, &JsValue::from(message)) {
+    RuntimeEvents {
+        _listener: Listener::new(chrome_runtime_events(), closure!(move |value: String| {
+            match serde_json::from_str(&value) {
                 Ok(value) => {
-                    assert!(value.is_undefined());
+                    let _ = sender.unbounded_send(value);
                 },
-                Err(e) => {
-                    let e: Error = e.dyn_into().unwrap();
-
-                    // TODO incredibly hacky, but needed because Chrome is stupid and gives errors that cannot be avoided
-                    if e.message() != "Attempting to use a disconnected port object" {
-                        wasm_bindgen::throw_val(e.into());
-                    }
+                Err(error) => {
+                    web_sys::console::error_1(&JsValue::from(format!("Invalid runtime event: {}", error)));
                 },
             }
-        }
-    }
-}
-
-
-pub fn messages<A>() -> Messages<A> where A: DeserializeOwned {
-    let (sender, receiver) = unbounded::<(String, Function)>();
-
-    Messages {
-        _listener: Listener::new(chrome_on_message(), closure!(move |value: String, _sender: JsValue, reply: Function| -> bool {
-            sender.unbounded_send((value, reply)).unwrap();
-            // TODO somehow only return true when needed ?
-            true
         })),
         receiver,
-        _value: PhantomData,
-    }
-}
-
-
-#[inline]
-pub fn serialize_result<A>(value: Result<A, JsValue>) -> Result<A, String> {
-    value.map_err(|err| {
-        web_sys::console::error_1(&err);
-
-        err.dyn_into::<Error>()
-            .unwrap()
-            .message()
-            .into()
-    })
-}
-
-#[macro_export]
-macro_rules! reply_result {
-    ($value:block) => {{
-        $crate::reply!({ $crate::serialize_result(try { $value }) })
-    }}
-}
-
-#[macro_export]
-macro_rules! reply {
-    ($value:block) => {
-        serde_json::to_string(&$value).unwrap()
     }
 }
 
@@ -688,7 +634,7 @@ macro_rules! closure {
         $crate::closure!(move || -> () $body)
     };
     (move |$($arg:ident: $type:ty),*| $body:block) => {
-        $crate::closure!(move |$($arg: $type),*| -> () $body);
+        $crate::closure!(move |$($arg: $type),*| -> () $body)
     };
 }
 
@@ -736,285 +682,6 @@ impl<A> Discard for Listener<A> where A: ?Sized {
     fn discard(self) {
         let closure = ManuallyDrop::into_inner(self.closure);
         self.event.remove_listener(closure.as_ref().unchecked_ref());
-    }
-}
-
-
-#[wasm_bindgen]
-extern "C" {
-    pub type Tab;
-}
-
-
-#[wasm_bindgen]
-extern "C" {
-    type Sender;
-
-    #[wasm_bindgen(method, getter)]
-    fn tab(this: &Sender) -> Option<Tab>;
-}
-
-
-#[wasm_bindgen]
-extern "C" {
-    #[derive(Debug)]
-    type RawPort;
-
-    #[wasm_bindgen(method, js_name = postMessage)]
-    fn post_message(this: &RawPort, message: &str);
-
-    #[wasm_bindgen(method, getter)]
-    fn name(this: &RawPort) -> String;
-
-    #[wasm_bindgen(method, getter)]
-    fn sender(this: &RawPort) -> Sender;
-
-    #[wasm_bindgen(method)]
-    fn disconnect(this: &RawPort);
-
-    #[wasm_bindgen(method, getter, js_name = onMessage)]
-    fn on_message(this: &RawPort) -> Event;
-
-    #[wasm_bindgen(method, getter, js_name = onDisconnect)]
-    fn on_disconnect(this: &RawPort) -> Event;
-}
-
-
-#[derive(Debug)]
-struct PortState {
-    port: RawPort,
-    // TODO figure out a way to get rid of this second Rc
-    disconnected: Rc<Cell<bool>>,
-    listener: DiscardOnDrop<Listener<dyn FnMut()>>,
-}
-
-impl PortState {
-    fn new(port: RawPort) -> Self {
-        let disconnected = Rc::new(Cell::new(false));
-
-        let listener = {
-            let disconnected = disconnected.clone();
-
-            // TODO cleanup the Listener when the closure is called ?
-            Listener::new(port.on_disconnect(), Closure::once(move || {
-                disconnected.set(true);
-            }))
-        };
-
-        Self {
-            port,
-            disconnected,
-            listener,
-        }
-    }
-
-    // TODO trigger existing onDisconnect listeners
-    fn disconnect(&self) {
-        self.disconnected.set(true);
-        self.port.disconnect();
-    }
-}
-
-
-pub struct PortOnDisconnect {
-    listener: Option<Listener<dyn FnMut()>>,
-}
-
-impl Discard for PortOnDisconnect {
-    fn discard(self) {
-        if let Some(listener) = self.listener {
-            listener.discard();
-        }
-    }
-}
-
-
-pub struct PortOnMessage {
-    on_disconnect: PortOnDisconnect,
-}
-
-impl Discard for PortOnMessage {
-    fn discard(self) {
-        self.on_disconnect.discard();
-    }
-}
-
-
-#[derive(Clone, Debug)]
-pub struct Port {
-    state: Rc<PortState>,
-}
-
-impl Port {
-    fn new(port: RawPort) -> Self {
-        Self {
-            state: Rc::new(PortState::new(port)),
-        }
-    }
-
-    #[inline]
-    pub fn disconnect(&self) {
-        self.state.disconnect();
-    }
-
-    // TODO lazy initialization ?
-    // TODO verify that dropping/cleanup/disconnect is handled correctly
-    pub fn messages<A>(&self) -> impl Stream<Item = A> where A: DeserializeOwned + 'static {
-        struct PortMessages<A> {
-            receiver: UnboundedReceiver<A>,
-            _listener: DiscardOnDrop<PortOnMessage>,
-        }
-
-        impl<A> Stream for PortMessages<A> {
-            type Item = A;
-
-            #[inline]
-            fn poll_next(mut self: Pin<&mut Self>, cx: &mut Context) -> Poll<Option<Self::Item>> {
-                self.receiver.poll_next_unpin(cx)
-            }
-        }
-
-        let (sender, receiver) = unbounded();
-
-        PortMessages {
-            receiver,
-            _listener: self.on_message(move |message| {
-                sender.unbounded_send(message).unwrap();
-            }),
-        }
-    }
-
-    #[inline]
-    pub fn on_message<A, F>(&self, mut f: F) -> DiscardOnDrop<PortOnMessage>
-        where A: DeserializeOwned,
-              F: FnMut(A) + 'static {
-
-        // TODO error checking
-        // TODO use |message: &str, _port: &JsValue|
-        let on_message = Listener::new(self.state.port.on_message(), closure!(move |message: String, _port: JsValue| {
-            f(serde_json::from_str(&message).unwrap());
-        }));
-
-        DiscardOnDrop::new(PortOnMessage {
-            // TODO reconnect when it is disconnected ?
-            on_disconnect: DiscardOnDrop::leak(self.on_disconnect(move || {
-                drop(on_message);
-            })),
-        })
-    }
-
-    #[inline]
-    pub fn on_disconnect<A>(&self, f: A) -> DiscardOnDrop<PortOnDisconnect>
-        where A: FnOnce() + 'static {
-
-        if self.state.disconnected.get() {
-            f();
-
-            DiscardOnDrop::new(PortOnDisconnect {
-                listener: None,
-            })
-
-        } else {
-            // TODO cleanup the Listener when the closure is called ?
-            // TODO error checking
-            DiscardOnDrop::new(PortOnDisconnect {
-                listener: Some(DiscardOnDrop::leak(Listener::new(self.state.port.on_disconnect(), Closure::once(f)))),
-            })
-        }
-    }
-
-    // TODO return whether the message was sent or not ?
-    #[inline]
-    fn send_message_raw(&self, message: &str) {
-        if !self.state.disconnected.get() {
-            // TODO use try/catch to catch errors ?
-            self.state.port.post_message(message);
-        }
-    }
-
-    #[inline]
-    pub fn send_message<A>(&self, message: &A) where A: Serialize {
-        self.send_message_raw(&serde_json::to_string(message).unwrap());
-    }
-}
-
-impl PartialEq for Port {
-    #[inline]
-    fn eq(&self, other: &Self) -> bool {
-        Rc::ptr_eq(&self.state, &other.state)
-    }
-}
-
-impl Eq for Port {}
-
-
-pub struct ServerPortOnConnect {
-    listener: Listener<dyn FnMut(RawPort)>,
-}
-
-impl Discard for ServerPortOnConnect {
-    fn discard(self) {
-        self.listener.discard();
-    }
-}
-
-
-#[derive(Clone, Debug, PartialEq, Eq)]
-pub struct ServerPort(Port);
-
-impl ServerPort {
-    // TODO maybe return Option<String> ?
-    #[inline]
-    pub fn name(&self) -> String {
-        self.0.state.port.name()
-    }
-
-    // TODO make new MessageSender type ?
-    #[inline]
-    pub fn tab(&self) -> Option<Tab> {
-        self.0.state.port.sender().tab()
-    }
-
-    #[inline]
-    pub fn on_connect<F>(mut f: F) -> DiscardOnDrop<ServerPortOnConnect> where F: FnMut(Self) + 'static {
-        let listener = Listener::new(chrome_on_connect(), closure!(move |port: RawPort| {
-            f(ServerPort(Port::new(port)));
-        }));
-
-        DiscardOnDrop::new(ServerPortOnConnect {
-            listener: DiscardOnDrop::leak(listener),
-        })
-    }
-}
-
-impl std::ops::Deref for ServerPort {
-    type Target = Port;
-
-    #[inline]
-    fn deref(&self) -> &Self::Target {
-        &self.0
-    }
-}
-
-
-#[derive(Clone, Debug, PartialEq, Eq)]
-pub struct ClientPort(Port);
-
-impl ClientPort {
-    // TODO return DiscardOnDrop<Self> which calls self.disconnect()
-    #[inline]
-    pub fn connect(name: &str) -> Self {
-        // TODO error checking
-        ClientPort(Port::new(chrome_port_connect(name)))
-    }
-}
-
-impl std::ops::Deref for ClientPort {
-    type Target = Port;
-
-    #[inline]
-    fn deref(&self) -> &Self::Target {
-        &self.0
     }
 }
 

@@ -698,13 +698,21 @@ impl Statistics {
             }
         }
 
+        let average = |total: f64| {
+            if matches_len > 0.0 {
+                total / matches_len
+            } else {
+                0.0
+            }
+        };
+
         Self {
-            average_odds: average_odds / matches_len,
-            odds_gain: odds_gain / matches_len,
-            odds_loss: odds_loss / matches_len,
-            average_bet: average_bet / matches_len,
-            wins: wins / matches_len,
-            upsets: upsets / matches_len,
+            average_odds: average(average_odds),
+            odds_gain: average(odds_gain),
+            odds_loss: average(odds_loss),
+            average_bet: average(average_bet),
+            wins: average(wins),
+            upsets: average(upsets),
             number_of_characters: number_of_characters,
             max_odds_loss: max_odds_loss,
             max_odds_gain: max_odds_gain,
@@ -1107,7 +1115,14 @@ fn display_records(records: Vec<Record>, loading: Loading) -> Dom {
 
                     //let len = information.record_information.len();
 
-                    let y = (statistics.max_gain / (statistics.max_gain + statistics.max_loss)) * 100.0;
+                    let total_profit_range = statistics.max_gain + statistics.max_loss;
+                    let y = if total_profit_range.is_finite() && total_profit_range > 0.0 {
+                        (statistics.max_gain / total_profit_range) * 100.0
+                    } else {
+                        // A fresh observe-only install can have a current record without a
+                        // meaningful wager range yet. Keep the empty gain/loss axis finite.
+                        50.0
+                    };
                     //let y = (statistics.max_odds_gain / (statistics.max_odds_gain + statistics.max_odds_loss)) * 100.0;
 
                     let mut first = true;

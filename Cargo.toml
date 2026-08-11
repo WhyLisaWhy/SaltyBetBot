@@ -21,7 +21,7 @@ futures-util = "0.3.0"
 futures-channel = "0.3.0"
 discard = "1.0.0"
 gloo-timers = "0.2.0"
-wasm-bindgen = { version = "0.2.56", features = ["nightly"] }
+wasm-bindgen = "0.2"
 wasm-bindgen-futures = "0.4.5"
 js-sys = "0.3.33"
 
@@ -36,18 +36,6 @@ features = [
     "FileReader",
     "HtmlElement",
     "HtmlInputElement",
-    "IdbCursor",
-    "IdbCursorWithValue",
-    "IdbDatabase",
-    "IdbFactory",
-    "IdbKeyRange",
-    "IdbObjectStore",
-    "IdbObjectStoreParameters",
-    "IdbOpenDbRequest",
-    "IdbRequest",
-    "IdbTransaction",
-    "IdbTransactionMode",
-    "IdbVersionChangeEvent",
     "Location",
     "MutationObserver",
     "MutationObserverInit",
@@ -62,7 +50,6 @@ features = [
 [workspace]
 members = [
     "bin/process-records",
-    "src/background",
     "src/chart",
     "src/popup",
     "src/records",

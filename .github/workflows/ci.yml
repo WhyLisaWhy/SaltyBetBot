@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - uses: dtolnay/rust-toolchain@1.97.1
+        with:
+          targets: wasm32-unknown-unknown
+
+      - uses: Swatinem/rust-cache@v2
+
+      - name: Install dependencies
+        run: |
+          npm ci
+          cargo install wasm-pack --version 0.15.0 --locked
+          npx playwright install --with-deps chromium
+
+      - name: Unit and parser tests
+        run: |
+          npm test
+          npm run test:parser
+
+      - name: Build and verify unpacked extension
+        run: |
+          npm run build
+          node scripts/verify-build.mjs
+
+      - name: Chromium extension smoke test
+        run: xvfb-run --auto-servernum npm run test:browser
