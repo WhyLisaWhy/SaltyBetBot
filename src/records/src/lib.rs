@@ -224,7 +224,7 @@ fn display_records(records: Vec<Record>) -> Dom {
         };
 
         static ref CLASS_HEADER: String = class! {
-            .style("border-top", "none")
+            .style("border-top-width", "0px")
             .style("position", "sticky")
             .style("top", "0px")
 

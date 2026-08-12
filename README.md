@@ -1,93 +1,135 @@
-FAQ
-===
+# Salty Bet Bot
 
-* **Q**: Why does the bot bet so low? It's only betting $4,100!
+Salty Bet Bot is a private, unpacked Chrome extension that analyzes SaltyBet matches, displays the original strategy's recommendations, records completed matches, and provides chart and records viewers.
 
-   **A**: The bot tries to win upsets, which means that ~87% of the time it will lose. But when it wins, it wins big. This is the optimal way of betting (as proven by years of analysis).
+This branch restores the 2021 extension on Manifest V3. It preserves the existing betting formulas and bundled 458,292-match baseline while replacing the obsolete persistent background page with a restart-safe service worker.
 
-   However, because it is losing so often, if it bet a large amount then it would be very volatile and it would quickly run out of money. So it bets a small amount so that way it will slowly and steadily gain money over time.
+## Safety default
 
-   As you gain more money, it will slowly increase the bet amount, until it reaches a maximum of $32,000 per bet.
+The extension always installs in **Observe only** mode. In this mode it may calculate predictions and collect records, but it cannot click a betting button.
 
-   In addition, if the match outcome is uncertain, then it will bet low, in order to prevent losing too much money.
+Automatic betting requires both of these conditions:
 
-* **Q**: Why does the bot bet so much money? I keep losing all my money!
+1. The persistent **Enable automatic betting** setting is explicitly turned on and confirmed in the popup.
+2. The SaltyBet tab is the designated controller tab.
 
-   **A**: When your money is low, it is better to bet high. That's because even if you lose everything, you're close to bailout. As you gain more money, the bot will automatically bet less.
+Do not enable automation until several complete live match cycles have produced sensible predictions and new personal records without errors.
 
-* **Q**: Why does the bot only bet $1 in exhibitions?
+## Build
 
-   **A**: It's not possible for bots to bet in exhibitions, because there just isn't enough information (the SaltyBet website does not tell the character names or the palettes, it only tells the team names).
+Requirements:
 
-   So as a compromise, it bets $1 in order to gain exp, since that's the best it can do.
+- Node.js 22.22.3 (pinned in `.nvmrc`)
+- Rust 1.97.1 (pinned in `rust-toolchain.toml`)
+- `wasm-pack` 0.15.0
 
-* **Q**: Why does the bot go all-in in tournaments?
+One-time setup:
 
-   **A**: During tournaments you get a separate money pool. Even if you lose all of your tournament money, you will not lose any of your matchmaking money. It is impossible to lose money in tournaments, you can only gain money. So the optimal strategy in tournaments is to all-in, because you have nothing to lose.
-
-* **Q**: Help! The bot stopped betting!
-
-   **A**: [A recent change in Chrome](https://developer.chrome.com/blog/timer-throttling-in-chrome-88/) causes the bot to break if the SaltyBet tab isn't active. You can  fix this by keeping the SaltyBet tab active, ***or*** you can go to `chrome://flags` and then disable "Throttle Javascript timers in background".
-
-How to use
-==========
-
-Disclaimer: I accept no responsibility if you lose salt from running this bot.
-
-Before you install this extension, make sure that you have [Git](https://git-scm.com/downloads) installed.
-
-1. In a console, do `git clone https://github.com/Pauan/SaltyBetBot.git SaltyBetBot-master`
-
-2. In Chrome, go to the [`chrome://extensions/`](chrome://extensions/) URL.
-
-3. Make sure that "Developer mode" is turned on (it's in the upper-right corner).
-
-4. Click on the "Load unpacked" button, then go into the `SaltyBetBot-master` folder which you created in step 1, then select the `static` folder and click OK.
-
-5. If everything was done correctly, the extension should now be loaded in Chrome, congratulations!
-
-6. You can now go to [saltybet.com](http://saltybet.com/) and it will start to bet automatically.
-
-How to upgrade
-==============
-
-1. Make sure that all of the SaltyBet tabs are closed.
-
-2. Click on the square "S" button in the upper-right corner, and then Export your match records (just in case something goes wrong with the upgrade process).
-
-3. In a console, go into the `SaltyBetBot-master` folder and then do `git pull`.
-
-4. In Chrome, go to the [`chrome://extensions/`](chrome://extensions/) URL.
-
-5. Find "Salty Bet Bot" in the extensions list, and then click the reload button (it looks like a circular arrow).
-
-6. Re-open the [saltybet.com](http://saltybet.com/) website.
-
-How to build (for programmers only)
-===================================
-
-You will need to install [Rust](https://www.rust-lang.org/en-US/install.html), [Node.js](https://nodejs.org/en/download/), and [Yarn](https://yarnpkg.com/en/docs/install#windows-stable).
-
-If you are on Windows, then you also need to install the [Visual Studio build tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) (make sure to enable the "C++ build tools" option).
-
-Then run these commands to setup things:
-
-```
-rustup install nightly
-rustup override set nightly
-yarn
+```sh
+rustup target add wasm32-unknown-unknown
+cargo install wasm-pack --version 0.15.0 --locked
+npm ci
 ```
 
-You only need to run the above commands one time.
+Create the unpacked extension:
 
-Now you can run this command to build the project:
-
-```
-yarn build
+```sh
+npm run build
 ```
 
-You need to re-run the above command whenever you make any changes.
+The only directory Chrome should load is:
 
-Lastly, you can load the `static` folder into Chrome as usual.
+```text
+dist/extension
+```
 
-Whenever you rebuild you need to reload the extension in Chrome (using the circular arrow).
+The build verifies and compresses the seven immutable baseline chunks. The resulting extension is about 27 MB instead of the roughly 260 MB source history.
+
+## Install in Chrome
+
+1. Open `chrome://extensions`.
+2. Turn on **Developer mode**.
+3. Choose **Load unpacked**.
+4. Select this repository's `dist/extension` directory.
+5. Open SaltyBet and confirm the blue **Observe only — no bets will be placed** status appears.
+
+Chrome assigns an extension ID when the directory is loaded. Rebuilding in place and choosing **Reload** on the extension card preserves local settings and personal records.
+
+## Observe-only validation
+
+Before enabling automation, watch several complete matchmaking cycles and verify:
+
+- The overlay changes from loading to **Observe only**.
+- Open, locked, winner, and mode-switch chat messages are recognized.
+- Recommendations appear for the fighters shown on SaltyBet.
+- No betting button is clicked and the wager is not submitted.
+- The records page gains one personal record per eligible completed match, without duplicates.
+- The extension keeps tracking when the SaltyBet tab is in the background.
+- Closing and reopening Chrome preserves personal records and the automation setting.
+
+If multiple SaltyBet tabs are open, the first valid tab becomes the controller and the others show **Standby**. Open the extension popup from the tab you want and choose **Use this SaltyBet tab** to transfer control. The extension never closes user tabs.
+
+## Enable or disable automation
+
+1. Open the extension popup while the intended SaltyBet tab is active.
+2. Choose **Use this SaltyBet tab**.
+3. Turn on **Enable automatic betting**.
+4. Read and accept the confirmation prompt.
+
+The change takes effect on the next complete eligible match; it will not place a late wager on a match already processed in observe mode.
+
+Turn the switch off at any time to return immediately to observe-only operation. The setting persists across Chrome restarts.
+
+## Records and backups
+
+The bundled 458,292-match history is immutable and cannot be deleted from the UI. Newly collected and imported records are stored separately in IndexedDB as personal records.
+
+Popup actions:
+
+- **Import** accepts legacy JSON exports and adds only records that are not duplicates of bundled or existing personal history.
+- **Export personal records** creates a compact backup of imports and newly collected history.
+- **Export all records** combines bundled and personal history in chronological order.
+- **Clear personal records** removes only personal history; the bundled baseline remains available.
+
+Back up personal records before replacing the repository directory or Chrome profile.
+
+## Update
+
+1. Export personal records as a precaution.
+2. Pull or apply the new source changes.
+3. Run `npm ci` if dependencies changed.
+4. Run `npm run build`.
+5. Open `chrome://extensions` and choose **Reload** on Salty Bet Bot.
+6. Reload open SaltyBet tabs and confirm the expected mode badge.
+
+Never load the repository root or the old `static` source directory. `dist/extension` is the reproducible install target.
+
+## Tests
+
+```sh
+npm test
+npm run test:parser
+npm run build
+node scripts/verify-build.mjs
+npm run test:browser
+```
+
+The browser harness launches a clean Chromium profile with mocked SaltyBet and Twitch pages, confirms current WAIFU4u parsing, renders the popup, chart, and records pages, and asserts that observe-only mode performs zero betting-button clicks. Install its browser once with:
+
+```sh
+npx playwright install chromium
+```
+
+## Troubleshooting
+
+- **Extension will not load:** confirm Chrome is pointed at `dist/extension`, then inspect the extension card for a manifest or service-worker error.
+- **Status remains Loading history:** open the SaltyBet tab console and check for a missing record chunk, decompression, WASM, or memory error.
+- **Chat stale:** the service worker will mark the state and reload only the controller SaltyBet tab after a prolonged missing heartbeat. It never closes the tab.
+- **Standby:** another valid SaltyBet tab owns control. Transfer it from the popup.
+- **No recommendations:** verify the Twitch chat iframe is visible and WAIFU4u is posting match events; then reload the controller tab.
+- **Records do not appear:** keep automation off, complete a full matchmaking cycle, and inspect the service worker under `chrome://extensions`.
+- **Unexpected behavior:** disable automation first, export personal records, then capture the SaltyBet console and extension service-worker errors.
+
+## Strategy notes
+
+The restoration does not retrain or alter the original formulas and constants. Matchmaking intentionally favors selected upset opportunities and scales wager size with balance and confidence. Tournaments use their separate balance, while exhibitions retain the original nominal recommendation. Recommendations are not a guarantee of virtual-salt gains.
