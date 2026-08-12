@@ -1,0 +1,63 @@
+{
+  "manifest_version": 3,
+  "name": "Salty Bet Bot",
+  "description": "Analyzes Salty Bet matches and can automatically place virtual bets when explicitly enabled.",
+  "version": "2.0.0",
+  "permissions": [
+    "alarms",
+    "downloads",
+    "storage",
+    "tabs",
+    "unlimitedStorage"
+  ],
+  "background": {
+    "service_worker": "service-worker.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Salty Bet Bot"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://saltybet.com/*",
+        "*://www.saltybet.com/*",
+        "*://mugen.saltybet.com/*",
+        "*://live.saltybet.com/*"
+      ],
+      "js": ["loaders/saltybet.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    },
+    {
+      "matches": ["*://*.twitch.tv/embed/saltybet/chat*"],
+      "js": ["loaders/twitch-chat.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "entries/saltybet.js",
+        "js/saltybet/*",
+        "records/*",
+        "icons/*"
+      ],
+      "matches": [
+        "*://saltybet.com/*",
+        "*://www.saltybet.com/*",
+        "*://mugen.saltybet.com/*",
+        "*://live.saltybet.com/*"
+      ]
+    },
+    {
+      "resources": ["entries/twitch-chat.js", "js/twitch_chat/*"],
+      "matches": ["*://*.twitch.tv/*"]
+    }
+  ]
+}

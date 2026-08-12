@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "totalCount": 458292,
+  "chunks": [
+    {
+      "file": "records-0.json.gz",
+      "count": 75000,
+      "firstDate": 1520559054253,
+      "lastDate": 1537298914338,
+      "sha256": "6063b1cf7ed6ba2800bc477c05d19f02eef8df2aa32a012924afbea8ad753eae"
+    },
+    {
+      "file": "records-1.json.gz",
+      "count": 75000,
+      "firstDate": 1537299109335,
+      "lastDate": 1554475177638,
+      "sha256": "d4644adf8622a2031783fc5b83527a4766b3215ef1a9c4d4d699bebb13bd2fbd"
+    },
+    {
+      "file": "records-2.json.gz",
+      "count": 75000,
+      "firstDate": 1554475339638,
+      "lastDate": 1570043205111,
+      "sha256": "ece60a39ed932ced8be4ce989e0eac8eaf2e67c9f2cac5b61c925bab3565501a"
+    },
+    {
+      "file": "records-3.json.gz",
+      "count": 75000,
+      "firstDate": 1570043411112,
+      "lastDate": 1586011144703,
+      "sha256": "442d9a6ab65253db27ff1717df35c0f3b64c4f52a4da7cc42d08397f2513802b"
+    },
+    {
+      "file": "records-4.json.gz",
+      "count": 75000,
+      "firstDate": 1586011244703,
+      "lastDate": 1601966977938,
+      "sha256": "0726bd4c1e8b4e14017bda7a5429af9a985009a86344a0cae4325fd47c3a3602"
+    },
+    {
+      "file": "records-5.json.gz",
+      "count": 75000,
+      "firstDate": 1601967121938,
+      "lastDate": 1618951619500,
+      "sha256": "7be9fc89b3bef576fe994f590dedb217fa13744d757a76349a687453b7ef28e3"
+    },
+    {
+      "file": "records-6.json.gz",
+      "count": 8292,
+      "firstDate": 1618951799505,
+      "lastDate": 1621966272144,
+      "sha256": "b49bb1128da2637406c06cf63e782294a07693bde83f4b9803d4201d33ca4406"
+    }
+  ]
+}
