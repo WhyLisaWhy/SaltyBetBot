@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily SaltyBetBot personal-record GitHub backup
+
+[Timer]
+OnCalendar=*-*-* 04:15:00 America/New_York
+Persistent=true
+RandomizedDelaySec=10m
+Unit=saltybet-records-backup.service
+
+[Install]
+WantedBy=timers.target

@@ -245,6 +245,12 @@ try {
     if (personalCount !== 1) await new Promise((resolve) => setTimeout(resolve, 100));
   }
   assert.equal(personalCount, 1, "A complete observe-only cycle should create exactly one record");
+  const backupResponse = await popup.evaluate(() =>
+    chrome.runtime.sendMessage({ v: 1, type: "records.backup_personal", payload: {} }),
+  );
+  assert.equal(backupResponse?.ok, true, `Personal-record backup failed: ${JSON.stringify(backupResponse)}`);
+  assert.equal(backupResponse.data.recordCount, 1);
+  assert.equal(backupResponse.data.status, "download_started");
   assert.equal(await activeSaltyPage.evaluate(() => window.__saltyBetBotClicks), 0);
   assert.equal(await saltyPage.evaluate(() => window.__saltyBetBotClicks), 0);
 

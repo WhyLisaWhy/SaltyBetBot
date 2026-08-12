@@ -92,7 +92,11 @@ Popup actions:
 - **Export all records** combines bundled and personal history in chronological order.
 - **Clear personal records** removes only personal history; the bundled baseline remains available.
 
-Back up personal records before replacing the repository directory or Chrome profile.
+The service worker also refreshes `Downloads/SaltyBetBot Backups/personal-records-latest.json` every 12 hours while Chrome is running. It never replaces the last good export with an empty database.
+
+The project's collector VM validates that export every day and publishes the latest copy and metadata under [`community-records`](community-records/). Invalid, out-of-order, or regressed exports are rejected before Git is changed. These files are public and include the collector's historical virtual wager and balance fields.
+
+Back up personal records before replacing the repository directory or Chrome profile. The automated copy protects the collector VM, but other installations should configure their own off-device destination.
 
 ## Update
 

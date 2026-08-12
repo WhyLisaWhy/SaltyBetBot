@@ -1,0 +1,44 @@
+name: Publish community records
+
+on:
+  push:
+    branches:
+      - automation/personal-records-backup
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: publish-community-records
+  cancel-in-progress: false
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open pull request and enable verified auto-merge
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          HEAD_BRANCH: automation/personal-records-backup
+          BASE_BRANCH: master
+        run: |
+          pr_url=$(gh pr list \
+            --repo "$REPOSITORY" \
+            --head "$HEAD_BRANCH" \
+            --base "$BASE_BRANCH" \
+            --state open \
+            --json url \
+            --jq '.[0].url // empty')
+
+          if [[ -z "$pr_url" ]]; then
+            pr_url=$(gh pr create \
+              --repo "$REPOSITORY" \
+              --head "$HEAD_BRANCH" \
+              --base "$BASE_BRANCH" \
+              --title "Update community personal match records" \
+              --body "Automated, validated personal-record backup from the SaltyBetBot collector VM. Empty, malformed, out-of-order, and regressed exports are rejected before this branch is pushed.")
+          fi
+
+          gh pr merge --repo "$REPOSITORY" --auto --merge "$pr_url"
