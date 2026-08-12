@@ -2,6 +2,7 @@ import { beforeEach, describe, expect, it } from "vitest";
 import { IDBFactory, IDBKeyRange } from "fake-indexeddb";
 import {
   CHAT_STALE_AFTER_MS,
+  PERSONAL_RECORDS_BACKUP_FILENAME,
   createServiceWorker,
 } from "../extension/service-worker-core.js";
 
@@ -39,6 +40,7 @@ function chromeMock() {
   ]);
   const sent = [];
   const reloaded = [];
+  const downloads = [];
   const chromeApi = {
     runtime: { onInstalled: eventTarget(), onStartup: eventTarget(), onMessage: eventTarget() },
     alarms: {
@@ -46,6 +48,15 @@ function chromeMock() {
       onAlarm: eventTarget(),
       async create(name, options) {
         this.created.push({ name, options });
+      },
+      async get(name) {
+        return this.created.find((alarm) => alarm.name === name);
+      },
+    },
+    downloads: {
+      async download(options) {
+        downloads.push(options);
+        return 99;
       },
     },
     storage: {
@@ -70,7 +81,7 @@ function chromeMock() {
       },
     },
   };
-  return { chromeApi, reloaded, sent, tabs };
+  return { chromeApi, downloads, reloaded, sent, tabs };
 }
 
 function record(date, left = `Left ${date}`, right = `Right ${date}`) {
@@ -147,6 +158,40 @@ describe("Manifest V3 service worker core", () => {
     );
     expect(status.isController).toBe(true);
     expect(await restarted.personalRecordCount()).toBe(1);
+  });
+
+  it("exports a validated, overwrite-in-place personal-record backup", async () => {
+    await worker.insertRecords({ records: [record(30), record(10)] });
+
+    const result = await worker.backupPersonalRecords();
+
+    expect(result).toEqual({
+      status: "download_started",
+      downloadId: 99,
+      recordCount: 2,
+      firstDate: 10,
+      lastDate: 30,
+      generatedAt: 10_000_000,
+    });
+    expect(mock.downloads).toHaveLength(1);
+    expect(mock.downloads[0]).toEqual(
+      expect.objectContaining({
+        filename: PERSONAL_RECORDS_BACKUP_FILENAME,
+        conflictAction: "overwrite",
+        saveAs: false,
+      }),
+    );
+    const json = decodeURIComponent(mock.downloads[0].url.split(",", 2)[1]);
+    expect(JSON.parse(json).map(({ date }) => date)).toEqual([10, 30]);
+  });
+
+  it("never overwrites the last good backup with an empty database", async () => {
+    expect(await worker.backupPersonalRecords()).toEqual({
+      status: "skipped_empty",
+      recordCount: 0,
+      generatedAt: 10_000_000,
+    });
+    expect(mock.downloads).toHaveLength(0);
   });
 
   it("routes each tab's Twitch events while granting betting control to only one tab", async () => {

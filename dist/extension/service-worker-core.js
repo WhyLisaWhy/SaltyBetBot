@@ -4,7 +4,11 @@ export const DATABASE_VERSION = 2;
 export const PERSONAL_RECORDS_STORE = "personal_records";
 export const PERSONAL_RECORDS_INDEX = "date_key";
 export const HEALTH_ALARM = "saltybot-health";
+export const PERSONAL_RECORDS_BACKUP_ALARM = "saltybot-personal-records-backup";
 export const CHAT_STALE_AFTER_MS = 20 * 60 * 1000;
+export const PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES = 12 * 60;
+export const PERSONAL_RECORDS_BACKUP_FILENAME =
+  "SaltyBetBot Backups/personal-records-latest.json";
 
 export const SALTYBET_PATTERNS = [
   "*://saltybet.com/*",
@@ -144,6 +148,13 @@ export function createServiceWorker({
       automationEnabled: current.automationEnabled === true,
     });
     await chromeApi.alarms.create(HEALTH_ALARM, { periodInMinutes: 5 });
+    if (!(await chromeApi.alarms.get(PERSONAL_RECORDS_BACKUP_ALARM))) {
+      await chromeApi.alarms.create(PERSONAL_RECORDS_BACKUP_ALARM, {
+        delayInMinutes: 1,
+        periodInMinutes: PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES,
+        persistAcrossSessions: true,
+      });
+    }
   }
 
   async function currentControllerId() {
@@ -350,6 +361,52 @@ export function createServiceWorker({
     return count;
   }
 
+  async function getAllPersonalRecords() {
+    const records = [];
+    let afterCursor = null;
+
+    do {
+      const page = await recordsPage({ limit: 5000, afterCursor });
+      records.push(...page.records);
+      afterCursor = page.nextCursor;
+    } while (afterCursor !== null);
+
+    return records;
+  }
+
+  async function backupPersonalRecords() {
+    const records = await getAllPersonalRecords();
+    const timestamp = now();
+
+    if (records.length === 0) {
+      const result = {
+        status: "skipped_empty",
+        recordCount: 0,
+        generatedAt: timestamp,
+      };
+      await chromeApi.storage.local.set({ personalRecordsBackup: result });
+      return result;
+    }
+
+    const contents = `${JSON.stringify(records, null, 2)}\n`;
+    const downloadId = await chromeApi.downloads.download({
+      url: `data:application/json;charset=utf-8,${encodeURIComponent(contents)}`,
+      filename: PERSONAL_RECORDS_BACKUP_FILENAME,
+      conflictAction: "overwrite",
+      saveAs: false,
+    });
+    const result = {
+      status: "download_started",
+      downloadId,
+      recordCount: records.length,
+      firstDate: records[0].date,
+      lastDate: records.at(-1).date,
+      generatedAt: timestamp,
+    };
+    await chromeApi.storage.local.set({ personalRecordsBackup: result });
+    return result;
+  }
+
   async function health() {
     const [settings, controllerTabId, session, personalRecords] = await Promise.all([
       getSettings(),
@@ -420,6 +477,8 @@ export function createServiceWorker({
         return clearPersonalRecords();
       case "records.count_personal":
         return { count: await personalRecordCount() };
+      case "records.backup_personal":
+        return backupPersonalRecords();
       case "health.get":
         return health();
       case "log":
@@ -466,6 +525,9 @@ export function createServiceWorker({
     });
     chromeApi.alarms.onAlarm.addListener((alarm) => {
       if (alarm.name === HEALTH_ALARM) recoverStaleChat().catch(console.error);
+      if (alarm.name === PERSONAL_RECORDS_BACKUP_ALARM) {
+        backupPersonalRecords().catch(console.error);
+      }
     });
     chromeApi.storage.onChanged.addListener((changes, areaName) => {
       if (areaName === "local" && changes.automationEnabled) {
@@ -478,6 +540,7 @@ export function createServiceWorker({
 
   return {
     assignController,
+    backupPersonalRecords,
     broadcastControllerStatus,
     clearPersonalRecords,
     getSettings,
