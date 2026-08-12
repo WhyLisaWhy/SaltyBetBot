@@ -140,8 +140,6 @@ fn on_change(state: &Rc<RefCell<State>>) {
                     },
                 };
 
-                state.update_info_container(&open.mode, &open.tier, &open.left, &open.right, open.date);
-
                 if !state.is_controller || !state.automation_enabled {
                     return Some(());
                 }
@@ -386,6 +384,15 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
                     state.closed = None;
                     state.mode_switch = None;
                     state.information = None;
+
+                    // Rendering matchup statistics must not depend on the live
+                    // wager controls. Those controls are unavailable or have
+                    // changed shape in some observe-only sessions, while the
+                    // parsed OPEN event and bundled history are sufficient to
+                    // populate the overlay.
+                    if let Some(ref open) = state.open {
+                        state.update_info_container(&open.mode, &open.tier, &open.left, &open.right, open.date);
+                    }
                 },
 
                 WaifuMessage::BetsClosed(closed) => {

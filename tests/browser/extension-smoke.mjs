@@ -41,6 +41,15 @@ const saltyBetFixture = `<!doctype html>
   </script>
 </body></html>`;
 
+const renderOnlySaltyBetFixture = `<!doctype html>
+<html><body>
+  <main>
+    <h1>SaltyBet observe-only fixture</h1>
+    <iframe id="iframeplayer" src="about:blank"></iframe>
+    <iframe id="chat" src="https://www.twitch.tv/embed/saltybet/chat?parent=www.saltybet.com"></iframe>
+  </main>
+</body></html>`;
+
 const twitchFixture = `<!doctype html>
 <html><body>
   <div data-a-target="chat-scrollable-area__message-container">
@@ -63,9 +72,14 @@ try {
     if (message.type() === "error") browserErrors.push(`browser: ${message.text()}`);
   });
 
-  await context.route("https://www.saltybet.com/**", (route) =>
-    route.fulfill({ status: 200, contentType: "text/html", body: saltyBetFixture }),
-  );
+  await context.route("https://www.saltybet.com/**", (route) => {
+    const url = new URL(route.request().url());
+    return route.fulfill({
+      status: 200,
+      contentType: "text/html",
+      body: url.searchParams.has("render-only") ? renderOnlySaltyBetFixture : saltyBetFixture,
+    });
+  });
   await context.route("https://www.twitch.tv/**", (route) =>
     route.fulfill({ status: 200, contentType: "text/html", body: twitchFixture }),
   );
@@ -104,6 +118,29 @@ try {
   }
   assert.equal(await saltyPage.evaluate(() => window.__saltyBetBotClicks), 0);
   await saltyPage.screenshot({ path: join(artifacts, "recommendation.png"), fullPage: true });
+
+  const renderOnlyPage = await context.newPage();
+  watchPage(renderOnlyPage, "Observe-only render fixture");
+  await renderOnlyPage.goto("https://www.saltybet.com/?render-only=1", { waitUntil: "domcontentloaded" });
+  await renderOnlyPage.getByText("Standby — another tab controls betting", { exact: true }).waitFor({
+    timeout: 180_000,
+  });
+  await renderOnlyPage.getByText("Alpha", { exact: true }).first().waitFor({ timeout: 30_000 });
+  await renderOnlyPage.waitForFunction(
+    () =>
+      [...document.querySelectorAll("div")].some(
+        (element) =>
+          element.textContent === "Alpha" &&
+          getComputedStyle(element).backgroundColor === "rgb(176, 68, 68)",
+      ) &&
+      [...document.querySelectorAll("div")].some(
+        (element) =>
+          element.textContent === "Beta" &&
+          getComputedStyle(element).backgroundColor === "rgb(52, 158, 255)",
+      ),
+    { timeout: 30_000 },
+  );
+  await renderOnlyPage.close();
 
   const standbyPage = await context.newPage();
   watchPage(standbyPage, "Standby SaltyBet fixture");
