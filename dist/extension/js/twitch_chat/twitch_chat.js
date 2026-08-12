@@ -76,6 +76,9 @@ function __wbg_get_imports() {
             if (arg0 !== 0) { wasm.__wbindgen_free(arg0, arg1, 1); }
             console.error(v0);
         },
+        __wbg_error_dd408a7b3cb542dd: function(arg0) {
+            console.error(arg0);
+        },
         __wbg_exec_38ad8544f3498edd: function(arg0, arg1, arg2) {
             var v0 = getCachedStringFromWasm0(arg1, arg2);
             const ret = arg0.exec(v0);
@@ -260,6 +263,12 @@ function __wbg_get_imports() {
             const ret = setTimeout(arg0, arg1);
             return ret;
         }, arguments); },
+        __wbg_set_attributes_397a86ce788760c6: function(arg0, arg1) {
+            arg0.attributes = arg1 !== 0;
+        },
+        __wbg_set_character_data_90db49b24cce2a31: function(arg0, arg1) {
+            arg0.characterData = arg1 !== 0;
+        },
         __wbg_set_child_list_15d537878bca1ee0: function(arg0, arg1) {
             arg0.childList = arg1 !== 0;
         },

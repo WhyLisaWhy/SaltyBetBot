@@ -65,6 +65,7 @@ Before enabling automation, watch several complete matchmaking cycles and verify
 - No betting button is clicked and the wager is not submitted.
 - The records page gains one personal record per eligible completed match, without duplicates.
 - The extension keeps tracking when the SaltyBet tab is in the background.
+- Twitch chat continues to be recognized when its container is replaced or a message is rendered incrementally.
 - Closing and reopening Chrome preserves personal records and the automation setting.
 
 If multiple SaltyBet tabs are open, the first valid tab becomes the controller and the others show **Standby**. Open the extension popup from the tab you want and choose **Use this SaltyBet tab** to transfer control. The extension never closes user tabs.
@@ -124,7 +125,7 @@ npx playwright install chromium
 
 - **Extension will not load:** confirm Chrome is pointed at `dist/extension`, then inspect the extension card for a manifest or service-worker error.
 - **Status remains Loading history:** open the SaltyBet tab console and check for a missing record chunk, decompression, WASM, or memory error.
-- **Chat stale:** the service worker will mark the state and reload only the controller SaltyBet tab after a prolonged missing heartbeat. It never closes the tab.
+- **Chat stale:** the Twitch observer watches the stable document body and survives chat-container replacement, reconnects, and incremental message rendering. If the service worker still reports a prolonged missing heartbeat, it reloads only the controller SaltyBet tab; it never closes the tab.
 - **Standby:** another valid SaltyBet tab owns control. Transfer it from the popup.
 - **No recommendations:** verify the Twitch chat iframe is visible and WAIFU4u is posting match events; then reload the controller tab.
 - **Records do not appear:** keep automation off, complete a full matchmaking cycle, and inspect the service worker under `chrome://extensions`.
