@@ -26,14 +26,28 @@ async function appendIncrementalOpen(page) {
   assert.ok(chatFrame, "Mock Twitch chat frame was not loaded");
   await chatFrame.evaluate(() => {
     const line = document.createElement("div");
-    line.dataset.aTarget = "chat-line-message";
-    const text = document.createElement("span");
+    const text = document.createTextNode("");
     line.appendChild(text);
     document.querySelector("[data-a-target='chat-scrollable-area__message-container']").appendChild(line);
     setTimeout(() => {
-      text.textContent =
-        "WAIFU4u: Bets are OPEN for Alpha vs Beta! (A / B Tier) (matchmaking) www.saltybet.com";
+      line.dataset.aTarget = "chat-line-message";
+      setTimeout(() => {
+        text.data =
+          "WAIFU4u: Bets are OPEN for Alpha vs Beta! (A / B Tier) (matchmaking) www.saltybet.com";
+      }, 50);
     }, 50);
+  });
+}
+
+async function replaceChatContainer(page) {
+  const chatFrame = page.frames().find((frame) =>
+    frame.url().includes("twitch.tv/embed/saltybet/chat"),
+  );
+  assert.ok(chatFrame, "Mock Twitch chat frame was not loaded");
+  await chatFrame.evaluate(() => {
+    const oldContainer = document.querySelector("[data-a-target='chat-scrollable-area__message-container']");
+    const newContainer = oldContainer.cloneNode(false);
+    oldContainer.replaceWith(newContainer);
   });
 }
 
@@ -143,6 +157,7 @@ try {
   await renderOnlyPage.getByText("Standby — another tab controls betting", { exact: true }).waitFor({
     timeout: 180_000,
   });
+  await replaceChatContainer(renderOnlyPage);
   await appendIncrementalOpen(renderOnlyPage);
   await renderOnlyPage.getByText("Alpha", { exact: true }).first().waitFor({ timeout: 30_000 });
   await renderOnlyPage.waitForFunction(

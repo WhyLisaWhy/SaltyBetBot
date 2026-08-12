@@ -259,7 +259,15 @@ fn add_nearest_message_element(element: Element, elements: &mut Vec<(Element, bo
 fn collect_message_elements(node: Node, elements: &mut Vec<(Element, bool)>, force: bool) {
     let element = match node.dyn_into::<Element>() {
         Ok(element) => element,
-        Err(_) => return,
+        Err(node) => {
+            if let Some(parent) = node
+                .parent_node()
+                .and_then(|parent| parent.dyn_into::<Element>().ok())
+            {
+                add_nearest_message_element(parent, elements);
+            }
+            return;
+        }
     };
 
     add_nearest_message_element(element.clone(), elements);
@@ -326,6 +334,25 @@ impl MessageTracker {
     }
 }
 
+fn forward_messages(messages: Vec<WaifuMessage>) {
+    if messages.is_empty() {
+        return;
+    }
+
+    let count = messages.len();
+    spawn(async move {
+        match salty_bet_bot::api::twitch_events_send(messages).await {
+            Ok(()) => {},
+            Err(error) => {
+                log!("Failed to forward {} Twitch events", count);
+                web_sys::console::error_1(&error);
+            },
+        }
+
+        Ok(())
+    });
+}
+
 
 #[wasm_bindgen(start)]
 pub fn main_js() {
@@ -343,20 +370,27 @@ pub fn main_js() {
 
             let mut elements = vec![];
             for record in records {
-                assert_eq!(record.type_().as_str(), "childList");
-                if let Some(target) = record.target() {
-                    collect_message_elements(target, &mut elements, false);
-                }
-                for node in NodeListIter::new(record.added_nodes()) {
-                    collect_message_elements(node, &mut elements, true);
+                match record.type_().as_str() {
+                    "childList" => {
+                        if let Some(target) = record.target() {
+                            collect_message_elements(target, &mut elements, false);
+                        }
+                        for node in NodeListIter::new(record.added_nodes()) {
+                            collect_message_elements(node, &mut elements, true);
+                        }
+                    },
+                    "attributes" | "characterData" => {
+                        if let Some(target) = record.target() {
+                            collect_message_elements(target, &mut elements, false);
+                        }
+                    },
+                    _ => {},
                 }
             }
 
             let messages = observer_tracker.borrow_mut().parse(elements, now);
 
-            if !messages.is_empty() {
-                spawn(salty_bet_bot::api::twitch_events_send(messages));
-            }
+            forward_messages(messages);
         })
     };
 
@@ -368,13 +402,15 @@ pub fn main_js() {
         log!("Body hidden");
     });*/
 
-    wait_until_defined(|| {
-        query("[data-a-target='chat-scrollable-area__message-container']")
-            .or_else(|| query("[data-a-target='chat-welcome-message']").and_then(|node| node.parent_element()))
-    }, move |container| {
+    // Twitch replaces the scrollable chat container during initialization and
+    // reconnects. Observe the stable document body so the listener survives
+    // those replacements and continues to receive new match messages.
+    wait_until_defined(|| query("body"), move |container| {
         let options = MutationObserverInit::new();
         options.set_child_list(true);
         options.set_subtree(true);
+        options.set_attributes(true);
+        options.set_character_data(true);
         observer.observe(&container, &options);
 
         DiscardOnDrop::leak(observer);
@@ -383,7 +419,7 @@ pub fn main_js() {
             .map(|element| (element, true))
             .collect();
         let messages = tracker.borrow_mut().parse(elements, Date::now());
-        spawn(salty_bet_bot::api::twitch_events_send(messages));
+        forward_messages(messages);
         log!("Observer initialized and existing messages processed");
     });
 }
