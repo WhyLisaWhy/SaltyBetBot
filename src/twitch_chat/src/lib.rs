@@ -22,7 +22,9 @@
 
 // WAIFU4u: "wtfSalt ♫ "
 
+use std::cell::RefCell;
 use std::iter::Iterator;
+use std::rc::Rc;
 use discard::DiscardOnDrop;
 use salty_bet_bot::{parse_f64, wait_until_defined, get_text_content, query, query_all, regexp, server_log, log, spawn, NodeListIter, DOCUMENT, MutationObserver};
 use salty_bet_bot::api::{WaifuMessage, WaifuBetsOpen, WaifuBetsClosed, WaifuBetsClosedInfo, WaifuWinner};
@@ -202,11 +204,11 @@ fn remove_nodes(node: &Element, selector: &str) {
     }
 }
 
-fn get_waifu_message(node: Node, date: f64) -> Option<WaifuMessage> {
+fn get_waifu_message_text(node: &Element) -> Option<String> {
     // This is to avoid mutating the DOM of the chat
-    let node = node.clone_node_with_deep(true).unwrap();
+    let node = node.clone_node_with_deep(true).ok()?;
 
-    let node: Element = node.dyn_into().unwrap();
+    let node: Element = node.dyn_into().ok()?;
 
     // This removes the timestamps
     remove_nodes(&node, ".chat-line__timestamp");
@@ -225,34 +227,103 @@ fn get_waifu_message(node: Node, date: f64) -> Option<WaifuMessage> {
             .unwrap();
     }
 
-    get_text_content(&node).and_then(|x| parse_message(&x, date))
+    get_text_content(&node)
 }
 
-
-pub fn get_waifu_messages() -> Vec<WaifuMessage> {
-    let now: f64 = Date::now();
-
-    NodeListIter::new(query_all("[data-a-target='chat-line-message']"))
-        .filter_map(|x| get_waifu_message(x, now))
-        .collect()
+fn is_waifu_message_element(element: &Element) -> bool {
+    element.get_attribute("data-a-target").as_deref() == Some("chat-line-message")
 }
 
-fn get_added_waifu_messages(node: Node, date: f64) -> Vec<WaifuMessage> {
+fn add_unique_message_element(elements: &mut Vec<(Element, bool)>, element: Element, force: bool) {
+    if let Some((_, existing_force)) = elements
+        .iter_mut()
+        .find(|(existing, _)| existing.is_same_node(Some(element.as_ref())))
+    {
+        *existing_force |= force;
+    } else {
+        elements.push((element, force));
+    }
+}
+
+fn add_nearest_message_element(element: Element, elements: &mut Vec<(Element, bool)>) {
+    let mut current = Some(element);
+    while let Some(candidate) = current {
+        if is_waifu_message_element(&candidate) {
+            add_unique_message_element(elements, candidate, false);
+            break;
+        }
+        current = candidate.parent_element();
+    }
+}
+
+fn collect_message_elements(node: Node, elements: &mut Vec<(Element, bool)>, force: bool) {
     let element = match node.dyn_into::<Element>() {
         Ok(element) => element,
-        Err(_) => return vec![],
+        Err(_) => return,
     };
-    let mut messages = vec![];
-    if element.get_attribute("data-a-target").as_deref() == Some("chat-line-message") {
-        if let Some(message) = get_waifu_message(element.clone().into(), date) {
-            messages.push(message);
+
+    add_nearest_message_element(element.clone(), elements);
+
+    if is_waifu_message_element(&element) {
+        add_unique_message_element(elements, element.clone(), force);
+    }
+
+    for descendant in NodeListIter::new(
+        element
+            .query_selector_all("[data-a-target='chat-line-message']")
+            .unwrap(),
+    ) {
+        if let Ok(descendant) = descendant.dyn_into::<Element>() {
+            add_unique_message_element(elements, descendant, force);
         }
     }
-    messages.extend(
-        NodeListIter::new(element.query_selector_all("[data-a-target='chat-line-message']").unwrap())
-            .filter_map(|node| get_waifu_message(node, date)),
-    );
-    messages
+}
+
+struct MessageTracker {
+    messages: Vec<(Element, String)>,
+}
+
+impl MessageTracker {
+    fn new() -> Self {
+        Self { messages: vec![] }
+    }
+
+    fn parse(&mut self, elements: Vec<(Element, bool)>, date: f64) -> Vec<WaifuMessage> {
+        let mut messages = vec![];
+
+        for (element, force) in elements {
+            let text = match get_waifu_message_text(&element) {
+                Some(text) => text,
+                None => continue,
+            };
+
+            if let Some(index) = self
+                .messages
+                .iter()
+                .position(|(existing, _)| existing.is_same_node(Some(element.as_ref())))
+            {
+                if self.messages[index].1 == text && !force {
+                    continue;
+                }
+                self.messages[index].1 = text.clone();
+            } else {
+                self.messages.push((element, text.clone()));
+            }
+
+            if let Some(message) = parse_message(&text, date) {
+                messages.push(message);
+            }
+        }
+
+        // Twitch recycles chat rows, so keep only a bounded recent cache while
+        // still suppressing duplicate mutations for rows that remain mounted.
+        if self.messages.len() > 256 {
+            let remove_count = self.messages.len() - 256;
+            self.messages.drain(..remove_count);
+        }
+
+        messages
+    }
 }
 
 
@@ -263,15 +334,25 @@ pub fn main_js() {
 
     log!("Initializing...");
 
+    let tracker = Rc::new(RefCell::new(MessageTracker::new()));
+    let observer_tracker = tracker.clone();
+
     let observer = {
         MutationObserver::new(move |records: Vec<MutationRecord>| {
             let now: f64 = Date::now();
 
-            let messages: Vec<WaifuMessage> = records.into_iter().flat_map(|record| {
+            let mut elements = vec![];
+            for record in records {
                 assert_eq!(record.type_().as_str(), "childList");
-                NodeListIter::new(record.added_nodes())
-                    .flat_map(|node| get_added_waifu_messages(node, now))
-            }).collect();
+                if let Some(target) = record.target() {
+                    collect_message_elements(target, &mut elements, false);
+                }
+                for node in NodeListIter::new(record.added_nodes()) {
+                    collect_message_elements(node, &mut elements, true);
+                }
+            }
+
+            let messages = observer_tracker.borrow_mut().parse(elements, now);
 
             if !messages.is_empty() {
                 spawn(salty_bet_bot::api::twitch_events_send(messages));
@@ -297,7 +378,12 @@ pub fn main_js() {
         observer.observe(&container, &options);
 
         DiscardOnDrop::leak(observer);
-        spawn(salty_bet_bot::api::twitch_events_send(get_waifu_messages()));
+        let elements = NodeListIter::new(query_all("[data-a-target='chat-line-message']"))
+            .filter_map(|node| node.dyn_into::<Element>().ok())
+            .map(|element| (element, true))
+            .collect();
+        let messages = tracker.borrow_mut().parse(elements, Date::now());
+        spawn(salty_bet_bot::api::twitch_events_send(messages));
         log!("Observer initialized and existing messages processed");
     });
 }

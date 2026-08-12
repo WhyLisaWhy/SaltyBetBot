@@ -19,6 +19,24 @@ function watchPage(page, label) {
   });
 }
 
+async function appendIncrementalOpen(page) {
+  const chatFrame = page.frames().find((frame) =>
+    frame.url().includes("twitch.tv/embed/saltybet/chat"),
+  );
+  assert.ok(chatFrame, "Mock Twitch chat frame was not loaded");
+  await chatFrame.evaluate(() => {
+    const line = document.createElement("div");
+    line.dataset.aTarget = "chat-line-message";
+    const text = document.createElement("span");
+    line.appendChild(text);
+    document.querySelector("[data-a-target='chat-scrollable-area__message-container']").appendChild(line);
+    setTimeout(() => {
+      text.textContent =
+        "WAIFU4u: Bets are OPEN for Alpha vs Beta! (A / B Tier) (matchmaking) www.saltybet.com";
+    }, 50);
+  });
+}
+
 const saltyBetFixture = `<!doctype html>
 <html><body>
   <header id="header"><span class="navbar-text">MockUser [10,000] #1</span></header>
@@ -53,7 +71,6 @@ const renderOnlySaltyBetFixture = `<!doctype html>
 const twitchFixture = `<!doctype html>
 <html><body>
   <div data-a-target="chat-scrollable-area__message-container">
-    <div data-a-target="chat-line-message">WAIFU4u: Bets are OPEN for Alpha vs Beta! (A / B Tier) (matchmaking) www.saltybet.com</div>
   </div>
 </body></html>`;
 
@@ -95,6 +112,7 @@ try {
   await saltyPage.getByText("Observe only — no bets will be placed", { exact: true }).waitFor({
     timeout: 180_000,
   });
+  await appendIncrementalOpen(saltyPage);
   try {
     await saltyPage.waitForFunction(
       () =>
@@ -125,6 +143,7 @@ try {
   await renderOnlyPage.getByText("Standby — another tab controls betting", { exact: true }).waitFor({
     timeout: 180_000,
   });
+  await appendIncrementalOpen(renderOnlyPage);
   await renderOnlyPage.getByText("Alpha", { exact: true }).first().waitFor({ timeout: 30_000 });
   await renderOnlyPage.waitForFunction(
     () =>
@@ -148,6 +167,7 @@ try {
   await standbyPage.getByText("Standby — another tab controls betting", { exact: true }).waitFor({
     timeout: 180_000,
   });
+  await appendIncrementalOpen(standbyPage);
 
   const transferPage = await context.newPage();
   watchPage(transferPage, "Controller transfer");
