@@ -1,12 +1,12 @@
 export const PROTOCOL_VERSION = 1;
 export const DATABASE_NAME = "salty-bet-bot-v3";
-export const DATABASE_VERSION = 2;
+export const DATABASE_VERSION = 3;
 export const PERSONAL_RECORDS_STORE = "personal_records";
 export const PERSONAL_RECORDS_INDEX = "date_key";
 export const HEALTH_ALARM = "saltybot-health";
 export const PERSONAL_RECORDS_BACKUP_ALARM = "saltybot-personal-records-backup";
 export const CHAT_STALE_AFTER_MS = 20 * 60 * 1000;
-export const PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES = 12 * 60;
+export const PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES = 30;
 export const PERSONAL_RECORDS_BACKUP_FILENAME =
   "SaltyBetBot Backups/personal-records-latest.json";
 
@@ -103,13 +103,10 @@ export function createServiceWorker({
         const request = indexedDb.open(DATABASE_NAME, DATABASE_VERSION);
         request.onupgradeneeded = () => {
           const database = request.result;
-          if (database.objectStoreNames.contains(PERSONAL_RECORDS_STORE)) {
-            database.deleteObjectStore(PERSONAL_RECORDS_STORE);
-          }
-          {
-            const store = database.createObjectStore(PERSONAL_RECORDS_STORE, {
-              keyPath: "key",
-            });
+          const store = database.objectStoreNames.contains(PERSONAL_RECORDS_STORE)
+            ? request.transaction.objectStore(PERSONAL_RECORDS_STORE)
+            : database.createObjectStore(PERSONAL_RECORDS_STORE, { keyPath: "key" });
+          if (!store.indexNames.contains(PERSONAL_RECORDS_INDEX)) {
             store.createIndex(PERSONAL_RECORDS_INDEX, ["date", "key"], { unique: true });
           }
         };
@@ -148,13 +145,11 @@ export function createServiceWorker({
       automationEnabled: current.automationEnabled === true,
     });
     await chromeApi.alarms.create(HEALTH_ALARM, { periodInMinutes: 5 });
-    if (!(await chromeApi.alarms.get(PERSONAL_RECORDS_BACKUP_ALARM))) {
-      await chromeApi.alarms.create(PERSONAL_RECORDS_BACKUP_ALARM, {
-        delayInMinutes: 1,
-        periodInMinutes: PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES,
-        persistAcrossSessions: true,
-      });
-    }
+    await chromeApi.alarms.create(PERSONAL_RECORDS_BACKUP_ALARM, {
+      delayInMinutes: 1,
+      periodInMinutes: PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES,
+      persistAcrossSessions: true,
+    });
   }
 
   async function currentControllerId() {
@@ -377,12 +372,34 @@ export function createServiceWorker({
   async function backupPersonalRecords() {
     const records = await getAllPersonalRecords();
     const timestamp = now();
+    const stored = await chromeApi.storage.local.get({ personalRecordsLastGoodBackup: null });
+    const previous = stored.personalRecordsLastGoodBackup;
 
     if (records.length === 0) {
       const result = {
         status: "skipped_empty",
         recordCount: 0,
         generatedAt: timestamp,
+      };
+      await chromeApi.storage.local.set({ personalRecordsBackup: result });
+      return result;
+    }
+
+    const firstDate = records[0].date;
+    const lastDate = records.at(-1).date;
+    if (
+      previous &&
+      (records.length < previous.recordCount ||
+        (Number.isFinite(previous.lastDate) && lastDate < previous.lastDate))
+    ) {
+      const result = {
+        status: "skipped_regression",
+        recordCount: records.length,
+        firstDate,
+        lastDate,
+        generatedAt: timestamp,
+        previousRecordCount: previous.recordCount,
+        previousLastDate: previous.lastDate,
       };
       await chromeApi.storage.local.set({ personalRecordsBackup: result });
       return result;
@@ -399,11 +416,19 @@ export function createServiceWorker({
       status: "download_started",
       downloadId,
       recordCount: records.length,
-      firstDate: records[0].date,
-      lastDate: records.at(-1).date,
+      firstDate,
+      lastDate,
       generatedAt: timestamp,
     };
-    await chromeApi.storage.local.set({ personalRecordsBackup: result });
+    await chromeApi.storage.local.set({
+      personalRecordsBackup: result,
+      personalRecordsLastGoodBackup: {
+        recordCount: records.length,
+        firstDate,
+        lastDate,
+        generatedAt: timestamp,
+      },
+    });
     return result;
   }
 
@@ -535,7 +560,9 @@ export function createServiceWorker({
       }
     });
 
-    ensureDefaults().catch(console.error);
+    const defaultsReady = ensureDefaults();
+    defaultsReady.catch(console.error);
+    return defaultsReady;
   }
 
   return {

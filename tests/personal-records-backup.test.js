@@ -1,11 +1,18 @@
+import { execFile } from "node:child_process";
 import { mkdtemp, readFile, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { afterEach, describe, expect, it } from "vitest";
 import { rm } from "node:fs/promises";
+import { promisify } from "node:util";
 import { preparePersonalRecordsBackup } from "../scripts/prepare-personal-records-backup.mjs";
 
 const temporaryDirectories = [];
+const execFileAsync = promisify(execFile);
+const publisherScriptPath = fileURLToPath(
+  new URL("../scripts/publish-personal-records-backup.sh", import.meta.url),
+);
 
 function record(date, left = `Left ${date}`, right = `Right ${date}`) {
   return { left: { name: left }, right: { name: right }, date };
@@ -19,6 +26,10 @@ async function paths() {
     targetPath: join(root, "community-records", "personal-records-latest.json"),
     metadataPath: join(root, "community-records", "personal-records-metadata.json"),
   };
+}
+
+async function git(cwd, ...args) {
+  return execFileAsync("git", args, { cwd });
 }
 
 afterEach(async () => {
@@ -66,5 +77,75 @@ describe("personal-record backup publisher", () => {
     await expect(preparePersonalRecordsBackup({ ...files })).rejects.toThrow(
       "Refusing record-count regression",
     );
+  });
+
+  it("rejects exports that remove old records even when count and latest date advance", async () => {
+    const files = await paths();
+    await writeFile(files.sourcePath, JSON.stringify([record(10), record(20)]));
+    await preparePersonalRecordsBackup({ ...files });
+
+    await writeFile(files.sourcePath, JSON.stringify([record(10), record(30), record(40)]));
+
+    await expect(preparePersonalRecordsBackup({ ...files })).rejects.toThrow(
+      "Refusing to remove previously published records",
+    );
+    expect(JSON.parse(await readFile(files.targetPath, "utf8"))).toHaveLength(2);
+  });
+
+  it("syncs a checkout even when the automation branch is incorrectly tracking master", async () => {
+    const root = await mkdtemp(join(tmpdir(), "saltybet-records-publisher-git-"));
+    temporaryDirectories.push(root);
+    const bareRepo = join(root, "remote.git");
+    const seedRepo = join(root, "seed");
+    const backupRepo = join(root, "publisher");
+    const exportPath = join(root, "export.json");
+    const snapshotDir = join(root, "snapshots");
+    const sourceRecords = [record(10)];
+
+    await git(root, "init", "--bare", bareRepo);
+    await git(root, "init", "--initial-branch=master", seedRepo);
+    await git(seedRepo, "config", "user.name", "Test Publisher");
+    await git(seedRepo, "config", "user.email", "test-publisher@example.invalid");
+    await writeFile(exportPath, JSON.stringify(sourceRecords));
+    await preparePersonalRecordsBackup({
+      sourcePath: exportPath,
+      targetPath: join(seedRepo, "community-records", "personal-records-latest.json"),
+      metadataPath: join(seedRepo, "community-records", "personal-records-metadata.json"),
+    });
+    await git(seedRepo, "add", "community-records");
+    await git(seedRepo, "commit", "-m", "seed backup");
+    await git(seedRepo, "remote", "add", "origin", bareRepo);
+    await git(seedRepo, "push", "origin", "master");
+    await git(seedRepo, "branch", "automation/personal-records-backup");
+    await git(seedRepo, "push", "origin", "automation/personal-records-backup");
+
+    await git(root, "clone", bareRepo, backupRepo);
+    await git(backupRepo, "switch", "-c", "automation/personal-records-backup", "origin/master");
+    await git(backupRepo, "config", "branch.automation/personal-records-backup.remote", "origin");
+    await git(
+      backupRepo,
+      "config",
+      "branch.automation/personal-records-backup.merge",
+      "refs/heads/master",
+    );
+
+    const result = await execFileAsync("bash", [
+      publisherScriptPath,
+    ], {
+      env: {
+        ...process.env,
+        SALTYBET_BACKUP_REPO: backupRepo,
+        SALTYBET_RECORDS_EXPORT: exportPath,
+        SALTYBET_LOCAL_SNAPSHOTS: snapshotDir,
+        SALTYBET_BACKUP_STATE_DIR: join(root, "state"),
+      },
+    });
+
+    expect(result.stdout).toContain("Personal-record backup is already current");
+    expect((await git(backupRepo, "status", "--porcelain")).stdout).toBe("");
+    expect(
+      (await git(backupRepo, "config", "--get", "branch.automation/personal-records-backup.merge"))
+        .stdout.trim(),
+    ).toBe("refs/heads/automation/personal-records-backup");
   });
 });
