@@ -2,7 +2,12 @@ import { beforeEach, describe, expect, it } from "vitest";
 import { IDBFactory, IDBKeyRange } from "fake-indexeddb";
 import {
   CHAT_STALE_AFTER_MS,
+  DATABASE_NAME,
+  DATABASE_VERSION,
+  PERSONAL_RECORDS_BACKUP_ALARM,
+  PERSONAL_RECORDS_STORE,
   PERSONAL_RECORDS_BACKUP_FILENAME,
+  PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES,
   createServiceWorker,
 } from "../extension/service-worker-core.js";
 
@@ -98,6 +103,21 @@ function record(date, left = `Left ${date}`, right = `Right ${date}`) {
   };
 }
 
+function createLegacyDatabase(indexedDb) {
+  return new Promise((resolve, reject) => {
+    const request = indexedDb.open(DATABASE_NAME, DATABASE_VERSION - 1);
+    request.onupgradeneeded = () => {
+      const store = request.result.createObjectStore(PERSONAL_RECORDS_STORE, { keyPath: "key" });
+      store.add({ ...record(10), key: "10:legacy" });
+    };
+    request.onsuccess = () => {
+      request.result.close();
+      resolve();
+    };
+    request.onerror = () => reject(request.error || new Error("Unable to create legacy database"));
+  });
+}
+
 describe("Manifest V3 service worker core", () => {
   let worker;
   let mock;
@@ -137,6 +157,16 @@ describe("Manifest V3 service worker core", () => {
 
     await worker.clearPersonalRecords();
     expect(await worker.personalRecordCount()).toBe(0);
+  });
+
+  it("preserves personal records during a database schema upgrade", async () => {
+    await createLegacyDatabase(indexedDb);
+
+    expect(await worker.personalRecordCount()).toBe(1);
+    expect(await worker.recordsPage({ limit: 10 })).toEqual({
+      records: [record(10)],
+      nextCursor: null,
+    });
   });
 
   it("preserves settings, controller state, and personal records across worker restarts", async () => {
@@ -192,6 +222,52 @@ describe("Manifest V3 service worker core", () => {
       generatedAt: 10_000_000,
     });
     expect(mock.downloads).toHaveLength(0);
+  });
+
+  it("schedules personal-record exports every 30 minutes", async () => {
+    await worker.start();
+
+    expect(PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES).toBe(30);
+    expect(mock.chromeApi.alarms.created).toContainEqual({
+      name: PERSONAL_RECORDS_BACKUP_ALARM,
+      options: expect.objectContaining({
+        periodInMinutes: 30,
+        persistAcrossSessions: true,
+      }),
+    });
+  });
+
+  it("refreshes an existing backup alarm to the safer cadence", async () => {
+    mock.chromeApi.alarms.created.push({
+      name: PERSONAL_RECORDS_BACKUP_ALARM,
+      options: { periodInMinutes: 12 * 60 },
+    });
+
+    await worker.start();
+
+    expect(mock.chromeApi.alarms.created.at(-1)).toEqual({
+      name: PERSONAL_RECORDS_BACKUP_ALARM,
+      options: expect.objectContaining({ periodInMinutes: 30 }),
+    });
+  });
+
+  it("does not replace a good backup when the personal record count regresses", async () => {
+    await worker.insertRecords({ records: [record(10), record(20)] });
+    await worker.backupPersonalRecords();
+
+    await worker.clearPersonalRecords();
+    await worker.insertRecords({ records: [record(10)] });
+
+    expect(await worker.backupPersonalRecords()).toEqual({
+      status: "skipped_regression",
+      recordCount: 1,
+      firstDate: 10,
+      lastDate: 10,
+      generatedAt: 10_000_000,
+      previousRecordCount: 2,
+      previousLastDate: 20,
+    });
+    expect(mock.downloads).toHaveLength(1);
   });
 
   it("routes each tab's Twitch events while granting betting control to only one tab", async () => {
