@@ -9,6 +9,10 @@ export const CHAT_STALE_AFTER_MS = 20 * 60 * 1000;
 export const PERSONAL_RECORDS_BACKUP_PERIOD_MINUTES = 30;
 export const PERSONAL_RECORDS_BACKUP_FILENAME =
   "SaltyBetBot Backups/personal-records-latest.json";
+export const SETTINGS_SCHEMA_VERSION = 2;
+export const DEFAULT_MAX_BET = 32_000;
+export const MIN_MAX_BET = 1;
+export const MAX_MAX_BET = 1_000_000;
 
 export const SALTYBET_PATTERNS = [
   "*://saltybet.com/*",
@@ -18,9 +22,22 @@ export const SALTYBET_PATTERNS = [
 ];
 
 const DEFAULT_SETTINGS = Object.freeze({
-  schemaVersion: 1,
+  schemaVersion: SETTINGS_SCHEMA_VERSION,
   automationEnabled: false,
+  maxBet: DEFAULT_MAX_BET,
 });
+
+function validMaxBet(value) {
+  return Number.isInteger(value) && value >= MIN_MAX_BET && value <= MAX_MAX_BET;
+}
+
+function normalizedSettings(stored) {
+  return {
+    schemaVersion: SETTINGS_SCHEMA_VERSION,
+    automationEnabled: stored.automationEnabled === true,
+    maxBet: validMaxBet(stored.maxBet) ? stored.maxBet : DEFAULT_MAX_BET,
+  };
+}
 
 function requestPromise(request) {
   return new Promise((resolve, reject) => {
@@ -119,20 +136,25 @@ export function createServiceWorker({
 
   async function getSettings() {
     const stored = await chromeApi.storage.local.get(DEFAULT_SETTINGS);
-    return {
-      schemaVersion: DEFAULT_SETTINGS.schemaVersion,
-      automationEnabled: stored.automationEnabled === true,
-    };
+    return normalizedSettings(stored);
   }
 
-  async function setSettings(payload) {
-    if (typeof payload?.automationEnabled !== "boolean") {
+  async function setSettings(payload = {}) {
+    const current = await getSettings();
+    const hasAutomationEnabled = Object.prototype.hasOwnProperty.call(payload, "automationEnabled");
+    const hasMaxBet = Object.prototype.hasOwnProperty.call(payload, "maxBet");
+
+    if (hasAutomationEnabled && typeof payload.automationEnabled !== "boolean") {
       throw new Error("automationEnabled must be a boolean");
     }
-    const settings = {
-      schemaVersion: DEFAULT_SETTINGS.schemaVersion,
-      automationEnabled: payload.automationEnabled,
-    };
+    if (hasMaxBet && !validMaxBet(payload.maxBet)) {
+      throw new Error(`maxBet must be an integer between ${MIN_MAX_BET} and ${MAX_MAX_BET}`);
+    }
+
+    const settings = normalizedSettings({
+      automationEnabled: hasAutomationEnabled ? payload.automationEnabled : current.automationEnabled,
+      maxBet: hasMaxBet ? payload.maxBet : current.maxBet,
+    });
     await chromeApi.storage.local.set(settings);
     await broadcastControllerStatus();
     return settings;
@@ -140,10 +162,7 @@ export function createServiceWorker({
 
   async function ensureDefaults() {
     const current = await chromeApi.storage.local.get(DEFAULT_SETTINGS);
-    await chromeApi.storage.local.set({
-      schemaVersion: DEFAULT_SETTINGS.schemaVersion,
-      automationEnabled: current.automationEnabled === true,
-    });
+    await chromeApi.storage.local.set(normalizedSettings(current));
     await chromeApi.alarms.create(HEALTH_ALARM, { periodInMinutes: 5 });
     await chromeApi.alarms.create(PERSONAL_RECORDS_BACKUP_ALARM, {
       delayInMinutes: 1,
@@ -190,6 +209,7 @@ export function createServiceWorker({
       isController: tabId === controllerTabId,
       controllerTabId,
       automationEnabled: settings.automationEnabled,
+      maxBet: settings.maxBet,
       lastTwitchEventAt: health.lastTwitchEventAt,
     };
   }
@@ -555,7 +575,7 @@ export function createServiceWorker({
       }
     });
     chromeApi.storage.onChanged.addListener((changes, areaName) => {
-      if (areaName === "local" && changes.automationEnabled) {
+      if (areaName === "local" && (changes.automationEnabled || changes.maxBet)) {
         broadcastControllerStatus().catch(console.error);
       }
     });
