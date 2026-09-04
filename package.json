@@ -15,7 +15,7 @@
     "test:rust": "cargo test -p algorithm",
     "test:browser": "node tests/browser/extension-smoke.mjs",
     "test:parser": "node scripts/test-parser.mjs",
-    "verify": "npm test && npm run build && node scripts/verify-build.mjs && npm run test:browser"
+    "verify": "npm test && npm run test:parser && npm run build && node scripts/verify-build.mjs && npm run test:browser"
   },
   "devDependencies": {
     "fake-indexeddb": "^6.2.2",
