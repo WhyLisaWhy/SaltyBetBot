@@ -19,6 +19,14 @@
         <input id="automation-enabled" type="checkbox">
         <span>Enable automatic betting</span>
       </label>
+      <div class="max-bet-control">
+        <label for="max-bet">Matchmaking maximum</label>
+        <div class="max-bet-input-row">
+          <input id="max-bet" type="number" min="1" max="1000000" step="1" inputmode="numeric">
+          <button id="save-max-bet" type="button">Save maximum</button>
+        </div>
+        <small>Applied on the next matchmaking match. Mine all-in and tournament bets are unchanged.</small>
+      </div>
       <button id="claim-controller" type="button">Use this SaltyBet tab</button>
       <p id="control-message"></p>
     </section>

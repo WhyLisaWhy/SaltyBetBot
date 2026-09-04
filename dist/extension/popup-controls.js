@@ -5,6 +5,10 @@ const badge = document.querySelector("#mode-badge");
 const controllerState = document.querySelector("#controller-state");
 const claim = document.querySelector("#claim-controller");
 const message = document.querySelector("#control-message");
+const maxBet = document.querySelector("#max-bet");
+const saveMaxBet = document.querySelector("#save-max-bet");
+const MIN_MAX_BET = 1;
+const MAX_MAX_BET = 1_000_000;
 
 async function request(type, payload = {}) {
   const response = await chrome.runtime.sendMessage({ v: PROTOCOL_VERSION, type, payload });
@@ -18,6 +22,11 @@ function showMode(enabled) {
   badge.className = `badge ${enabled ? "enabled" : "observe"}`;
 }
 
+function showSettings(settings) {
+  showMode(settings.automationEnabled);
+  maxBet.value = String(settings.maxBet);
+}
+
 async function refresh() {
   try {
     const [settings, health, tabs] = await Promise.all([
@@ -25,7 +34,7 @@ async function refresh() {
       request("health.get"),
       chrome.tabs.query({ active: true, currentWindow: true }),
     ]);
-    showMode(settings.automationEnabled);
+    showSettings(settings);
     const tab = tabs[0];
     const isSaltyBet = /^https?:\/\/(?:www\.|mugen\.|live\.)?saltybet\.com\//i.test(tab?.url || "");
     claim.disabled = !isSaltyBet;
@@ -63,6 +72,26 @@ automation.addEventListener("change", async () => {
     await refresh();
   } finally {
     automation.disabled = false;
+  }
+});
+
+saveMaxBet.addEventListener("click", async () => {
+  const value = Number(maxBet.value);
+  if (!Number.isInteger(value) || value < MIN_MAX_BET || value > MAX_MAX_BET) {
+    message.textContent = "Maximum must be an integer between 1 and 1,000,000.";
+    return;
+  }
+
+  saveMaxBet.disabled = true;
+  try {
+    const settings = await request("settings.set", { maxBet: value });
+    maxBet.value = String(settings.maxBet);
+    message.textContent = "Maximum bet saved for the next matchmaking match.";
+  } catch (error) {
+    message.textContent = error.message;
+    await refresh();
+  } finally {
+    saveMaxBet.disabled = false;
   }
 });
 

@@ -1,11 +1,11 @@
 [Unit]
-Description=Retrying SaltyBetBot personal-record GitHub backup
+Description=Monitor SaltyBetBot personal-record GitHub backup
 
 [Timer]
 OnCalendar=*-*-* *:00/15:00 America/New_York
 Persistent=true
 RandomizedDelaySec=5m
-Unit=saltybet-records-backup.service
+Unit=saltybet-records-backup-watchdog.service
 
 [Install]
 WantedBy=timers.target

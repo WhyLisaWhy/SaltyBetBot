@@ -16,6 +16,18 @@ pub const MATCHMAKING_STRATEGY: CustomStrategy = CustomStrategy {
     bet: BetStrategy::Matchmaking,
 };
 
+pub fn matchmaking_strategy(max_bet: f64) -> CustomStrategy {
+    CustomStrategy {
+        average_sums: false,
+        round_to_magnitude: false,
+        scale_by_matches: true,
+        scale_by_money: true,
+        scale_by_time: None,
+        money: MoneyStrategy::Matchmaking { max_bet },
+        bet: BetStrategy::Matchmaking,
+    }
+}
+
 /*const MATCHMAKING_STRATEGY: EarningsStrategy = EarningsStrategy {
     expected_profit: true,
     winrate: false,
@@ -549,7 +561,7 @@ impl BetStrategy {
 }
 
 
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct CustomStrategy {
     pub average_sums: bool,
     pub scale_by_matches: bool,
@@ -561,6 +573,13 @@ pub struct CustomStrategy {
 }
 
 impl CustomStrategy {
+    fn apply_matchmaking_maximum(&self, bet_amount: f64) -> f64 {
+        match self.money {
+            MoneyStrategy::Matchmaking { max_bet } => bet_amount.min(max_bet),
+            _ => bet_amount,
+        }
+    }
+
     fn modify_bet_amount<A: Simulator>(&self, simulation: &A, left: &str, right: &str, tier: Tier, date: f64, bet_amount: f64) -> f64 {
         let current_money = simulation.current_money();
 
@@ -572,7 +591,8 @@ impl CustomStrategy {
             // When at low money, bet high. When at high money, bet at most MAXIMUM_BET_PERCENTAGE of current money
             // TODO maybe tweak this
             let bet_amount = if self.scale_by_money && current_money < PERCENTAGE_THRESHOLD {
-                return current_money * (SALT_MINE_AMOUNT / current_money).min(1.0).max(MAXIMUM_BET_PERCENTAGE);
+                let recovery_amount = current_money * (SALT_MINE_AMOUNT / current_money).min(1.0).max(MAXIMUM_BET_PERCENTAGE);
+                return self.apply_matchmaking_maximum(recovery_amount);
 
             } else {
                 // TODO verify that this is correct
@@ -611,7 +631,7 @@ impl CustomStrategy {
                 0.0
 
             } else {*/
-                bet_amount
+                self.apply_matchmaking_maximum(bet_amount)
             //}
         }
     }
@@ -737,5 +757,151 @@ impl Strategy for AllInStrategy {
         } else {
             Bet::Left(bet_amount)
         }
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::record::{Record, Tier};
+    use crate::simulation::{Elo, Simulator};
+
+    struct TestSimulator {
+        current_money: f64,
+        in_mines: bool,
+        min_matches: f64,
+        left_elo: Elo,
+        right_elo: Elo,
+        records: Vec<Record>,
+    }
+
+    impl TestSimulator {
+        fn new(current_money: f64, in_mines: bool, min_matches: f64) -> Self {
+            Self {
+                current_money,
+                in_mines,
+                min_matches,
+                left_elo: elo(5.0),
+                right_elo: elo(-5.0),
+                records: vec![],
+            }
+        }
+    }
+
+    fn elo(value: f64) -> Elo {
+        let rating = glicko2::Glicko2Rating {
+            value,
+            deviation: 1.0,
+            volatility: 0.06,
+        };
+        Elo {
+            wins: rating,
+            upsets: rating,
+        }
+    }
+
+    impl Simulator for TestSimulator {
+        fn get_hourly_ratio(&self, _date: f64) -> f64 {
+            1.0
+        }
+
+        fn elo(&self, name: &str, _tier: Tier) -> Elo {
+            if name == "Left" {
+                self.left_elo
+            } else {
+                self.right_elo
+            }
+        }
+
+        fn average_sum(&self) -> f64 {
+            self.current_money
+        }
+
+        fn clamp(&self, bet_amount: f64) -> f64 {
+            bet_amount
+        }
+
+        fn matches_len(&self, _name: &str, _tier: Tier) -> usize {
+            self.min_matches as usize
+        }
+
+        fn min_matches_len(&self, _left: &str, _right: &str, _tier: Tier) -> f64 {
+            self.min_matches
+        }
+
+        fn current_money(&self) -> f64 {
+            self.current_money
+        }
+
+        fn is_in_mines(&self) -> bool {
+            self.in_mines
+        }
+
+        fn lookup_character(&self, _name: &str, _tier: Tier) -> Vec<&Record> {
+            self.records.iter().collect()
+        }
+
+        fn lookup_specific_character(&self, _left: &str, _right: &str, _tier: Tier) -> Vec<&Record> {
+            vec![]
+        }
+    }
+
+    fn amount(strategy: &CustomStrategy, simulation: &TestSimulator) -> (f64, f64) {
+        strategy.bet_amount(simulation, &Tier::A, "Left", "Right", 0.0)
+    }
+
+    #[test]
+    fn matchmaking_factory_preserves_the_existing_default_strategy() {
+        assert_eq!(matchmaking_strategy(FIXED_BET_AMOUNT), MATCHMAKING_STRATEGY);
+    }
+
+    #[test]
+    fn configured_max_bet_is_the_input_to_confidence_scaling() {
+        let simulation = TestSimulator::new(10_000_000.0, false, 50.0);
+        let lower = amount(&matchmaking_strategy(32_000.0), &simulation).0;
+        let higher = amount(&matchmaking_strategy(64_000.0), &simulation).0;
+
+        assert!(lower > 0.0);
+        assert!((higher - (lower * 2.0)).abs() < 1e-9);
+    }
+
+    #[test]
+    fn match_history_and_balance_scaling_still_reduce_matchmaking_bets() {
+        let high_history = TestSimulator::new(1_000_000.0, false, 50.0);
+        let low_history = TestSimulator::new(1_000_000.0, false, 5.0);
+        let strategy = matchmaking_strategy(100_000.0);
+
+        let high_history_amount = amount(&strategy, &high_history).0;
+        let low_history_amount = amount(&strategy, &low_history).0;
+
+        assert!((high_history_amount - 15_000.0).abs() < 1e-9);
+        assert!(low_history_amount < high_history_amount);
+    }
+
+    #[test]
+    fn configured_maximum_caps_low_balance_recovery_above_the_mines() {
+        let simulation = TestSimulator::new(100_000.0, false, 50.0);
+        let (left, right) = amount(&matchmaking_strategy(1_000.0), &simulation);
+
+        assert_eq!(left, 1_000.0);
+        assert_eq!(right, 1_000.0);
+    }
+
+    #[test]
+    fn mine_balance_remains_all_in_even_when_maximum_is_lower() {
+        let simulation = TestSimulator::new(4_100.0, true, 50.0);
+        let (left, right) = amount(&matchmaking_strategy(1_000.0), &simulation);
+
+        assert_eq!(left, 4_100.0);
+        assert_eq!(right, 4_100.0);
+    }
+
+    #[test]
+    fn tournament_strategy_keeps_its_existing_formula() {
+        let simulation = TestSimulator::new(100_000.0, false, 50.0);
+        let (left, right) = amount(&TOURNAMENT_STRATEGY, &simulation);
+
+        assert_eq!(left, 25_000.0);
+        assert_eq!(right, 25_000.0);
     }
 }

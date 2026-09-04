@@ -3,6 +3,21 @@ import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { pathToFileURL } from "node:url";
 
+function canonicalJson(value) {
+  if (Array.isArray(value)) return `[${value.map(canonicalJson).join(",")}]`;
+  if (value && typeof value === "object") {
+    return `{${Object.keys(value)
+      .sort()
+      .map((key) => `${JSON.stringify(key)}:${canonicalJson(value[key])}`)
+      .join(",")}}`;
+  }
+  return JSON.stringify(value);
+}
+
+function recordFingerprint(record) {
+  return canonicalJson(record);
+}
+
 function isoDate(value) {
   const date = new Date(value);
   if (!Number.isFinite(date.getTime())) throw new Error(`Invalid record date: ${value}`);
@@ -51,6 +66,19 @@ async function readExistingMetadata(metadataPath) {
   }
 }
 
+async function readExistingRecords(targetPath) {
+  try {
+    const records = JSON.parse(await readFile(targetPath, "utf8"));
+    if (!Array.isArray(records)) {
+      throw new Error("Existing personal-record backup is not an array");
+    }
+    return records;
+  } catch (error) {
+    if (error.code === "ENOENT") return null;
+    throw new Error(`Unable to read existing personal-record backup: ${error.message}`);
+  }
+}
+
 export async function preparePersonalRecordsBackup({
   sourcePath,
   targetPath,
@@ -76,6 +104,23 @@ export async function preparePersonalRecordsBackup({
     if (summary.lastDate < existing.lastDate) {
       throw new Error(
         `Refusing latest-date regression from ${existing.lastDate} to ${summary.lastDate}`,
+      );
+    }
+  }
+
+  const existingRecords = await readExistingRecords(targetPath);
+  if (existingRecords === null) {
+    if (existing?.recordCount > 0) {
+      throw new Error("Existing backup metadata has no matching personal-record backup");
+    }
+  } else {
+    const currentFingerprints = new Set(records.map(recordFingerprint));
+    const missingIndex = existingRecords.findIndex(
+      (record) => !currentFingerprints.has(recordFingerprint(record)),
+    );
+    if (missingIndex !== -1) {
+      throw new Error(
+        `Refusing to remove previously published records; missing record at index ${missingIndex}`,
       );
     }
   }

@@ -255,13 +255,36 @@ try {
   assert.equal(await saltyPage.evaluate(() => window.__saltyBetBotClicks), 0);
 
   const settings = await popup.evaluate(async () =>
-    chrome.storage.local.get({ automationEnabled: false }),
+    chrome.storage.local.get({ automationEnabled: false, maxBet: 32_000 }),
   );
   assert.equal(settings.automationEnabled, false);
+  assert.equal(settings.maxBet, 32_000);
   await activeSaltyPage.screenshot({ path: join(artifacts, "observe-only.png"), fullPage: true });
 
   await popup.locator("#mode-badge").filter({ hasText: "Observe only" }).waitFor();
   assert.equal(await popup.locator("#automation-enabled").isChecked(), false);
+  const maxBet = popup.locator("#max-bet");
+  await maxBet.waitFor();
+  assert.equal(await maxBet.inputValue(), "32000");
+  await maxBet.fill("64000");
+  await popup.getByRole("button", { name: "Save maximum", exact: true }).click();
+  await popup.getByText("Maximum bet saved for the next matchmaking match.", { exact: true }).waitFor();
+
+  const savedSettings = await popup.evaluate(async () =>
+    chrome.storage.local.get({ automationEnabled: false, maxBet: 32_000 }),
+  );
+  assert.equal(savedSettings.maxBet, 64_000);
+
+  await popup.reload();
+  await maxBet.waitFor();
+  assert.equal(await maxBet.inputValue(), "64000");
+  await maxBet.fill("1000001");
+  await popup.getByRole("button", { name: "Save maximum", exact: true }).click();
+  await popup.getByText("Maximum must be an integer between 1 and 1,000,000.", { exact: true }).waitFor();
+  const rejectedSettings = await popup.evaluate(async () =>
+    chrome.storage.local.get({ automationEnabled: false, maxBet: 32_000 }),
+  );
+  assert.equal(rejectedSettings.maxBet, 64_000);
   await popup.screenshot({ path: join(artifacts, "popup.png") });
 
   for (const pageName of ["records", "chart"]) {
