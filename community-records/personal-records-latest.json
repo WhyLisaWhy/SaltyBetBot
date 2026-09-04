@@ -203525,5 +203525,113 @@
     "sum": 111384487,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1258
+    },
+    "date": 1788559366731,
+    "duration": 124214,
+    "left": {
+      "bet_amount": 1900770,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Nami mvc",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5417125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Toguro 101%",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 111401246,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41246
+    },
+    "date": 1788559686920,
+    "duration": 254199,
+    "left": {
+      "bet_amount": 1606615,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sailor mars EX2",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2942966,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Dmtenko",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 111401688,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1640
+    },
+    "date": 1788559830914,
+    "duration": 83794,
+    "left": {
+      "bet_amount": 3558904,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "K9999-kofm",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2176397,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shin scrub prince goldrush",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 111360442,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788560253329,
+    "duration": 150015,
+    "left": {
+      "bet_amount": 39119,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Setsuna 02um",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 160047,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Magaki-kofm",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
