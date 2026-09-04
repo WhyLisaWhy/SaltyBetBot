@@ -1,8 +1,18 @@
 # Salty Bet Bot
 
-Salty Bet Bot is a private, unpacked Chrome extension that analyzes SaltyBet matches, displays the original strategy's recommendations, records completed matches, and provides chart and records viewers. Matchmaking's maximum bet can be adjusted from the popup without changing the rest of the strategy.
+Salty Bet Bot is a personal-use, unpacked Chrome extension for SaltyBet. It analyzes matches, displays the original strategy's recommendations, records completed matches, and provides chart and records viewers.
 
-This branch restores the 2021 extension on Manifest V3. It preserves the existing betting formulas and bundled 458,292-match baseline while replacing the obsolete persistent background page with a restart-safe service worker.
+The project runs on Manifest V3 with a restart-safe service worker. It preserves the existing betting formulas and bundled 458,292-match baseline while adding safer controls for automation, match selection, personal records, and backups.
+
+## Features
+
+- Observe-only mode is the default; automatic virtual betting must be enabled explicitly.
+- A designated SaltyBet controller tab is the only tab allowed to place a wager. Other open SaltyBet tabs remain on standby until selected.
+- Matchmaking's maximum bet is adjustable from the popup, with a default of 32,000 and an allowed range of 1 through 1,000,000.
+- Matchmaking, tournament, and exhibition recommendations retain their separate behaviors.
+- Match tracking continues through Twitch chat-container replacement, incremental chat rendering, background tabs, and service-worker restarts.
+- Personal records support deduplicated import, personal/all-record export, clearing without touching the bundled baseline, and chart/records views.
+- Personal-record backups are refreshed locally and published only after validation; empty, malformed, out-of-order, or regressed data is rejected.
 
 ## Safety default
 
@@ -88,7 +98,7 @@ Turn the switch off at any time to return immediately to observe-only operation.
 2. Enter a whole-number maximum from **1** through **1,000,000**.
 3. Choose **Save maximum**.
 
-The saved maximum is used as the input to matchmaking confidence scaling, while the existing match-history and balance scaling remain active. It takes effect with the next new matchmaking match, so changing it during an open match does not alter that match's recommendation. The existing mine all-in behavior at or below 4,100 remains unchanged. This control does not change tournament wagers, exhibition `$1` recommendations, or `$1` tie fallbacks.
+The saved maximum replaces the old fixed maximum in the matchmaking confidence calculation and remains the final cap after the existing match-history and balance scaling. It takes effect with the next new matchmaking match, so changing it during an open match does not alter that match's recommendation. The existing mine all-in behavior at or below 4,100 remains unchanged. This control does not change tournament wagers, exhibition `$1` recommendations, or `$1` tie fallbacks.
 
 ## Records and backups
 
@@ -103,9 +113,9 @@ Popup actions:
 
 The service worker also refreshes `Downloads/SaltyBetBot Backups/personal-records-latest.json` every 30 minutes while Chrome is running. It never replaces the last good export with an empty or regressed database.
 
-The project's collector VM validates that export every 15 minutes and publishes the latest copy and metadata under [`community-records`](community-records/). Invalid, out-of-order, regressed, or historically incomplete exports are rejected before Git is changed. A watchdog alerts after two consecutive failures or 45 minutes without a successful VM-to-GitHub backup, including a stale protected `master` branch. These files are public and include the collector's historical virtual wager and balance fields.
+A scheduled collector validates that export every 15 minutes and publishes the latest copy and metadata under [`community-records`](community-records/). Invalid, out-of-order, regressed, or historically incomplete exports are rejected before Git is changed. A watchdog alerts after two consecutive failures or 45 minutes without a successful backup, including a stale protected `master` branch. These files are public and include only the collector's match-history, virtual wager, and balance fields; they do not contain browser credentials or login data.
 
-Back up personal records before replacing the repository directory or Chrome profile. The automated copy protects the collector VM, but other installations should configure their own off-device destination.
+Back up personal records before replacing the repository directory or Chrome profile. The automated copy protects the scheduled installation, but other installations should configure their own off-device destination.
 
 ## Update
 
@@ -146,4 +156,4 @@ npx playwright install chromium
 
 ## Strategy notes
 
-The restoration does not retrain or alter the original formulas and constants. Matchmaking intentionally favors selected upset opportunities and scales wager size with balance and confidence; its default maximum is 32,000 and the popup can set a different maximum. Tournaments use their separate balance, while exhibitions retain the original nominal recommendation. Recommendations are not a guarantee of virtual-salt gains.
+The project does not retrain or alter the original formulas and constants. Matchmaking intentionally favors selected upset opportunities and scales wager size with balance and confidence; its default maximum is 32,000 and the popup can set a different maximum without removing those scaling rules. Tournaments use their separate balance, while exhibitions retain the original nominal recommendation. Recommendations are not a guarantee of virtual-salt gains.
