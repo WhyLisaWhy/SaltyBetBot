@@ -202958,5 +202958,140 @@
     "sum": 111359709,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788555595707,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 1060762,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Zankuro ex",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10216397,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Hulk ex",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 111374755,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41215
+    },
+    "date": 1788555765709,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 2507955,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 11,
+      "name": "Robo-ky XX",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2619689,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dead kung fu man EX3",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 111374756,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29865
+    },
+    "date": 1788555951910,
+    "duration": 126003,
+    "left": {
+      "bet_amount": 2468646,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Lenneth vp",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2699914,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Arrange sion",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 111413602,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33054
+    },
+    "date": 1788556072107,
+    "duration": 66188,
+    "left": {
+      "bet_amount": 1089449,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Half orc",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5934309,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Katima",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 111445875,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17372
+    },
+    "date": 1788556216110,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 2278226,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "The master",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4193325,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Hoihoi",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 111451910,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
