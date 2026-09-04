@@ -92,6 +92,21 @@ describe("personal-record backup publisher", () => {
     expect(JSON.parse(await readFile(files.targetPath, "utf8"))).toHaveLength(2);
   });
 
+  it("rejects records with fields outside the public export schema", async () => {
+    const files = await paths();
+    const invalidRecords = [
+      { ...record(10), privateNote: "do not publish" },
+      { ...record(10), left: { name: "Left 10", privateNote: "do not publish" } },
+    ];
+
+    for (const invalid of invalidRecords) {
+      await writeFile(files.sourcePath, JSON.stringify([invalid]));
+      await expect(preparePersonalRecordsBackup({ ...files })).rejects.toThrow(
+        "Invalid personal record",
+      );
+    }
+  });
+
   it("syncs a checkout even when the automation branch is incorrectly tracking master", async () => {
     const root = await mkdtemp(join(tmpdir(), "saltybet-records-publisher-git-"));
     temporaryDirectories.push(root);

@@ -18,6 +18,67 @@ function recordFingerprint(record) {
   return canonicalJson(record);
 }
 
+const RECORD_FIELDS = new Set([
+  "left",
+  "right",
+  "winner",
+  "tier",
+  "mode",
+  "bet",
+  "duration",
+  "date",
+  "sum",
+]);
+const CHARACTER_FIELDS = new Set([
+  "name",
+  "bet_amount",
+  "win_streak",
+  "illuminati_bettors",
+  "normal_bettors",
+  "ignored_bettors",
+]);
+const BET_FIELDS = new Set(["Left", "Right"]);
+
+function isObject(value) {
+  return value !== null && typeof value === "object" && !Array.isArray(value);
+}
+
+function hasOnlyKnownFields(value, allowedFields) {
+  return isObject(value) && Object.keys(value).every((key) => allowedFields.has(key));
+}
+
+function validBet(value) {
+  if (value === undefined || value === "None") return true;
+  if (!hasOnlyKnownFields(value, BET_FIELDS)) return false;
+
+  const sides = Object.keys(value);
+  return sides.length === 1 && Number.isFinite(value[sides[0]]);
+}
+
+function validPublicRecordShape(record) {
+  if (!hasOnlyKnownFields(record, RECORD_FIELDS)) return false;
+  if (!hasOnlyKnownFields(record.left, CHARACTER_FIELDS)) return false;
+  if (!hasOnlyKnownFields(record.right, CHARACTER_FIELDS)) return false;
+
+  for (const character of [record.left, record.right]) {
+    if (typeof character.name !== "string" || character.name.length === 0) return false;
+    for (const field of CHARACTER_FIELDS) {
+      if (field !== "name" && field in character && !Number.isFinite(character[field])) {
+        return false;
+      }
+    }
+  }
+
+  for (const field of ["winner", "tier", "mode"]) {
+    if (field in record && typeof record[field] !== "string") return false;
+  }
+  for (const field of ["duration", "date", "sum"]) {
+    if (field in record && !Number.isFinite(record[field])) return false;
+  }
+
+  return validBet(record.bet);
+}
+
 function isoDate(value) {
   const date = new Date(value);
   if (!Number.isFinite(date.getTime())) throw new Error(`Invalid record date: ${value}`);
@@ -31,17 +92,7 @@ export function inspectPersonalRecords(records) {
 
   let previousDate = -Infinity;
   for (const [index, record] of records.entries()) {
-    if (
-      !record ||
-      typeof record !== "object" ||
-      !Number.isFinite(record.date) ||
-      !record.left ||
-      typeof record.left.name !== "string" ||
-      record.left.name.length === 0 ||
-      !record.right ||
-      typeof record.right.name !== "string" ||
-      record.right.name.length === 0
-    ) {
+    if (!validPublicRecordShape(record) || !Number.isFinite(record.date)) {
       throw new Error(`Invalid personal record at array index ${index}`);
     }
     if (record.date < previousDate) {
