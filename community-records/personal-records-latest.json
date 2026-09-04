@@ -203984,5 +203984,32 @@
     "sum": 1890,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788563904716,
+    "duration": 386796,
+    "left": {
+      "bet_amount": 537727,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Alter donald",
+      "normal_bettors": 42,
+      "win_streak": 11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 258903,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cliff-tsunade-godaime",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
