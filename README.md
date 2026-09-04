@@ -1,6 +1,6 @@
 # Salty Bet Bot
 
-Salty Bet Bot is a private, unpacked Chrome extension that analyzes SaltyBet matches, displays the original strategy's recommendations, records completed matches, and provides chart and records viewers.
+Salty Bet Bot is a private, unpacked Chrome extension that analyzes SaltyBet matches, displays the original strategy's recommendations, records completed matches, and provides chart and records viewers. Matchmaking's maximum bet can be adjusted from the popup without changing the rest of the strategy.
 
 This branch restores the 2021 extension on Manifest V3. It preserves the existing betting formulas and bundled 458,292-match baseline while replacing the obsolete persistent background page with a restart-safe service worker.
 
@@ -62,6 +62,7 @@ Before enabling automation, watch several complete matchmaking cycles and verify
 - The overlay changes from loading to **Observe only**.
 - Open, locked, winner, and mode-switch chat messages are recognized.
 - Recommendations appear for the fighters shown on SaltyBet.
+- The popup's **Matchmaking maximum** defaults to 32,000 and persists after reopening.
 - No betting button is clicked and the wager is not submitted.
 - The records page gains one personal record per eligible completed match, without duplicates.
 - The extension keeps tracking when the SaltyBet tab is in the background.
@@ -80,6 +81,14 @@ If multiple SaltyBet tabs are open, the first valid tab becomes the controller a
 The change takes effect on the next complete eligible match; it will not place a late wager on a match already processed in observe mode.
 
 Turn the switch off at any time to return immediately to observe-only operation. The setting persists across Chrome restarts.
+
+## Adjust the matchmaking maximum
+
+1. Open the extension popup.
+2. Enter a whole-number maximum from **1** through **1,000,000**.
+3. Choose **Save maximum**.
+
+The saved maximum is used as the input to matchmaking confidence scaling, while the existing match-history and balance scaling remain active. It takes effect with the next new matchmaking match, so changing it during an open match does not alter that match's recommendation. The existing mine all-in behavior at or below 4,100 remains unchanged. This control does not change tournament wagers, exhibition `$1` recommendations, or `$1` tie fallbacks.
 
 ## Records and backups
 
@@ -137,4 +146,4 @@ npx playwright install chromium
 
 ## Strategy notes
 
-The restoration does not retrain or alter the original formulas and constants. Matchmaking intentionally favors selected upset opportunities and scales wager size with balance and confidence. Tournaments use their separate balance, while exhibitions retain the original nominal recommendation. Recommendations are not a guarantee of virtual-salt gains.
+The restoration does not retrain or alter the original formulas and constants. Matchmaking intentionally favors selected upset opportunities and scales wager size with balance and confidence; its default maximum is 32,000 and the popup can set a different maximum. Tournaments use their separate balance, while exhibitions retain the original nominal recommendation. Recommendations are not a guarantee of virtual-salt gains.
