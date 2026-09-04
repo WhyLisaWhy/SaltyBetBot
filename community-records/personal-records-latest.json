@@ -203255,5 +203255,140 @@
     "sum": 111460928,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1273
+    },
+    "date": 1788557533110,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1653553,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hourai-car",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1926271,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Rera EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 111430155,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32029
+    },
+    "date": 1788557695317,
+    "duration": 102007,
+    "left": {
+      "bet_amount": 1845219,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Joker EX3",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2032608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sik scorpion",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "sum": 111431248,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2995
+    },
+    "date": 1788557885513,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 1767308,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Wolf",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2731948,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Carl clover",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 111399219,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28195
+    },
+    "date": 1788558155757,
+    "duration": 216246,
+    "left": {
+      "bet_amount": 2309585,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Yoshi EX2",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1658704,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Deidara nzc",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 111403841,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788558345917,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 2454275,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Barts",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2253590,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "G rugal CVS",
+      "normal_bettors": 14,
+      "win_streak": 5
+    },
+    "sum": 111375646,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
