@@ -203930,5 +203930,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788563153714,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 573003,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Alter donald",
+      "normal_bettors": 46,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125920,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Maleficent",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1890
+    },
+    "date": 1788563453920,
+    "duration": 240207,
+    "left": {
+      "bet_amount": 141591,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cliff-tsunade-godaime",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 445250,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Devilotte de deathsatan ix",
+      "normal_bettors": 40,
+      "win_streak": 6
+    },
+    "sum": 1890,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
