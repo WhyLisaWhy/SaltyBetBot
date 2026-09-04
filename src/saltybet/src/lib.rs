@@ -5,7 +5,7 @@ use salty_bet_bot::{server_log, percentage, decimal, spawn, wait_until_defined, 
 use salty_bet_bot::api::{controller_register, records_get_all, records_insert, ControllerStatus, RuntimeEvent, MAX_MATCH_TIME_LIMIT, WaifuMessage, WaifuBetsOpen, WaifuBetsClosed};
 use algorithm::record::{Record, Character, Winner, Mode, Tier};
 use algorithm::simulation::{Bet, Simulation, Simulator, Strategy, Elo};
-use algorithm::strategy::{MATCHMAKING_STRATEGY, TOURNAMENT_STRATEGY, CustomStrategy, winrates, average_odds, needed_odds, expected_profits, bettors, expected_glicko_outcome};
+use algorithm::strategy::{matchmaking_strategy, TOURNAMENT_STRATEGY, CustomStrategy, winrates, average_odds, needed_odds, expected_profits, bettors, expected_glicko_outcome};
 use futures_core::Stream;
 use futures_util::stream::StreamExt;
 use futures_signals::map_ref;
@@ -376,6 +376,7 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
             match message {
                 WaifuMessage::BetsOpen(open) => {
                     let mut state = process_state.borrow_mut();
+                    let is_matchmaking = open.mode == Mode::Matchmaking;
 
                     state.clear_info_container();
 
@@ -384,6 +385,11 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
                     state.closed = None;
                     state.mode_switch = None;
                     state.information = None;
+
+                    if is_matchmaking {
+                        state.simulation.matchmaking_strategy =
+                            Some(matchmaking_strategy(state.configured_max_bet));
+                    }
 
                     // Rendering matchup statistics must not depend on the live
                     // wager controls. Those controls are unavailable or have
@@ -587,11 +593,13 @@ pub async fn observe_changes<A>(state: Rc<RefCell<State>>, messages: A) where A:
                 is_controller,
                 controller_tab_id: _,
                 automation_enabled,
+                max_bet,
                 last_twitch_event_at: _,
             } => {
                 let mut current = state.borrow_mut();
                 current.is_controller = is_controller;
                 current.automation_enabled = automation_enabled;
+                current.configured_max_bet = max_bet as f64;
                 current.status.set_controller(is_controller, automation_enabled);
             },
             RuntimeEvent::HealthStatus { status } => {
@@ -667,6 +675,7 @@ pub struct State {
     info_container: Rc<InfoContainer>,
     is_controller: bool,
     automation_enabled: bool,
+    configured_max_bet: f64,
     status: Rc<RuntimeStatus>,
 }
 
@@ -1028,7 +1037,8 @@ impl InfoContainer {
 async fn initialize_state(container: Rc<InfoContainer>, status: Rc<RuntimeStatus>) -> Result<(), JsValue> {
     let observe = {
         let events = runtime_events::<RuntimeEvent>();
-        let ControllerStatus { is_controller, automation_enabled, .. } = controller_register().await?;
+        let ControllerStatus { is_controller, automation_enabled, max_bet, .. } = controller_register().await?;
+        let configured_max_bet = max_bet as f64;
         status.set_controller(is_controller, automation_enabled);
 
         /*let matchmaking_strategy: FormulaStrategy = serde_json::from_str(include_str!("../../../strategies/matchmaking_strategy")).unwrap();
@@ -1047,7 +1057,7 @@ async fn initialize_state(container: Rc<InfoContainer>, status: Rc<RuntimeStatus
 
             log!("Initialized {} records", len);
 
-            simulation.matchmaking_strategy = Some(MATCHMAKING_STRATEGY);
+            simulation.matchmaking_strategy = Some(matchmaking_strategy(configured_max_bet));
             simulation.tournament_strategy = Some(TOURNAMENT_STRATEGY);
 
             simulation
@@ -1064,6 +1074,7 @@ async fn initialize_state(container: Rc<InfoContainer>, status: Rc<RuntimeStatus
             info_container: container,
             is_controller,
             automation_enabled,
+            configured_max_bet,
             status,
         }));
 
