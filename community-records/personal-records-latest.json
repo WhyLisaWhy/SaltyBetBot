@@ -202877,5 +202877,86 @@
     "sum": 111283176,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37173
+    },
+    "date": 1788555125305,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2642344,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Metaknight",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155804,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Hol 'butt king' funtimes ex",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 111278492,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1119
+    },
+    "date": 1788555321506,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 1301240,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kain blade",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3838330,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Woody woodpecker",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 111360828,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38966
+    },
+    "date": 1788555471508,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 3071683,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Mega robo-len",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1201044,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mattrex",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 111359709,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
