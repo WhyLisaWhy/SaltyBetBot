@@ -203633,5 +203633,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1926
+    },
+    "date": 1788560533512,
+    "duration": 213999,
+    "left": {
+      "bet_amount": 31798,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Nana diclonius",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 210271,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Alter donald",
+      "normal_bettors": 37,
+      "win_streak": 8
+    },
+    "sum": 1926,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2215
+    },
+    "date": 1788560759712,
+    "duration": 169997,
+    "left": {
+      "bet_amount": 231077,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 21,
+      "name": "Greek goku",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55352,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Asura",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 2215,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788561009913,
+    "duration": 196001,
+    "left": {
+      "bet_amount": 160457,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 20,
+      "name": "Maleficent",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 96058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Popuko chitosegaoka as",
+      "normal_bettors": 20,
+      "win_streak": -9
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
