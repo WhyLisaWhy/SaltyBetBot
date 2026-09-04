@@ -55,6 +55,7 @@ pub enum WaifuMessage {
 pub struct Settings {
     pub schema_version: u32,
     pub automation_enabled: bool,
+    pub max_bet: u32,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -63,6 +64,7 @@ pub struct ControllerStatus {
     pub is_controller: bool,
     pub controller_tab_id: Option<u32>,
     pub automation_enabled: bool,
+    pub max_bet: u32,
     pub last_twitch_event_at: Option<f64>,
 }
 
@@ -77,6 +79,8 @@ pub enum RuntimeEvent {
         controller_tab_id: Option<u32>,
         #[serde(rename = "automationEnabled")]
         automation_enabled: bool,
+        #[serde(rename = "maxBet")]
+        max_bet: u32,
         #[serde(rename = "lastTwitchEventAt")]
         last_twitch_event_at: Option<f64>,
     },
@@ -294,4 +298,41 @@ pub fn partition_records(old_records: Vec<(u32, Record)>) -> (Vec<Record>, Vec<u
         }
     }
     (records, deleted)
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn controller_payloads_carry_the_matchmaking_maximum() {
+        let settings: Settings = serde_json::from_value(serde_json::json!({
+            "schemaVersion": 2,
+            "automationEnabled": false,
+            "maxBet": 64_000,
+        }))
+        .expect("settings payload should deserialize");
+        assert_eq!(settings.max_bet, 64_000);
+
+        let status: ControllerStatus = serde_json::from_value(serde_json::json!({
+            "isController": true,
+            "controllerTabId": 1,
+            "automationEnabled": false,
+            "maxBet": 64_000,
+            "lastTwitchEventAt": null,
+        }))
+        .expect("controller status should deserialize");
+        assert_eq!(status.max_bet, 64_000);
+
+        let event: RuntimeEvent = serde_json::from_value(serde_json::json!({
+            "kind": "controller_status",
+            "isController": true,
+            "controllerTabId": 1,
+            "automationEnabled": false,
+            "maxBet": 64_000,
+            "lastTwitchEventAt": null,
+        }))
+        .expect("controller event should deserialize");
+        assert!(matches!(event, RuntimeEvent::ControllerStatus { max_bet: 64_000, .. }));
+    }
 }

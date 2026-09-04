@@ -135,12 +135,71 @@ describe("Manifest V3 service worker core", () => {
   });
 
   it("defaults to observe-only and persists explicit settings", async () => {
-    expect(await worker.getSettings()).toEqual({ schemaVersion: 1, automationEnabled: false });
-    expect(await worker.setSettings({ automationEnabled: true })).toEqual({
+    expect(await worker.getSettings()).toEqual({
+      schemaVersion: 2,
+      automationEnabled: false,
+      maxBet: 32_000,
+    });
+    expect(await worker.setSettings({ automationEnabled: true, maxBet: 64_000 })).toEqual({
+      schemaVersion: 2,
+      automationEnabled: true,
+      maxBet: 64_000,
+    });
+    expect(await worker.getSettings()).toEqual({
+      schemaVersion: 2,
+      automationEnabled: true,
+      maxBet: 64_000,
+    });
+  });
+
+  it("migrates legacy settings and preserves omitted fields in partial updates", async () => {
+    Object.assign(mock.chromeApi.storage.local.values, {
       schemaVersion: 1,
       automationEnabled: true,
     });
-    expect(await worker.getSettings()).toEqual({ schemaVersion: 1, automationEnabled: true });
+
+    await worker.start();
+
+    expect(await worker.getSettings()).toEqual({
+      schemaVersion: 2,
+      automationEnabled: true,
+      maxBet: 32_000,
+    });
+    expect(mock.chromeApi.storage.local.values).toEqual({
+      schemaVersion: 2,
+      automationEnabled: true,
+      maxBet: 32_000,
+    });
+
+    expect(await worker.setSettings({ maxBet: 12_500 })).toEqual({
+      schemaVersion: 2,
+      automationEnabled: true,
+      maxBet: 12_500,
+    });
+    expect(await worker.setSettings({ automationEnabled: false })).toEqual({
+      schemaVersion: 2,
+      automationEnabled: false,
+      maxBet: 12_500,
+    });
+  });
+
+  it("rejects invalid maximum bets while accepting the configured boundaries", async () => {
+    for (const maxBet of [0, -1, 1.5, 1_000_001, Number.NaN, Number.POSITIVE_INFINITY, "64000", null]) {
+      await expect(worker.setSettings({ maxBet })).rejects.toThrow(
+        "maxBet must be an integer between 1 and 1000000",
+      );
+    }
+
+    await expect(worker.setSettings({ maxBet: 1 })).resolves.toEqual({
+      schemaVersion: 2,
+      automationEnabled: false,
+      maxBet: 1,
+    });
+    await expect(worker.setSettings({ maxBet: 1_000_000 })).resolves.toEqual({
+      schemaVersion: 2,
+      automationEnabled: false,
+      maxBet: 1_000_000,
+    });
   });
 
   it("stores personal records in deterministic chronological pages without exact duplicates", async () => {
@@ -170,7 +229,7 @@ describe("Manifest V3 service worker core", () => {
   });
 
   it("preserves settings, controller state, and personal records across worker restarts", async () => {
-    await worker.setSettings({ automationEnabled: true });
+    await worker.setSettings({ automationEnabled: true, maxBet: 64_000 });
     await worker.assignController(1);
     await worker.insertRecords({ records: [record(10)] });
 
@@ -181,13 +240,34 @@ describe("Manifest V3 service worker core", () => {
       now: () => 10_000_000,
     });
 
-    expect(await restarted.getSettings()).toEqual({ schemaVersion: 1, automationEnabled: true });
+    expect(await restarted.getSettings()).toEqual({
+      schemaVersion: 2,
+      automationEnabled: true,
+      maxBet: 64_000,
+    });
     const status = await restarted.handleRequest(
       { v: 1, type: "controller.register", payload: {} },
       { tab: mock.tabs.get(1) },
     );
     expect(status.isController).toBe(true);
+    expect(status.maxBet).toBe(64_000);
     expect(await restarted.personalRecordCount()).toBe(1);
+  });
+
+  it("broadcasts the configured maximum with controller status updates", async () => {
+    await worker.setSettings({ maxBet: 64_000 });
+
+    const statusMessages = mock.sent
+      .map(({ message }) => message.payload)
+      .filter((payload) => payload?.kind === "controller_status");
+
+    expect(statusMessages.length).toBeGreaterThan(0);
+    expect(statusMessages.at(-1)).toEqual(
+      expect.objectContaining({
+        automationEnabled: false,
+        maxBet: 64_000,
+      }),
+    );
   });
 
   it("exports a validated, overwrite-in-place personal-record backup", async () => {
