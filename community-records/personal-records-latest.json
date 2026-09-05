@@ -208736,5 +208736,167 @@
     "sum": 111578661,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20173
+    },
+    "date": 1788597226716,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 1583383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Beelzebub",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2919130,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Bloodbane",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 111559095,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6686
+    },
+    "date": 1788597356714,
+    "duration": 69994,
+    "left": {
+      "bet_amount": 1052593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Stoneaxe",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3237596,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Moriah the thief",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 111569963,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27861
+    },
+    "date": 1788597506915,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1318136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jet-stingray",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2646818,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "The root pack",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111572133,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9762
+    },
+    "date": 1788597667114,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 968763,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Belmod",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4980922,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Edgelord ravenous",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 111544272,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11902
+    },
+    "date": 1788597793113,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 3266036,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Warlock 3",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1511548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shimakaze",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 111546167,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13893
+    },
+    "date": 1788597967314,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 1359508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akumeme",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2917548,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Killa and ren",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 111551656,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
