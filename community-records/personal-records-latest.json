@@ -211328,5 +211328,113 @@
     "sum": 111561518,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36813
+    },
+    "date": 1788616185949,
+    "duration": 154232,
+    "left": {
+      "bet_amount": 2349460,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Liu kang",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1733282,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Butcher",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 111575968,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 732
+    },
+    "date": 1788616442118,
+    "duration": 196200,
+    "left": {
+      "bet_amount": 2209218,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dio di musca",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2118662,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Neodio",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 111539155,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15001
+    },
+    "date": 1788616592119,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1555704,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zodd",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3462137,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Shizuru fujino",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 111538423,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8370
+    },
+    "date": 1788616758319,
+    "duration": 105995,
+    "left": {
+      "bet_amount": 3784592,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Hotaru's bizarre adventure",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1810570,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "K.chris",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 111545135,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
