@@ -210761,5 +210761,113 @@
     "sum": 111627042,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3778
+    },
+    "date": 1788612646918,
+    "duration": 211982,
+    "left": {
+      "bet_amount": 1028307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jiraiya",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6464081,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Dhalsim3",
+      "normal_bettors": 28,
+      "win_streak": 9
+    },
+    "sum": 111655422,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18745
+    },
+    "date": 1788612751118,
+    "duration": 49998,
+    "left": {
+      "bet_amount": 5867416,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Prinny squad",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1419848,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Subaru",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 111656023,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21960
+    },
+    "date": 1788612937320,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 2648066,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Pocket evil ryu",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1642737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Robo-ky type-pee",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 111660545,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8573
+    },
+    "date": 1788613107318,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 4269741,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Minato arisato",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1303287,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hercules",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "sum": 111638585,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
