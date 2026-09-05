@@ -210599,5 +210599,167 @@
     "sum": 111582581,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788611444120,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 4091910,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "K'",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1551104,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Miyukaka",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 111584899,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18244
+    },
+    "date": 1788611660121,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 1389892,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Popura",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2506337,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Hotaru futaba",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 111584900,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1546
+    },
+    "date": 1788611830319,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 1559526,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yoshiyuki takagi",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2807595,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Kubikiri basara KOF",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 111617373,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11099
+    },
+    "date": 1788612000520,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 1336032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rain mk2",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4137142,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Xena",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 111615827,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28269
+    },
+    "date": 1788612210720,
+    "duration": 156202,
+    "left": {
+      "bet_amount": 1677114,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Ccs sakura kinomoto",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2096458,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nanase EX",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 111604728,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32591
+    },
+    "date": 1788612374721,
+    "duration": 104003,
+    "left": {
+      "bet_amount": 2405516,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Robo-ky XX",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2123066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aulbath",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 111627042,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
