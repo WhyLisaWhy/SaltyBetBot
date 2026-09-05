@@ -213893,5 +213893,140 @@
     "sum": 111405276,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20038
+    },
+    "date": 1788638767714,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 2371292,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Cool",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1698533,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kusanagi xiii",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 111381692,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35095
+    },
+    "date": 1788638951914,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 2579019,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Brogal",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1604154,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "2nd r.s.p",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 111395925,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1321
+    },
+    "date": 1788639071913,
+    "duration": 64001,
+    "left": {
+      "bet_amount": 3930268,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Bonobono",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1853103,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pigmon",
+      "normal_bettors": 18,
+      "win_streak": -18
+    },
+    "sum": 111451140,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38021
+    },
+    "date": 1788639208114,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 6270919,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Leona ex",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067738,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Felden",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 111451763,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23043
+    },
+    "date": 1788639338113,
+    "duration": 73996,
+    "left": {
+      "bet_amount": 2932199,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 12,
+      "name": "Sundown-kid",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1301762,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hamakaze",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 111458198,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
