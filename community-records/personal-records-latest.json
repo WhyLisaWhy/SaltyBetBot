@@ -204011,5 +204011,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13994
+    },
+    "date": 1788566584313,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 1230509,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "God kula",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3294334,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Shielder",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 111365416,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788566724314,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 1006181,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Astonishing Cyclops",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3852513,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Ar-chan",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 111370621,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24961
+    },
+    "date": 1788566958514,
+    "duration": 174000,
+    "left": {
+      "bet_amount": 7101029,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Mokou ulil",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1163864,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Nana diclonius",
+      "normal_bettors": 3,
+      "win_streak": -3
+    },
+    "sum": 111370620,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22378
+    },
+    "date": 1788567158713,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 2591993,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Emi yusa",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1387907,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Benimaru(mkii)",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 111345659,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
