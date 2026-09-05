@@ -209735,5 +209735,113 @@
     "sum": 111615993,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 43990
+    },
+    "date": 1788603465719,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 1154714,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Dd jiemeihua",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2697727,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Cheng sinzan rb2",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 111620481,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788603661921,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1045390,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mysterious power",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2720448,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Uzume",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 111719483,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23664
+    },
+    "date": 1788603823118,
+    "duration": 105200,
+    "left": {
+      "bet_amount": 1626863,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mukai EX3",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2141641,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Wonder Woman Reloaded",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 111719484,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788604228320,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 147418,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Rajaayuri",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 27320,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Pennywise the clown",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
