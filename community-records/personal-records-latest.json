@@ -207089,5 +207089,59 @@
     "sum": 13817,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788586128317,
+    "duration": 298801,
+    "left": {
+      "bet_amount": 947748,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 27,
+      "name": "Deka kohaku!",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 339046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Chipp gg1",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788587258718,
+    "duration": 98002,
+    "left": {
+      "bet_amount": 2114613,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jcvd",
+      "normal_bettors": 5,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 30044473,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Athena w",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "sum": 111440379,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
