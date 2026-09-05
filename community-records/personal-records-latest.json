@@ -205685,5 +205685,113 @@
     "sum": 111332078,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2522
+    },
+    "date": 1788576574318,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 1301773,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Clark 98",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2899873,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Fusagiko",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 111335646,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32057
+    },
+    "date": 1788576740319,
+    "duration": 111999,
+    "left": {
+      "bet_amount": 1073153,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Wafu",
+      "normal_bettors": 13,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3430084,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Merged zamasu",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 111333124,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2393
+    },
+    "date": 1788576960523,
+    "duration": 156203,
+    "left": {
+      "bet_amount": 5937261,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Lazy garfield",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1372249,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Takiyasya",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 111432615,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31643
+    },
+    "date": 1788577164719,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 2762747,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Cvs terry bogard",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1282664,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bao kof",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 111433168,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
