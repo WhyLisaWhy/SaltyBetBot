@@ -212489,5 +212489,140 @@
     "sum": 111294223,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29454
+    },
+    "date": 1788624204319,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 2073122,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Fio germi",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1879928,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Youmu konpaku",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 111295437,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16577
+    },
+    "date": 1788624384318,
+    "duration": 113996,
+    "left": {
+      "bet_amount": 8720624,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Matou sakura EX",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1212506,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ushio to tora",
+      "normal_bettors": 4,
+      "win_streak": -7
+    },
+    "sum": 111327417,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7617
+    },
+    "date": 1788624566516,
+    "duration": 125988,
+    "left": {
+      "bet_amount": 6380998,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Alien warrior",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1345528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kazuma EX",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "sum": 111329718,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17798
+    },
+    "date": 1788624714719,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 1464171,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cassie cage",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2822484,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Shishioh",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 111331323,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11655
+    },
+    "date": 1788624880720,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1736558,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kyko",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2312002,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Italian toki",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 111313525,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
