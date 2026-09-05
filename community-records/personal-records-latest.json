@@ -214946,5 +214946,59 @@
     "sum": 111313536,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788645543015,
+    "duration": 106009,
+    "left": {
+      "bet_amount": 2777851,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dark Slayer",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4538598,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Dark queen carmilla",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 111338579,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27856
+    },
+    "date": 1788645693212,
+    "duration": 96203,
+    "left": {
+      "bet_amount": 3892904,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Lenneth vp",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3164730,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cassie cage",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 111338578,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
