@@ -212786,5 +212786,113 @@
     "sum": 111407842,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788625971718,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 2809301,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Edi.e",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2063364,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mr. x - the kung fu master",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 111388285,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36517
+    },
+    "date": 1788626101719,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1417988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Anakaris",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7306021,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Panter-flauclaws",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 111388284,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29287
+    },
+    "date": 1788626247918,
+    "duration": 86192,
+    "left": {
+      "bet_amount": 1646544,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Robo-mukai",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2016857,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Rusty",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 111395337,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40444
+    },
+    "date": 1788626462522,
+    "duration": 150593,
+    "left": {
+      "bet_amount": 1024247,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tennma kazusanosuke",
+      "normal_bettors": 2,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7367433,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Schlussel-pre",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 111418905,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
