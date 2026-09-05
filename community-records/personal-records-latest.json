@@ -215108,5 +215108,113 @@
     "sum": 111367312,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 50418
+    },
+    "date": 1788646820081,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 2069953,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Genteki dan",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1833879,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Ultraman_a",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 111367348,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20545
+    },
+    "date": 1788646986280,
+    "duration": 112198,
+    "left": {
+      "bet_amount": 2081956,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Shrek",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2095967,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "A-zodiac",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 111316930,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18597
+    },
+    "date": 1788647130282,
+    "duration": 90005,
+    "left": {
+      "bet_amount": 1157238,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Akashima",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7255822,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "A-minagi",
+      "normal_bettors": 32,
+      "win_streak": 7
+    },
+    "sum": 111337140,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 723
+    },
+    "date": 1788647266478,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 2616922,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Sol",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1746222,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kensuke kudou",
+      "normal_bettors": 12,
+      "win_streak": -7
+    },
+    "sum": 111340099,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
