@@ -205901,5 +205901,140 @@
     "sum": 111433027,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29395
+    },
+    "date": 1788578207519,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 3433294,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Chibi kuroko",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1368045,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rai ex",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 111445500,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23676
+    },
+    "date": 1788578387725,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 977088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sa-tan",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2731051,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Kyoko_sakura EX",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 111457114,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5700
+    },
+    "date": 1788578561920,
+    "duration": 114198,
+    "left": {
+      "bet_amount": 2952934,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Tu shou",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1213845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kyko",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 111433438,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788578751924,
+    "duration": 134002,
+    "left": {
+      "bet_amount": 3579085,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Thora kithugawa",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1462339,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Daimajin",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 111435777,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 878
+    },
+    "date": 1788578878120,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 5200290,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dark ash-kofm",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1165679,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Black rugal",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 111435776,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
