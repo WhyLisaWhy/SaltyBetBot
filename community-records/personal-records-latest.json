@@ -209330,5 +209330,113 @@
     "sum": 111669663,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 780
+    },
+    "date": 1788600897718,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 1208452,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Maverick hunter x",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4845826,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Homura & friends",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 111645016,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2631
+    },
+    "date": 1788601103737,
+    "duration": 152018,
+    "left": {
+      "bet_amount": 1858235,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Franky ex",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092739,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Great dragonian",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 111645211,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33001
+    },
+    "date": 1788601343918,
+    "duration": 185999,
+    "left": {
+      "bet_amount": 3933706,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kurorim",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1235375,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shuvait",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 111642580,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27822
+    },
+    "date": 1788601494118,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 2956522,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Evil karin",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1479481,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Beauty queen etna",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 111652858,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
