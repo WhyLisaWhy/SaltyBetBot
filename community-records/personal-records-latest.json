@@ -209600,5 +209600,140 @@
     "sum": 111596530,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16836
+    },
+    "date": 1788602735119,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 4948244,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "God orochi",
+      "normal_bettors": 31,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1346509,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Salty surfer",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 111603349,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17651
+    },
+    "date": 1788602865320,
+    "duration": 74199,
+    "left": {
+      "bet_amount": 1262619,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Azteca EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4619593,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Kuwabara",
+      "normal_bettors": 28,
+      "win_streak": 8
+    },
+    "sum": 111607915,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9830
+    },
+    "date": 1788603001319,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 4888765,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Hina",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1324721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jake",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 111612721,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4851
+    },
+    "date": 1788603125518,
+    "duration": 70199,
+    "left": {
+      "bet_amount": 1146850,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Reptile EX3",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9074952,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Beautiful kuando",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 111615380,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14733
+    },
+    "date": 1788603325518,
+    "duration": 143997,
+    "left": {
+      "bet_amount": 4519650,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Diokles",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1381037,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chen-mao",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 111615993,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
