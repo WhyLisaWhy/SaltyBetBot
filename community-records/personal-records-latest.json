@@ -209195,5 +209195,140 @@
     "sum": 111647792,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21167
+    },
+    "date": 1788599930919,
+    "duration": 94196,
+    "left": {
+      "bet_amount": 1790582,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Dhalsim vp",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3183785,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Real Ryu",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 111647794,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17892
+    },
+    "date": 1788600237120,
+    "duration": 240201,
+    "left": {
+      "bet_amount": 2120807,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dragon waifu",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2301747,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Shirai kuroko dbfc",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 111626627,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24606
+    },
+    "date": 1788600427321,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 1428663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Curfue",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2937949,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "God rugal",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 111645884,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42065
+    },
+    "date": 1788600601320,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 4457903,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Demon king dhaos",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1274221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Z kim",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 111657751,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24647
+    },
+    "date": 1788600741519,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 3199650,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Mtguile",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1318309,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sokaku mochizuki rb2",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 111669663,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
