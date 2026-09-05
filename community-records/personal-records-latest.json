@@ -208898,5 +208898,113 @@
     "sum": 111551656,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13786
+    },
+    "date": 1788598133515,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 1152956,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Setsuna 02um",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3744470,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Blue colonel",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 111558100,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5566
+    },
+    "date": 1788598377513,
+    "duration": 183990,
+    "left": {
+      "bet_amount": 4542728,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Heat-genblem",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1152323,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gadis",
+      "normal_bettors": 4,
+      "win_streak": -5
+    },
+    "sum": 111562330,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788598545714,
+    "duration": 111995,
+    "left": {
+      "bet_amount": 10447348,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Raine",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1446721,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Heika-ss",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "sum": 111556764,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16597
+    },
+    "date": 1788598783913,
+    "duration": 184198,
+    "left": {
+      "bet_amount": 998295,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pyron",
+      "normal_bettors": 3,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4746142,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Necoarc",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "sum": 111556765,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
