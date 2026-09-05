@@ -211436,5 +211436,113 @@
     "sum": 111545135,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788616972512,
+    "duration": 144194,
+    "left": {
+      "bet_amount": 1340141,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dorgan",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3039797,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Falco la pasione(nagiai)",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 111549131,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25696
+    },
+    "date": 1788617148720,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 2242654,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Baby bonnie hood EX3",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1783474,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Marilyn sue dae jie",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 111549132,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27873
+    },
+    "date": 1788617372723,
+    "duration": 164004,
+    "left": {
+      "bet_amount": 1131500,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ryu",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4971626,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shredder",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 111523436,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788617568920,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 2568943,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Megamari",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1994051,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Chie satonaka",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 111529745,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
