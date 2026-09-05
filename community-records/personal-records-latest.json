@@ -204632,5 +204632,113 @@
     "sum": 111272791,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21518
+    },
+    "date": 1788570229119,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 2402942,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shocking shocker",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1124829,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Ryougi_shiki",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 111272792,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24571
+    },
+    "date": 1788570509517,
+    "duration": 220189,
+    "left": {
+      "bet_amount": 1529432,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Fullmetal frank archer",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3089461,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hyper meca tau",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 111251274,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788570685520,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 2413884,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 25,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2451439,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gill hero",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 111300123,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10750
+    },
+    "date": 1788570839719,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 7887816,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Regular ass iori",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1362975,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dq2",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 111300125,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
