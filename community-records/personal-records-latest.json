@@ -210113,5 +210113,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5466
+    },
+    "date": 1788607126518,
+    "duration": 223999,
+    "left": {
+      "bet_amount": 558650,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Sailor nix",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Norimaro EX3",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 5466,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6294
+    },
+    "date": 1788607296719,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 560523,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Sagat",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 253039,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Spawn djhr",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "sum": 6294,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788607538919,
+    "duration": 186193,
+    "left": {
+      "bet_amount": 244034,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kani",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 528037,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Sailor nix",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
