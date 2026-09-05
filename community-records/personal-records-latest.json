@@ -208601,5 +208601,140 @@
     "sum": 111628299,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4052
+    },
+    "date": 1788596360114,
+    "duration": 94198,
+    "left": {
+      "bet_amount": 2381635,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Le policier",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1334598,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "International karateka",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 111583027,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22958
+    },
+    "date": 1788596560115,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 1470067,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Mast",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2142175,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Special-a strider hien",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 111585294,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6004
+    },
+    "date": 1788596766314,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 5265315,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Okita souji",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1157316,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Solid snake EX",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 111562336,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20249
+    },
+    "date": 1788596896515,
+    "duration": 76192,
+    "left": {
+      "bet_amount": 1584568,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kratos",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2118099,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Eins EX6",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 111563655,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19566
+    },
+    "date": 1788597060513,
+    "duration": 109993,
+    "left": {
+      "bet_amount": 1498797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Adam",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2019861,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Cecil harvey",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 111578661,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
