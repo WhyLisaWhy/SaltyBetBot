@@ -215702,5 +215702,113 @@
     "sum": 111401101,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30217
+    },
+    "date": 1788650380888,
+    "duration": 76005,
+    "left": {
+      "bet_amount": 4062861,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Lambda",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1938146,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ao-takagami",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 111403019,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25913
+    },
+    "date": 1788650551088,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 2848294,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Giano",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1700685,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ralf 2k2",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 111417328,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17598
+    },
+    "date": 1788650681095,
+    "duration": 76012,
+    "left": {
+      "bet_amount": 1362953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "W.nut",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3284455,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Purprill",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 111391415,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38304
+    },
+    "date": 1788650871288,
+    "duration": 130004,
+    "left": {
+      "bet_amount": 1885434,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Saya_g",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2213096,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "F_gills",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 111398679,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
