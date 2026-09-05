@@ -213245,5 +213245,59 @@
     "sum": 3065,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4406
+    },
+    "date": 1788629692521,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 522922,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 404831,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Queen the spade",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 4406,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788629974119,
+    "duration": 225601,
+    "left": {
+      "bet_amount": 253447,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Ex rumia",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 278884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
