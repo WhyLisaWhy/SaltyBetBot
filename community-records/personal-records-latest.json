@@ -214838,5 +214838,113 @@
     "sum": 111263067,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30184
+    },
+    "date": 1788644852611,
+    "duration": 96204,
+    "left": {
+      "bet_amount": 1912619,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Clippy",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2107537,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Foxy ex",
+      "normal_bettors": 21,
+      "win_streak": -6
+    },
+    "sum": 111266149,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788644996606,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 1492774,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Robbie rotten",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5184230,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Deadpool mvc3",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 111235965,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28539
+    },
+    "date": 1788645236806,
+    "duration": 180191,
+    "left": {
+      "bet_amount": 3862866,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Celesty",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1392666,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Syoryuzan kohaku",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 111235966,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45805
+    },
+    "date": 1788645363028,
+    "duration": 66217,
+    "left": {
+      "bet_amount": 7051228,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kiriko ns",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 12851512,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Holy god earth svg",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111313536,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
