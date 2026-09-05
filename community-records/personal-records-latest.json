@@ -215000,5 +215000,32 @@
     "sum": 111338578,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23126
+    },
+    "date": 1788646069560,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 2269954,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Star",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2877678,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sans EX7",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 111325634,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
