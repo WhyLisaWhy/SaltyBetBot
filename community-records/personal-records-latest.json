@@ -212219,5 +212219,113 @@
     "sum": 111435000,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16405
+    },
+    "date": 1788622410918,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 5859335,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Kaban",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1305286,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryo",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 111409357,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13912
+    },
+    "date": 1788622620920,
+    "duration": 154003,
+    "left": {
+      "bet_amount": 1861645,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Rockbomb",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1790018,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kotoe",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 111413002,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34505
+    },
+    "date": 1788622797120,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 2147509,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Koneko",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1752660,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Dash-hell",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 111399090,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28909
+    },
+    "date": 1788622993318,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 1913055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ermac",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2206658,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "God demitri",
+      "normal_bettors": 29,
+      "win_streak": -4
+    },
+    "sum": 111364585,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
