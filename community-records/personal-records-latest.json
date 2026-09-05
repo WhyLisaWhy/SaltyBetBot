@@ -210491,5 +210491,113 @@
     "sum": 111660310,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5041
+    },
+    "date": 1788610747519,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1390222,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jake",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4683892,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Syaoran",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 111635499,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15334
+    },
+    "date": 1788610957718,
+    "duration": 154198,
+    "left": {
+      "bet_amount": 1789386,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kairu a",
+      "normal_bettors": 16,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1671192,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Bao kof",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 111636994,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39079
+    },
+    "date": 1788611143717,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 2551427,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Det. garret laurel",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1692889,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kanami",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 111621660,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11287
+    },
+    "date": 1788611279920,
+    "duration": 82203,
+    "left": {
+      "bet_amount": 1336160,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Karin EX3",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6496501,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Nobuko(emanon)",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 111582581,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
