@@ -205550,5 +205550,140 @@
     "sum": 111338644,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788575833716,
+    "duration": 170197,
+    "left": {
+      "bet_amount": 1771001,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "D4 alice margatroid",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3832057,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Aurum axe",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 111319270,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35511
+    },
+    "date": 1788575983717,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 1625929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Maleficent",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2601616,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Gyarados",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 111319271,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29251
+    },
+    "date": 1788576117925,
+    "duration": 80008,
+    "left": {
+      "bet_amount": 1182866,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Alvan EX",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3537806,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Dr. mario",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 111341166,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18788
+    },
+    "date": 1788576294120,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 4320499,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 15,
+      "name": "Selvaria bles",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4178113,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kusaregedo EX",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 111350866,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19361
+    },
+    "date": 1788576428118,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 5945082,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "A-green EX3",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1098901,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Asuka cvs",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 111332078,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
