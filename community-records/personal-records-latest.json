@@ -212894,5 +212894,140 @@
     "sum": 111418905,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788626794345,
+    "duration": 60023,
+    "left": {
+      "bet_amount": 106250,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ex rumia",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 66795,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Mirage",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2511
+    },
+    "date": 1788627058514,
+    "duration": 210192,
+    "left": {
+      "bet_amount": 169436,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Spin akuma",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 68828,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Jack-hamma",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "sum": 2511,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788627258718,
+    "duration": 144204,
+    "left": {
+      "bet_amount": 53486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jyubei yagyu",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 216369,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Namek goku",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1931
+    },
+    "date": 1788627554920,
+    "duration": 220202,
+    "left": {
+      "bet_amount": 247060,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Chiduru",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 44473,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Goku iadora",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1931,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788627789130,
+    "duration": 180208,
+    "left": {
+      "bet_amount": 37234,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Crocodile",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 293669,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kikuchiyo",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
