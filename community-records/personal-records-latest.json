@@ -214082,5 +214082,32 @@
     "sum": 111446783,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19132
+    },
+    "date": 1788640204795,
+    "duration": 65995,
+    "left": {
+      "bet_amount": 1564147,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ninja golf",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 13267121,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "An ogre",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 111466197,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
