@@ -206225,5 +206225,140 @@
     "sum": 111441716,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788580085118,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 1479936,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Top man",
+      "normal_bettors": 11,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4561398,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kamitsurugi",
+      "normal_bettors": 20,
+      "win_streak": 11
+    },
+    "sum": 111441717,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22385
+    },
+    "date": 1788580239124,
+    "duration": 100005,
+    "left": {
+      "bet_amount": 2917509,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "Ciel EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1081617,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Metal slug",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 111441716,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14573
+    },
+    "date": 1788580389320,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1108722,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Amazo",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5347555,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Yuna",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 111449952,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24339
+    },
+    "date": 1788580575517,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 2462266,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Thwomp",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2080002,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Reisen-deadpool-inaba",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 111435379,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788580781720,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 8667763,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Rutee",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1702093,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Char's z'gok",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 111411040,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
