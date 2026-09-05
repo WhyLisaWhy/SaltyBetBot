@@ -213596,5 +213596,140 @@
     "sum": 111349403,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17347
+    },
+    "date": 1788636770114,
+    "duration": 176198,
+    "left": {
+      "bet_amount": 2801305,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Pierre",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1422106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Omanyte EX3",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 111351655,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28237
+    },
+    "date": 1788636920114,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1033907,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Omega shingo",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4377959,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Abyss form 1",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 111385414,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32407
+    },
+    "date": 1788637124513,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 876302,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dandy j",
+      "normal_bettors": 1,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3546512,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Kyoko_sakura EX",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "sum": 111392040,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10542
+    },
+    "date": 1788637290513,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1309319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Galacta knight",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3960625,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Benimaru EX",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 111359633,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3480
+    },
+    "date": 1788637430713,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 1321335,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Athena w",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3372114,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Boring sonsaku hakufu",
+      "normal_bettors": 13,
+      "win_streak": -8
+    },
+    "sum": 111363109,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
