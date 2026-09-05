@@ -208304,5 +208304,140 @@
     "sum": 111581793,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20310
+    },
+    "date": 1788594496513,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 1558927,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Void",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2735775,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Lf2 - jack",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 111581796,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16332
+    },
+    "date": 1788594652714,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 3232595,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Pocket Sakura",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1149217,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Condor EX",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 111561486,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4270
+    },
+    "date": 1788594798725,
+    "duration": 90011,
+    "left": {
+      "bet_amount": 1903001,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dialog",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1973010,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Mileena umk3",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 111567263,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24629
+    },
+    "date": 1788594942913,
+    "duration": 84198,
+    "left": {
+      "bet_amount": 1175969,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kiriko ns",
+      "normal_bettors": 3,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6220302,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Gomora",
+      "normal_bettors": 32,
+      "win_streak": 14
+    },
+    "sum": 111571373,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25549
+    },
+    "date": 1788595159115,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 1274705,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Reisen udongein inaba",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3318374,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Mr. broly",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 111576011,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
