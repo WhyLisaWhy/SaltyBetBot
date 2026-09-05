@@ -210221,5 +210221,113 @@
     "sum": 2265,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6279
+    },
+    "date": 1788609240325,
+    "duration": 164206,
+    "left": {
+      "bet_amount": 976136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jumbo ozaki",
+      "normal_bettors": 3,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4251196,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Reika izumi",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 111738819,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788609362319,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 937097,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Weakling",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 46063189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Heavy",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 111740259,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35376
+    },
+    "date": 1788609510518,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 1295827,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Rain mk2",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6046825,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "D Chun-li",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 111740260,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22829
+    },
+    "date": 1788609650518,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 2476812,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mc'chris",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1859886,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Theskiver",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 111704884,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
