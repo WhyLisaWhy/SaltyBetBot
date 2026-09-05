@@ -113,6 +113,14 @@ export function createServiceWorker({
   now = () => Date.now(),
 }) {
   let databasePromise;
+  let settingsWriteQueue = Promise.resolve();
+
+  function serializeSettingsWrite(operation) {
+    const result = settingsWriteQueue.then(operation);
+    // A failed write must not prevent later requests from changing settings.
+    settingsWriteQueue = result.catch(() => {});
+    return result;
+  }
 
   function openDatabase() {
     if (!databasePromise) {
@@ -140,7 +148,6 @@ export function createServiceWorker({
   }
 
   async function setSettings(payload = {}) {
-    const current = await getSettings();
     const hasAutomationEnabled = Object.prototype.hasOwnProperty.call(payload, "automationEnabled");
     const hasMaxBet = Object.prototype.hasOwnProperty.call(payload, "maxBet");
 
@@ -151,18 +158,24 @@ export function createServiceWorker({
       throw new Error(`maxBet must be an integer between ${MIN_MAX_BET} and ${MAX_MAX_BET}`);
     }
 
-    const settings = normalizedSettings({
-      automationEnabled: hasAutomationEnabled ? payload.automationEnabled : current.automationEnabled,
-      maxBet: hasMaxBet ? payload.maxBet : current.maxBet,
+    const settings = await serializeSettingsWrite(async () => {
+      const current = await getSettings();
+      const next = normalizedSettings({
+        automationEnabled: hasAutomationEnabled ? payload.automationEnabled : current.automationEnabled,
+        maxBet: hasMaxBet ? payload.maxBet : current.maxBet,
+      });
+      await chromeApi.storage.local.set(next);
+      return next;
     });
-    await chromeApi.storage.local.set(settings);
     await broadcastControllerStatus();
     return settings;
   }
 
   async function ensureDefaults() {
-    const current = await chromeApi.storage.local.get(DEFAULT_SETTINGS);
-    await chromeApi.storage.local.set(normalizedSettings(current));
+    await serializeSettingsWrite(async () => {
+      const current = await chromeApi.storage.local.get(DEFAULT_SETTINGS);
+      await chromeApi.storage.local.set(normalizedSettings(current));
+    });
     await chromeApi.alarms.create(HEALTH_ALARM, { periodInMinutes: 5 });
     await chromeApi.alarms.create(PERSONAL_RECORDS_BACKUP_ALARM, {
       delayInMinutes: 1,

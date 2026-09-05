@@ -12,8 +12,8 @@
     "records": "cargo run --release -p process-records",
     "test": "npm run test:js && npm run test:rust",
     "test:js": "vitest run",
-    "test:rust": "cargo test -p algorithm",
-    "test:browser": "node tests/browser/extension-smoke.mjs",
+    "test:rust": "cargo test -p algorithm -p salty_bet_bot",
+    "test:browser": "node tests/browser/extension-smoke.mjs && node tests/browser/popup-workflows.mjs",
     "test:parser": "node scripts/test-parser.mjs",
     "verify": "npm test && npm run test:parser && npm run build && node scripts/verify-build.mjs && npm run test:browser"
   },

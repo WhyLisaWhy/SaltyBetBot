@@ -202,6 +202,68 @@ describe("Manifest V3 service worker core", () => {
     });
   });
 
+  it("preserves an explicit disable when a maximum-bet update overlaps", async () => {
+    await worker.setSettings({ automationEnabled: true });
+
+    await Promise.all([
+      worker.setSettings({ automationEnabled: false }),
+      worker.setSettings({ maxBet: 12_500 }),
+    ]);
+
+    expect(await worker.getSettings()).toEqual({
+      schemaVersion: 2,
+      automationEnabled: false,
+      maxBet: 12_500,
+    });
+  });
+
+  it("does not let a delayed startup settings read overwrite an explicit disable", async () => {
+    Object.assign(mock.chromeApi.storage.local.values, {
+      schemaVersion: 1,
+      automationEnabled: true,
+    });
+    const originalGet = mock.chromeApi.storage.local.get;
+    let firstRead = true;
+    mock.chromeApi.storage.local.get = async (defaults) => {
+      const snapshot = await originalGet(defaults);
+      if (firstRead) {
+        firstRead = false;
+        await new Promise((resolve) => setImmediate(resolve));
+      }
+      return snapshot;
+    };
+
+    await Promise.all([worker.start(), worker.setSettings({ automationEnabled: false })]);
+
+    expect(await worker.getSettings()).toEqual({
+      schemaVersion: 2,
+      automationEnabled: false,
+      maxBet: 32_000,
+    });
+  });
+
+  it("allows a later settings update after a storage write fails", async () => {
+    await worker.setSettings({ automationEnabled: true });
+    const originalSet = mock.chromeApi.storage.local.set;
+    let failNextWrite = true;
+    mock.chromeApi.storage.local.set = async (settings) => {
+      if (failNextWrite) {
+        failNextWrite = false;
+        throw new Error("Storage write failed");
+      }
+      return originalSet(settings);
+    };
+
+    await expect(worker.setSettings({ maxBet: 12_500 })).rejects.toThrow("Storage write failed");
+    await worker.setSettings({ automationEnabled: false });
+
+    expect(await worker.getSettings()).toEqual({
+      schemaVersion: 2,
+      automationEnabled: false,
+      maxBet: 32_000,
+    });
+  });
+
   it("stores personal records in deterministic chronological pages without exact duplicates", async () => {
     await worker.insertRecords({ records: [record(30), record(10), record(20), record(20)] });
 

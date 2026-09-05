@@ -7,6 +7,7 @@ import { promisify } from "node:util";
 import { pathToFileURL } from "node:url";
 import {
   evaluateBackupStatus,
+  githubMasterIsCurrent,
   readBackupStatus,
   readGitHubMasterStatus,
 } from "./personal-records-backup-status.mjs";
@@ -29,6 +30,43 @@ async function writeAlertKey(alertPath, key) {
   await rename(temporaryPath, alertPath);
 }
 
+async function trackGitHubIncident(incidentPath, status, masterStatus, masterError, now) {
+  const checkedAt = new Date(now).toISOString();
+  const validTimestamp = value => typeof value === "string" &&
+    Number.isFinite(Date.parse(value)) && Date.parse(value) <= Date.parse(checkedAt);
+  let previous = null;
+  try {
+    previous = JSON.parse(await readFile(incidentPath, "utf8"));
+  } catch (error) {
+    if (error.code !== "ENOENT" && !(error instanceof SyntaxError)) throw error;
+  }
+  if (!previous || typeof previous !== "object" || Array.isArray(previous) ||
+      !["masterLagStartedAt", "masterUnavailableStartedAt"].every(key =>
+        previous[key] === null || validTimestamp(previous[key]))) {
+    previous = null;
+  }
+  // Bootstrap missing or damaged incident state from the last publication. Subsequent
+  // incidents start when observed, and successful publisher retries never
+  // reset their age. Keep this state separate from publisher-owned status.json.
+  const startedAt = previous === null && validTimestamp(status?.lastSuccessAt)
+    ? status.lastSuccessAt
+    : checkedAt;
+  const current = masterStatus && githubMasterIsCurrent(status, masterStatus);
+  const next = {
+    masterLagStartedAt: current
+      ? null
+      : previous?.masterLagStartedAt || (masterStatus ? startedAt : null),
+    masterUnavailableStartedAt: masterError
+      ? previous?.masterUnavailableStartedAt || startedAt
+      : null,
+  };
+  await mkdir(dirname(incidentPath), { recursive: true });
+  const temporaryPath = `${incidentPath}.${process.pid}.tmp`;
+  await writeFile(temporaryPath, `${JSON.stringify(next, null, 2)}\n`, { mode: 0o600 });
+  await rename(temporaryPath, incidentPath);
+  return next;
+}
+
 async function defaultNotify(message) {
   await execFileAsync("/usr/bin/logger", ["-t", "saltybet-records-backup", message]).catch(() => {});
   await execFileAsync("/usr/bin/notify-send", ["-u", "critical", "SaltyBetBot backup alert", message]).catch(
@@ -39,6 +77,7 @@ async function defaultNotify(message) {
 export async function runBackupWatchdog({
   statusPath,
   alertPath,
+  incidentPath = `${alertPath}.incident.json`,
   backupRepo = null,
   masterStatus = undefined,
   readMasterStatus = readGitHubMasterStatus,
@@ -55,7 +94,12 @@ export async function runBackupWatchdog({
       resolvedMasterStatus = null;
     }
   }
-  const evaluation = evaluateBackupStatus(await readBackupStatus(statusPath), now, {
+  const status = await readBackupStatus(statusPath);
+  const incident = resolvedMasterStatus || masterError
+    ? await trackGitHubIncident(incidentPath, status, resolvedMasterStatus, masterError, now)
+    : {};
+  const evaluation = evaluateBackupStatus(status, now, {
+    ...incident,
     masterStatus: resolvedMasterStatus,
     masterError,
   });

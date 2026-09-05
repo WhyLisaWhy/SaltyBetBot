@@ -151,6 +151,14 @@ export async function recordBackupFailure({ statusPath, message, at = new Date()
   return next;
 }
 
+export function githubMasterIsCurrent(status, masterStatus) {
+  const hasHashes = typeof status?.sha256 === "string" && typeof masterStatus?.sha256 === "string";
+  return hasHashes
+    ? masterStatus.sha256 === status.sha256
+    : masterStatus.recordCount >= status?.recordCount &&
+      masterStatus.lastDateIso >= status?.lastDateIso;
+}
+
 export function evaluateBackupStatus(
   status,
   now = new Date(),
@@ -159,6 +167,8 @@ export function evaluateBackupStatus(
     staleAfterMs = BACKUP_STALE_AFTER_MS,
     masterStatus = null,
     masterError = null,
+    masterLagStartedAt = null,
+    masterUnavailableStartedAt = null,
   } = {},
 ) {
   const currentTime = now instanceof Date ? now : new Date(now);
@@ -196,30 +206,31 @@ export function evaluateBackupStatus(
   }
 
   const ageMs = Math.max(0, currentTime.getTime() - lastSuccessAt.getTime());
-  if (masterError && ageMs > staleAfterMs) {
+  const unavailableAgeMs = masterUnavailableStartedAt
+    ? Math.max(0, currentTime.getTime() - new Date(masterUnavailableStartedAt).getTime())
+    : ageMs;
+  const lagAgeMs = masterLagStartedAt
+    ? Math.max(0, currentTime.getTime() - new Date(masterLagStartedAt).getTime())
+    : ageMs;
+  if (masterError && unavailableAgeMs > staleAfterMs) {
     return {
       alert: true,
       reason: "github_unavailable",
-      key: `github-unavailable:${status.lastSuccessAt}`,
+      key: `github-unavailable:${masterUnavailableStartedAt || status.lastSuccessAt}`,
       message: `GitHub master could not be checked for ${Math.round(
-        ageMs / 60000,
+        unavailableAgeMs / 60000,
       )} minutes: ${masterError}`,
     };
   }
 
   if (masterStatus) {
-    const hasHashes = typeof status.sha256 === "string" && typeof masterStatus.sha256 === "string";
-    const masterIsCurrent = hasHashes
-      ? masterStatus.sha256 === status.sha256
-      : masterStatus.recordCount >= status.recordCount &&
-        masterStatus.lastDateIso >= status.lastDateIso;
-    if (!masterIsCurrent && ageMs > staleAfterMs) {
+    if (!githubMasterIsCurrent(status, masterStatus) && lagAgeMs > staleAfterMs) {
       return {
         alert: true,
         reason: "github_stale",
-        key: `github:${status.sha256 || status.lastDateIso || status.recordCount}`,
+        key: `github:${masterLagStartedAt || status.sha256 || status.lastDateIso || status.recordCount}`,
         message: `GitHub master is still at ${masterStatus.recordCount} records while the VM has published ${status.recordCount}; it has lagged for ${Math.round(
-          ageMs / 60000,
+          lagAgeMs / 60000,
         )} minutes`,
       };
     }
