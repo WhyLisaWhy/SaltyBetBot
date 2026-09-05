@@ -210194,5 +210194,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2265
+    },
+    "date": 1788607913320,
+    "duration": 314401,
+    "left": {
+      "bet_amount": 523802,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Spawn djhr",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 310917,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Sailor nix",
+      "normal_bettors": 14,
+      "win_streak": 5
+    },
+    "sum": 2265,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
