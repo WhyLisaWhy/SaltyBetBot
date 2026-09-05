@@ -209843,5 +209843,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1835
+    },
+    "date": 1788604418522,
+    "duration": 136205,
+    "left": {
+      "bet_amount": 152039,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Sagat",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 44731,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Kou EX3",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 1835,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2369
+    },
+    "date": 1788604608517,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 210248,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Spawn djhr",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 70562,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Cobra",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 2369,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3156
+    },
+    "date": 1788604904718,
+    "duration": 242200,
+    "left": {
+      "bet_amount": 251717,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Buntaro EX",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 102064,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Stern",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 3156,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
