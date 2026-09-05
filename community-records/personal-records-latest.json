@@ -209924,5 +209924,113 @@
     "sum": 3156,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4420
+    },
+    "date": 1788605269120,
+    "duration": 304200,
+    "left": {
+      "bet_amount": 212026,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Yoma komatsu",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 212090,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Kani",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 4420,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8749
+    },
+    "date": 1788605489325,
+    "duration": 164196,
+    "left": {
+      "bet_amount": 312834,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "More suave dude",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 137665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Myuu",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 8749,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12495
+    },
+    "date": 1788605755518,
+    "duration": 206197,
+    "left": {
+      "bet_amount": 283652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Roa",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 224771,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Sailor nix",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 12495,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788605955717,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 340393,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Norimaro EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 155655,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Rancid",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
