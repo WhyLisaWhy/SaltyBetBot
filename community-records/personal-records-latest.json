@@ -207143,5 +207143,140 @@
     "sum": 111440379,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35012
+    },
+    "date": 1788587410919,
+    "duration": 94199,
+    "left": {
+      "bet_amount": 4404445,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Zou",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1504132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider garren",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 111440378,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8720
+    },
+    "date": 1788587576918,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 18870701,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 13,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1209658,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Baraki",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 111452241,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2254
+    },
+    "date": 1788587731117,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1031505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Grandmaster miyako",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6040678,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Black goku",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 111452800,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33582
+    },
+    "date": 1788587917321,
+    "duration": 130205,
+    "left": {
+      "bet_amount": 1523873,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cyborg_t-8p",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2015730,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Vise",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 111453185,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788588037320,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 2199399,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Voltage zeroko",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3781814,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Valgar reinhart",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 111478157,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
