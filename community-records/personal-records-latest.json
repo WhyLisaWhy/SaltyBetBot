@@ -215810,5 +215810,111 @@
     "sum": 111398679,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25398
+    },
+    "date": 1788650991484,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 1823824,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Deluxe ai",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3441282,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Guile hd",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 111360375,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1497
+    },
+    "date": 1788651141485,
+    "duration": 93995,
+    "left": {
+      "bet_amount": 9425292,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "O-kbk",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2136670,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lit ren",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 111334977,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1788651298288,
+    "duration": 96586,
+    "left": {
+      "bet_amount": 166425,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Big zam",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 633156,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Kagami ex",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788651738087,
+    "duration": 170202,
+    "left": {
+      "bet_amount": 566801,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Alien borg",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 310502,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Ex iori xiii",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
