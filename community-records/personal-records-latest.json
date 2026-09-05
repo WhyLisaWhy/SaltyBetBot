@@ -213137,5 +213137,113 @@
     "sum": 1846,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5081
+    },
+    "date": 1788628865920,
+    "duration": 224189,
+    "left": {
+      "bet_amount": 309024,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Namek goku",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 213738,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chiduru",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 5081,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788629056118,
+    "duration": 130116,
+    "left": {
+      "bet_amount": 401074,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kikuchiyo",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151019,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788629272319,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 335447,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Queen the spade",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 329278,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "M-lancer",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3065
+    },
+    "date": 1788629442330,
+    "duration": 114011,
+    "left": {
+      "bet_amount": 566942,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ex rumia",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 249291,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Namek goku",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 3065,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
