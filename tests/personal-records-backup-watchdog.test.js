@@ -1,4 +1,4 @@
-import { mkdtemp, readFile, rm } from "node:fs/promises";
+import { mkdtemp, readFile, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { afterEach, describe, expect, it } from "vitest";
@@ -26,6 +26,118 @@ afterEach(async () => {
 });
 
 describe("personal-record backup watchdog", () => {
+  it("repairs malformed incident JSON without suppressing publisher failure alerts", async () => {
+    const { statusPath, alertPath } = await paths();
+    await recordBackupFailure({ statusPath, message: "Synthetic failure" });
+    await recordBackupFailure({ statusPath, message: "Synthetic failure again" });
+    await writeFile(`${alertPath}.incident.json`, "{bad");
+    const notifications = [];
+    const now = new Date("2026-08-27T12:46:00.000Z");
+    const result = await runBackupWatchdog({
+      statusPath, alertPath, now,
+      masterStatus: { recordCount: 11, sha256: "old" },
+      notify: async message => notifications.push(message),
+    });
+    expect(result.reason).toBe("consecutive_failures");
+    expect(notifications).toHaveLength(1);
+    expect(JSON.parse(await readFile(`${alertPath}.incident.json`, "utf8"))).toEqual({
+      masterLagStartedAt: now.toISOString(),
+      masterUnavailableStartedAt: null,
+    });
+  });
+
+  it.each(["not-a-date", "2027-01-01T00:00:00.000Z", 123])(
+    "repairs invalid incident timestamp %s using the publication age",
+    async invalidTimestamp => {
+      const { statusPath, alertPath } = await paths();
+      const publishedAt = "2026-08-27T12:00:00.000Z";
+      await recordBackupSuccess({
+        statusPath, recordCount: 12, sha256: "new", lastDateIso: publishedAt,
+        at: new Date(publishedAt),
+      });
+      await writeFile(`${alertPath}.incident.json`, JSON.stringify({
+        masterLagStartedAt: invalidTimestamp,
+        masterUnavailableStartedAt: invalidTimestamp,
+      }));
+      const result = await runBackupWatchdog({
+        statusPath, alertPath,
+        now: new Date("2026-08-27T12:46:00.000Z"),
+        masterStatus: { recordCount: 11, sha256: "old" },
+        notify: async () => {},
+      });
+      expect(result.reason).toBe("github_stale");
+      expect(JSON.parse(await readFile(`${alertPath}.incident.json`, "utf8"))).toEqual({
+        masterLagStartedAt: publishedAt,
+        masterUnavailableStartedAt: null,
+      });
+    },
+  );
+
+  it("propagates incident filesystem read errors", async () => {
+    const { statusPath, alertPath } = await paths();
+    await expect(runBackupWatchdog({
+      statusPath, alertPath,
+      incidentPath: temporaryDirectories.at(-1),
+      masterStatus: { recordCount: 11, sha256: "old" },
+      notify: async () => {},
+    })).rejects.toMatchObject({ code: "EISDIR" });
+  });
+
+  it.each(["github_stale", "github_unavailable"])(
+    "alerts for continuous %s despite repeated successful publisher runs",
+    async (reason) => {
+      const { statusPath, alertPath } = await paths();
+      const notifications = [];
+      const published = {
+        recordCount: 12,
+        lastDateIso: "2026-08-27T12:00:00.000Z",
+        sha256: "new",
+      };
+      let recovered = false;
+      const check = (minute) => runBackupWatchdog({
+        statusPath,
+        alertPath,
+        backupRepo: "/tmp/publisher",
+        now: new Date(Date.UTC(2026, 7, 27, 12, minute)),
+        readMasterStatus: async () => {
+          if (recovered) return published;
+          if (reason === "github_unavailable") throw new Error("Synthetic fetch failure");
+          return { ...published, recordCount: 11, sha256: "old" };
+        },
+        notify: async (message) => notifications.push(message),
+      });
+      for (const minute of [0, 15, 30, 45]) {
+        // New exports also must not restart an already ongoing GitHub incident.
+        published.recordCount += 1;
+        published.sha256 = `new-${minute}`;
+        await recordBackupSuccess({
+          statusPath,
+          ...published,
+          at: new Date(Date.UTC(2026, 7, 27, 12, minute)),
+        });
+        expect((await check(minute)).alert).toBe(false);
+      }
+      expect(await check(46)).toEqual(expect.objectContaining({ status: "alerted", reason }));
+      expect((await check(47)).status).toBe("already_alerted");
+      expect(notifications).toHaveLength(1);
+
+      recovered = true;
+      expect((await check(48)).alert).toBe(false);
+      recovered = false;
+      expect((await check(49)).alert).toBe(false);
+      for (const minute of [60, 75, 90]) {
+        await recordBackupSuccess({
+          statusPath,
+          ...published,
+          at: new Date(Date.UTC(2026, 7, 27, 12, minute)),
+        });
+        expect((await check(minute)).alert).toBe(false);
+      }
+      expect((await check(95)).status).toBe("alerted");
+      expect(notifications).toHaveLength(2);
+    },
+  );
+
   it("alerts after two consecutive backup failures", () => {
     expect(
       evaluateBackupStatus(

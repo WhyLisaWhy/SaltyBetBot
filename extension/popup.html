@@ -7,29 +7,41 @@
     <link rel="stylesheet" href="popup-controls.css">
   </head>
   <body>
-    <section id="extension-controls" aria-live="polite">
-      <div class="control-heading">
-        <div>
-          <strong>Salty Bet Bot</strong>
-          <span id="controller-state">Checking tab status…</span>
+    <main>
+      <section id="extension-controls" aria-labelledby="app-title">
+        <div class="control-heading">
+          <h1 id="app-title">Salty Bet Bot</h1>
+          <span id="mode-badge" class="badge">Checking…</span>
         </div>
-        <span id="mode-badge" class="badge observe">Observe only</span>
-      </div>
-      <label class="toggle-row">
-        <input id="automation-enabled" type="checkbox">
-        <span>Enable automatic betting</span>
-      </label>
-      <div class="max-bet-control">
-        <label for="max-bet">Matchmaking maximum</label>
-        <div class="max-bet-input-row">
-          <input id="max-bet" type="number" min="1" max="1000000" step="1" inputmode="numeric">
-          <button id="save-max-bet" type="button">Save maximum</button>
+        <p id="controller-state">Checking tab status…</p>
+        <label class="toggle-row">
+          <input id="automation-enabled" type="checkbox" disabled>
+          <span>Enable automatic betting</span>
+        </label>
+        <form id="max-bet-form" class="max-bet-control" novalidate>
+          <label for="max-bet">Matchmaking maximum</label>
+          <div class="max-bet-input-row">
+            <input id="max-bet" type="number" min="1" max="1000000" step="1" inputmode="numeric" aria-describedby="max-bet-help control-message" disabled>
+            <button id="save-max-bet" type="submit" disabled>Save maximum</button>
+          </div>
+          <p id="max-bet-help" class="help">Applied on the next matchmaking match. Mine all-in and tournament bets are unchanged.</p>
+        </form>
+        <button id="claim-controller" type="button" disabled>Use this SaltyBet tab</button>
+        <p id="control-message" class="status" role="status"></p>
+        <button id="retry-controls" type="button" hidden>Retry connection</button>
+      </section>
+      <section class="records-section" aria-label="Records and backups">
+        <div id="record-content"></div>
+        <p id="record-message" class="status" role="status" tabindex="-1">Loading record controls…</p>
+      </section>
+      <nav aria-label="Statistics">
+        <h2>Explore history</h2>
+        <div class="navigation-links">
+          <a href="chart.html" target="_blank" rel="noopener">Open chart page <span aria-hidden="true">↗</span></a>
+          <a href="records.html" target="_blank" rel="noopener">Open records page <span aria-hidden="true">↗</span></a>
         </div>
-        <small>Applied on the next matchmaking match. Mine all-in and tournament bets are unchanged.</small>
-      </div>
-      <button id="claim-controller" type="button">Use this SaltyBet tab</button>
-      <p id="control-message"></p>
-    </section>
+      </nav>
+    </main>
     <script type="module" src="popup-controls.js"></script>
     <script type="module" src="entries/popup.js"></script>
   </body>

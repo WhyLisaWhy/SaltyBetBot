@@ -11,7 +11,7 @@ The project runs on Manifest V3 with a restart-safe service worker. It preserves
 - Matchmaking's maximum bet is adjustable from the popup, with a default of 32,000 and an allowed range of 1 through 1,000,000.
 - Matchmaking, tournament, and exhibition recommendations retain their separate behaviors.
 - Match tracking continues through Twitch chat-container replacement, incremental chat rendering, background tabs, and service-worker restarts.
-- Personal records support deduplicated import, personal/all-record export, clearing without touching the bundled baseline, and chart/records views.
+- Personal records support deduplicated import, personal/all-record export, clearing without touching the bundled baseline, and chart/records views. The popup shows progress and recoverable errors in a responsive layout.
 - Personal-record backups are refreshed locally and published only after validation; empty, malformed, out-of-order, or regressed data is rejected.
 
 ## Safety default
@@ -111,9 +111,11 @@ Popup actions:
 - **Export all records** combines bundled and personal history in chronological order.
 - **Clear personal records** removes only personal history; the bundled baseline remains available.
 
+Keep the popup open while a record operation is running. Record actions are disabled during the operation, but the automation switch remains available. Invalid imports and canceled or failed export requests show an inline message and let you retry. A successful export request means the download has started; check Chrome downloads for completion.
+
 The service worker also refreshes `Downloads/SaltyBetBot Backups/personal-records-latest.json` every 30 minutes while Chrome is running. It never replaces the last good export with an empty or regressed database.
 
-A scheduled collector validates that export every 15 minutes and publishes the latest copy and metadata under [`community-records`](community-records/). Invalid, out-of-order, regressed, or historically incomplete exports are rejected before Git is changed. A watchdog alerts after two consecutive failures or 45 minutes without a successful backup, including a stale protected `master` branch. These files are public and include only the collector's match-history, virtual wager, and balance fields; they do not contain browser credentials or login data.
+A scheduled collector validates that export every 15 minutes and publishes the latest copy and metadata under [`community-records`](community-records/). Invalid, out-of-order, regressed, or historically incomplete exports are rejected before Git is changed. A watchdog alerts after two consecutive failures or 45 minutes without a successful backup, including a stale protected `master` branch. Publication lag and GitHub availability are tracked independently of successful or unchanged exports, so retries cannot hide a stalled publication. These files are public and include only the collector's match-history, virtual wager, and balance fields; they do not contain browser credentials or login data.
 
 Back up personal records before replacing the repository directory or Chrome profile. The automated copy protects the scheduled installation, but other installations should configure their own off-device destination.
 
@@ -137,6 +139,8 @@ npm run build
 node scripts/verify-build.mjs
 npm run test:browser
 ```
+
+The Rust tests include the algorithm and shared API crates. The focused popup workflow checks cover invalid-import recovery, deduplication, personal/all-record export, download failure recovery, clear/cancel, settings retry, navigation, and responsive layouts at 360px and 200% text size.
 
 The browser harness launches a clean Chromium profile with mocked SaltyBet and Twitch pages, confirms current WAIFU4u parsing, renders the popup, chart, and records pages, and asserts that observe-only mode performs zero betting-button clicks. Install its browser once with:
 
