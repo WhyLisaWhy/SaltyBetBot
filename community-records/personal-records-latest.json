@@ -206630,5 +206630,140 @@
     "sum": 111427691,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28000
+    },
+    "date": 1788582729118,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 5283955,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Iron_miyako",
+      "normal_bettors": 34,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jay Flash",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 111429049,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3386
+    },
+    "date": 1788582853320,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 2416208,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Goketuji",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2263484,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Magneto mvc2",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 111434663,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788582958321,
+    "duration": 48992,
+    "left": {
+      "bet_amount": 8585674,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 14,
+      "name": "Sagat_a",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1227289,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yomi",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "sum": 111438273,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788583325520,
+    "duration": 100004,
+    "left": {
+      "bet_amount": 54746,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "A-pyron",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 169550,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "A-haoumaru",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2046
+    },
+    "date": 1788583459720,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 66825,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Master big",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206968,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 21,
+      "name": "Deka kohaku!",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "sum": 2046,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
