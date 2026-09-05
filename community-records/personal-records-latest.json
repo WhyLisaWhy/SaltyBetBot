@@ -214028,5 +214028,59 @@
     "sum": 111458198,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20897
+    },
+    "date": 1788639504315,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 2944702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zero ariel",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5271290,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Metaknight",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 111435155,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18939
+    },
+    "date": 1788639654313,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 3162111,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Billy 'big bang' blitz",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2577762,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Reak.f",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "sum": 111446783,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
