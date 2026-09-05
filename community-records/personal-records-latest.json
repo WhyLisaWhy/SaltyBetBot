@@ -211544,5 +211544,140 @@
     "sum": 111529745,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42206
+    },
+    "date": 1788617795119,
+    "duration": 166197,
+    "left": {
+      "bet_amount": 2522480,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lord beerus",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2954996,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Storm-owl",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 111529746,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8809
+    },
+    "date": 1788618025319,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 1550526,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gouki",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2971212,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Len",
+      "normal_bettors": 31,
+      "win_streak": -5
+    },
+    "sum": 111578376,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788618205521,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 1957353,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Suwako",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1680078,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Kanae mkt",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 111582960,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29592
+    },
+    "date": 1788618335518,
+    "duration": 75987,
+    "left": {
+      "bet_amount": 1421591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Blitztank-n",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4145874,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ryumaou",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 111582959,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36901
+    },
+    "date": 1788618519723,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 2686871,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Joe higashi arrange",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1475317,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ayu tsukimiya",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 111553367,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
