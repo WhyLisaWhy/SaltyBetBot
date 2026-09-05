@@ -208196,5 +208196,113 @@
     "sum": 111503469,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23586
+    },
+    "date": 1788593671913,
+    "duration": 116194,
+    "left": {
+      "bet_amount": 2455924,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Goyan",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1136380,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Hihumi",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 111558367,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26513
+    },
+    "date": 1788593835913,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 1078501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Yang xiao long",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4120976,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "Nameless-kofm",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 111608305,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788593992114,
+    "duration": 95952,
+    "left": {
+      "bet_amount": 1158717,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Nucrear cirno EX",
+      "normal_bettors": 3,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6097990,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Ash of blueblood",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 111581792,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788594246317,
+    "duration": 194203,
+    "left": {
+      "bet_amount": 4006564,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Medamaoyaji",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1455214,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Aokiji kuzan",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "sum": 111581793,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
