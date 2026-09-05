@@ -213299,5 +213299,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17940
+    },
+    "date": 1788634690516,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 1146689,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Moe moe world mycale!!",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4513661,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Fuchigami saiki",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 111380016,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
