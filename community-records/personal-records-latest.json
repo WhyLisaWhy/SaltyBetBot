@@ -215027,5 +215027,86 @@
     "sum": 111325634,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38941
+    },
+    "date": 1788646373677,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 2521262,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Neige pebble",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1451982,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pulse-k",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 111343730,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6738
+    },
+    "date": 1788646523877,
+    "duration": 94201,
+    "left": {
+      "bet_amount": 5382241,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Flan-b",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1196931,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mashiro",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 111365815,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 396
+    },
+    "date": 1788646669881,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 13545783,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Nostalgia critic",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1205383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kung fu man",
+      "normal_bettors": 4,
+      "win_streak": -7
+    },
+    "sum": 111367312,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
