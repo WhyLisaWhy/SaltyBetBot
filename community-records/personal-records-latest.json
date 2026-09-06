@@ -219291,5 +219291,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3305
+    },
+    "date": 1788677378497,
+    "duration": 126006,
+    "left": {
+      "bet_amount": 134901,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Dudley K",
+      "normal_bettors": 15,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 277931,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Li xiangfei",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "sum": 3305,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4891
+    },
+    "date": 1788677578688,
+    "duration": 146196,
+    "left": {
+      "bet_amount": 366435,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Santaurus EX3",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 464978,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Gozu",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 4891,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11016
+    },
+    "date": 1788677864889,
+    "duration": 230201,
+    "left": {
+      "bet_amount": 516512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Sodom sfa",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 356532,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Li xiangfei",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "sum": 11016,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
