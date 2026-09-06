@@ -226633,5 +226633,86 @@
     "sum": 111957091,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40965
+    },
+    "date": 1788734143493,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 1392529,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Voltz",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6094543,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Kamijo toma EX",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 111923566,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28334
+    },
+    "date": 1788734347495,
+    "duration": 144003,
+    "left": {
+      "bet_amount": 2302331,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Legion",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4174895,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Black witch eva",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 111932864,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35652
+    },
+    "date": 1788734593701,
+    "duration": 186009,
+    "left": {
+      "bet_amount": 1838548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Onsokumaru",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4459237,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Mech.hisui 404",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 111983619,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
