@@ -226903,5 +226903,113 @@
     "sum": 111997680,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26856
+    },
+    "date": 1788735930894,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 2304427,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Okina",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1894476,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Alien baltan 6th",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 111991361,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28956
+    },
+    "date": 1788736181092,
+    "duration": 194191,
+    "left": {
+      "bet_amount": 4203112,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Mvc2 ciel",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1153465,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "May star",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 112013186,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 49775
+    },
+    "date": 1788736367098,
+    "duration": 129974,
+    "left": {
+      "bet_amount": 2831499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Dark pirate",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2186204,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Lf2 - henry",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 111984230,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3666
+    },
+    "date": 1788736521294,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 4758234,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Special edition rock",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1113701,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Elder toguro",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 112047262,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
