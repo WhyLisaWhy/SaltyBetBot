@@ -225580,5 +225580,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4365
+    },
+    "date": 1788723077089,
+    "duration": 142394,
+    "left": {
+      "bet_amount": 488232,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nick commando EX FF",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 655945,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Eve silvan",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "sum": 4365,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
