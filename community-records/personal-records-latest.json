@@ -221829,5 +221829,140 @@
     "sum": 111705111,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10787
+    },
+    "date": 1788696107293,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 1151573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Assasincross",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4523765,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Sailor saturn",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 111677731,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788696267490,
+    "duration": 99981,
+    "left": {
+      "bet_amount": 1516280,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Abare bishamon",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3542209,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Galmyer_corps",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 111680471,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788696443693,
+    "duration": 116203,
+    "left": {
+      "bet_amount": 1228708,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nay",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4264734,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Alter wind",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 111680470,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29586
+    },
+    "date": 1788696573695,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 2134971,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Enja ex",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1342287,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "C.dome",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 111680471,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14865
+    },
+    "date": 1788696813894,
+    "duration": 174202,
+    "left": {
+      "bet_amount": 1579206,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Saisyuu_dokusyo_bouei_system",
+      "normal_bettors": 8,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3053357,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Nightmare battler",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 111698818,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
