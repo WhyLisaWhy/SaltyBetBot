@@ -225364,5 +225364,113 @@
     "sum": 32144,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40574
+    },
+    "date": 1788721357492,
+    "duration": 174199,
+    "left": {
+      "bet_amount": 122501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Evil ryu svc chaos",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 344717,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Eve silvan",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "sum": 40574,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 53475
+    },
+    "date": 1788721623697,
+    "duration": 210194,
+    "left": {
+      "bet_amount": 103106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Victor von gerdenheim",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 421192,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Hoppou seiki",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 53475,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788721787894,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 356013,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Nick commando EX FF",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 232155,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Huntress",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2557
+    },
+    "date": 1788721997893,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 25279,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Maverick hunter x",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 637768,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Shiva",
+      "normal_bettors": 47,
+      "win_streak": 4
+    },
+    "sum": 2557,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
