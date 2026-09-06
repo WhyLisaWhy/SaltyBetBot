@@ -222367,5 +222367,86 @@
     "sum": 1747,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2298
+    },
+    "date": 1788700584897,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 29987,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Nagaoka shiho",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1052322,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Reimi",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 2298,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2364
+    },
+    "date": 1788700845093,
+    "duration": 204200,
+    "left": {
+      "bet_amount": 681549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Rapid ayaka",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 411639,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Ryoga hibiki",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 2364,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3787
+    },
+    "date": 1788701165292,
+    "duration": 260201,
+    "left": {
+      "bet_amount": 130856,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Killa and ren",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 856359,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Gundam nataku",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 3787,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
