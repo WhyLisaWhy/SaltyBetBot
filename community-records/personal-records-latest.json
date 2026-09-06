@@ -224203,5 +224203,140 @@
     "sum": 111960453,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788713397092,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 1248315,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Magaki",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4268573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Krauser",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 111934353,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33780
+    },
+    "date": 1788713571292,
+    "duration": 120196,
+    "left": {
+      "bet_amount": 3859281,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Boon",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1752693,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gumball watterson",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 111934352,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32324
+    },
+    "date": 1788713701292,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 2373701,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Dan of steel",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1586737,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Renna",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 111900572,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4811
+    },
+    "date": 1788713931496,
+    "duration": 176206,
+    "left": {
+      "bet_amount": 1663553,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dana dee",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2559479,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Birdie",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 111947963,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14687
+    },
+    "date": 1788714101696,
+    "duration": 116185,
+    "left": {
+      "bet_amount": 1290637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Carol stanzack",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5077838,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Captain sawada",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 111943152,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
