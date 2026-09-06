@@ -225607,5 +225607,113 @@
     "sum": 4365,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28428
+    },
+    "date": 1788727802491,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 2332366,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jubei yamada special",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2803151,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Shun - andromeda",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 111901000,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21834
+    },
+    "date": 1788727938492,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 2824188,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Tournament of power goku",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1547980,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ky(ac)",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 111934755,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788728150694,
+    "duration": 152199,
+    "left": {
+      "bet_amount": 5830580,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Tyouunn-shiryu",
+      "normal_bettors": 26,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1288443,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mora EX2",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "sum": 111974036,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788728288893,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 7620121,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Robo-segalow",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1246245,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ultimate cap",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 111974041,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
