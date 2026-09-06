@@ -227146,5 +227146,167 @@
     "sum": 112014035,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788737508093,
+    "duration": 154202,
+    "left": {
+      "bet_amount": 1623322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Cat",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5037038,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Lamia",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "sum": 112048885,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39387
+    },
+    "date": 1788737698294,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 4725651,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Marisa kirisame",
+      "normal_bettors": 25,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1270653,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Desperado+",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 112048884,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35364
+    },
+    "date": 1788737858297,
+    "duration": 104003,
+    "left": {
+      "bet_amount": 3195074,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Ego.akys",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1756607,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Guile hd",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 112009497,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788738040506,
+    "duration": 126005,
+    "left": {
+      "bet_amount": 1576178,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hina bardy",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2645247,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "E.soldat",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 111974133,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788738248696,
+    "duration": 154203,
+    "left": {
+      "bet_amount": 2105727,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vanguard zero",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4022627,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Alyssa ex",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111974135,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788738390695,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 1333130,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Agito_of_the_dark",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 36895052,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ginyu mvc",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 111974137,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
