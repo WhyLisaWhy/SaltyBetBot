@@ -222286,5 +222286,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2440
+    },
+    "date": 1788699904292,
+    "duration": 250199,
+    "left": {
+      "bet_amount": 82207,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Killa and ren",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 627347,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Goku black",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 2440,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788700124497,
+    "duration": 159997,
+    "left": {
+      "bet_amount": 100391,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Gn-pioneer-r",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 790636,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Gundam nataku",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1747
+    },
+    "date": 1788700404695,
+    "duration": 220201,
+    "left": {
+      "bet_amount": 730912,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Helmet",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 230763,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "A'",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 1747,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
