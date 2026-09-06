@@ -223717,5 +223717,140 @@
     "sum": 111803816,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40660
+    },
+    "date": 1788710616893,
+    "duration": 82200,
+    "left": {
+      "bet_amount": 3151585,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Zeppeli ex",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1418296,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kang rotd",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 111812347,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3514
+    },
+    "date": 1788710760928,
+    "duration": 84039,
+    "left": {
+      "bet_amount": 1899865,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Haggar ex",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4003398,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Bristol-d",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 111830413,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14453
+    },
+    "date": 1788710897092,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 1201269,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "H-m-geese",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2666137,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 111832080,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788711007093,
+    "duration": 56001,
+    "left": {
+      "bet_amount": 3776287,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Knight kurokishineko",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1381768,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cyborg_d-9f",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 111838557,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2205
+    },
+    "date": 1788711137293,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 1410951,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ramda EX3",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6764085,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Troll",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 111838558,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
