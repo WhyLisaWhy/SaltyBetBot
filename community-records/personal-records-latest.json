@@ -223285,5 +223285,113 @@
     "sum": 111773579,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788707936693,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 3190632,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Hyoga de cisne",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358602,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Jon talbain",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 111734984,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30740
+    },
+    "date": 1788708082893,
+    "duration": 92196,
+    "left": {
+      "bet_amount": 1238120,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Turn-a",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2535605,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Maverick hunter zero",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 111734983,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26904
+    },
+    "date": 1788708242897,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1366058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rouga zanma",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3596536,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Maximum seraph",
+      "normal_bettors": 30,
+      "win_streak": 8
+    },
+    "sum": 111704243,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42080
+    },
+    "date": 1788708443095,
+    "duration": 146203,
+    "left": {
+      "bet_amount": 3342692,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Krillin EX3",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1175241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Blob",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 111714386,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
