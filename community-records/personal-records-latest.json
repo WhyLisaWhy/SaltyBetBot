@@ -216996,5 +216996,113 @@
     "sum": 111743563,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22668
+    },
+    "date": 1788662194288,
+    "duration": 165988,
+    "left": {
+      "bet_amount": 1164608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dominatrix",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4577815,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Pink ranger",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 111827406,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6521
+    },
+    "date": 1788662344494,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 891548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zerozuchi",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6455089,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Commode serika",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 111833145,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8287
+    },
+    "date": 1788662514687,
+    "duration": 114195,
+    "left": {
+      "bet_amount": 4159440,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "T ninja",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1596616,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Diglett",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 111834045,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11254
+    },
+    "date": 1788662680892,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 2885725,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Slightly more fair baiken",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1057079,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Zeus (disney)",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 111837220,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
