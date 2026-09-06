@@ -225121,5 +225121,113 @@
     "sum": 111922863,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16085
+    },
+    "date": 1788719409895,
+    "duration": 76003,
+    "left": {
+      "bet_amount": 1316396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kon-el EX9",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4149742,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Miu_kurosaki",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 111922862,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34539
+    },
+    "date": 1788719549894,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 4104271,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Meiya",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1582519,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Amingo MVC2",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 111927945,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788719674894,
+    "duration": 64802,
+    "left": {
+      "bet_amount": 2377476,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "D4 griffon",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1973711,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Lucy",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 111893406,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788720106493,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 95075,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Cool choi",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 79595,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Nick commando EX FF",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
