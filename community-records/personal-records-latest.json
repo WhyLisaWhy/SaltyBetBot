@@ -221154,5 +221154,113 @@
     "sum": 111594200,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14256
+    },
+    "date": 1788691811894,
+    "duration": 200002,
+    "left": {
+      "bet_amount": 1237283,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Grant-kofm",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3529324,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Radish ssj4",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 111594865,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19375
+    },
+    "date": 1788691972094,
+    "duration": 106003,
+    "left": {
+      "bet_amount": 1141322,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Wong fei hung",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2678197,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Anaroguma",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 111599843,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25892
+    },
+    "date": 1788692236297,
+    "duration": 210202,
+    "left": {
+      "bet_amount": 2140327,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ultimate aizen",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1506078,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "God kula",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 111608041,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26040
+    },
+    "date": 1788692386491,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 2348770,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kung fu paragas",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1745482,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gundog",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 111582149,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
