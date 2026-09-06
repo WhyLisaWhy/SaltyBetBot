@@ -221559,5 +221559,113 @@
     "sum": 111691547,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22400
+    },
+    "date": 1788694456093,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 1262195,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jazu",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2987349,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Homura & friends",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 111697359,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18396
+    },
+    "date": 1788694606104,
+    "duration": 90011,
+    "left": {
+      "bet_amount": 1570627,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Regice orochi",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1338998,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Molech",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "sum": 111706753,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20333
+    },
+    "date": 1788694756291,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1443095,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yeorin lee",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1233475,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "The root pack",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 111722255,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18284
+    },
+    "date": 1788694960494,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 1169195,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Azteca",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1274929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Servant emiya",
+      "normal_bettors": 7,
+      "win_streak": 9
+    },
+    "sum": 111701922,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
