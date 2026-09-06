@@ -216267,5 +216267,32 @@
     "sum": 1768,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2334
+    },
+    "date": 1788654798690,
+    "duration": 126181,
+    "left": {
+      "bet_amount": 321789,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Alien borg",
+      "normal_bettors": 14,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1275407,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Omega goenitz",
+      "normal_bettors": 34,
+      "win_streak": 15
+    },
+    "sum": 2334,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
