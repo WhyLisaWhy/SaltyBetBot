@@ -222907,5 +222907,113 @@
     "sum": 111755710,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20604
+    },
+    "date": 1788705246488,
+    "duration": 113979,
+    "left": {
+      "bet_amount": 1438942,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Deluxe ai",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3205486,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Anji",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 111739250,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17114
+    },
+    "date": 1788705422702,
+    "duration": 120215,
+    "left": {
+      "bet_amount": 2423145,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Wing gundam-z2",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1580289,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cell mvc",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 111718646,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6673
+    },
+    "date": 1788705628895,
+    "duration": 146206,
+    "left": {
+      "bet_amount": 1340924,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "D-rugal EX3",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3962750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Saku EX2",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 111729729,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24300
+    },
+    "date": 1788705809092,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 2733728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Deathtanz-mantisk",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1928890,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Halfkun",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 111731984,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
