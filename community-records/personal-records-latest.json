@@ -219399,5 +219399,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788680400896,
+    "duration": 92001,
+    "left": {
+      "bet_amount": 936035,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Scott",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5938677,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Yuuri kureo",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 111732710,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25011
+    },
+    "date": 1788680539088,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 1259915,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zako-dan",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4691389,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Copy x",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 111732711,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
