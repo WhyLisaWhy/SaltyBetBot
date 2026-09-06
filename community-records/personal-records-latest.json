@@ -218967,5 +218967,86 @@
     "sum": 111749576,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20768
+    },
+    "date": 1788674295096,
+    "duration": 91202,
+    "left": {
+      "bet_amount": 2413871,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Elirin",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1196286,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Giant baba",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 111751918,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788674734288,
+    "duration": 169994,
+    "left": {
+      "bet_amount": 115576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ganondorf",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71070,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Morilen",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788675060687,
+    "duration": 272199,
+    "left": {
+      "bet_amount": 78621,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Santaurus EX3",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 155685,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Commondore cannonhand",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
