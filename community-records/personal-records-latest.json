@@ -218481,5 +218481,113 @@
     "sum": 111816769,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18369
+    },
+    "date": 1788671179492,
+    "duration": 102000,
+    "left": {
+      "bet_amount": 1697178,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Father anderson",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2157065,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Fygar",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 111795382,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4214
+    },
+    "date": 1788671363693,
+    "duration": 124003,
+    "left": {
+      "bet_amount": 1239632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shiki EX2",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5207288,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Overcoat kars",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 111809713,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46580
+    },
+    "date": 1788671509892,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 2683413,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 16,
+      "name": "Franco bash rb2",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1710791,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yoshitora",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 111810716,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788671655891,
+    "duration": 91997,
+    "left": {
+      "bet_amount": 1111646,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Uchiha sasuke",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 16066576,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 19,
+      "name": "Carnage MMV",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 111764136,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
