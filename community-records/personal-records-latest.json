@@ -222610,5 +222610,140 @@
     "sum": 111796742,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788703355092,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 1604859,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kilroy",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3055873,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Gardevoir dx",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 111845593,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788703559297,
+    "duration": 144209,
+    "left": {
+      "bet_amount": 3661084,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Takuan osho",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1482410,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Italian toki",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 111845592,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3216
+    },
+    "date": 1788703709288,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1156202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rin natsume",
+      "normal_bettors": 4,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9524231,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Awaken satsuki",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 111845591,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15803
+    },
+    "date": 1788703905494,
+    "duration": 140005,
+    "left": {
+      "bet_amount": 1136275,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Doraemon",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4666073,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Old",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 111845982,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 48213
+    },
+    "date": 1788704045693,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1445747,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ecoco EX3",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4117380,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sonozaki_mion",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 111830179,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
