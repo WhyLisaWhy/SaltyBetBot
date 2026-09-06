@@ -226336,5 +226336,113 @@
     "sum": 111955354,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15664
+    },
+    "date": 1788732306091,
+    "duration": 110196,
+    "left": {
+      "bet_amount": 2496652,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Nyal",
+      "normal_bettors": 21,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1866743,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Orochi kyo wf",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 111956762,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788732450099,
+    "duration": 90006,
+    "left": {
+      "bet_amount": 5762358,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Nanbara_r",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1346556,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Sasuke storm",
+      "normal_bettors": 11,
+      "win_streak": -13
+    },
+    "sum": 111941098,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 216
+    },
+    "date": 1788732660293,
+    "duration": 154200,
+    "left": {
+      "bet_amount": 4420754,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Scarlet dragon",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1360477,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dante 4",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 111941097,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 954
+    },
+    "date": 1788732856496,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 1812110,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Ryuken EX3",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2836192,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "D-rugal",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "sum": 111941164,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
