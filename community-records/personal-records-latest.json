@@ -219885,5 +219885,140 @@
     "sum": 111638802,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33579
+    },
+    "date": 1788683623488,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 1352671,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Heavyarms custom",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4756761,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Funky dantel",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 111655637,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29553
+    },
+    "date": 1788683807488,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1811776,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "King of zero",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1573777,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Clawbear",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 111622058,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46348
+    },
+    "date": 1788683953688,
+    "duration": 85989,
+    "left": {
+      "bet_amount": 1544331,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ego.akys",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3204696,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Alter donald",
+      "normal_bettors": 23,
+      "win_streak": 12
+    },
+    "sum": 111655454,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788684193889,
+    "duration": 184200,
+    "left": {
+      "bet_amount": 2132955,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Diggle",
+      "normal_bettors": 15,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1483480,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Kenbo",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 111677471,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23005
+    },
+    "date": 1788684374088,
+    "duration": 124200,
+    "left": {
+      "bet_amount": 2307017,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Ickybod clay te",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1258868,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Doraemon EX3",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 111677472,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
