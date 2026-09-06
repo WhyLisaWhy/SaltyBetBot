@@ -225013,5 +225013,113 @@
     "sum": 111874524,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28034
+    },
+    "date": 1788718653296,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 1908860,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hiziri",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1750624,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Victor von simonstein",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 111897527,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788718839494,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 2066973,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Ray mcdogall",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2389836,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Marco rossi",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 111922865,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788719029494,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 1802331,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Raphael",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4635487,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Blues hablam",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111922864,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788719273696,
+    "duration": 184002,
+    "left": {
+      "bet_amount": 1688533,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Izura",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2612453,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Boss zeroko",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 111922863,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
