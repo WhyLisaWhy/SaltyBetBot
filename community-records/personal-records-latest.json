@@ -225472,5 +225472,113 @@
     "sum": 2557,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2658
+    },
+    "date": 1788722184094,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 98273,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Coolseven",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 621414,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Spin youmu EX",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "sum": 2658,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788722490296,
+    "duration": 250204,
+    "left": {
+      "bet_amount": 337468,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Eve silvan",
+      "normal_bettors": 34,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65868,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hoppou seiki",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1852
+    },
+    "date": 1788722670495,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 381965,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Nick commando EX FF",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 419784,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Shiva",
+      "normal_bettors": 43,
+      "win_streak": 5
+    },
+    "sum": 1852,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788722880692,
+    "duration": 156196,
+    "left": {
+      "bet_amount": 625884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Coolseven",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 343171,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Eve silvan",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
