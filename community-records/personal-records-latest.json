@@ -225229,5 +225229,140 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3367
+    },
+    "date": 1788720366693,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 105619,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Umvc_youmu",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116140,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Huntress",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 3367,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6343
+    },
+    "date": 1788720668894,
+    "duration": 242198,
+    "left": {
+      "bet_amount": 165577,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Maverick hunter x",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Asutorea EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 6343,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9782
+    },
+    "date": 1788720792893,
+    "duration": 72001,
+    "left": {
+      "bet_amount": 36790,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Z-ukyo",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 271585,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Shiva",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 9782,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11062
+    },
+    "date": 1788720983092,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 115778,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Coolseven",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 241730,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Fw_gigan",
+      "normal_bettors": 28,
+      "win_streak": -5
+    },
+    "sum": 11062,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32144
+    },
+    "date": 1788721123292,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 334169,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Spin youmu EX",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 96067,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "God rugal-kofm",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 32144,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
