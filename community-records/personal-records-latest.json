@@ -224743,5 +224743,113 @@
     "sum": 111947665,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19595
+    },
+    "date": 1788716889898,
+    "duration": 100205,
+    "left": {
+      "bet_amount": 2259998,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "N-len",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529893,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Asuka EX2",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 111947666,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15915
+    },
+    "date": 1788717011907,
+    "duration": 56014,
+    "left": {
+      "bet_amount": 4442967,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Suicider raoh",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1459910,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Fullmetal haggar",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 111976247,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17889
+    },
+    "date": 1788717132094,
+    "duration": 66198,
+    "left": {
+      "bet_amount": 1673240,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Dhalsim R",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2513741,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sasquatch",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 111960332,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28231
+    },
+    "date": 1788717312092,
+    "duration": 125995,
+    "left": {
+      "bet_amount": 1649280,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kikyo_ex",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2095752,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Incredible power kyo",
+      "normal_bettors": 21,
+      "win_streak": 7
+    },
+    "sum": 111972156,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
