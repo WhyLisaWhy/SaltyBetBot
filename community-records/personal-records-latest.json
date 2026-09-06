@@ -218751,5 +218751,113 @@
     "sum": 111772436,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788672852890,
+    "duration": 126196,
+    "left": {
+      "bet_amount": 1000027,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Nappa",
+      "normal_bettors": 4,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6703795,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Doflamingo",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111757034,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29698
+    },
+    "date": 1788673007095,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 1508872,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Dao-long",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3743359,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Cless ndx",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 111757033,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20871
+    },
+    "date": 1788673127095,
+    "duration": 66002,
+    "left": {
+      "bet_amount": 5425958,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Incredible power kyo",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1131091,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rosie",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 111768910,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788673391292,
+    "duration": 204200,
+    "left": {
+      "bet_amount": 1014913,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Luke skywalker",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5114235,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Storm_cota",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 111773245,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
