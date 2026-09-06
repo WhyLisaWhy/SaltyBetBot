@@ -218859,5 +218859,113 @@
     "sum": 111773245,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788673577495,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 2879273,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Iron_miyako",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2037285,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sasquatch mmv",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 111773244,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1028
+    },
+    "date": 1788673787692,
+    "duration": 156197,
+    "left": {
+      "bet_amount": 1097962,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Miyakaka",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3884312,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Youmu konpaku EX",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 111773243,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23958
+    },
+    "date": 1788674013892,
+    "duration": 170195,
+    "left": {
+      "bet_amount": 1108075,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Valgasu",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3758849,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Medicine melancholy",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111773534,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8076
+    },
+    "date": 1788674143895,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 3590954,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Hal",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1043460,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Judge",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 111749576,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
