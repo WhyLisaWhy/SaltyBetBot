@@ -220020,5 +220020,113 @@
     "sum": 111677472,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12349
+    },
+    "date": 1788684514086,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 2648114,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mvc2 captain america",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1821174,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hatsune miku mmd l",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 111689902,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21584
+    },
+    "date": 1788684694289,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 2643335,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Serious mr. karate",
+      "normal_bettors": 20,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cueca",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 111677553,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788684942489,
+    "duration": 192197,
+    "left": {
+      "bet_amount": 6891530,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Dr. toki",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1279448,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Hashi",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "sum": 111655969,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31434
+    },
+    "date": 1788685100688,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 1219157,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Heavyarms custom",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2967572,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Genkai",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 111655968,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
