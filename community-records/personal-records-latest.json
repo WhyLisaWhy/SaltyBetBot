@@ -216186,5 +216186,86 @@
     "sum": 25236,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788654152093,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 767282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Omega goenitz",
+      "normal_bettors": 30,
+      "win_streak": 14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206398,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Death battle sakuya",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788654402289,
+    "duration": 190204,
+    "left": {
+      "bet_amount": 944965,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Alien borg",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 132593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Structure list",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1768
+    },
+    "date": 1788654612293,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 289036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Eni blackdragon",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 902131,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Omega goenitz",
+      "normal_bettors": 30,
+      "win_streak": 15
+    },
+    "sum": 1768,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
