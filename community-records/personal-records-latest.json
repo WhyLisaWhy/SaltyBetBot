@@ -217401,5 +217401,140 @@
     "sum": 111846200,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44506
+    },
+    "date": 1788664638294,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 2775852,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Heavy rob",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1600136,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Daimon hakumen",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 111816901,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 43213
+    },
+    "date": 1788664878492,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 4583524,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "S_youmu",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1238450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sogiita gunha",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 111892019,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24378
+    },
+    "date": 1788665094695,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 1715578,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chloe heartfield",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2070724,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Goku black",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 111848806,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36998
+    },
+    "date": 1788665228894,
+    "duration": 74203,
+    "left": {
+      "bet_amount": 4279868,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Washizu iwao",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1600625,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nick commando EX FF",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 111868768,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31789
+    },
+    "date": 1788665388892,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 2343062,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Amato",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1504546,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Orie valadier",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 111882487,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
