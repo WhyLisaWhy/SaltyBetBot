@@ -222529,5 +222529,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788702778688,
+    "duration": 110195,
+    "left": {
+      "bet_amount": 4535027,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Virtus",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1243432,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rei-kugo",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "sum": 111762149,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25918
+    },
+    "date": 1788702954693,
+    "duration": 122006,
+    "left": {
+      "bet_amount": 1546639,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mythos zero",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2098940,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Alex",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 111762148,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33027
+    },
+    "date": 1788703124894,
+    "duration": 110205,
+    "left": {
+      "bet_amount": 2442541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Vega",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1618334,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Drunk rock lee",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 111796742,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
