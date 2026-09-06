@@ -223015,5 +223015,140 @@
     "sum": 111731984,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18964
+    },
+    "date": 1788705973092,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 4058263,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Eelis",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1145725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cell junior",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "sum": 111748979,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33891
+    },
+    "date": 1788706153290,
+    "duration": 119995,
+    "left": {
+      "bet_amount": 1224498,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kaizuka bocky mogra",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2697162,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Agito(coh)",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 111754308,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18070
+    },
+    "date": 1788706309494,
+    "duration": 96193,
+    "left": {
+      "bet_amount": 1619014,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Team ash",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3395501,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Blizzard EX3",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 111720417,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25152
+    },
+    "date": 1788706493492,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 992171,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ranma saotome EX2",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2258020,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Divine sagat",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 111728988,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788706759689,
+    "duration": 205997,
+    "left": {
+      "bet_amount": 1904092,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "W buffalo_n",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2102500,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Supernovice",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 111784815,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
