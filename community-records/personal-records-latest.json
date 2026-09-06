@@ -216294,5 +216294,59 @@
     "sum": 2334,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18180
+    },
+    "date": 1788657983096,
+    "duration": 130208,
+    "left": {
+      "bet_amount": 1573749,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Judith",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2716295,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "M. bison",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 111337902,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39106
+    },
+    "date": 1788658227287,
+    "duration": 184196,
+    "left": {
+      "bet_amount": 3791309,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Michael_roa_valdamjong",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1080970,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Lilia",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 111348365,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
