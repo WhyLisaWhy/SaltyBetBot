@@ -219372,5 +219372,32 @@
     "sum": 11016,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788678285896,
+    "duration": 367006,
+    "left": {
+      "bet_amount": 291777,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Santaurus EX3",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 697186,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Sodom sfa",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
