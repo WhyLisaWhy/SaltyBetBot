@@ -222178,5 +222178,113 @@
     "sum": 4074,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788698917493,
+    "duration": 219998,
+    "left": {
+      "bet_amount": 118859,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nagaoka shiho",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 318697,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Randy m. green EX",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5653
+    },
+    "date": 1788699127693,
+    "duration": 156196,
+    "left": {
+      "bet_amount": 275761,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ririsu",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 284534,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Reimi",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 5653,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788699367892,
+    "duration": 184198,
+    "left": {
+      "bet_amount": 338818,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ginzu",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 467071,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rapid ayaka",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788699594093,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 282006,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Goodman EX",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 490104,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ryoga hibiki",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
