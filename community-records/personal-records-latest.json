@@ -222099,5 +222099,84 @@
     "sum": 111760596,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1788697938488,
+    "duration": 183795,
+    "left": {
+      "bet_amount": 273844,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Metagang",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 79309,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Guy mk ii",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 3934,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3934
+    },
+    "date": 1788698357094,
+    "duration": 150002,
+    "left": {
+      "bet_amount": 27385,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Black battler",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 769851,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Helmet",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 3934,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4074
+    },
+    "date": 1788698631292,
+    "duration": 214199,
+    "left": {
+      "bet_amount": 814590,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Ares",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 80329,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "A'",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 4074,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
