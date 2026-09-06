@@ -219183,5 +219183,113 @@
     "sum": 1773,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2947
+    },
+    "date": 1788676447687,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 514840,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Li xiangfei",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 108192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Gohan z2",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 2947,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3563
+    },
+    "date": 1788676778088,
+    "duration": 276393,
+    "left": {
+      "bet_amount": 500892,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ganondorf",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 189329,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Santaurus EX3",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 3563,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788677012293,
+    "duration": 180206,
+    "left": {
+      "bet_amount": 404444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Gozu",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 347301,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Goku ssj 3",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788677198287,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 202469,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Sodom sfa",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 230952,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Soul ninja mk2",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
