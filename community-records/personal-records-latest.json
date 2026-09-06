@@ -219777,5 +219777,113 @@
     "sum": 111669572,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31831
+    },
+    "date": 1788682836889,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1826630,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Saki mitonoya",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2076746,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Private",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 111639603,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36372
+    },
+    "date": 1788683103088,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 2962638,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Hogyoku aizen",
+      "normal_bettors": 21,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1391602,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Blade",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 111675173,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788683243089,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 4077313,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Duralminn",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1137994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vega",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 111638801,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26108
+    },
+    "date": 1788683493289,
+    "duration": 196000,
+    "left": {
+      "bet_amount": 2259390,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Qb",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1473690,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "K EX",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 111638802,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
