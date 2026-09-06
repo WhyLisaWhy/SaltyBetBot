@@ -224473,5 +224473,140 @@
     "sum": 111874612,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15148
+    },
+    "date": 1788715062493,
+    "duration": 84197,
+    "left": {
+      "bet_amount": 2781484,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Jibber",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1681221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aoko_monk_style",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 111870190,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25741
+    },
+    "date": 1788715272495,
+    "duration": 150002,
+    "left": {
+      "bet_amount": 2107069,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Skullman",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4244126,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Sculd",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 111879297,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15203
+    },
+    "date": 1788715472695,
+    "duration": 139994,
+    "left": {
+      "bet_amount": 2145735,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Yamazaki 98",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2007741,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Char's zaku",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 111892000,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37412
+    },
+    "date": 1788715704892,
+    "duration": 176198,
+    "left": {
+      "bet_amount": 2272601,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Bang",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1476065,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wang-fu",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 111908126,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19566
+    },
+    "date": 1788715859092,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 1871559,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kung fu paragas",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2761897,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Gigigear",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 111964303,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
