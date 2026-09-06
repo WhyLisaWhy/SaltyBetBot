@@ -222448,5 +222448,86 @@
     "sum": 3787,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788701345493,
+    "duration": 123990,
+    "left": {
+      "bet_amount": 755305,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Helmet",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 369261,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Reimi",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788701717703,
+    "duration": 316178,
+    "left": {
+      "bet_amount": 1020127,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Rapid ayaka",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 240427,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Killa and ren",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788702054092,
+    "duration": 282200,
+    "left": {
+      "bet_amount": 758655,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 19,
+      "name": "Helmet",
+      "normal_bettors": 25,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1264468,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Killa and ren",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
