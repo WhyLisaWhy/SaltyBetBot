@@ -237541,5 +237541,86 @@
     "sum": 111804692,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30437
+    },
+    "date": 1788812496889,
+    "duration": 176000,
+    "left": {
+      "bet_amount": 3110305,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Rugal bernstein",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2219291,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Sladegelmir",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 111774372,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4854
+    },
+    "date": 1788812627687,
+    "duration": 70601,
+    "left": {
+      "bet_amount": 4279061,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Kim as",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2148404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lavia",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "sum": 111743935,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788813153487,
+    "duration": 256199,
+    "left": {
+      "bet_amount": 68376,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nico tv",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125323,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Marian",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
