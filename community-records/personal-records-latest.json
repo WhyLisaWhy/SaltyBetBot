@@ -228685,5 +228685,32 @@
     "sum": 2609,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4425
+    },
+    "date": 1788748121891,
+    "duration": 201601,
+    "left": {
+      "bet_amount": 539778,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Colynse",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 559019,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 18,
+      "name": "Akira kogami",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 4425,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
