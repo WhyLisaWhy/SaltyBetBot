@@ -230602,5 +230602,140 @@
     "sum": 111836317,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3145
+    },
+    "date": 1788763690293,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 13620008,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Absolute sword",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1238733,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kenu EX7",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 111823339,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5277
+    },
+    "date": 1788763844487,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 3679934,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Joemove",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7652508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Colossus",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 111823625,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8268
+    },
+    "date": 1788763950487,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 1618439,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Bomber hugo",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3771800,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Hammer_and_sickle",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "sum": 111818348,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14862
+    },
+    "date": 1788764220690,
+    "duration": 216202,
+    "left": {
+      "bet_amount": 1383937,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Pocket Ibuki",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3201298,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 16,
+      "name": "Diokles",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 111810080,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 52664
+    },
+    "date": 1788764480896,
+    "duration": 206206,
+    "left": {
+      "bet_amount": 4182269,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Sahaquiel",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1777099,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kaen",
+      "normal_bettors": 13,
+      "win_streak": -9
+    },
+    "sum": 111795218,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
