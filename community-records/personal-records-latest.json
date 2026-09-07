@@ -233707,5 +233707,113 @@
     "sum": 111710222,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26646
+    },
+    "date": 1788786316086,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 1688635,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Alba meira",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2255422,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Charles babbage",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 111714671,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788786518287,
+    "duration": 141998,
+    "left": {
+      "bet_amount": 1265836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gromit",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7560603,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Baby bonnie hood",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 111688025,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30057
+    },
+    "date": 1788786720489,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 1734105,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 3,
+      "name": "Kingmouseman",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2767513,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Kyoko",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 111688026,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788786880489,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 2075271,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Basilisx",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1741959,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Asterix EX9",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 111735178,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
