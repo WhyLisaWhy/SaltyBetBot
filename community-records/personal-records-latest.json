@@ -231250,5 +231250,140 @@
     "sum": 111648091,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788768101695,
+    "duration": 165987,
+    "left": {
+      "bet_amount": 1666127,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Agrias",
+      "normal_bettors": 11,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3631827,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Vegito",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 111651249,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21254
+    },
+    "date": 1788768247888,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 1055132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Brocken",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5607110,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 21,
+      "name": "Z-akuma EX",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111651248,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788768472088,
+    "duration": 164200,
+    "left": {
+      "bet_amount": 1119535,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "The cooler yashiro",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7737240,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Gomora",
+      "normal_bettors": 28,
+      "win_streak": 15
+    },
+    "sum": 111655233,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23780
+    },
+    "date": 1788768608088,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 4193935,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Omega rugal 95-kofm",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1932617,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Simonkin2019",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 111655234,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15457
+    },
+    "date": 1788768762288,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 4541004,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 17,
+      "name": "The grandmapocalypse",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1241421,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mack",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 111706212,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
