@@ -238270,5 +238270,167 @@
     "sum": 111879985,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788822989288,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 2760724,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Parsee mb",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1377730,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fuhashitei",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "sum": 111880247,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26775
+    },
+    "date": 1788823153489,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 2911906,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Yayoi",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1450283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Takumi hattori",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 111880248,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24581
+    },
+    "date": 1788823339520,
+    "duration": 130032,
+    "left": {
+      "bet_amount": 2773879,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Ingrid EX3",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2700840,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Quetzalcoatl fuerza",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 111853473,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26496
+    },
+    "date": 1788823559690,
+    "duration": 160203,
+    "left": {
+      "bet_amount": 3540751,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Donovan",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1101381,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Kimala the bouncer",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 111877197,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35153
+    },
+    "date": 1788823689688,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 4933365,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Fitzgerald",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1437258,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Janne alter",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 111960377,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36916
+    },
+    "date": 1788823859891,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 3105159,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Order-sol",
+      "normal_bettors": 21,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2193143,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Umvc_marisa",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 111925224,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
