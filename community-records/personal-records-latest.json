@@ -227443,5 +227443,113 @@
     "sum": 112079425,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9550
+    },
+    "date": 1788739491695,
+    "duration": 146190,
+    "left": {
+      "bet_amount": 4727064,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Mizuka nagamori",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Saya IX",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 112057611,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28458
+    },
+    "date": 1788739671964,
+    "duration": 120271,
+    "left": {
+      "bet_amount": 3018581,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bison",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3389444,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Alsa",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 112060340,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15972
+    },
+    "date": 1788739807896,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 3531615,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Ringlerun",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1313936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "D4 meirin",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 112031882,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788739932106,
+    "duration": 64211,
+    "left": {
+      "bet_amount": 3630323,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Testament gg1",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1418973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Saiki kof",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 112037798,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
