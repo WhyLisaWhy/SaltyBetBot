@@ -233437,5 +233437,113 @@
     "sum": 111765978,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21196
+    },
+    "date": 1788784562688,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 2253362,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Legendary super saiyan",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1717434,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ss6 sei-abab",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 111730178,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25522
+    },
+    "date": 1788784778887,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 1248545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuiren",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4199275,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Super girl",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 111746183,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1012
+    },
+    "date": 1788784919089,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 1518375,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Kubiwatuki_kemono",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2399254,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Angelg",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 111720661,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788785089091,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 2961536,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Leo jmf",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1472890,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eri hasumi",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 111719649,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
