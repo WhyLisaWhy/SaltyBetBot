@@ -233977,5 +233977,140 @@
     "sum": 111749736,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788788097529,
+    "duration": 160039,
+    "left": {
+      "bet_amount": 3075050,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Einsatz",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1348859,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Xigbar",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 111750851,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788788299687,
+    "duration": 141999,
+    "left": {
+      "bet_amount": 3156568,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "The vampire savior",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1455107,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kagura mutsuki",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 111750850,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31493
+    },
+    "date": 1788788469889,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 2241574,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Doragory",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1751727,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chen-mao",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 111750851,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39553
+    },
+    "date": 1788788670090,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 2204062,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hata no kokoro",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1979153,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Crow",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 111719358,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31758
+    },
+    "date": 1788788834089,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 1611274,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aura 2nd revival",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3759184,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mvc2 ciel",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 111754249,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
