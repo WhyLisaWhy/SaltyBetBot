@@ -237001,5 +237001,140 @@
     "sum": 111666766,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2167
+    },
+    "date": 1788808766089,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 1015095,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Sango",
+      "normal_bettors": 8,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6462548,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Taki",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 111677704,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27919
+    },
+    "date": 1788808932093,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 1386209,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 6,
+      "name": "Kugami toru EX7",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2496206,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Helion z",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 111678045,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788809082309,
+    "duration": 96020,
+    "left": {
+      "bet_amount": 3599534,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Magical launcher aoko",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2329867,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Eddie mvc",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 111650126,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14511
+    },
+    "date": 1788809256495,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 1256250,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ushio to tora",
+      "normal_bettors": 6,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5122117,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Mahvel sean",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "sum": 111650127,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24352
+    },
+    "date": 1788809412489,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1936462,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kyo xi",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2445471,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Requiem giorno(amaai)",
+      "normal_bettors": 21,
+      "win_streak": -6
+    },
+    "sum": 111635616,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
