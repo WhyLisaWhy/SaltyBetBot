@@ -231034,5 +231034,86 @@
     "sum": 111710323,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21271
+    },
+    "date": 1788766584494,
+    "duration": 129959,
+    "left": {
+      "bet_amount": 3196091,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Breloom",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1370333,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sakashita",
+      "normal_bettors": 11,
+      "win_streak": 7
+    },
+    "sum": 111710322,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24354
+    },
+    "date": 1788766754693,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 1489509,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Koichi hirose (act 3)",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3411793,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 15,
+      "name": "Jotaro mythos",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 111689051,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9913
+    },
+    "date": 1788766964890,
+    "duration": 154194,
+    "left": {
+      "bet_amount": 1969591,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mr. bean",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2575755,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "T ninja",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 111664697,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
