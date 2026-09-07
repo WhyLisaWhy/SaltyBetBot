@@ -230332,5 +230332,113 @@
     "sum": 111801484,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18228
+    },
+    "date": 1788762002886,
+    "duration": 95993,
+    "left": {
+      "bet_amount": 3791979,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shenlong_gundam",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3797297,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 16,
+      "name": "Gajet",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 111807745,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33152
+    },
+    "date": 1788762227087,
+    "duration": 169999,
+    "left": {
+      "bet_amount": 1988172,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lancer",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3629613,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 15,
+      "name": "Kalen",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 111789517,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20957
+    },
+    "date": 1788762367288,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1568819,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cammy cxn",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3632288,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Ky(ac)",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 111756365,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18257
+    },
+    "date": 1788762553487,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 7527765,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Asuka",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208366,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ogre",
+      "normal_bettors": 6,
+      "win_streak": -8
+    },
+    "sum": 111765365,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
