@@ -229306,5 +229306,140 @@
     "sum": 111987461,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16940
+    },
+    "date": 1788755612094,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1512592,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Nazrin",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2035425,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Asuka EX2",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 111992489,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12726
+    },
+    "date": 1788755758288,
+    "duration": 91995,
+    "left": {
+      "bet_amount": 1085975,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Scylla",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5476404,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Daimon",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 112004974,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41558
+    },
+    "date": 1788755968493,
+    "duration": 156202,
+    "left": {
+      "bet_amount": 3656443,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Save spacemouse!",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1497012,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Joker-p",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 112007492,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11760
+    },
+    "date": 1788756088492,
+    "duration": 65983,
+    "left": {
+      "bet_amount": 805159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Perfect cell EX3",
+      "normal_bettors": 3,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 27672654,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Shrek",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 111965934,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23582
+    },
+    "date": 1788756232692,
+    "duration": 89989,
+    "left": {
+      "bet_amount": 2183084,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Varnage",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1704029,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Debonea",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 111966277,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
