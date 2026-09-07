@@ -234112,5 +234112,140 @@
     "sum": 111754249,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20081
+    },
+    "date": 1788789014298,
+    "duration": 120007,
+    "left": {
+      "bet_amount": 2304780,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Gyarados",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1755626,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Unlimited jin kisaragi",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 111767748,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788789154489,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 6783015,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Porky minch",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1232396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wolvie",
+      "normal_bettors": 8,
+      "win_streak": -10
+    },
+    "sum": 111747667,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8496
+    },
+    "date": 1788789340488,
+    "duration": 125990,
+    "left": {
+      "bet_amount": 1427092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gouf",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7352933,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Mech ralf",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 111747668,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21940
+    },
+    "date": 1788789494691,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 1203773,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Prinny asagi dood",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5068107,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Dai rai oh",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 111739172,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21101
+    },
+    "date": 1788789656889,
+    "duration": 102201,
+    "left": {
+      "bet_amount": 2125562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "S.o.g",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2784090,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Destoroyah_ex",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "sum": 111717232,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
