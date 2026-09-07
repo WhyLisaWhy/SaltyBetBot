@@ -232303,5 +232303,140 @@
     "sum": 111833053,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788777268888,
+    "duration": 77998,
+    "left": {
+      "bet_amount": 8464458,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kyosuke",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1111916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "He-fonba",
+      "normal_bettors": 4,
+      "win_streak": -14
+    },
+    "sum": 111848805,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20806
+    },
+    "date": 1788777467089,
+    "duration": 135999,
+    "left": {
+      "bet_amount": 2386924,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Shiranui mai",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2017929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ultimate warrior",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 111848806,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19059
+    },
+    "date": 1788777601287,
+    "duration": 74184,
+    "left": {
+      "bet_amount": 1715177,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "K'",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1935264,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Char's z'gok",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "sum": 111828000,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17989
+    },
+    "date": 1788777787288,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1400136,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Devil_daigo EX",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1996185,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Tung fu rue special",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 111808941,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6716
+    },
+    "date": 1788777961488,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2173031,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fusagiko",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1643844,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Suwako",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 111834263,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
