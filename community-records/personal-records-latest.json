@@ -228631,5 +228631,59 @@
     "sum": 17411,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788747604096,
+    "duration": 220198,
+    "left": {
+      "bet_amount": 403798,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Colynse",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 276753,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ultraman_a",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2609
+    },
+    "date": 1788747864293,
+    "duration": 204193,
+    "left": {
+      "bet_amount": 310253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "E-101 beta mkii",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 443368,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Akira kogami",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 2609,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
