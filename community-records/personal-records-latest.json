@@ -231493,5 +231493,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1789
+    },
+    "date": 1788769999291,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 200958,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Gori",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89851,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Samurai johnny",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 1789,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2582
+    },
+    "date": 1788770179289,
+    "duration": 123999,
+    "left": {
+      "bet_amount": 57487,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Blizzard",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 289266,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Russkey kai",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 2582,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3091
+    },
+    "date": 1788770479687,
+    "duration": 244196,
+    "left": {
+      "bet_amount": 241343,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rascal",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 120228,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kuroko EX2",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 3091,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4612
+    },
+    "date": 1788770715687,
+    "duration": 179997,
+    "left": {
+      "bet_amount": 352258,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Kikyo_ex",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Vergil2",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 4612,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
