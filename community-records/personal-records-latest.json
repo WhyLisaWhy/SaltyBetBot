@@ -228037,5 +228037,167 @@
     "sum": 112028150,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26290
+    },
+    "date": 1788743006496,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 2668827,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pacman",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2511620,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Bloodtide",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 111994787,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788743122491,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 4551216,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1949403,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "K.unzen",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 111968497,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39247
+    },
+    "date": 1788743226699,
+    "duration": 50006,
+    "left": {
+      "bet_amount": 3051479,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Comeleon",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2363276,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Agito(coh)",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 111968498,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26341
+    },
+    "date": 1788743386692,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 1303840,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Doraemon EX3",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3175516,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Sonozaki_mion",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 111929251,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18603
+    },
+    "date": 1788743568892,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 2094750,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "World-chang",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2123786,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Veigue_lungberg",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 111992135,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1421
+    },
+    "date": 1788743783094,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 2256830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Thomas the tanky engine",
+      "normal_bettors": 16,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4040759,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Mr funny",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "sum": 111973532,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
