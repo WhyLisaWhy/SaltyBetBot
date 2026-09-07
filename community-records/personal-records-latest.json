@@ -228523,5 +228523,113 @@
     "sum": 4346,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6240
+    },
+    "date": 1788746627496,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 363750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Colynse",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 239371,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jill valentine",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 6240,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10278
+    },
+    "date": 1788746797490,
+    "duration": 113993,
+    "left": {
+      "bet_amount": 55180,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Goenitz",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 595594,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Ultraman_a",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 10278,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11215
+    },
+    "date": 1788747053693,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 244051,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Piccolo mvc",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 430558,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "E-101 beta mkii",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 11215,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17411
+    },
+    "date": 1788747329892,
+    "duration": 216195,
+    "left": {
+      "bet_amount": 133716,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Akira kogami",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 692267,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Emerald",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 17411,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
