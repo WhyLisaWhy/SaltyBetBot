@@ -228766,5 +228766,140 @@
     "sum": 112023436,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788752101495,
+    "duration": 94202,
+    "left": {
+      "bet_amount": 2148412,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Tails",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4174362,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hellboy",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 112031960,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19889
+    },
+    "date": 1788752317691,
+    "duration": 156197,
+    "left": {
+      "bet_amount": 1933415,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kisarah-n",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2329076,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Petora",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 112031959,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22088
+    },
+    "date": 1788752461690,
+    "duration": 83997,
+    "left": {
+      "bet_amount": 2101675,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Igniz 2001",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1709469,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 112048330,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21736
+    },
+    "date": 1788752591892,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 5171571,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Orochi akiha",
+      "normal_bettors": 29,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1466875,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "A.b.a",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 112075140,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788752781892,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 2925204,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Myzr delta",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1464748,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Magnus",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 112053404,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
