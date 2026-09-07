@@ -235813,5 +235813,140 @@
     "sum": 111569273,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30362
+    },
+    "date": 1788801430095,
+    "duration": 106004,
+    "left": {
+      "bet_amount": 3308142,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Shimo EX3",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1675577,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kiyoshi",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 111577365,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30058
+    },
+    "date": 1788801574289,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1861241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sagat f22",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2964397,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Earthquake svc chaos",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 111592604,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11180
+    },
+    "date": 1788801730489,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1290085,
+      "ignored_bettors": 18,
+      "illuminati_bettors": 5,
+      "name": "Silver mildred",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1549076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "A-okita",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 111611287,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788801920490,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 818836,
+      "ignored_bettors": 17,
+      "illuminati_bettors": 6,
+      "name": "Road runner",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3671392,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Axe pq",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "sum": 111600107,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26579
+    },
+    "date": 1788802044694,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 1719655,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 8,
+      "name": "Shadow geist",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1145605,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pepe EX3",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 111600106,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
