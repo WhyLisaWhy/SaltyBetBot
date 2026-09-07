@@ -234490,5 +234490,113 @@
     "sum": 111692028,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788791664488,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 131473,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Z-ukyo",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 43452,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mishio & makoto",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2057
+    },
+    "date": 1788791934690,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 175223,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Regular ass iori",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 29079,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Roll.exe av",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 2057,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788792098688,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 49404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Fidei EX6",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 201017,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Krizalid-kofm-kbr",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1929
+    },
+    "date": 1788792300889,
+    "duration": 142193,
+    "left": {
+      "bet_amount": 129879,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Saint-of-silver",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 150996,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mahvel elena",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 1929,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
