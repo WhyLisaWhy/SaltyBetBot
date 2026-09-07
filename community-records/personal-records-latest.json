@@ -231871,5 +231871,140 @@
     "sum": 111726193,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22617
+    },
+    "date": 1788774426692,
+    "duration": 100005,
+    "left": {
+      "bet_amount": 1494774,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "On",
+      "normal_bettors": 14,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2129966,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Haohmaru-kofm",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 111743304,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 46697
+    },
+    "date": 1788774616888,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 1556680,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Linne z",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2726582,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Kagami EX2",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 111775052,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1684
+    },
+    "date": 1788774787089,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 1560717,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Nui harime",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3211283,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Extreme bardock",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 111728355,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31198
+    },
+    "date": 1788774983088,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1801261,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cheerful kohaku",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3921324,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Megamari",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 111731817,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29781
+    },
+    "date": 1788775153288,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 4753011,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Puss in boots",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1165655,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ramda EX3",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 111746035,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
