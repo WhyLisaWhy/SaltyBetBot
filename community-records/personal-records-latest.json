@@ -234895,5 +234895,86 @@
     "sum": 50435,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19941
+    },
+    "date": 1788795655488,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 1611070,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Largefencer_mysty",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2201481,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Seasell",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 111703701,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4105
+    },
+    "date": 1788795815690,
+    "duration": 99991,
+    "left": {
+      "bet_amount": 3622950,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Son goku (ginyu)",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1287194,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Great saiyaman",
+      "normal_bettors": 7,
+      "win_streak": 0
+    },
+    "sum": 111683760,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40988
+    },
+    "date": 1788795939689,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 2763020,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Itoko",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2117847,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Carlos tfa",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 111685217,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
