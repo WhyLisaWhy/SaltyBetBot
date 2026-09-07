@@ -237136,5 +237136,140 @@
     "sum": 111635616,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788809666688,
+    "duration": 199999,
+    "left": {
+      "bet_amount": 1447709,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kano EX",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4242231,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Rassius fomalhaut",
+      "normal_bettors": 31,
+      "win_streak": -5
+    },
+    "sum": 111654710,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9301
+    },
+    "date": 1788809836888,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 12710118,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Shin akuma svc chaos",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1347550,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ulquiorra cifer",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 111654709,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788810069089,
+    "duration": 176203,
+    "left": {
+      "bet_amount": 1110276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The mighty thor",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4343942,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Kid goku sb",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 111655695,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22164
+    },
+    "date": 1788810243290,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 3413830,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 13,
+      "name": "Awakened okina",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1591105,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kusaregedo EX",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 111655696,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19782
+    },
+    "date": 1788810453488,
+    "duration": 154192,
+    "left": {
+      "bet_amount": 1560974,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fluffy",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2969519,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 13,
+      "name": "Dark phoenix",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 111665960,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
