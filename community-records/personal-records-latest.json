@@ -236596,5 +236596,113 @@
     "sum": 111623990,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24954
+    },
+    "date": 1788806191889,
+    "duration": 165990,
+    "left": {
+      "bet_amount": 3293327,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "Reimu-q",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1550601,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Misaka sisters",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 111623991,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30773
+    },
+    "date": 1788806368089,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1789276,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Mgr",
+      "normal_bettors": 18,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2454080,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Alvan EX",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 111599037,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29599
+    },
+    "date": 1788806532294,
+    "duration": 104204,
+    "left": {
+      "bet_amount": 3466200,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Sonic the hedgehog",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1726545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kyoso(n-cube ai)",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 111640531,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18231
+    },
+    "date": 1788806668290,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 8172656,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Meu meu",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1287343,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Azrael",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 111655150,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
