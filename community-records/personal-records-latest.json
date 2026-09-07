@@ -228307,5 +228307,113 @@
     "sum": 111958503,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788744835894,
+    "duration": 165998,
+    "left": {
+      "bet_amount": 41076,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sweet tooth",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138166,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Colynse",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2006
+    },
+    "date": 1788745090092,
+    "duration": 193994,
+    "left": {
+      "bet_amount": 59997,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Reika",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 175577,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Jill valentine",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 2006,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2684
+    },
+    "date": 1788745280295,
+    "duration": 134004,
+    "left": {
+      "bet_amount": 86099,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Goenitz",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 176343,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Godzilla-tower",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 2684,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788745476492,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 238193,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ultraman_a",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127819,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Number muncher",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
