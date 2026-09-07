@@ -235138,5 +235138,140 @@
     "sum": 111634784,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 485
+    },
+    "date": 1788797172689,
+    "duration": 185999,
+    "left": {
+      "bet_amount": 1109986,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rydia of mist",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5701297,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Nxc morrigan",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 111606872,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4125
+    },
+    "date": 1788797368894,
+    "duration": 136205,
+    "left": {
+      "bet_amount": 9372955,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Mokou ulil",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1573538,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuzuriha",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 111606967,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17280
+    },
+    "date": 1788797519091,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 1390086,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Agni akof",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7147781,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Gonzales s-r",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 111607660,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20711
+    },
+    "date": 1788797689092,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 3698319,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Slalingaru",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1663914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tamamushihime",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 111611013,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25303
+    },
+    "date": 1788797853288,
+    "duration": 103996,
+    "left": {
+      "bet_amount": 3187974,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Trish una",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260254,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The master",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 111590302,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
