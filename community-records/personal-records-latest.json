@@ -229738,5 +229738,140 @@
     "sum": 111873766,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38630
+    },
+    "date": 1788758286087,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 7131261,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 21,
+      "name": "Ren-kun",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1216545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bloo",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 111881692,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25728
+    },
+    "date": 1788758476289,
+    "duration": 133996,
+    "left": {
+      "bet_amount": 2456914,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Mr. bear",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3085259,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hata no kokoro",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 111888247,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29359
+    },
+    "date": 1788758612494,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 7303724,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Akatsuki hm",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1237055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kung fu m.bison",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 111908566,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24405
+    },
+    "date": 1788758792493,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 9396221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Selvaria bles",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1408937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chizuru98",
+      "normal_bettors": 8,
+      "win_streak": -11
+    },
+    "sum": 111879207,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788759004689,
+    "duration": 147997,
+    "left": {
+      "bet_amount": 189946092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Ikki",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1803046,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Kiki de appendix",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "sum": 111854802,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
