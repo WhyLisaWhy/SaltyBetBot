@@ -229873,5 +229873,140 @@
     "sum": 111854802,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2637
+    },
+    "date": 1788759152887,
+    "duration": 96196,
+    "left": {
+      "bet_amount": 1095209,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Werleck",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 45121606,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Runa araki",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 111854801,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26207
+    },
+    "date": 1788759292891,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 1412226,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Swalot",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5078950,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 14,
+      "name": "Mumei",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 111854866,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35209
+    },
+    "date": 1788759493090,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 2667644,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ultimate astro",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5135814,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Konoha mvc",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 111828659,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17688
+    },
+    "date": 1788759669303,
+    "duration": 120212,
+    "left": {
+      "bet_amount": 1504632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Himrio",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11379513,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Dhaos RD",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 111793450,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788759843290,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 5097517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Future trunks",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3593440,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Foxy roxy",
+      "normal_bettors": 25,
+      "win_streak": -14
+    },
+    "sum": 111795786,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
