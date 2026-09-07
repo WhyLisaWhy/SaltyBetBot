@@ -236704,5 +236704,140 @@
     "sum": 111655150,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11115
+    },
+    "date": 1788806858488,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 5022445,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Opirus element",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1472561,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Evil ryu svc chaos",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 111636919,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788807112689,
+    "duration": 194200,
+    "left": {
+      "bet_amount": 2198925,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Koneko",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2775293,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Luke skywalker",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 111640171,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36965
+    },
+    "date": 1788807248897,
+    "duration": 80208,
+    "left": {
+      "bet_amount": 3786305,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 14,
+      "name": "Washizu iwao",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1497063,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kei nanasawa",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 111640170,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37407
+    },
+    "date": 1788807398889,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1522725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kanako ohta",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4165318,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Zen kasen ibaraki",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "sum": 111654645,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17128
+    },
+    "date": 1788807625106,
+    "duration": 166162,
+    "left": {
+      "bet_amount": 1387270,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Bsb samus",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3214205,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Dimlos EX",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 111668199,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
