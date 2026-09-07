@@ -229063,5 +229063,113 @@
     "sum": 111984993,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20227
+    },
+    "date": 1788753978891,
+    "duration": 123995,
+    "left": {
+      "bet_amount": 4699530,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Gaia EX3",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1814871,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jenny",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 111963276,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26159
+    },
+    "date": 1788754119091,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 1286094,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Amato",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3236584,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 16,
+      "name": "Miko hd",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 111971054,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16874
+    },
+    "date": 1788754395293,
+    "duration": 216197,
+    "left": {
+      "bet_amount": 1365749,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Detton",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3712073,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 17,
+      "name": "Shun - andromeda",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 111981366,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24108
+    },
+    "date": 1788754601291,
+    "duration": 145998,
+    "left": {
+      "bet_amount": 2949286,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Barry burton",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2080764,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Waddledee",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "sum": 111964492,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
