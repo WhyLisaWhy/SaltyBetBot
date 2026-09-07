@@ -231385,5 +231385,113 @@
     "sum": 111706212,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21103
+    },
+    "date": 1788768903290,
+    "duration": 81002,
+    "left": {
+      "bet_amount": 4181119,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Dies irae",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2923599,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Toss kong",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 111690755,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788769324692,
+    "duration": 152197,
+    "left": {
+      "bet_amount": 33376,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Monokuma",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149884,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Haku-len",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1892
+    },
+    "date": 1788769548888,
+    "duration": 164197,
+    "left": {
+      "bet_amount": 141644,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Orochi ash",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yumeko",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 1892,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788769805092,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 35035,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Sekibanki",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225705,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Keine kamishirasawa(keln)",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
