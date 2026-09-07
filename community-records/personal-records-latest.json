@@ -231601,5 +231601,86 @@
     "sum": 4612,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24521
+    },
+    "date": 1788770905889,
+    "duration": 134002,
+    "left": {
+      "bet_amount": 168635,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "W buffalo_n",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 245167,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Ingrid EX2",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 24521,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788771296292,
+    "duration": 330405,
+    "left": {
+      "bet_amount": 140263,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Haku-len",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 333157,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Orochi ash",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5192
+    },
+    "date": 1788771482488,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 160656,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Keine kamishirasawa(keln)",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 405473,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Gori",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 5192,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
