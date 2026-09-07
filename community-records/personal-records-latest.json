@@ -228199,5 +228199,113 @@
     "sum": 111973532,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9118
+    },
+    "date": 1788743963294,
+    "duration": 124199,
+    "left": {
+      "bet_amount": 1224712,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rentaro satomi EX7",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4668514,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Rarity",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 111974326,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788744099294,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 2913774,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kungfumithra",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1603214,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Kuando",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 111976714,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18212
+    },
+    "date": 1788744253493,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 1785746,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Pachet-t",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4746541,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Kamijo toma EX",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 111976715,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10726
+    },
+    "date": 1788744399492,
+    "duration": 85996,
+    "left": {
+      "bet_amount": 2422925,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Sakuya (shining blade)",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2932831,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Leo-o",
+      "normal_bettors": 15,
+      "win_streak": -6
+    },
+    "sum": 111958503,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
