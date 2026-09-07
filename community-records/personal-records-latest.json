@@ -228712,5 +228712,59 @@
     "sum": 4425,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38449
+    },
+    "date": 1788751785093,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 2622010,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Nana diclonius",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2100585,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hiziri",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 111976305,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38124
+    },
+    "date": 1788751945292,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 5553665,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Hanyuu",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1250233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dan",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 112023436,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
