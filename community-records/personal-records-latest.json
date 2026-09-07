@@ -232438,5 +232438,140 @@
     "sum": 111834263,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 264
+    },
+    "date": 1788778111688,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 2942087,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Pelecanus",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1359194,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Giant baba",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 111827547,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10513
+    },
+    "date": 1788778377893,
+    "duration": 210205,
+    "left": {
+      "bet_amount": 3316649,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Seven",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1156705,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tachibana ukyo",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 111827669,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31292
+    },
+    "date": 1788778544096,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 1605057,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Smoke mk2",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2705845,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Marius pontmercy",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 111831324,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15505
+    },
+    "date": 1788778694092,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 3688090,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Shin valdoll",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1511478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kungfumithra",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 111849674,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30511
+    },
+    "date": 1788778848295,
+    "duration": 100206,
+    "left": {
+      "bet_amount": 1926594,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Belmod",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2281016,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Evil barney",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 111856002,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
