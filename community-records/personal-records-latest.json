@@ -235543,5 +235543,113 @@
     "sum": 111531264,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788799718687,
+    "duration": 107997,
+    "left": {
+      "bet_amount": 5923417,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shogun EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2363213,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "V.akiha",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "sum": 111534246,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 452
+    },
+    "date": 1788799852889,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 1171058,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Doppo orochi EX3",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2978357,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Rugal b.",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 111534247,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35284
+    },
+    "date": 1788800107089,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 1860086,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "G-akiha",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2129126,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kimexemaru",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 111533795,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788800233296,
+    "duration": 70207,
+    "left": {
+      "bet_amount": 1236616,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Gardener kurama",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5502659,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 18,
+      "name": "Yuri_sv",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 111573431,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
