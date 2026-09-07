@@ -234355,5 +234355,140 @@
     "sum": 111721587,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4151
+    },
+    "date": 1788790557489,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 2736661,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Toguro 100%",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1514164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Popuko chitosegaoka as",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "sum": 111701341,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16595
+    },
+    "date": 1788790761690,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 1422730,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Wong fei hung",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4475436,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Dink smallwood",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 111703635,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32455
+    },
+    "date": 1788790937889,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 2304839,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Terminator orochi",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1751708,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Curse seal",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 111687040,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36939
+    },
+    "date": 1788791138089,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 1314093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Rera EX3",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5228114,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Toki 2",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 111728967,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46697
+    },
+    "date": 1788791305890,
+    "duration": 111800,
+    "left": {
+      "bet_amount": 2473716,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Shana",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1807418,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Zagan",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 111692028,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
