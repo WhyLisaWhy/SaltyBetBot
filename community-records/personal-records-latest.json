@@ -238000,5 +238000,113 @@
     "sum": 3189,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17718
+    },
+    "date": 1788821325888,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1700980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lisa lisa",
+      "normal_bettors": 14,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6099828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Doctor wily",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 111747926,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46028
+    },
+    "date": 1788821472095,
+    "duration": 90207,
+    "left": {
+      "bet_amount": 2398111,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Kobuta",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1865629,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yui_kutuna EX",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 111752853,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6279
+    },
+    "date": 1788821632088,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 6351309,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Killer croc",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1695659,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Matarael",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 111810594,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34564
+    },
+    "date": 1788821832288,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 3044174,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Galmyer_corps",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1625452,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Earth-suika",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 111812269,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
