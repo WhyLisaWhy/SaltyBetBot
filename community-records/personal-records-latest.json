@@ -241078,5 +241078,32 @@
     "sum": 138341,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40226
+    },
+    "date": 1788841325887,
+    "duration": 364399,
+    "left": {
+      "bet_amount": 551447,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Ralsei",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 319633,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Princess toadstool",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "sum": 160904,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
