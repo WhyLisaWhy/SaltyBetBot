@@ -242752,5 +242752,113 @@
     "sum": 113461147,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23553
+    },
+    "date": 1788856375694,
+    "duration": 143999,
+    "left": {
+      "bet_amount": 1459375,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryoko ex EX3",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2464795,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Rena ryuuguu",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 113480602,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22892
+    },
+    "date": 1788856701888,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 1663292,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kawashima-san",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2805109,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "D4 makoto kikuchi",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 113457049,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24212
+    },
+    "date": 1788856882099,
+    "duration": 126010,
+    "left": {
+      "bet_amount": 1747132,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "D4?roll?",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1852917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Akatuki zetu",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 113434157,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788857084287,
+    "duration": 146197,
+    "left": {
+      "bet_amount": 3795498,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Helion",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1012865,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Robert EX",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "sum": 113409945,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
