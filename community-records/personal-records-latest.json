@@ -245452,5 +245452,140 @@
     "sum": 113497743,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1661
+    },
+    "date": 1788878020890,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 2387136,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Arturo",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1236723,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kira izuru",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 113477016,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24306
+    },
+    "date": 1788878235089,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 1452748,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Waldstein",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2110618,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Makao and joma",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 113475355,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6590
+    },
+    "date": 1788878411288,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1167423,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Basilisk-s[0.98]",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2889650,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Servant emiya",
+      "normal_bettors": 27,
+      "win_streak": 10
+    },
+    "sum": 113451049,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788878627489,
+    "duration": 162199,
+    "left": {
+      "bet_amount": 2502077,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Yatenkou",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1347777,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Shirakawa kotori",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 113453706,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42566
+    },
+    "date": 1788878761489,
+    "duration": 74003,
+    "left": {
+      "bet_amount": 2166269,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Ken svc chaos",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1405229,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sanada yukimura_ch",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 113453708,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
