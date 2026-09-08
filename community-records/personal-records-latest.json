@@ -247367,5 +247367,140 @@
     "sum": 113462289,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788892313887,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1377989,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mageres",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5837689,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Mikudayo-",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 113447172,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28236
+    },
+    "date": 1788892508088,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 6037351,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Bloodbane",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1514839,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alvaaron",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 113447173,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19102
+    },
+    "date": 1788892718289,
+    "duration": 149998,
+    "left": {
+      "bet_amount": 2339128,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kyoso(n-cube ai)",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1464146,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Aegis",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 113454225,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11154
+    },
+    "date": 1788892908491,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 3425231,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Alien guts",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1224337,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bloody devil",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 113466085,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17563
+    },
+    "date": 1788893088488,
+    "duration": 123996,
+    "left": {
+      "bet_amount": 1309534,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Movie bison",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3225547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Blade",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 113470060,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
