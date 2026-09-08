@@ -240970,5 +240970,113 @@
     "sum": 24967,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32116
+    },
+    "date": 1788840301089,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 232544,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Princess toadstool",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 234138,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Nero claudius",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 32116,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 59929
+    },
+    "date": 1788840491094,
+    "duration": 136005,
+    "left": {
+      "bet_amount": 146062,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Zen mc",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 449474,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Tewi?",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 60529,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 51903
+    },
+    "date": 1788840681290,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 459641,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "VanillaIce",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 341595,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Ralsei",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 77713,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34585
+    },
+    "date": 1788840907490,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 423135,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Princess toadstool",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 298612,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Tewi?",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 138341,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
