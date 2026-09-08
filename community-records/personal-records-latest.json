@@ -241564,5 +241564,113 @@
     "sum": 113125902,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18254
+    },
+    "date": 1788848329287,
+    "duration": 159998,
+    "left": {
+      "bet_amount": 1300870,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mc gill",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1840249,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Sonozaki_mion",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 113126100,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26261
+    },
+    "date": 1788848573489,
+    "duration": 190002,
+    "left": {
+      "bet_amount": 1751819,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "H-duolon",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1612641,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Metal slug rugal",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 113151566,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31928
+    },
+    "date": 1788848759688,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 1794642,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kenoh EX2",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3308157,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Hotaride",
+      "normal_bettors": 23,
+      "win_streak": 9
+    },
+    "sum": 113125305,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18407
+    },
+    "date": 1788848969888,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 1695978,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Duck dodgers",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2172436,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Monika",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 113142461,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
