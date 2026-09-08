@@ -243913,5 +243913,86 @@
     "sum": 3265,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3708
+    },
+    "date": 1788864424097,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 157440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kamishiro_aya",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 227330,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "A-agito",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 3708,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788864594289,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 168037,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tenko",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157114,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Cajun gambit EX7",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3192
+    },
+    "date": 1788864814490,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 334402,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Resonance",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 113722,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dan smith, the tyrant",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 3192,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
