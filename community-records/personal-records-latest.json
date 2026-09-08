@@ -248447,5 +248447,113 @@
     "sum": 113429976,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788899573688,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 6032568,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Boss sagat",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1234613,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zakuro chan",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 113432819,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34124
+    },
+    "date": 1788899729689,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 3736648,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Gudako",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1517169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sik scorpion",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 113432818,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30787
+    },
+    "date": 1788899985887,
+    "duration": 199999,
+    "left": {
+      "bet_amount": 1175093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Misaka sisters",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3163137,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Kobun 43.5",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 113398694,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19737
+    },
+    "date": 1788900230089,
+    "duration": 184001,
+    "left": {
+      "bet_amount": 3586418,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Arrange_shiori",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1484367,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hyper beast",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 113410022,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
