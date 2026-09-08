@@ -249824,5 +249824,113 @@
     "sum": 113462093,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18740
+    },
+    "date": 1788908688889,
+    "duration": 164200,
+    "left": {
+      "bet_amount": 2231186,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Tensi",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1700775,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Tennma kazusanosuke",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 113462092,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20766
+    },
+    "date": 1788908949089,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 1516358,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Satsujinki",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2633122,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Marisa kirisame",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 113476259,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21567
+    },
+    "date": 1788909095090,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1946847,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rb2_geese",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4750521,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Reika kitakami",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 113455493,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788909299321,
+    "duration": 144032,
+    "left": {
+      "bet_amount": 1255376,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Soul aino",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4276055,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Nazo the hedgehog",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 113433926,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
