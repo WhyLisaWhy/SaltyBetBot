@@ -250040,5 +250040,86 @@
     "sum": 2558,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3934
+    },
+    "date": 1788910556290,
+    "duration": 173999,
+    "left": {
+      "bet_amount": 196738,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Lynn 02",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 58624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aegis",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 3934,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5084
+    },
+    "date": 1788910782491,
+    "duration": 166201,
+    "left": {
+      "bet_amount": 39931,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Robo kung fu man",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270777,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dark super sonic",
+      "normal_bettors": 37,
+      "win_streak": -3
+    },
+    "sum": 5084,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5820
+    },
+    "date": 1788911068694,
+    "duration": 226206,
+    "left": {
+      "bet_amount": 243622,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kudo",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93766,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Dante 4",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 5820,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
