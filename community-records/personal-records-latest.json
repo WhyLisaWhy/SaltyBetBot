@@ -241942,5 +241942,140 @@
     "sum": 113319085,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22423
+    },
+    "date": 1788850953489,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 1020699,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Scourge the hedgehog",
+      "normal_bettors": 8,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5678382,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Chronoforce",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 113336653,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788851153488,
+    "duration": 139991,
+    "left": {
+      "bet_amount": 5116552,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Raiden EX2",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1148946,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fatter tony",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 113458716,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27207
+    },
+    "date": 1788851287688,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 2122196,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Portgas d. ace",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2314465,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Tina",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 113458716,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11009
+    },
+    "date": 1788851577892,
+    "duration": 234203,
+    "left": {
+      "bet_amount": 1163399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Joymech katima",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3224905,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "M_utsuho",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 113431509,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19855
+    },
+    "date": 1788851788088,
+    "duration": 150196,
+    "left": {
+      "bet_amount": 1506936,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Ryougi_shiki",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2040585,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Merkava ex",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 113420500,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
