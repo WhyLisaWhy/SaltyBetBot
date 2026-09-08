@@ -246343,5 +246343,140 @@
     "sum": 113438265,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27403
+    },
+    "date": 1788883499088,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 1130022,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wild iori",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2285231,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Sayo chan",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 113413568,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788883685289,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 2224001,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "C.dome",
+      "normal_bettors": 22,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260028,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Luffy",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 113386165,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17154
+    },
+    "date": 1788883879489,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 1482479,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Tuyoshi",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2361639,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Trevor spacey",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 113386166,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788884045488,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1101274,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Lilith a",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2102445,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Arlong",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 113396857,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19609
+    },
+    "date": 1788884169695,
+    "duration": 70006,
+    "left": {
+      "bet_amount": 1631473,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sumo sw",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1560503,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Chiel",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 113396858,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
