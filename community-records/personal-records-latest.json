@@ -244156,5 +244156,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788867170289,
+    "duration": 402193,
+    "left": {
+      "bet_amount": 356472,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Ren mizusaka",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 421796,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Resonance",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
