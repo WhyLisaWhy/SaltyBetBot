@@ -244723,5 +244723,140 @@
     "sum": 113441152,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788873537488,
+    "duration": 214198,
+    "left": {
+      "bet_amount": 1837998,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Arcueid",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1902712,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Princess silver",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 113459171,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30525
+    },
+    "date": 1788873739489,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 2227359,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Haku-len",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1229534,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yaruo_aa",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 113459170,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9669
+    },
+    "date": 1788873893690,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 1650012,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Architect",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1430634,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Mk-paragus",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 113475793,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21760
+    },
+    "date": 1788874053890,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 1843993,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Goyan",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2339300,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Garou terry",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 113486870,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788874310088,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 803262,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 6,
+      "name": "Kisume EX",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2782470,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kthanid",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 113503865,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
