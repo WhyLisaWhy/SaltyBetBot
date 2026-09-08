@@ -249716,5 +249716,113 @@
     "sum": 113487979,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22716
+    },
+    "date": 1788907852288,
+    "duration": 130184,
+    "left": {
+      "bet_amount": 2071157,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Eins EX6",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2123634,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cecilia",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 113487978,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 198
+    },
+    "date": 1788908002289,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 1377495,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Raidou EX",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3822873,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Bao",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 113465262,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3241
+    },
+    "date": 1788908168489,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1109231,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Neo Sonic",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5528623,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Xbl balrog",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 113465334,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788908458690,
+    "duration": 220201,
+    "left": {
+      "bet_amount": 2052587,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Cyber-peacock",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2153443,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Scaled wurm",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 113462093,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
