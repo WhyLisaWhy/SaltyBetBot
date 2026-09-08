@@ -244615,5 +244615,113 @@
     "sum": 113430803,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22610
+    },
+    "date": 1788872712688,
+    "duration": 66000,
+    "left": {
+      "bet_amount": 1367380,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gene",
+      "normal_bettors": 5,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4995048,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Suparfcmeirin ver.1.15",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 113442358,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21488
+    },
+    "date": 1788872922888,
+    "duration": 155999,
+    "left": {
+      "bet_amount": 2083282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Eleicia",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1978976,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Pucca-toppo",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 113448520,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27572
+    },
+    "date": 1788873097088,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 1712142,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Geese mk ii",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1604634,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Snipe lv2",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 113468724,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24779
+    },
+    "date": 1788873267287,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 1708072,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tiger EX",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2324200,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Kill bill uma-ex",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 113441152,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
