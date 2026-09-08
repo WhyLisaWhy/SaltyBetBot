@@ -247259,5 +247259,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3047
+    },
+    "date": 1788890909291,
+    "duration": 348601,
+    "left": {
+      "bet_amount": 308608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Wild wolf rotd",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 889023,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Ff mai shiranui",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 3047,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
