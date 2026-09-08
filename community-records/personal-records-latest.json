@@ -239674,5 +239674,140 @@
     "sum": 111984018,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17849
+    },
+    "date": 1788831265893,
+    "duration": 170204,
+    "left": {
+      "bet_amount": 1495893,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yuyuko saigyouji",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2177722,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Shimo EX3",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 111975773,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22680
+    },
+    "date": 1788831421887,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 2504599,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Shiki ryougi iqs",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1434005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Wonder woman revolutions",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 111987934,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18000
+    },
+    "date": 1788831618088,
+    "duration": 142199,
+    "left": {
+      "bet_amount": 1557142,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Satsuki vp EX3",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3554638,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chloe valens",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 111965254,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788831882288,
+    "duration": 204150,
+    "left": {
+      "bet_amount": 2362490,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Layzner",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1961433,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Adom",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 111947254,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24547
+    },
+    "date": 1788831992496,
+    "duration": 54088,
+    "left": {
+      "bet_amount": 2196559,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Turbo ryu",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2808668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Venomu",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 111947253,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
