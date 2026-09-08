@@ -248204,5 +248204,113 @@
     "sum": 113381062,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18693
+    },
+    "date": 1788897746290,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 1280992,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Rocket raccoon",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3128363,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Kenoh",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 113351593,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22462
+    },
+    "date": 1788897936289,
+    "duration": 129994,
+    "left": {
+      "bet_amount": 3458092,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "God urien",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1868944,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Titi",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 113396588,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34977
+    },
+    "date": 1788898136495,
+    "duration": 144006,
+    "left": {
+      "bet_amount": 1704805,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Marvel frozen",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1755525,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider accel",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 113374126,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31230
+    },
+    "date": 1788898356695,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 1309643,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Alien baltan",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2997848,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kumagawa misogi",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "sum": 113339149,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
