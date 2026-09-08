@@ -247799,5 +247799,113 @@
     "sum": 113519491,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788895262287,
+    "duration": 204199,
+    "left": {
+      "bet_amount": 4679123,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Spiny",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189110,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Scourge the hedgehog",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 113540101,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788895392489,
+    "duration": 74201,
+    "left": {
+      "bet_amount": 1195448,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ippo",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2682349,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Nanoha tsukikage",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 113540100,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21961
+    },
+    "date": 1788895582512,
+    "duration": 130024,
+    "left": {
+      "bet_amount": 4085365,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Shimakaze atm",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1255581,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bowser smrpg",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "sum": 113540099,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14056
+    },
+    "date": 1788895742689,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 4468981,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shin gouki sfz2",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1480936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tatami",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 113546813,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
