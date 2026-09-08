@@ -247043,5 +247043,86 @@
     "sum": 10747,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11310
+    },
+    "date": 1788888767292,
+    "duration": 276184,
+    "left": {
+      "bet_amount": 386502,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Aladdin EX3",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1205087,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Ff mai shiranui",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 11310,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788889083491,
+    "duration": 260197,
+    "left": {
+      "bet_amount": 1197890,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Evil q",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112373,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Real chibi scex",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1696
+    },
+    "date": 1788889417688,
+    "duration": 274195,
+    "left": {
+      "bet_amount": 684221,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ippo",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 718978,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Wild wolf rotd",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1696,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
