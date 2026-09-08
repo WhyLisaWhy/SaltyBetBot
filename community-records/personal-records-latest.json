@@ -240646,5 +240646,86 @@
     "sum": 111910877,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21076
+    },
+    "date": 1788837460690,
+    "duration": 184003,
+    "left": {
+      "bet_amount": 1578176,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Gouf",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2232378,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Koishi",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 111910876,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21232
+    },
+    "date": 1788837621488,
+    "duration": 104600,
+    "left": {
+      "bet_amount": 1135169,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cielo",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2558865,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "No.9",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 111925637,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788838013289,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 78644,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Capsule monster",
+      "normal_bettors": 18,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 84382,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Laurence blood rb2",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
