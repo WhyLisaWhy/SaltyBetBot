@@ -238594,5 +238594,113 @@
     "sum": 111930618,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17201
+    },
+    "date": 1788824970689,
+    "duration": 59996,
+    "left": {
+      "bet_amount": 6810176,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Anisama",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1626811,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Yusha30",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 111929122,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21491
+    },
+    "date": 1788825126888,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 3767730,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Big bear 0D",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2055928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kano EX",
+      "normal_bettors": 15,
+      "win_streak": -9
+    },
+    "sum": 112000376,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788825263089,
+    "duration": 76172,
+    "left": {
+      "bet_amount": 1984352,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Dudley K",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4232357,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "J.max",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 112012037,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19504
+    },
+    "date": 1788825407089,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1718854,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Index(maid) ver1.16",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2245755,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Ash crimson-kofm",
+      "normal_bettors": 21,
+      "win_streak": 6
+    },
+    "sum": 112012036,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
