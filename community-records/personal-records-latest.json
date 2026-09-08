@@ -246962,5 +246962,86 @@
     "sum": 7882,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9103
+    },
+    "date": 1788888072690,
+    "duration": 252204,
+    "left": {
+      "bet_amount": 98749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tron bonne",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1323415,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Marika yamagata",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 9103,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9778
+    },
+    "date": 1788888256886,
+    "duration": 125994,
+    "left": {
+      "bet_amount": 1100784,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Honda ex",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Eleicia",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 9778,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10747
+    },
+    "date": 1788888431090,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 1455472,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Gilgamesh f/sn",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76783,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Iceman SP",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 10747,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
