@@ -240727,5 +240727,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788838297499,
+    "duration": 224212,
+    "left": {
+      "bet_amount": 171386,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "VanillaIce",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 87045,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ripper roo",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788838553688,
+    "duration": 196197,
+    "left": {
+      "bet_amount": 94702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tessa (tabasa)",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 201110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Gato ex",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2275
+    },
+    "date": 1788838783887,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 101424,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Killer crocodile",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 262417,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ralsei",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 2275,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3147
+    },
+    "date": 1788839064089,
+    "duration": 226201,
+    "left": {
+      "bet_amount": 62111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Phantomsheet",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 329638,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Princess toadstool",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 3147,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3735
+    },
+    "date": 1788839294288,
+    "duration": 170194,
+    "left": {
+      "bet_amount": 60653,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Seinosuke",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 400162,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Nero claudius",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 3735,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
