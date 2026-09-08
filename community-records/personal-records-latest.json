@@ -243994,5 +243994,113 @@
     "sum": 3192,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788865244889,
+    "duration": 370400,
+    "left": {
+      "bet_amount": 230953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kucheat",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 226001,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ren mizusaka",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3124
+    },
+    "date": 1788865410889,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 386609,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Aztec toki",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 182183,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Soldier ms",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 3124,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788865711095,
+    "duration": 240207,
+    "left": {
+      "bet_amount": 417148,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mami",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kamishiro_aya",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2010
+    },
+    "date": 1788866031487,
+    "duration": 256398,
+    "left": {
+      "bet_amount": 376828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Cajun gambit EX7",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 249793,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Resonance",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 2010,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
