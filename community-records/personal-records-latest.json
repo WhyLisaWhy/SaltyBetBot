@@ -246478,5 +246478,140 @@
     "sum": 113396858,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12015
+    },
+    "date": 1788884389889,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 5166890,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Alpha candy",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1140593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mech gouki",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 113377249,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788884610088,
+    "duration": 164199,
+    "left": {
+      "bet_amount": 1314334,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Heart heat harn",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2097348,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Rouga(coh)",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "sum": 113379896,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17953
+    },
+    "date": 1788884760090,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 1158733,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vile",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2786779,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Meifang dhq",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 113379895,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21261
+    },
+    "date": 1788884916288,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 1592199,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hi_guma",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1707084,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Diana kof",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 113361942,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788885076290,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 1145151,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ken tek",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3729058,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Gun shin guan yu",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 113381529,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
