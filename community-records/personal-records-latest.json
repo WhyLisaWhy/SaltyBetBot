@@ -247286,5 +247286,86 @@
     "sum": 3047,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788891829688,
+    "duration": 68199,
+    "left": {
+      "bet_amount": 1252832,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Kaio shin",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3513616,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Lowtiergod's urien",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "sum": 113462289,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788892007688,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1584054,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Fullmetal haggar",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3760663,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kyoudou senna",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 113462290,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15117
+    },
+    "date": 1788892147887,
+    "duration": 86197,
+    "left": {
+      "bet_amount": 2110780,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Mash figaro",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1297408,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lei-lei",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 113462289,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
