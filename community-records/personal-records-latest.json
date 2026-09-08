@@ -244345,5 +244345,140 @@
     "sum": 113375328,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36991
+    },
+    "date": 1788870879288,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 1642599,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eddie DD",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4310360,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Space warrior",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 113351859,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788871095487,
+    "duration": 162199,
+    "left": {
+      "bet_amount": 1821092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kryo",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4459258,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Cheng",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 113365836,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39779
+    },
+    "date": 1788871325689,
+    "duration": 176150,
+    "left": {
+      "bet_amount": 1290855,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Krang",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4905666,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rock volnutt",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 113365835,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36511
+    },
+    "date": 1788871595889,
+    "duration": 216201,
+    "left": {
+      "bet_amount": 1247659,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Battle dome",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2211316,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Grappler shiki",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 113376219,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3108
+    },
+    "date": 1788871729934,
+    "duration": 80046,
+    "left": {
+      "bet_amount": 5239823,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Go hibiki",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1300806,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Think",
+      "normal_bettors": 8,
+      "win_streak": 0
+    },
+    "sum": 113439091,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
