@@ -242374,5 +242374,86 @@
     "sum": 113457270,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29317
+    },
+    "date": 1788853861688,
+    "duration": 123997,
+    "left": {
+      "bet_amount": 1666025,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "The vampire savior",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2056939,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Baiken(ac)",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 113429308,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788854011888,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 1172760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Olof linderoth",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 15399186,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Shazzer EX3",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 113464878,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28502
+    },
+    "date": 1788854137888,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 12523543,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Guldin",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1587746,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Uesugi kensin EX",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 113464879,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
