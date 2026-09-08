@@ -244858,5 +244858,113 @@
     "sum": 113503865,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21448
+    },
+    "date": 1788874464089,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2280486,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Noa",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2025134,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Order-sol",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "sum": 113503864,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26395
+    },
+    "date": 1788874634289,
+    "duration": 114002,
+    "left": {
+      "bet_amount": 2454916,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Gorimaru jr",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358350,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Buckdozer",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 113522733,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35154
+    },
+    "date": 1788874784489,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 5398233,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Evangelion",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170093,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shadow geist ex",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "sum": 113537183,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8478
+    },
+    "date": 1788874970489,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 2870267,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Doragory",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 871656,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Gray fly",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 113544754,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
