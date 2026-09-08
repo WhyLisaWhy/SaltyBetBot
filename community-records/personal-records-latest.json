@@ -246856,5 +246856,111 @@
     "sum": 113458188,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1788886873088,
+    "duration": 89403,
+    "left": {
+      "bet_amount": 110273,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Terraria warrior",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 294567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Miles",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 6841,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6841
+    },
+    "date": 1788887242087,
+    "duration": 107992,
+    "left": {
+      "bet_amount": 84565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ibuki",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 882132,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ippo",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 6841,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7492
+    },
+    "date": 1788887506288,
+    "duration": 212200,
+    "left": {
+      "bet_amount": 68748,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rakugaki",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1315816,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Wild wolf rotd",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 7492,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7882
+    },
+    "date": 1788887766487,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 185564,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mudman",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1190224,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Frank castle",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 7882,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
