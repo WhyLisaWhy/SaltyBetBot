@@ -243022,5 +243022,113 @@
     "sum": 113470600,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13120
+    },
+    "date": 1788858229096,
+    "duration": 110007,
+    "left": {
+      "bet_amount": 2540959,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Marluxia",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1245310,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Patoelietoe 2",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 113499509,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18651
+    },
+    "date": 1788858405289,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2629305,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Mini caster",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1326104,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Date masamune_ch",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 113505907,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33213
+    },
+    "date": 1788858535489,
+    "duration": 70199,
+    "left": {
+      "bet_amount": 899288,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Smoke mk2",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3915932,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Koryuoh",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 113487256,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20755
+    },
+    "date": 1788858695695,
+    "duration": 100206,
+    "left": {
+      "bet_amount": 1865441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rajaa riesbyfe",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1732491,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Wolfgang k altstein",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 113494820,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
