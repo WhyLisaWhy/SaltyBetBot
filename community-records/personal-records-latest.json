@@ -244102,5 +244102,59 @@
     "sum": 2010,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788866371693,
+    "duration": 280196,
+    "left": {
+      "bet_amount": 165685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ren mizusaka",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 279386,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Soldier ms",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788866707889,
+    "duration": 276188,
+    "left": {
+      "bet_amount": 316835,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mami",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 204872,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Resonance",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
