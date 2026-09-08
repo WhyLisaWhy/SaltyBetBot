@@ -240376,5 +240376,140 @@
     "sum": 112058796,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27354
+    },
+    "date": 1788835809488,
+    "duration": 66000,
+    "left": {
+      "bet_amount": 2890521,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Trevor spacey",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2756377,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kingetemon",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 112058798,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26593
+    },
+    "date": 1788836033689,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 1631506,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Subterranean rose",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1779654,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Anita msh",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 112031444,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2696
+    },
+    "date": 1788836223890,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 4043013,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Rock volnutt",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1258741,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mappy",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 112004851,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788836359894,
+    "duration": 80005,
+    "left": {
+      "bet_amount": 2765152,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Mario",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2529652,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Birdie",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 112002155,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2869
+    },
+    "date": 1788836490087,
+    "duration": 70197,
+    "left": {
+      "bet_amount": 5654808,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Misaka dbfc",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1325207,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mario 119",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "sum": 112002154,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
