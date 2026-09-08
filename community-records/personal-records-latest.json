@@ -243724,5 +243724,86 @@
     "sum": 113373025,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19570
+    },
+    "date": 1788862590689,
+    "duration": 224199,
+    "left": {
+      "bet_amount": 2437514,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Deluxe tetsu yatogi",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1821442,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ed-209",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 113404635,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40527
+    },
+    "date": 1788862821297,
+    "duration": 174608,
+    "left": {
+      "bet_amount": 2057856,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cci jhun EX3",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1821076,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Sakuya (shining blade)",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 113385065,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788863323290,
+    "duration": 236199,
+    "left": {
+      "bet_amount": 38833,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kucheat",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127523,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Marisa kirisame",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
