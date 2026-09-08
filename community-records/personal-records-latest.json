@@ -247124,5 +247124,140 @@
     "sum": 1696,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788889754088,
+    "duration": 276199,
+    "left": {
+      "bet_amount": 126789,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Frank castle",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1221352,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Marika yamagata",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16301
+    },
+    "date": 1788889904087,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 567250,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Honda ex",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 512394,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gilgamesh f/sn",
+      "normal_bettors": 15,
+      "win_streak": 6
+    },
+    "sum": 16301,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788890074288,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 275098,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Ff mai shiranui",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 621555,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Evil q",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5033
+    },
+    "date": 1788890350487,
+    "duration": 220200,
+    "left": {
+      "bet_amount": 290260,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Wild wolf rotd",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 437372,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Frank castle",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 5033,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788890504695,
+    "duration": 100208,
+    "left": {
+      "bet_amount": 438224,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Honda ex",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 452231,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Ff mai shiranui",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
