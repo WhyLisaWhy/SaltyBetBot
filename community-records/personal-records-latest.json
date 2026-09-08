@@ -243616,5 +243616,113 @@
     "sum": 113429762,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788861804091,
+    "duration": 104195,
+    "left": {
+      "bet_amount": 1078312,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kurohige",
+      "normal_bettors": 9,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6480075,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Black widow EX",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "sum": 113433306,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40238
+    },
+    "date": 1788861934092,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 1611551,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Temjin arrange",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1955805,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jobman EX7",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 113433307,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20044
+    },
+    "date": 1788862126289,
+    "duration": 130193,
+    "left": {
+      "bet_amount": 4787431,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Homura EX",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1263273,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucario",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 113393069,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47165
+    },
+    "date": 1788862306495,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 1577701,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Bloo",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2306979,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Aizen",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 113373025,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
