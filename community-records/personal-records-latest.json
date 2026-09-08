@@ -241105,5 +241105,32 @@
     "sum": 160904,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788845419089,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2041602,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Duo lon pp",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1307624,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider kiva",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 113117620,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
