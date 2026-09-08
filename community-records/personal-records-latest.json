@@ -242455,5 +242455,167 @@
     "sum": 113464879,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788854364089,
+    "duration": 166201,
+    "left": {
+      "bet_amount": 1671774,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Omanyte EX3",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2802510,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Another unknown",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 113468485,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16872
+    },
+    "date": 1788854494288,
+    "duration": 76198,
+    "left": {
+      "bet_amount": 1406215,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Quick silver",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2063050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Roll.exe av",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 113468487,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33915
+    },
+    "date": 1788854654296,
+    "duration": 100008,
+    "left": {
+      "bet_amount": 1336889,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Aselia",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 15387498,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Cyclone_nobita",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 113492947,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18643
+    },
+    "date": 1788854788489,
+    "duration": 73990,
+    "left": {
+      "bet_amount": 1301628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Guile hd",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2812389,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Broken",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 113459032,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20759
+    },
+    "date": 1788854978688,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 1665696,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Scorpion EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3500649,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Imouto EX3",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 113440389,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34524
+    },
+    "date": 1788855244889,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 1197049,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "The end",
+      "normal_bettors": 10,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2496227,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Tsukiyomi kinako EX5",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 113450209,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
