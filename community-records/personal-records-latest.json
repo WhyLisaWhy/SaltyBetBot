@@ -245749,5 +245749,113 @@
     "sum": 113312705,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26709
+    },
+    "date": 1788879858289,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1388478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Epyon",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2175674,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "!shizumaru",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 113354514,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6205
+    },
+    "date": 1788880074489,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 3153200,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Tita russell",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1606125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lucario",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 113327805,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788880248715,
+    "duration": 120229,
+    "left": {
+      "bet_amount": 3398306,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Edward newgate",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1277729,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Yurung",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 113330960,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788880458889,
+    "duration": 150194,
+    "left": {
+      "bet_amount": 2621743,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Syobo-n",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1086429,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Warmachine MVC2",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 113330959,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
