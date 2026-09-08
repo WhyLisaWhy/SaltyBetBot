@@ -246613,5 +246613,113 @@
     "sum": 113381529,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23184
+    },
+    "date": 1788885366689,
+    "duration": 124195,
+    "left": {
+      "bet_amount": 1562545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Terry 02",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1694661,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Metalman mvc",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 113381530,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19231
+    },
+    "date": 1788885556689,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1218010,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sledge",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3808322,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Gardener",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 113358346,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21869
+    },
+    "date": 1788885792888,
+    "duration": 176000,
+    "left": {
+      "bet_amount": 3459376,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shuma MVC3",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1532671,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Birdie EX3",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 113339115,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14659
+    },
+    "date": 1788885957088,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 1223864,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Poppy",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2536256,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Senator",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 113317246,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
