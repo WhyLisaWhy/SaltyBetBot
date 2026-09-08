@@ -243805,5 +243805,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788863627490,
+    "duration": 244198,
+    "left": {
+      "bet_amount": 81825,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ren mizusaka",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 143550,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Arietta",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788863817690,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 147033,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Aztec toki",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 134933,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Abare bishamon",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2958
+    },
+    "date": 1788864017889,
+    "duration": 128193,
+    "left": {
+      "bet_amount": 308627,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Soldier ms",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 32309,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ken amada & koromaru",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 2958,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3265
+    },
+    "date": 1788864213893,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 332452,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Mami",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 45486,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Omega shingo",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 3265,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
