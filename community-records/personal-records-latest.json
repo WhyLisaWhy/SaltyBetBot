@@ -241132,5 +241132,140 @@
     "sum": 113117620,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788845589089,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 1251553,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - davis",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2683754,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "May lee",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 113117619,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3685
+    },
+    "date": 1788845785289,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 5811256,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Eva-00",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1319582,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Charmander",
+      "normal_bettors": 10,
+      "win_streak": 0
+    },
+    "sum": 113117618,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38166
+    },
+    "date": 1788845969488,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 895204,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Heidi",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3734597,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kazami yuuka",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 113118455,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30069
+    },
+    "date": 1788846195686,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 6476386,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Sion tatari EX2",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1188552,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Master mecha sonic",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 113127512,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39380
+    },
+    "date": 1788846325888,
+    "duration": 76202,
+    "left": {
+      "bet_amount": 7592717,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Natalia glinka",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1338268,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rancid",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 113097443,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
