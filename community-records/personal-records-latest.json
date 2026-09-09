@@ -253442,5 +253442,113 @@
     "sum": 45413,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24395
+    },
+    "date": 1788935982088,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 2631392,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Licht",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1411820,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Goddman batman",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 113676504,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17845
+    },
+    "date": 1788936148289,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 3292404,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Crawdo",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1236996,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Magic dunker EX",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "sum": 113721200,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7168
+    },
+    "date": 1788936292289,
+    "duration": 83994,
+    "left": {
+      "bet_amount": 1020803,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Donaemon-type-d",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3084585,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mech kain",
+      "normal_bettors": 25,
+      "win_streak": 7
+    },
+    "sum": 113727869,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6330
+    },
+    "date": 1788936438490,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 2664208,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Pachet-t",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1493669,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Yoko kurama",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 113720701,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
