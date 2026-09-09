@@ -262271,5 +262271,86 @@
     "sum": 114660261,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788996957923,
+    "duration": 164232,
+    "left": {
+      "bet_amount": 114766,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mech ralf",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 56552,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Predator warrior",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2304
+    },
+    "date": 1788997160089,
+    "duration": 142196,
+    "left": {
+      "bet_amount": 54569,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Toguro 100%",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 171413,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Akatuki zetu",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 2304,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3028
+    },
+    "date": 1788997314088,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 105178,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vegeta ssb",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 167175,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Deezer",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 3028,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
