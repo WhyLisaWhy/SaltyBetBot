@@ -258761,5 +258761,113 @@
     "sum": 114204473,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26456
+    },
+    "date": 1788972550687,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 1867760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Charlotte s",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1640990,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Deluxe cassandra",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 114289855,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25163
+    },
+    "date": 1788972794887,
+    "duration": 179971,
+    "left": {
+      "bet_amount": 2325695,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Gundam nataku",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 955999,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lambdadelta",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 114319490,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22466
+    },
+    "date": 1788972985089,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 2034162,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Seyren_windsor",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1224515,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sineba",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 114379136,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21752
+    },
+    "date": 1788973171289,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 2808988,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Tora shou",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1441459,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yagami-ad",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 114356670,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
