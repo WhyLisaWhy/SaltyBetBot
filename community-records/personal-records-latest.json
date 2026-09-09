@@ -259571,5 +259571,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788978844696,
+    "duration": 149007,
+    "left": {
+      "bet_amount": 362405,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gouki sf3",
+      "normal_bettors": 15,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 538711,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Element",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
