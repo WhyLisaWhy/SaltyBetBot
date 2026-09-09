@@ -257573,5 +257573,140 @@
     "sum": 114154063,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36668
+    },
+    "date": 1788965223096,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 1742883,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Ironpatriot",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2042050,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Reisen-e",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 114124887,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18355
+    },
+    "date": 1788965403292,
+    "duration": 124204,
+    "left": {
+      "bet_amount": 2287260,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Kemular",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1655004,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mint",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 114155631,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14062
+    },
+    "date": 1788965549289,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 3238461,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Awakened x",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1176508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Samurai",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 114180720,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18117
+    },
+    "date": 1788965699488,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 2811766,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Risotto nero",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2116229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yuri_sv",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 114185807,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788965895489,
+    "duration": 142000,
+    "left": {
+      "bet_amount": 1974050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mvsn nosex",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1188712,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Manic",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 114167690,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
