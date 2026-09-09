@@ -257276,5 +257276,167 @@
     "sum": 114306532,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25059
+    },
+    "date": 1788963341488,
+    "duration": 202000,
+    "left": {
+      "bet_amount": 3598505,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Dark queen carmilla",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1112383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kraft",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 114311145,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21753
+    },
+    "date": 1788963561688,
+    "duration": 159996,
+    "left": {
+      "bet_amount": 4525145,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Jotaro",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1333151,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Knyacki",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 114286086,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788963691888,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 1085252,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Fritz",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4025709,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Highway-star",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 114292464,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788963916091,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 3256521,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shang tsung mk1",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3184045,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Toro inoue",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "sum": 114292465,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44048
+    },
+    "date": 1788964112089,
+    "duration": 135999,
+    "left": {
+      "bet_amount": 1849963,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Robbie rotten",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2311072,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Alvan EX",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 114292467,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29996
+    },
+    "date": 1788964246289,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 1192826,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Duo maxwell",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2054504,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Uranus",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 114248419,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
