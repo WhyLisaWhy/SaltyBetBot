@@ -256520,5 +256520,32 @@
     "sum": 3055,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5592
+    },
+    "date": 1788957276893,
+    "duration": 406370,
+    "left": {
+      "bet_amount": 330807,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Rider",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 383961,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kurippudassu",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 5592,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
