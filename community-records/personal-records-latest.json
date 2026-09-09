@@ -250121,5 +250121,113 @@
     "sum": 5820,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8008
+    },
+    "date": 1788911332890,
+    "duration": 204201,
+    "left": {
+      "bet_amount": 101025,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "M.bison mk2",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 282846,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Nekomo",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 8008,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10790
+    },
+    "date": 1788911489089,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 73171,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Madalitso",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 379581,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Highway-star",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 10790,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788911793289,
+    "duration": 250198,
+    "left": {
+      "bet_amount": 431397,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Kou",
+      "normal_bettors": 35,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74938,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Takiyasya",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1819
+    },
+    "date": 1788911959538,
+    "duration": 110208,
+    "left": {
+      "bet_amount": 470326,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Nisego chaos",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Starsavior",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 1819,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
