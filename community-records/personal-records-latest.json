@@ -256790,5 +256790,113 @@
     "sum": 114151324,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788959984888,
+    "duration": 133996,
+    "left": {
+      "bet_amount": 3910306,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ryogi_exvs",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1115914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rosie",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 114116584,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26644
+    },
+    "date": 1788960105097,
+    "duration": 60206,
+    "left": {
+      "bet_amount": 2894589,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Regice orochi",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1488788,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Angry jhons lee",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 114116585,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22250
+    },
+    "date": 1788960281089,
+    "duration": 115995,
+    "left": {
+      "bet_amount": 5057985,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Ultraman gaia_a",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1217374,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Super vegeta EX3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 114130164,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40498
+    },
+    "date": 1788960421301,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 1233200,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Buckdozer",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2706856,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "A-ko",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 114135496,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
