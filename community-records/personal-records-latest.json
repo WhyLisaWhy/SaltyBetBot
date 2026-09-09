@@ -260570,5 +260570,140 @@
     "sum": 114565658,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788985971292,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 1498121,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Rude spawn",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2749385,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chen juanmin",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 114565659,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19320
+    },
+    "date": 1788986151492,
+    "duration": 124202,
+    "left": {
+      "bet_amount": 1777396,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kaigen",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2353434,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Clayface",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "sum": 114565658,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788986297492,
+    "duration": 89959,
+    "left": {
+      "bet_amount": 1308794,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Blaze agent",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4739652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Miss x",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 114580131,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11285
+    },
+    "date": 1788986481690,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 3180566,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Shin gouki sfz2",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1579358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kucheat",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 114580132,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11241
+    },
+    "date": 1788986621695,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 4647856,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Miko-q",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1373307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Uminin",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 114568847,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
