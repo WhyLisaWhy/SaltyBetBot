@@ -255872,5 +255872,113 @@
     "sum": 113908891,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27973
+    },
+    "date": 1788951682289,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1831998,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Yoshitora",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1304564,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Big volfogg",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 114078978,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19776
+    },
+    "date": 1788951792493,
+    "duration": 56003,
+    "left": {
+      "bet_amount": 3041436,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Cyberbot_atlas",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 848490,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Uminin",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "sum": 114098598,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10619
+    },
+    "date": 1788952038694,
+    "duration": 186197,
+    "left": {
+      "bet_amount": 2647057,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Bloo xiii EX7",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1272672,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Darkmatter",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 114104080,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20329
+    },
+    "date": 1788952232896,
+    "duration": 134206,
+    "left": {
+      "bet_amount": 1812515,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Bridget(ac)",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1247824,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dinozord EX",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 114109166,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
