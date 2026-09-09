@@ -258329,5 +258329,140 @@
     "sum": 114148976,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6232
+    },
+    "date": 1788969940690,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 4465055,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Ushiromiya battler",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1270086,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yui_kutuna",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 114195105,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21605
+    },
+    "date": 1788970090888,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 1486924,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sula t-k",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3468914,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Nirvana",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 114196876,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30017
+    },
+    "date": 1788970246889,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 2127895,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider amazon alpha",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1340858,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Sanic boom",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 114206080,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788970441088,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 1572595,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Svc genjyuro",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1966048,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hatoba tsugu",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "sum": 114176063,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4528
+    },
+    "date": 1788970561288,
+    "duration": 64200,
+    "left": {
+      "bet_amount": 1428336,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Subaru",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3200320,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Bobby mk ii",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 114176065,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
