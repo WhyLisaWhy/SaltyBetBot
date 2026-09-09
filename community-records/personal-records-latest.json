@@ -259706,5 +259706,140 @@
     "sum": 114460995,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26318
+    },
+    "date": 1788980633088,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 3222843,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Marius pontmercy",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1884277,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Robert945",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 114433614,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5842
+    },
+    "date": 1788980767090,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 1062419,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Akagi shigeru",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9819077,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Gokuraku tarou EX5",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 114407296,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788980963294,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 2045572,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Snakeeyes",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1556176,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Robo-jam",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 114407928,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33070
+    },
+    "date": 1788981153490,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 2419130,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Orochi-bs",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3031636,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Superior dragon",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 114407927,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44620
+    },
+    "date": 1788981283489,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 1540642,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "O.tenho",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2701342,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Zeus (disney)",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 114448812,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
