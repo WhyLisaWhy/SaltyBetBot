@@ -257438,5 +257438,140 @@
     "sum": 114248419,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23245
+    },
+    "date": 1788964432487,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 1659184,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Portgas d. ace",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2137663,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Sevil nathe",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 114218423,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14241
+    },
+    "date": 1788964578487,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 5960806,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Bloodbane",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ogre akuma",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 114195178,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12406
+    },
+    "date": 1788964778689,
+    "duration": 146198,
+    "left": {
+      "bet_amount": 1458324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Zonu",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3181656,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Dou zou man",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 114198246,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31777
+    },
+    "date": 1788964908889,
+    "duration": 70201,
+    "left": {
+      "bet_amount": 1197483,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Weiss daemon bride",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2409060,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "E.honda sf2",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 114185840,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29176
+    },
+    "date": 1788965048889,
+    "duration": 85993,
+    "left": {
+      "bet_amount": 1583688,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Michael jackson",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4091330,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Green lantern",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 114154063,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
