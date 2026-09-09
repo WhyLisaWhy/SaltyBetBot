@@ -261461,5 +261461,113 @@
     "sum": 114430231,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28536
+    },
+    "date": 1788991489489,
+    "duration": 84001,
+    "left": {
+      "bet_amount": 2307418,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Button masher onomatopoeia",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3209080,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jin",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 114502167,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788991699750,
+    "duration": 154062,
+    "left": {
+      "bet_amount": 1352338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Blaze agent",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3750419,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Thalia",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 114473631,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24780
+    },
+    "date": 1788991879891,
+    "duration": 124202,
+    "left": {
+      "bet_amount": 1957784,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Doraemon EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1638006,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Kirby sdx",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 114473630,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26736
+    },
+    "date": 1788992146088,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 974256,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Mashiro",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3991277,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Motaro",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 114448850,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
