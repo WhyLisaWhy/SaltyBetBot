@@ -255737,5 +255737,140 @@
     "sum": 113917106,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5453
+    },
+    "date": 1788950785691,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 2132187,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Forte",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1143591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Gray fullbuster",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 113891780,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1958
+    },
+    "date": 1788950981895,
+    "duration": 140208,
+    "left": {
+      "bet_amount": 924552,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Bulbasaur",
+      "normal_bettors": 10,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3141941,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Naked Vega",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 113894698,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788951145888,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 2871441,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Meld-ac",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1054271,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryuhi SD",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 113901338,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23851
+    },
+    "date": 1788951326088,
+    "duration": 123997,
+    "left": {
+      "bet_amount": 2647695,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Turf EX3",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 845897,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Omega zero",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 113901339,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39256
+    },
+    "date": 1788951526295,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 4122453,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Tormentor jinmen",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 912207,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "L.c.yubari",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 113908891,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
