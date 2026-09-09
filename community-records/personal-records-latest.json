@@ -252551,5 +252551,113 @@
     "sum": 113662757,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788928586293,
+    "duration": 126005,
+    "left": {
+      "bet_amount": 2231264,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Thorn",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3706912,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rouna",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 113669931,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9546
+    },
+    "date": 1788928726492,
+    "duration": 80203,
+    "left": {
+      "bet_amount": 2168160,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Master miyako",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2172617,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Kaede-sk",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 113669932,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4171
+    },
+    "date": 1788928886488,
+    "duration": 99991,
+    "left": {
+      "bet_amount": 6432239,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Shin gouki",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1143187,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kirigamine kiriko",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 113679417,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20939
+    },
+    "date": 1788929086689,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 1158707,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Yukina_h",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2248600,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Vakishim",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 113680158,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
