@@ -258032,5 +258032,113 @@
     "sum": 114152790,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34204
+    },
+    "date": 1788968087290,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 1371750,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sasquatch",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2786930,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Dmtenko",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 114234945,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18678
+    },
+    "date": 1788968247488,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 1897039,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kula xiii",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2505203,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Rim silveria",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 114200741,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13341
+    },
+    "date": 1788968469489,
+    "duration": 159999,
+    "left": {
+      "bet_amount": 2921416,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Ken tek",
+      "normal_bettors": 32,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1551865,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Guy",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 114182063,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9313
+    },
+    "date": 1788968649696,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 2301029,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Rugal 4th",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1624099,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Donaemon-type-d",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 114168722,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
