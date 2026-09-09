@@ -256115,5 +256115,140 @@
     "sum": 114133617,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18357
+    },
+    "date": 1788953255090,
+    "duration": 81603,
+    "left": {
+      "bet_amount": 1252031,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 3,
+      "name": "Chie_rumiko",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2225100,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chaos 0",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 114141178,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788953700088,
+    "duration": 174200,
+    "left": {
+      "bet_amount": 63742,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Nikumaru",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 66497,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Beast",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788953876089,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 140968,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kirby mythos",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 36660,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Mr. game & watch plus",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788954060289,
+    "duration": 124199,
+    "left": {
+      "bet_amount": 130243,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Rider",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 42697,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chunli_a",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2053
+    },
+    "date": 1788954302488,
+    "duration": 182199,
+    "left": {
+      "bet_amount": 60825,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Papyrus",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 129134,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Trident",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 2053,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
