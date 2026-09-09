@@ -257087,5 +257087,86 @@
     "sum": 114219011,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20075
+    },
+    "date": 1788961892488,
+    "duration": 144202,
+    "left": {
+      "bet_amount": 1046496,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Maat",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1764279,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Fluffy",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "sum": 114227203,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1906
+    },
+    "date": 1788962038488,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1147253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hoppou seiki",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4122325,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Goku-hell",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 114238977,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38832
+    },
+    "date": 1788962284690,
+    "duration": 186201,
+    "left": {
+      "bet_amount": 1807772,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Orsted_w",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 801428,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Celesteela",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 114239508,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
