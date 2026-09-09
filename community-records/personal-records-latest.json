@@ -252659,5 +252659,113 @@
     "sum": 113680158,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20113
+    },
+    "date": 1788929230889,
+    "duration": 88200,
+    "left": {
+      "bet_amount": 1315429,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lf2 - deep",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3027491,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Manbou bbb",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 113690849,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3295
+    },
+    "date": 1788929396888,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 1422985,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Simonkin2005",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5156996,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Frank castle",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 113670736,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38053
+    },
+    "date": 1788929597088,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 1754830,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Heart guitly gear",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3508965,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Abigail",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 113671645,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5443
+    },
+    "date": 1788929923289,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 3478629,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Socket",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Biko daitokuji",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "sum": 113633592,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
