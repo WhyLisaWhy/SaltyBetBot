@@ -259220,5 +259220,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5049
+    },
+    "date": 1788975931496,
+    "duration": 232207,
+    "left": {
+      "bet_amount": 74711,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Ecoco EX3",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Special-a strider hien",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 5049,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12914
+    },
+    "date": 1788976105492,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 64502,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Bristol weller",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 216059,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Han EX3",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 12914,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16552
+    },
+    "date": 1788976375690,
+    "duration": 214200,
+    "left": {
+      "bet_amount": 166798,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mekazawa-sama",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116369,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Pokey the penguin",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 16552,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788976666093,
+    "duration": 234204,
+    "left": {
+      "bet_amount": 57117,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Devil_daigo EX",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 262113,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Geno",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1886
+    },
+    "date": 1788976862089,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 267352,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Heidern 98",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116631,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mask the griffon",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 1886,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
