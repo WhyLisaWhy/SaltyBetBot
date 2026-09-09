@@ -254684,5 +254684,113 @@
     "sum": 113991311,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788943744093,
+    "duration": 204005,
+    "left": {
+      "bet_amount": 923569,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Honoka",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2887972,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Aura",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 113974409,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9698
+    },
+    "date": 1788943960289,
+    "duration": 156003,
+    "left": {
+      "bet_amount": 4093434,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "A perfect soldier",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064441,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hitsugaya",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 113974410,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19616
+    },
+    "date": 1788944094487,
+    "duration": 74198,
+    "left": {
+      "bet_amount": 1277333,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Charlotte s",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3341499,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Spacemouse deluxe",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 113976926,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788944340693,
+    "duration": 190205,
+    "left": {
+      "bet_amount": 3846599,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Kaede kasiwagi",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1420801,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ninjaslayer",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 113984381,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
