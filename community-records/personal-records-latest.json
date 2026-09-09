@@ -260003,5 +260003,86 @@
     "sum": 114342047,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6622
+    },
+    "date": 1788982520489,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 4670306,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Plastic man ex",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1459285,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mr. heart g",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 114342048,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11862
+    },
+    "date": 1788982760688,
+    "duration": 183998,
+    "left": {
+      "bet_amount": 1562286,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kishimax",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3467148,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Inspector javert",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 114344115,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44950
+    },
+    "date": 1788982916889,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 3910670,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Dante de cerbero",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1566832,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Hey! it's me goku!",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 114349442,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
