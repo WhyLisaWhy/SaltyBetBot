@@ -250229,5 +250229,140 @@
     "sum": 1819,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2107
+    },
+    "date": 1788912189489,
+    "duration": 170000,
+    "left": {
+      "bet_amount": 73178,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lynn 02",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 534502,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dark super sonic",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 2107,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788912379689,
+    "duration": 133995,
+    "left": {
+      "bet_amount": 363162,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kudo",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 143964,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Nekomo",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5419
+    },
+    "date": 1788912519888,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 372780,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Highway-star",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 181182,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kou",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 5419,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8016
+    },
+    "date": 1788912750089,
+    "duration": 174203,
+    "left": {
+      "bet_amount": 520404,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Nisego chaos",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 96086,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Lynn 02",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 8016,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9474
+    },
+    "date": 1788912946288,
+    "duration": 140167,
+    "left": {
+      "bet_amount": 140098,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Nekomo",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 633597,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Highway-star",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 9474,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
