@@ -256250,5 +256250,86 @@
     "sum": 2053,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6270
+    },
+    "date": 1788954532688,
+    "duration": 176197,
+    "left": {
+      "bet_amount": 35831,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Dora",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 177315,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Pocket joker",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 6270,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7494
+    },
+    "date": 1788954862889,
+    "duration": 270199,
+    "left": {
+      "bet_amount": 64653,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Roll EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 144467,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kurippudassu",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 7494,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788955049088,
+    "duration": 132200,
+    "left": {
+      "bet_amount": 262218,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shiki vp",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 39351,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "God gundam",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
