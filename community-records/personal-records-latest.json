@@ -252254,5 +252254,167 @@
     "sum": 113698810,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38262
+    },
+    "date": 1788926716891,
+    "duration": 110204,
+    "left": {
+      "bet_amount": 1618302,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Geese Howard",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3783549,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Sion tatari EX",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 113698809,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19972
+    },
+    "date": 1788926933096,
+    "duration": 160208,
+    "left": {
+      "bet_amount": 1516754,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Glaugan the lion",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3311367,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Peach mizuki",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 113660547,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788927093089,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1114545,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "E-123 omega",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5235231,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Masked rider den-o",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 113703584,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788927245290,
+    "duration": 92000,
+    "left": {
+      "bet_amount": 1303893,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Heart aino",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 49313987,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Sayurin",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 113703583,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34035
+    },
+    "date": 1788927369288,
+    "duration": 69993,
+    "left": {
+      "bet_amount": 3268965,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Washizu iwao",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1279687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dopefish",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 113703584,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22645
+    },
+    "date": 1788927549497,
+    "duration": 120008,
+    "left": {
+      "bet_amount": 2755079,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Cecilia",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2095500,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Nemesis",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 113669549,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
