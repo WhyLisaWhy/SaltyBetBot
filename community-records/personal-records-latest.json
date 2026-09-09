@@ -256331,5 +256331,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1782
+    },
+    "date": 1788955297288,
+    "duration": 194198,
+    "left": {
+      "bet_amount": 31458,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Steel",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 300634,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Gigigear",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 1782,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788955447289,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 210649,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Nikumaru",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 87636,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mr. game & watch plus",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788955703489,
+    "duration": 190000,
+    "left": {
+      "bet_amount": 326226,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Rider",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Papyrus",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1791
+    },
+    "date": 1788955919688,
+    "duration": 159999,
+    "left": {
+      "bet_amount": 291860,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Pocket joker",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 144229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Kurippudassu",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 1791,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788956103888,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 99271,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Shiki vp",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 192798,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Steel",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
