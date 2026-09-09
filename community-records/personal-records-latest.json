@@ -251930,5 +251930,140 @@
     "sum": 113739540,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788924729289,
+    "duration": 104003,
+    "left": {
+      "bet_amount": 2319825,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Black widow EX",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1831904,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Revlius",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 113751349,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4156
+    },
+    "date": 1788924899497,
+    "duration": 110209,
+    "left": {
+      "bet_amount": 5077933,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Special edition rock",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1413606,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rayquaza",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 113751348,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29137
+    },
+    "date": 1788925089689,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 1718876,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ciel kagura",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1973221,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Super better mario",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 113752505,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23236
+    },
+    "date": 1788925259703,
+    "duration": 114017,
+    "left": {
+      "bet_amount": 1460920,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Gumball watterson",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2517545,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Robinmask",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 113777517,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27890
+    },
+    "date": 1788925399887,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 1367815,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kongou",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3219228,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Rare god orochi",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 113754281,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
