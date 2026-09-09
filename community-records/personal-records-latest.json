@@ -259598,5 +259598,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12178
+    },
+    "date": 1788979886486,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 3152240,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Saber_alter",
+      "normal_bettors": 32,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1344419,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Stardust utsuho",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "sum": 114486788,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35272
+    },
+    "date": 1788980062688,
+    "duration": 116195,
+    "left": {
+      "bet_amount": 1139408,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 3,
+      "name": "Mini caster",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3104432,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Storm_cota",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 114491962,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14046
+    },
+    "date": 1788980216688,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 1228405,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lucifer of pride",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3994563,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "New rubber soul",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 114456690,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27381
+    },
+    "date": 1788980426899,
+    "duration": 154010,
+    "left": {
+      "bet_amount": 1666036,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "One tough koopa",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1667424,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rouge the bat",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 114460995,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
