@@ -250931,5 +250931,140 @@
     "sum": 113618735,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788918624696,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 2931551,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Nanoha tsukikage",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1585722,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Evil guy",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 113583134,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17131
+    },
+    "date": 1788918844888,
+    "duration": 160176,
+    "left": {
+      "bet_amount": 2966346,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Abel ssf4",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1739050,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Rip_saber",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 113583135,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20083
+    },
+    "date": 1788918984888,
+    "duration": 73998,
+    "left": {
+      "bet_amount": 1316636,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Gill sf3",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5467236,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Balrog f",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 113593121,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19922
+    },
+    "date": 1788919115089,
+    "duration": 74200,
+    "left": {
+      "bet_amount": 2216378,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Pipimi",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1250494,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Joe swanson",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 113597940,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21865
+    },
+    "date": 1788919245088,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 1607665,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Blue mary",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4692039,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Patrick dulton",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 113578018,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
