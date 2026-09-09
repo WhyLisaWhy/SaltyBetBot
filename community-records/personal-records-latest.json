@@ -252767,5 +252767,140 @@
     "sum": 113633592,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21286
+    },
+    "date": 1788930177488,
+    "duration": 170000,
+    "left": {
+      "bet_amount": 1270216,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Hercules",
+      "normal_bettors": 9,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3249830,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Dragon EX3",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 113635421,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788930343689,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 3903494,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Skaxl roa",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1411161,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Goku ssj 3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 113643687,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788930537889,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 8199606,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Italian shin",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1292797,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "God jafar",
+      "normal_bettors": 22,
+      "win_streak": -14
+    },
+    "sum": 113643686,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11166
+    },
+    "date": 1788930738089,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2348375,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Amazo",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1400260,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cci kim kaphwan",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 113643685,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788930900088,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1079597,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Warachia a",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7296645,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Highway star",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "sum": 113632519,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
