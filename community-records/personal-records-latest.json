@@ -251498,5 +251498,113 @@
     "sum": 113581571,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20594
+    },
+    "date": 1788922201293,
+    "duration": 126005,
+    "left": {
+      "bet_amount": 4179793,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Matoi ryuko",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1482245,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Maverick hunter x",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 113594544,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21109
+    },
+    "date": 1788922405488,
+    "duration": 143989,
+    "left": {
+      "bet_amount": 2522043,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "King of black dragon",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3088635,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Heart",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 113651822,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788922557689,
+    "duration": 91995,
+    "left": {
+      "bet_amount": 8792895,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Macho man randy savage",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1148340,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Fou-lu",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 113677459,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1092
+    },
+    "date": 1788922751903,
+    "duration": 136209,
+    "left": {
+      "bet_amount": 2091750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Cassios",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4435546,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Mr. bison",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 113677460,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
