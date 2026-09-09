@@ -259355,5 +259355,86 @@
     "sum": 1886,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2703
+    },
+    "date": 1788977062287,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 24361,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Rosie",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 426028,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Element",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 2703,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2857
+    },
+    "date": 1788977312497,
+    "duration": 194208,
+    "left": {
+      "bet_amount": 364500,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Russkey kai",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 90142,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Klaus garcia",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 2857,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788977512694,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 441506,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Gouki sf3",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71304,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ecoco EX3",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
