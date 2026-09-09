@@ -262163,5 +262163,113 @@
     "sum": 114709910,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27997
+    },
+    "date": 1788996067090,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 1675695,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ky(ac)",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4286757,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Puppet master",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 114719312,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788996233289,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1415861,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Giran",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4332481,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Cvs blaze",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "sum": 114691315,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31055
+    },
+    "date": 1788996383489,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 2319103,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Paprika",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1412563,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Biped EX7",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 114691316,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31073
+    },
+    "date": 1788996523089,
+    "duration": 85600,
+    "left": {
+      "bet_amount": 1346035,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Gene",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2342043,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Abigail",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 114660261,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
