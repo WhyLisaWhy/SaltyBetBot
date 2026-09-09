@@ -250364,5 +250364,32 @@
     "sum": 9474,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11538
+    },
+    "date": 1788913320894,
+    "duration": 320601,
+    "left": {
+      "bet_amount": 192693,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Nisego chaos",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 741692,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Highway-star",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 11538,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
