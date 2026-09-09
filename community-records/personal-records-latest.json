@@ -259436,5 +259436,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788977792895,
+    "duration": 224202,
+    "left": {
+      "bet_amount": 496427,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Han EX3",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 54050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pokey the penguin",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1719
+    },
+    "date": 1788977993088,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 520770,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Geno",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93653,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Heidern 98",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 1719,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11106
+    },
+    "date": 1788978153088,
+    "duration": 103970,
+    "left": {
+      "bet_amount": 230296,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Element",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 284672,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Russkey kai",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 11106,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24203
+    },
+    "date": 1788978419288,
+    "duration": 210000,
+    "left": {
+      "bet_amount": 149779,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gouki sf3",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 501982,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Han EX3",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 24203,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788978639488,
+    "duration": 163998,
+    "left": {
+      "bet_amount": 328581,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Heidern 98",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 339067,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Element",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
