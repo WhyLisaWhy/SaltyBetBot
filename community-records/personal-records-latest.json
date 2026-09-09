@@ -253253,5 +253253,86 @@
     "sum": 1857,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1967
+    },
+    "date": 1788933784489,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 246375,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Kula diamond iqs",
+      "normal_bettors": 29,
+      "win_streak": 17
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 129736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gatocyu",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 1967,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2995
+    },
+    "date": 1788934038688,
+    "duration": 200192,
+    "left": {
+      "bet_amount": 110005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Zwei EX6",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 274621,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Alt(hana-ai)",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 2995,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1788934238690,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 422684,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Beauty queen etna",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 45279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Fire-donald",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
