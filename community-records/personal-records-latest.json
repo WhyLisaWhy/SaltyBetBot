@@ -257168,5 +257168,113 @@
     "sum": 114239508,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28112
+    },
+    "date": 1788962444889,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1673315,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Neff",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1425307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Broli",
+      "normal_bettors": 7,
+      "win_streak": 7
+    },
+    "sum": 114323053,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788962607088,
+    "duration": 108199,
+    "left": {
+      "bet_amount": 796046,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 3,
+      "name": "Madara uchiha",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4745405,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Night_gaunt",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 114294941,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29933
+    },
+    "date": 1788962945289,
+    "duration": 126202,
+    "left": {
+      "bet_amount": 3126696,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Fluttershy",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1222416,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Injustice doomsday",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 114294940,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13575
+    },
+    "date": 1788963075288,
+    "duration": 75993,
+    "left": {
+      "bet_amount": 1141567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Sheen",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3346405,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Heart of madness",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 114306532,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
