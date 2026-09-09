@@ -256547,5 +256547,86 @@
     "sum": 5592,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17928
+    },
+    "date": 1788958447689,
+    "duration": 139992,
+    "left": {
+      "bet_amount": 1445498,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Fordy",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2054471,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "F-k",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 114133167,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38492
+    },
+    "date": 1788958623888,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 2981879,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Rindou",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1454770,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kevin rian",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 114158336,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3262
+    },
+    "date": 1788958768089,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 1701593,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Nyarukami nyuu",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7177573,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Juri han qyc",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 114176876,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
