@@ -258464,5 +258464,113 @@
     "sum": 114176065,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1788970751290,
+    "duration": 133993,
+    "left": {
+      "bet_amount": 1182369,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Shinzero",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6504507,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Antlar",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 114178084,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1788970913491,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 4180570,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Washizuka xi",
+      "normal_bettors": 23,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1680036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Devil daimajin",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "sum": 114178085,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17033
+    },
+    "date": 1788971063688,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 1971058,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "The ferret",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1713802,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Funky dantel",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 114178086,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26747
+    },
+    "date": 1788971263688,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1692988,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Saki guitly gear",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2706562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sailor saturn",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 114161053,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
