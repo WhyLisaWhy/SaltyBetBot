@@ -268533,5 +268533,86 @@
     "sum": 2044,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2717
+    },
+    "date": 1789043832490,
+    "duration": 169998,
+    "left": {
+      "bet_amount": 142127,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Kotiya sanae",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 69957,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Carlos tfa",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 2717,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4030
+    },
+    "date": 1789044132894,
+    "duration": 244206,
+    "left": {
+      "bet_amount": 163854,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Akatsuki",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 91368,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mitsuji tanimati",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 4030,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10952
+    },
+    "date": 1789044282890,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 218022,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Han EX3",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 84292,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Khameleon mk2",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 10952,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
