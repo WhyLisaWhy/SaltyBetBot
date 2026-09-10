@@ -265401,5 +265401,86 @@
     "sum": 114507186,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789022353690,
+    "duration": 300400,
+    "left": {
+      "bet_amount": 117291,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Akari kamigishi",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 39100,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "The tick",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789022509689,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 102637,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Bloodthirsty rasetsumaru",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Guy CVS",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3149
+    },
+    "date": 1789022671888,
+    "duration": 102199,
+    "left": {
+      "bet_amount": 185694,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Diba",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 46886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vice",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "sum": 3149,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
