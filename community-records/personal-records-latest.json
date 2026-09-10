@@ -266022,5 +266022,140 @@
     "sum": 114403606,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 54120
+    },
+    "date": 1789027417490,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1100954,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Ruby rose",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2885159,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Goyan",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 114373369,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30986
+    },
+    "date": 1789027537691,
+    "duration": 66003,
+    "left": {
+      "bet_amount": 1836724,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Juri gf",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1214250,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Zenryoku",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 114319249,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26770
+    },
+    "date": 1789027677889,
+    "duration": 86202,
+    "left": {
+      "bet_amount": 1149609,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dachon",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5051952,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Cless ndx",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 114339394,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15496
+    },
+    "date": 1789027867888,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1382380,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Surtur",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3034357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Orin",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "sum": 114345454,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 715
+    },
+    "date": 1789028102089,
+    "duration": 174200,
+    "left": {
+      "bet_amount": 1081235,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Eas",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2125239,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Zeus",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 114329958,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
