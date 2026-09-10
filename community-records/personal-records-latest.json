@@ -270261,5 +270261,113 @@
     "sum": 114032338,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22580
+    },
+    "date": 1789055455689,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 2210061,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Charlie frost",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1866026,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Lihua",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 114035496,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19648
+    },
+    "date": 1789055595889,
+    "duration": 84202,
+    "left": {
+      "bet_amount": 2629460,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Gyeron",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529062,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sumo sw",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 114061920,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21656
+    },
+    "date": 1789055735890,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 1074410,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Shiki_tohno kofum",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2338056,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Sula t-k",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 114042272,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18429
+    },
+    "date": 1789055922092,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 3297856,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Dizzy",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2261591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rikard hawlett EX7",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 114052133,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
