@@ -269046,5 +269046,113 @@
     "sum": 114314106,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34588
+    },
+    "date": 1789048194089,
+    "duration": 174200,
+    "left": {
+      "bet_amount": 1599342,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ditto EX3",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3556583,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Blackmore",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 114326170,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20254
+    },
+    "date": 1789048334117,
+    "duration": 80027,
+    "left": {
+      "bet_amount": 1565694,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Weiss guitly gear",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2718860,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Gale",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 114291582,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21437
+    },
+    "date": 1789048706290,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 1227866,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 3,
+      "name": "Pepe-h",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2223608,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kikyo_ex",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 114326305,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1494
+    },
+    "date": 1789048850492,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 1696268,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mr. x - the kung fu master",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2502044,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Omega adelheid",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 114304868,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
