@@ -272554,5 +272554,113 @@
     "sum": 114086013,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24032
+    },
+    "date": 1789075072952,
+    "duration": 150055,
+    "left": {
+      "bet_amount": 2311953,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mattrex",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1934398,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Shiki_tohno kofum",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 114070317,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25589
+    },
+    "date": 1789075217101,
+    "duration": 90007,
+    "left": {
+      "bet_amount": 1684388,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Krizalid N",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3792903,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Leo bradlay",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "sum": 114046285,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23695
+    },
+    "date": 1789075427294,
+    "duration": 150187,
+    "left": {
+      "bet_amount": 1276355,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kinu_ex",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4170341,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "7th heaven ciel",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 114057573,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34507
+    },
+    "date": 1789075607305,
+    "duration": 120009,
+    "left": {
+      "bet_amount": 2839538,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Presea combatir",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1690644,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Zeus (disney)",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 114133583,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
