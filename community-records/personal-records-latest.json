@@ -273580,5 +273580,113 @@
     "sum": 114119083,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5111
+    },
+    "date": 1789081441893,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1354960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mint",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5113982,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Proto-omega",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 114131408,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28321
+    },
+    "date": 1789081622099,
+    "duration": 124210,
+    "left": {
+      "bet_amount": 5808571,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Onpu segawa",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1129352,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cody_a",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 114132761,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7334
+    },
+    "date": 1789081802099,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 5692596,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Onslaught 2",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1278855,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "D4 uesugi kensin",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 114138241,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7862
+    },
+    "date": 1789081978300,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 4893302,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Hashimoto",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1475820,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The nightmare",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 114130907,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
