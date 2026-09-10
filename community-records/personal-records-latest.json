@@ -271152,5 +271152,113 @@
     "sum": 114038126,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789060919885,
+    "duration": 169996,
+    "left": {
+      "bet_amount": 2823714,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Yu narukami",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1404786,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mimizuku_professor",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 114006333,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14008
+    },
+    "date": 1789061066087,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 1579942,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Allen snider",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2422644,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Despero",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 114006332,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37550
+    },
+    "date": 1789061200297,
+    "duration": 70209,
+    "left": {
+      "bet_amount": 1635450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shadow geist",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2076854,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Mizuki rashoujin",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 113992324,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18556
+    },
+    "date": 1789061320292,
+    "duration": 64003,
+    "left": {
+      "bet_amount": 4144316,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Turf EX3",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1348679,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hrhs",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 113954774,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
