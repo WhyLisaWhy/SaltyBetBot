@@ -264566,5 +264566,167 @@
     "sum": 114672930,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789016569090,
+    "duration": 84194,
+    "left": {
+      "bet_amount": 2259693,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Crocodile mvc",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1570369,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ultraman gaia",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 114639368,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 754
+    },
+    "date": 1789016685088,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 3307422,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Joe higashi EX3",
+      "normal_bettors": 23,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1018439,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jill ex",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 114639367,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17601
+    },
+    "date": 1789016935289,
+    "duration": 190194,
+    "left": {
+      "bet_amount": 1230700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dq3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5647556,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Usada hikaru",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 114639600,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34886
+    },
+    "date": 1789017055490,
+    "duration": 60201,
+    "left": {
+      "bet_amount": 1444828,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ace in the hole",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3000384,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Ohga",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 114643424,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27467
+    },
+    "date": 1789017201489,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1238441,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hanzo EX",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4264937,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Shinra",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 114608538,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10113
+    },
+    "date": 1789017361687,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 2479500,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Custom hsfa berabow man",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1293900,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Wakko",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 114616463,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
