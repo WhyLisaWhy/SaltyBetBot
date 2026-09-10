@@ -271825,5 +271825,86 @@
     "sum": 56844,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46220
+    },
+    "date": 1789066228116,
+    "duration": 184228,
+    "left": {
+      "bet_amount": 94398,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Ultimate gohan",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 507067,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shin akuma svc chaos",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "sum": 83980,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36977
+    },
+    "date": 1789066508288,
+    "duration": 224200,
+    "left": {
+      "bet_amount": 741870,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Shiki nanaya",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 349845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Black-rock_shooter",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 91866,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27119
+    },
+    "date": 1789066844490,
+    "duration": 276197,
+    "left": {
+      "bet_amount": 200994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mui ex",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 692325,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shin akuma svc chaos",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 108476,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
