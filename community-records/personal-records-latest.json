@@ -263864,5 +263864,113 @@
     "sum": 114703903,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25465
+    },
+    "date": 1789012257688,
+    "duration": 244199,
+    "left": {
+      "bet_amount": 14531988,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Neco-arc",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1314293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ayu&misuzu&mizuka",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 114703902,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 44796
+    },
+    "date": 1789012377688,
+    "duration": 63999,
+    "left": {
+      "bet_amount": 1089179,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Mysterious heroine x",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4134082,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Dark cornian",
+      "normal_bettors": 26,
+      "win_streak": 12
+    },
+    "sum": 114706202,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11333
+    },
+    "date": 1789012533889,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1402146,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Iria",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2248303,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Brokken",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 114661406,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40304
+    },
+    "date": 1789012748089,
+    "duration": 154200,
+    "left": {
+      "bet_amount": 1191659,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Speck",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4649767,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Fake kaede",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 114668439,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
