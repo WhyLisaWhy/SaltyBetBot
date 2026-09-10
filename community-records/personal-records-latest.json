@@ -265025,5 +265025,140 @@
     "sum": 114518885,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7893
+    },
+    "date": 1789019489289,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2648309,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Vegeta EX3",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1136580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Makoto EX3",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 114512222,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789019699488,
+    "duration": 153999,
+    "left": {
+      "bet_amount": 1077505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Baseballman",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3561524,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Binran",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 114515600,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25264
+    },
+    "date": 1789019875690,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 1616269,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Tsubasa",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1672378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "H_gate_0350",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 114515601,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789020045889,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 966118,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Tongpoo",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2167435,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Omega zero",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 114490337,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789020169888,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 3277907,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Classic ryu hayabusa",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1161094,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Arina",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 114490338,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
