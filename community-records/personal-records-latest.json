@@ -270720,5 +270720,86 @@
     "sum": 113979211,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4904
+    },
+    "date": 1789058169887,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 3965511,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "The flash (new-52)",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1151104,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mr.satan EX3",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 113981851,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 47018
+    },
+    "date": 1789058405889,
+    "duration": 180001,
+    "left": {
+      "bet_amount": 2221762,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Josuke higashikata",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1264644,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Galmnk",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 113983273,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29928
+    },
+    "date": 1789058552088,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 1151948,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Burnov",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3280920,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Mask the griffon EX3",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 114009482,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
