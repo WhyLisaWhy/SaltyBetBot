@@ -268263,5 +268263,167 @@
     "sum": 114309167,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24600
+    },
+    "date": 1789041858888,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 2023623,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "The thing",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1582933,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chun-li jj",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 114322350,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31925
+    },
+    "date": 1789042009089,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 1916851,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kano EX",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2150461,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Robo rock type-2",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 114341362,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34358
+    },
+    "date": 1789042201289,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 2003896,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Rascal",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1546577,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sik scorpion",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 114369403,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19555
+    },
+    "date": 1789042341289,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 3908381,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Kuma CVS",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1034818,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Rancid",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "sum": 114395474,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43273
+    },
+    "date": 1789042471490,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 2169548,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Stronk guy",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1327621,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ae86",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 114400626,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19895
+    },
+    "date": 1789042641766,
+    "duration": 116278,
+    "left": {
+      "bet_amount": 2921914,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gn-pioneer-r",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2041400,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Hamakaze",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 114357353,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
