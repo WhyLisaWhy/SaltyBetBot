@@ -265590,5 +265590,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1705
+    },
+    "date": 1789023696689,
+    "duration": 190201,
+    "left": {
+      "bet_amount": 331897,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Metal sonic",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 94632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Evil homer",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 1705,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789023906888,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 31962,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "The tick",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 378170,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Bloodthirsty rasetsumaru",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1681
+    },
+    "date": 1789024151089,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 276820,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Diba",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 202502,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Jean pielle",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1681,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789024331107,
+    "duration": 124018,
+    "left": {
+      "bet_amount": 207802,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Mr.big EX3",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 244913,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Pein nzc",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
