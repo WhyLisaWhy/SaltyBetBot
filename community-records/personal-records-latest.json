@@ -269802,5 +269802,113 @@
     "sum": 114147641,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1047
+    },
+    "date": 1789052757489,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1091100,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "F-zeryo x",
+      "normal_bettors": 6,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4888409,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Daimon 98",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 114118053,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38379
+    },
+    "date": 1789052891689,
+    "duration": 73998,
+    "left": {
+      "bet_amount": 1599229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ryu mvc1",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2270987,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Selley",
+      "normal_bettors": 16,
+      "win_streak": 5
+    },
+    "sum": 114118287,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36678
+    },
+    "date": 1789053107888,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 3611342,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Riot",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1812020,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Master taekuk",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 114079908,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12553
+    },
+    "date": 1789053302088,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 3816697,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kuzurott",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1382458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tnok",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 114098127,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
