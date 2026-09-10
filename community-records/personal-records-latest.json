@@ -262595,5 +262595,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1788999617888,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 371145,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Mech ralf",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 330253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Vegeta ssb",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2924
+    },
+    "date": 1788999814087,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 465779,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Hotaru's bizarre adventure",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 349017,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Nazrin deluxe",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 2924,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5102
+    },
+    "date": 1789000096888,
+    "duration": 222801,
+    "left": {
+      "bet_amount": 621609,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Mech ralf",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 342478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Hotaru's bizarre adventure",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 5102,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
