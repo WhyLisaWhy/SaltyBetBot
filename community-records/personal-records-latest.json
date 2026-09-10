@@ -265698,5 +265698,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3364
+    },
+    "date": 1789024583288,
+    "duration": 196171,
+    "left": {
+      "bet_amount": 403546,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Miyako yoshika",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Evil homer",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 3364,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789024813491,
+    "duration": 176201,
+    "left": {
+      "bet_amount": 245107,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Bloodthirsty rasetsumaru",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 322592,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Jean pielle",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789024987691,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 352122,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Mr.big EX3",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 317143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Evil homer",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2940
+    },
+    "date": 1789025205890,
+    "duration": 158200,
+    "left": {
+      "bet_amount": 334957,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Bloodthirsty rasetsumaru",
+      "normal_bettors": 13,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 480464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Mr.big EX3",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 2940,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
