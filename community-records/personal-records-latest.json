@@ -263378,5 +263378,113 @@
     "sum": 114570787,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789008656889,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 1670195,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Goku deus extreme",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1357189,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chaka EX3",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 114533801,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9424
+    },
+    "date": 1789008836889,
+    "duration": 119989,
+    "left": {
+      "bet_amount": 1669834,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Chaos mc",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1796049,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Genteki dan",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 114533803,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16208
+    },
+    "date": 1789009027089,
+    "duration": 133995,
+    "left": {
+      "bet_amount": 2995215,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Gilgamesh f/sn",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1121906,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mickey rogers aof1",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 114524379,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23647
+    },
+    "date": 1789009237288,
+    "duration": 150193,
+    "left": {
+      "bet_amount": 1467489,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Rumine",
+      "normal_bettors": 9,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4667350,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Taokaka",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 114530418,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
