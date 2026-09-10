@@ -268749,5 +268749,113 @@
     "sum": 15555,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18715
+    },
+    "date": 1789045509889,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 369856,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Han EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 194672,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Jinx",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 18715,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28092
+    },
+    "date": 1789045756089,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 117505,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Thierry daniel henry",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 566904,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tetromino",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 28092,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789045930098,
+    "duration": 113988,
+    "left": {
+      "bet_amount": 519919,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Chelsea tone",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 260999,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Kotiya sanae",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789046116297,
+    "duration": 130006,
+    "left": {
+      "bet_amount": 525342,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Han EX3",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 319986,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Thierry daniel henry",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
