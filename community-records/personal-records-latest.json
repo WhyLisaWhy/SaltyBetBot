@@ -271744,5 +271744,86 @@
     "sum": 85964,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40086
+    },
+    "date": 1789065337294,
+    "duration": 106007,
+    "left": {
+      "bet_amount": 353986,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Shiki nanaya",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 32211,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Suparfcmeirin ver.1.15",
+      "normal_bettors": 7,
+      "win_streak": 5
+    },
+    "sum": 89426,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35859
+    },
+    "date": 1789065731687,
+    "duration": 340195,
+    "left": {
+      "bet_amount": 416424,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Serika_os",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 175657,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Black-rock_shooter",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 92703,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 56844
+    },
+    "date": 1789065983889,
+    "duration": 196174,
+    "left": {
+      "bet_amount": 225112,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Eins EX6",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 414720,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mui ex",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 56844,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
