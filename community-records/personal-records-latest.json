@@ -268857,5 +268857,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789046432089,
+    "duration": 259593,
+    "left": {
+      "bet_amount": 456035,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kotiya sanae",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 323331,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Han EX3",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38351
+    },
+    "date": 1789047163089,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 1858548,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Akari EX",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3166657,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Shinjuro",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 114307917,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
