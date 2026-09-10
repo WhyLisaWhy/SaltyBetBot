@@ -264161,5 +264161,140 @@
     "sum": 114680854,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30324
+    },
+    "date": 1789013995090,
+    "duration": 120195,
+    "left": {
+      "bet_amount": 1122478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Yayoi",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2745622,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Genjuro-kofm",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "sum": 114661114,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29730
+    },
+    "date": 1789014181089,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 2439540,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Juggernaut msh",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1120928,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Koneko EX",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 114673376,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789014331290,
+    "duration": 95989,
+    "left": {
+      "bet_amount": 968346,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kazunoko's yun",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2307041,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Tsan",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 114736408,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1226
+    },
+    "date": 1789014487489,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 2773639,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Karaage",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1138787,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Drunken master",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 114736409,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25055
+    },
+    "date": 1789014701489,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 1314904,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Hiziri",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2236911,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Sailor mercury crystal",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 114736913,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
