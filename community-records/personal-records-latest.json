@@ -266859,5 +266859,140 @@
     "sum": 114337892,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25267
+    },
+    "date": 1789032819889,
+    "duration": 70196,
+    "left": {
+      "bet_amount": 1153187,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Myon gitsune",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5834539,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "G akiha nightmare",
+      "normal_bettors": 33,
+      "win_streak": 10
+    },
+    "sum": 114297129,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789032989894,
+    "duration": 114005,
+    "left": {
+      "bet_amount": 3013216,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "K dash xiii",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2027293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sanada yukimura_ch",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "sum": 114302102,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25532
+    },
+    "date": 1789033110096,
+    "duration": 59994,
+    "left": {
+      "bet_amount": 1194711,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Terumi",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2150560,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "D-aob",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 114302103,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789033356289,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 3160828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Yu gi oh!",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3861059,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ultimate cap",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 114347101,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30455
+    },
+    "date": 1789033516339,
+    "duration": 104033,
+    "left": {
+      "bet_amount": 1447952,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Alicephia",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2141383,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Shiki_sv",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 114347102,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
