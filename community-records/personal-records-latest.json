@@ -265322,5 +265322,84 @@
     "sum": 114478924,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789021326893,
+    "duration": 154204,
+    "left": {
+      "bet_amount": 985963,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Drunk rock lee",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3081611,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Ran horigein",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 114508269,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1082
+    },
+    "date": 1789021597088,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 1932127,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Atusi",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1872953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bubblum",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 114508268,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1789021791089,
+    "duration": 134003,
+    "left": {
+      "bet_amount": 11833,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Waddledee",
+      "normal_bettors": 5,
+      "win_streak": -10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 9031,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Mr. jones",
+      "normal_bettors": 4,
+      "win_streak": -5
+    },
+    "sum": 114507186,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
