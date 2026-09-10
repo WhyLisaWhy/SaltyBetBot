@@ -263756,5 +263756,113 @@
     "sum": 114627765,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30166
+    },
+    "date": 1789011411090,
+    "duration": 214199,
+    "left": {
+      "bet_amount": 2205416,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Sigfried doble de alfa",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1517697,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yang adam",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 114607212,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36183
+    },
+    "date": 1789011617090,
+    "duration": 145997,
+    "left": {
+      "bet_amount": 2760496,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Aoko 7thmoonstyle",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529508,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Italian kenshiro",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 114650193,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10085
+    },
+    "date": 1789011823288,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 5837276,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shiki_sv",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1421740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mercenary tao",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 114713988,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789011953288,
+    "duration": 69993,
+    "left": {
+      "bet_amount": 1626441,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Nazo the hedgehog",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1495514,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Carlos tfa",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 114703903,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
