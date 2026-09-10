@@ -268614,5 +268614,140 @@
     "sum": 10952,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14984
+    },
+    "date": 1789044483095,
+    "duration": 140207,
+    "left": {
+      "bet_amount": 63914,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Dmtenko",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 268073,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Jinx",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 14984,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789044663297,
+    "duration": 120208,
+    "left": {
+      "bet_amount": 178776,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Houjyou torami",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 197992,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Thierry daniel henry",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2939
+    },
+    "date": 1789044825289,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 272100,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tetromino",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 185706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cpt.falcon",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 2939,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4924
+    },
+    "date": 1789045055488,
+    "duration": 175997,
+    "left": {
+      "bet_amount": 316155,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ecila",
+      "normal_bettors": 15,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 141521,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Chelsea tone",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 4924,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15555
+    },
+    "date": 1789045305697,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 349079,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kotiya sanae",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74068,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mitsuji tanimati",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 15555,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
