@@ -271528,5 +271528,86 @@
     "sum": 30675,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30675
+    },
+    "date": 1789063439889,
+    "duration": 91951,
+    "left": {
+      "bet_amount": 518340,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Chou hi EX7",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 647370,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Shiki nanaya",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 30675,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 54125
+    },
+    "date": 1789063640088,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 440285,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Suparfcmeirin ver.1.15",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157153,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Dink smallwood revengeance",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 54125,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 56177
+    },
+    "date": 1789063984299,
+    "duration": 290211,
+    "left": {
+      "bet_amount": 431854,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Serika_os",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 198220,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Jin mvc1",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 71330,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
