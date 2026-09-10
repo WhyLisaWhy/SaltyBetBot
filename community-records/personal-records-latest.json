@@ -266454,5 +266454,113 @@
     "sum": 114293240,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26934
+    },
+    "date": 1789030255889,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 2215655,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Deathisono",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1217799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ss6 sei-abab",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 114293241,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1704
+    },
+    "date": 1789030435888,
+    "duration": 124000,
+    "left": {
+      "bet_amount": 1870158,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Air man ga taosenai",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1641644,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Odenya saki",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 114307868,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789030574088,
+    "duration": 81998,
+    "left": {
+      "bet_amount": 3475742,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cci kim",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 994824,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Wulong",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "sum": 114306164,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29066
+    },
+    "date": 1789030758302,
+    "duration": 60213,
+    "left": {
+      "bet_amount": 1680617,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Yuki nbc",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1131438,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ashura jmf",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 114306165,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
