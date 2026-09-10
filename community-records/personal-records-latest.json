@@ -273445,5 +273445,140 @@
     "sum": 114041802,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789080695297,
+    "duration": 129992,
+    "left": {
+      "bet_amount": 3492516,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Clown",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3257808,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Axe pq",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 114074202,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30467
+    },
+    "date": 1789080835495,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1441496,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Saojin mm",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2168089,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Voorhees jason",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 114074204,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789081001496,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1391911,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Reiji arisu",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2582990,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Cyber-peacock",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 114119080,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789081161696,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 4281412,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Curefroor",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1130035,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Original vega",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "sum": 114119082,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23417
+    },
+    "date": 1789081307688,
+    "duration": 89991,
+    "left": {
+      "bet_amount": 1721970,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Clark",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3248502,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Airou ver2.11",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 114119083,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
