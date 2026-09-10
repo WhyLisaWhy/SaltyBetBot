@@ -271933,5 +271933,32 @@
     "sum": 81357,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789071256095,
+    "duration": 174206,
+    "left": {
+      "bet_amount": 1390045,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Foxy roxy",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5860675,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Reptile",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 114121316,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
