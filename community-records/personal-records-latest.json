@@ -265482,5 +265482,113 @@
     "sum": 3149,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3931
+    },
+    "date": 1789022884090,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 68668,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Sensei ken",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 165374,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Jean pielle",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 3931,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789023000089,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 44235,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Runa araki",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 246125,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mr.big EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789023250293,
+    "duration": 180206,
+    "left": {
+      "bet_amount": 142916,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Pein nzc",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 209566,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Eirin rp",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789023450489,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 36207,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sakura Kasugano",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 362121,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Miyako yoshika",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
