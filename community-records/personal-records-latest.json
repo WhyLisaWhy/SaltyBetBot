@@ -268425,5 +268425,113 @@
     "sum": 114357353,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44081
+    },
+    "date": 1789042805689,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 1852889,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Taideo EX",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1410815,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kirikou",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "sum": 114385555,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35108
+    },
+    "date": 1789042947290,
+    "duration": 85601,
+    "left": {
+      "bet_amount": 1330648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yang adam",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2002985,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Sozzled homer",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 114341474,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789043448291,
+    "duration": 232202,
+    "left": {
+      "bet_amount": 118942,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ecila",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 38397,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Chun-li jj",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2044
+    },
+    "date": 1789043602289,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 42595,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kirikou EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127337,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Chelsea tone",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 2044,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
