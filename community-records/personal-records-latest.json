@@ -264431,5 +264431,140 @@
     "sum": 114724498,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20540
+    },
+    "date": 1789015724295,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 1561104,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bekkamu2",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2841188,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hauzer",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 114729094,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22274
+    },
+    "date": 1789015868496,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 2466710,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Noriko nijou",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194084,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tarochan",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 114740299,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25766
+    },
+    "date": 1789016058693,
+    "duration": 134204,
+    "left": {
+      "bet_amount": 1492128,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Terry bongaro",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2248977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Storm_cota",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 114718025,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19329
+    },
+    "date": 1789016234892,
+    "duration": 120203,
+    "left": {
+      "bet_amount": 2130557,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Walkyrie EX2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1549009,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Slightly more fair baiken",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 114692259,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33562
+    },
+    "date": 1789016428900,
+    "duration": 134008,
+    "left": {
+      "bet_amount": 4053776,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Clarice_di_lanza",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1246986,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Himrio",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 114672930,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
