@@ -271422,5 +271422,111 @@
     "sum": 113960782,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27103
+    },
+    "date": 1789062543287,
+    "duration": 66198,
+    "left": {
+      "bet_amount": 1613961,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Vegeta ssb",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2283225,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Giant gunter",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 113965042,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21175
+    },
+    "date": 1789062733326,
+    "duration": 126031,
+    "left": {
+      "bet_amount": 1327380,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Pikachu g&s",
+      "normal_bettors": 11,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2142614,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Dorothy-albright",
+      "normal_bettors": 31,
+      "win_streak": -4
+    },
+    "sum": 114002751,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25283
+    },
+    "date": 1789062877486,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 1803302,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Uesugi kensin EX",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1511175,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Seth ex",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 113981576,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1789063082694,
+    "duration": 139207,
+    "left": {
+      "bet_amount": 512355,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Oyashirorika",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 878204,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kamen rider amazon alpha",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 30675,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
