@@ -262676,5 +262676,113 @@
     "sum": 5102,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30691
+    },
+    "date": 1789004331494,
+    "duration": 116205,
+    "left": {
+      "bet_amount": 2532591,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Demon king dhaos",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1675077,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "May(ac)",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 114637084,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10318
+    },
+    "date": 1789004485489,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 1251603,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Geese ex xi",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3191095,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Kasumi ex",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 114606393,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5629
+    },
+    "date": 1789004635688,
+    "duration": 90194,
+    "left": {
+      "bet_amount": 4626864,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Master marco",
+      "normal_bettors": 26,
+      "win_streak": 14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Labyrinth",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 114596075,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11004
+    },
+    "date": 1789004775695,
+    "duration": 84007,
+    "left": {
+      "bet_amount": 6582516,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "G-gonzales",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1255003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Goenitz EX3",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 114590446,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
