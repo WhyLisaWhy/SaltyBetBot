@@ -271906,5 +271906,32 @@
     "sum": 108476,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 48778
+    },
+    "date": 1789067115890,
+    "duration": 211190,
+    "left": {
+      "bet_amount": 694857,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 22,
+      "name": "Shiki nanaya",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 889836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mui ex",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 81357,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
