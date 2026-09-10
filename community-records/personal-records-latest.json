@@ -269343,5 +269343,113 @@
     "sum": 114247582,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24056
+    },
+    "date": 1789050033488,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 1430306,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Louise f.b.valliere",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2840039,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Orga itsuka",
+      "normal_bettors": 20,
+      "win_streak": 12
+    },
+    "sum": 114225620,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16983
+    },
+    "date": 1789050193489,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 1461915,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vayeate",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1769719,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Chun-li sf3",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 114201564,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22460
+    },
+    "date": 1789050383688,
+    "duration": 135994,
+    "left": {
+      "bet_amount": 3321776,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Dio's evil incarnation",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1427616,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Amazo",
+      "normal_bettors": 7,
+      "win_streak": 4
+    },
+    "sum": 114215460,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23318
+    },
+    "date": 1789050523888,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 1297529,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Alien queen",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2112435,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Nakoruru ex EX3",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 114225048,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
