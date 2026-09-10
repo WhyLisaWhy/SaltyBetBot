@@ -270369,5 +270369,140 @@
     "sum": 114052133,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 965
+    },
+    "date": 1789056078090,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1036789,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kathryne_keyron",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3591663,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Another unknown",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 114033704,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20769
+    },
+    "date": 1789056278290,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 2531125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Samus",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1346582,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "K-ko",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 114032739,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28158
+    },
+    "date": 1789056422489,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 1245405,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Timothy hawk",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2928747,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Goeniko",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 114071185,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24251
+    },
+    "date": 1789056568489,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 2481318,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Raiya_mikazuchi",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1693769,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Demon king dhaos",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 114043027,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18406
+    },
+    "date": 1789056778707,
+    "duration": 150018,
+    "left": {
+      "bet_amount": 1730978,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Gouf",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2059898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Shinzero",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "sum": 114018776,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
