@@ -284002,5 +284002,86 @@
     "sum": 2483,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3843
+    },
+    "date": 1789152655696,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 234787,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Blanka ssf2hd",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124641,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Guy",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 3843,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5851
+    },
+    "date": 1789152899893,
+    "duration": 184199,
+    "left": {
+      "bet_amount": 55935,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Stern",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 333412,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Terryman",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 5851,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6816
+    },
+    "date": 1789153106095,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 318234,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Mileena umk3",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 156117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Gundog",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 6816,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
