@@ -274525,5 +274525,86 @@
     "sum": 114429993,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33060
+    },
+    "date": 1789087036088,
+    "duration": 97997,
+    "left": {
+      "bet_amount": 1393949,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Soma cruz",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4586538,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Atatatatatatata",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 114440637,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789087182290,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 1451391,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gardener kurama",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3542033,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Sissy EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 114450613,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11433
+    },
+    "date": 1789087336490,
+    "duration": 94201,
+    "left": {
+      "bet_amount": 1182480,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Saya IX",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7205920,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Chinese terminator",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 114450614,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
