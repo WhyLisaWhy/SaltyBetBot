@@ -277684,5 +277684,113 @@
     "sum": 114543472,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789108450890,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 15999397,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "John crawley",
+      "normal_bettors": 25,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1310505,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Satori",
+      "normal_bettors": 7,
+      "win_streak": -12
+    },
+    "sum": 114519262,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27887
+    },
+    "date": 1789108595286,
+    "duration": 90396,
+    "left": {
+      "bet_amount": 2434401,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Gin ichimaru",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1224414,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Borer",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 114519261,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789109081488,
+    "duration": 216199,
+    "left": {
+      "bet_amount": 36247,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Leus hunter",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 126809,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ragna the bloodedge",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1988
+    },
+    "date": 1789109295489,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 137494,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ex-aid",
+      "normal_bettors": 28,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 72486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Duke",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 1988,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
