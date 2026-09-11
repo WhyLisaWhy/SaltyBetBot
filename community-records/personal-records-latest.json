@@ -281383,5 +281383,140 @@
     "sum": 114410258,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31062
+    },
+    "date": 1789136384896,
+    "duration": 170002,
+    "left": {
+      "bet_amount": 5017022,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Captain_heart",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1460821,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Green arrow",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 114410259,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789136609094,
+    "duration": 170001,
+    "left": {
+      "bet_amount": 4904668,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "White rbdm-kof",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1959170,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Scorpion EX2",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 114419248,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7436
+    },
+    "date": 1789136765295,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 1338015,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ushio to tora",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3974402,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Tyrant J",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 114419247,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 653
+    },
+    "date": 1789136939294,
+    "duration": 113996,
+    "left": {
+      "bet_amount": 2005051,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sailor nix",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2456040,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Spawn djhr",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 114421746,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9421
+    },
+    "date": 1789137079495,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 5350355,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Cb valimes",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1199148,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lisa lisa",
+      "normal_bettors": 9,
+      "win_streak": -11
+    },
+    "sum": 114422546,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
