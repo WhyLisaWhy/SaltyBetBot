@@ -280789,5 +280789,86 @@
     "sum": 114439580,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36259
+    },
+    "date": 1789130869697,
+    "duration": 85208,
+    "left": {
+      "bet_amount": 1506015,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Rainbow meiling",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1655028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Burning futo",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 114409022,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789131246892,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 134593,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "The owner of eden",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 34157,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "God akuma",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1939
+    },
+    "date": 1789131487113,
+    "duration": 180219,
+    "left": {
+      "bet_amount": 132916,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Tachibana ukyo",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 49391,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Omega rugal 98",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 1939,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
