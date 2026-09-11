@@ -274903,5 +274903,113 @@
     "sum": 8612,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10805
+    },
+    "date": 1789090360893,
+    "duration": 180199,
+    "left": {
+      "bet_amount": 34467,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kao",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 407029,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Earthquake",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 10805,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789090536902,
+    "duration": 116007,
+    "left": {
+      "bet_amount": 329063,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Titi",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 174706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Geese EX2",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2370
+    },
+    "date": 1789090757096,
+    "duration": 165983,
+    "left": {
+      "bet_amount": 192728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sayurin",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 335864,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Ms. fanservice",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 2370,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3721
+    },
+    "date": 1789090947299,
+    "duration": 134202,
+    "left": {
+      "bet_amount": 115915,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kao",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 477184,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Titi",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "sum": 3721,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
