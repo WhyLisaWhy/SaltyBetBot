@@ -274822,5 +274822,86 @@
     "sum": 2228,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2534
+    },
+    "date": 1789089670293,
+    "duration": 310204,
+    "left": {
+      "bet_amount": 147798,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Piccolo mvc",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 288310,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Geese EX2",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 2534,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3822
+    },
+    "date": 1789089876496,
+    "duration": 150192,
+    "left": {
+      "bet_amount": 270761,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Blanka sfxt",
+      "normal_bettors": 21,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 212243,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sayurin",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 3822,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8612
+    },
+    "date": 1789090126694,
+    "duration": 190201,
+    "left": {
+      "bet_amount": 399395,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ms. fanservice",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103853,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Turles",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 8612,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
