@@ -284218,5 +284218,86 @@
     "sum": 53810,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 48026
+    },
+    "date": 1789154457094,
+    "duration": 194198,
+    "left": {
+      "bet_amount": 92152,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Slimeknight",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 388271,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 23,
+      "name": "Task force cheetah",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 192103,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 50562
+    },
+    "date": 1789154633294,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 306252,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "J.p.polnareff",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 316543,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Blanka ssf2hd",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 202247,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37921
+    },
+    "date": 1789154929492,
+    "duration": 240197,
+    "left": {
+      "bet_amount": 223457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Gundog",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 553544,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Task force cheetah",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 151685,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
