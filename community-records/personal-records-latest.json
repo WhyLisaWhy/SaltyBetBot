@@ -284326,5 +284326,113 @@
     "sum": 166012,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40993
+    },
+    "date": 1789159827294,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 2010138,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 4,
+      "name": "Tukuyo",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1517414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Space zero",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 114564539,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789159967294,
+    "duration": 85997,
+    "left": {
+      "bet_amount": 1290639,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Speck",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4417516,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Slightly more fair justice",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 114594866,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29846
+    },
+    "date": 1789160177498,
+    "duration": 150003,
+    "left": {
+      "bet_amount": 3500383,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 7,
+      "name": "Preposterous cirno",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1430829,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Terminator orochi",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 114594865,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789160303694,
+    "duration": 71997,
+    "left": {
+      "bet_amount": 639802,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 1,
+      "name": "Heihachi mishima",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3910761,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Black birdie",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 114565019,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
