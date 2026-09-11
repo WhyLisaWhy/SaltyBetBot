@@ -281221,5 +281221,167 @@
     "sum": 4511,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32261
+    },
+    "date": 1789135242094,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 3227576,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Akame",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1192892,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jet-stingray",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 114378530,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19868
+    },
+    "date": 1789135398093,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1894788,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Jobman EX7",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2402856,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Koneko EX",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 114390336,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789135592293,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 4383188,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Burter",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2171049,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Deidara",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 114405875,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789135798493,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 3318495,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Vanessa-kofm",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1418837,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lilly",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 114405874,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23126
+    },
+    "date": 1789135964696,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 6377272,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Shiki tohno iqs",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1212891,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ark EX8",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 114405875,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789136154693,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 1490313,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Pipimi",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2843810,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Master sakura",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "sum": 114410258,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
