@@ -285163,5 +285163,113 @@
     "sum": 114735513,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23426
+    },
+    "date": 1789165155293,
+    "duration": 65996,
+    "left": {
+      "bet_amount": 1218166,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ace in the hole",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3428737,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Kirara",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 114735201,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13817
+    },
+    "date": 1789165409494,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 3361582,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Dante pxz",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1386195,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sa-x mythos",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 114743468,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789165575492,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 1700247,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yuri sakazaki-kofm",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2509992,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Lion_gunta",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 114749143,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789165721695,
+    "duration": 89963,
+    "left": {
+      "bet_amount": 3420323,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Krusty",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1444336,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Lee aof1",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 114749145,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
