@@ -281680,5 +281680,113 @@
     "sum": 114429041,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30405
+    },
+    "date": 1789138122294,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 7118924,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Sergeant r-a",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1206692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Team ash",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 114436252,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25940
+    },
+    "date": 1789138286500,
+    "duration": 104205,
+    "left": {
+      "bet_amount": 2574343,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Sevil nathe",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1289817,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Weiss-ritter",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 114441384,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33707
+    },
+    "date": 1789138422495,
+    "duration": 73990,
+    "left": {
+      "bet_amount": 2267441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Akuma cvs2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2123223,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Goh-un",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 114415444,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21629
+    },
+    "date": 1789138662697,
+    "duration": 184152,
+    "left": {
+      "bet_amount": 2849739,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Enlightened sun wu kong",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2740531,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Scream",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "sum": 114381737,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
