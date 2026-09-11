@@ -279682,5 +279682,140 @@
     "sum": 114333586,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24154
+    },
+    "date": 1789123488696,
+    "duration": 194205,
+    "left": {
+      "bet_amount": 1671701,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Fygar",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1723627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Assasincross",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 114340712,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18710
+    },
+    "date": 1789123664894,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1647277,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Berserk rugal",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1699675,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Metalslime",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 114316558,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9784
+    },
+    "date": 1789123859093,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 1046787,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kaeru(chrono)",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2912580,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Ono kohaku",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 114297848,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35288
+    },
+    "date": 1789124079294,
+    "duration": 164200,
+    "left": {
+      "bet_amount": 1376028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mark sein",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2741860,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Lady",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 114301353,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32043
+    },
+    "date": 1789124289491,
+    "duration": 154193,
+    "left": {
+      "bet_amount": 1229686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "F-zeryo x",
+      "normal_bettors": 8,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3344748,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Gavora",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 114318838,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
