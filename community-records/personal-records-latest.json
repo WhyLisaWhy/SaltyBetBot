@@ -282463,5 +282463,86 @@
     "sum": 114230925,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1225
+    },
+    "date": 1789142769893,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 2786631,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Goku kaiouken x4",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2325775,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Rouga_zanma",
+      "normal_bettors": 13,
+      "win_streak": -18
+    },
+    "sum": 114230926,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7639
+    },
+    "date": 1789142964101,
+    "duration": 134008,
+    "left": {
+      "bet_amount": 1863523,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shoebill",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2847832,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Kunio kun",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 114229701,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789143102093,
+    "duration": 78000,
+    "left": {
+      "bet_amount": 6424959,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kung fu fiunn",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1200036,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Oshawott",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 114234687,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
