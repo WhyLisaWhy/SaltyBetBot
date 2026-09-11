@@ -277792,5 +277792,59 @@
     "sum": 1988,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3022
+    },
+    "date": 1789109527691,
+    "duration": 171923,
+    "left": {
+      "bet_amount": 157296,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Werleck EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 100626,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jyubei yagyu",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 3022,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789109771886,
+    "duration": 190198,
+    "left": {
+      "bet_amount": 79569,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rodan",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 251975,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ss6 aisya",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
