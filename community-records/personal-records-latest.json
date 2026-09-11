@@ -275011,5 +275011,86 @@
     "sum": 3721,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789091217096,
+    "duration": 203799,
+    "left": {
+      "bet_amount": 588841,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ms. fanservice",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 221599,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Titi",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 50061
+    },
+    "date": 1789091968099,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 2278691,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Ako tamaki",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1373742,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Butcher",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 114456288,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17768
+    },
+    "date": 1789092154293,
+    "duration": 124193,
+    "left": {
+      "bet_amount": 1565104,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tia langray",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2123985,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Dudley streets",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "sum": 114485820,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
