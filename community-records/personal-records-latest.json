@@ -283030,5 +283030,140 @@
     "sum": 114355851,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789146230694,
+    "duration": 106200,
+    "left": {
+      "bet_amount": 1285464,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Rajaa miyako",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2789668,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Murakumo-abk",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 114363674,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4651
+    },
+    "date": 1789146360735,
+    "duration": 70041,
+    "left": {
+      "bet_amount": 8912293,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Zain",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Athena type_h",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 114363673,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27110
+    },
+    "date": 1789146534893,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 2913189,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Quetzalcoatl fuerza",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1195711,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tetsu yatogi",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "sum": 114364285,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2100
+    },
+    "date": 1789146755096,
+    "duration": 154202,
+    "left": {
+      "bet_amount": 5214200,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Spiral mvc2",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1525448,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Anisama",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 114375310,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28378
+    },
+    "date": 1789146941289,
+    "duration": 126195,
+    "left": {
+      "bet_amount": 2541168,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 11,
+      "name": "Ashimiya_yu",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1504973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Evil Ryu SF4",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 114375925,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
