@@ -283624,5 +283624,113 @@
     "sum": 114456546,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22554
+    },
+    "date": 1789149831494,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2477828,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Akai maho",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1289709,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "The italian stallion",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 114456704,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13393
+    },
+    "date": 1789150001693,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 3488251,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Dq5-daughter",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2042578,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shiro_kishi",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 114434150,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789150141693,
+    "duration": 75996,
+    "left": {
+      "bet_amount": 1246374,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Joker paru",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2331884,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Capsule monster",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 114441963,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21995
+    },
+    "date": 1789150325892,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 1893053,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Midler EX6",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1761527,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Misaka mikoto EX2",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 114441965,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
