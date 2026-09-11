@@ -276199,5 +276199,113 @@
     "sum": 114757580,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789099405894,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 1351152,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Noroko EX3",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5980103,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Teddie",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 114768152,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15138
+    },
+    "date": 1789099636093,
+    "duration": 174197,
+    "left": {
+      "bet_amount": 1740488,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pocket jiren",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3263986,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Tio&megumi",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 114768153,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38136
+    },
+    "date": 1789099746093,
+    "duration": 50000,
+    "left": {
+      "bet_amount": 1738968,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "A-rachel",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1495894,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Elisabeth xiii",
+      "normal_bettors": 17,
+      "win_streak": 7
+    },
+    "sum": 114776188,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8589
+    },
+    "date": 1789099916288,
+    "duration": 114193,
+    "left": {
+      "bet_amount": 2525391,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Shura",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Iroha",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 114738052,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
