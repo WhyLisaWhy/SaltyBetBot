@@ -284299,5 +284299,32 @@
     "sum": 151685,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41503
+    },
+    "date": 1789155201504,
+    "duration": 218008,
+    "left": {
+      "bet_amount": 344784,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Blanka ssf2hd",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 512838,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Task force cheetah",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 166012,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
