@@ -276523,5 +276523,140 @@
     "sum": 114722146,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4248
+    },
+    "date": 1789101299288,
+    "duration": 135973,
+    "left": {
+      "bet_amount": 4818727,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Billy karn",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1544674,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akatsuki",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 114723153,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17359
+    },
+    "date": 1789101439488,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 2121030,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "A-shimo",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1962303,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mahvel ryu",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 114724514,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25152
+    },
+    "date": 1789101563493,
+    "duration": 64005,
+    "left": {
+      "bet_amount": 5578478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Well",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1499561,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hugo",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 114740444,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26342
+    },
+    "date": 1789101719687,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1786851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chun-li jj",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1890015,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Kevin rian",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 114747175,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22272
+    },
+    "date": 1789101913888,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 1329588,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ratking",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3358711,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Hayate EX",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 114774634,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
