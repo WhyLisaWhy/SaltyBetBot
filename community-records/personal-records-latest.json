@@ -278062,5 +278062,59 @@
     "sum": 5624,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789112145888,
+    "duration": 170197,
+    "left": {
+      "bet_amount": 448171,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Ragna the bloodedge",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 245209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rodan",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2396
+    },
+    "date": 1789112345891,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 506180,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Zein_dael",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 240195,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Marona",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 2396,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
