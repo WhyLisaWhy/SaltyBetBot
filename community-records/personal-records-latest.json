@@ -283165,5 +283165,113 @@
     "sum": 114375925,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789147075294,
+    "duration": 79970,
+    "left": {
+      "bet_amount": 1486912,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Reptos-k",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1871590,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kim hoon EX FF",
+      "normal_bettors": 10,
+      "win_streak": 7
+    },
+    "sum": 114392546,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28407
+    },
+    "date": 1789147281495,
+    "duration": 150161,
+    "left": {
+      "bet_amount": 1318295,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Death",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3583734,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Rion",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 114392547,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26177
+    },
+    "date": 1789147441696,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 4694819,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Robo-akatsuki",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1626287,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Anonym",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 114364140,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789147647894,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 3012015,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Supernovice",
+      "normal_bettors": 23,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1252707,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Subaru",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 114373158,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
