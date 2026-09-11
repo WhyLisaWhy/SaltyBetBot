@@ -280654,5 +280654,140 @@
     "sum": 114392702,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789129979893,
+    "duration": 119994,
+    "left": {
+      "bet_amount": 3508654,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Lord magneto",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1209937,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Witch",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 114422115,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789130124095,
+    "duration": 84201,
+    "left": {
+      "bet_amount": 2051891,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Youko",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1667272,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Giant mech hisui",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 114422116,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789130394293,
+    "duration": 210195,
+    "left": {
+      "bet_amount": 4004246,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Gideon",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1263353,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Zero nightmare remake",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 114422117,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27254
+    },
+    "date": 1789130530298,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 2139774,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Kudora",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1388168,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Killer whale",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 114422121,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30558
+    },
+    "date": 1789130730493,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 1311351,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shirai kuroko dbfc",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2683244,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 114439580,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
