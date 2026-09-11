@@ -279304,5 +279304,167 @@
     "sum": 114409244,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789121044901,
+    "duration": 70205,
+    "left": {
+      "bet_amount": 3647718,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Elion",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1349445,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kuando",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 114386060,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41349
+    },
+    "date": 1789121241095,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 2112681,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dt",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1641486,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Ryu SF4",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 114386061,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789121375097,
+    "duration": 74002,
+    "left": {
+      "bet_amount": 1187164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Unlimited jin kisaragi",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3390934,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Benimaru EX3",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 114344712,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33972
+    },
+    "date": 1789121511294,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 2053198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kanna kamui",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1906252,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Makoto(*zenkai*)",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 114344713,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3485
+    },
+    "date": 1789121721295,
+    "duration": 146002,
+    "left": {
+      "bet_amount": 1023820,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sadistic sea lion",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2488244,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Schatten geist",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 114380664,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7823
+    },
+    "date": 1789121911494,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1576967,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Megumi shinigami",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1760501,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Rainbow dash",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 114382096,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
