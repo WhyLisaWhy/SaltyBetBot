@@ -279466,5 +279466,140 @@
     "sum": 114382096,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23496
+    },
+    "date": 1789122101695,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 1263558,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Super buu z2",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6733219,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Beavis EX3",
+      "normal_bettors": 25,
+      "win_streak": 9
+    },
+    "sum": 114374273,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789122297894,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 2094086,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Zangoose EX2",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1798096,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Daimajin",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 114378667,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40803
+    },
+    "date": 1789122487896,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 3863081,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Gate",
+      "normal_bettors": 22,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1578406,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Crystal",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 114378666,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2218
+    },
+    "date": 1789122602093,
+    "duration": 60000,
+    "left": {
+      "bet_amount": 6531308,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Saber alter ex",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1120943,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ivonne",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 114337863,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789122742295,
+    "duration": 84201,
+    "left": {
+      "bet_amount": 1729885,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ahya",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2305087,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Titan the great",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 114338244,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
