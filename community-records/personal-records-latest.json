@@ -277954,5 +277954,113 @@
     "sum": 4892,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789111008888,
+    "duration": 160166,
+    "left": {
+      "bet_amount": 366575,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ragna the bloodedge",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 41876,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ex-aid",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1727
+    },
+    "date": 1789111309089,
+    "duration": 244201,
+    "left": {
+      "bet_amount": 276809,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Werleck EX3",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 181720,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rodan",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 1727,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4333
+    },
+    "date": 1789111655489,
+    "duration": 286198,
+    "left": {
+      "bet_amount": 397581,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Zein_dael",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119686,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cure black",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 4333,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5624
+    },
+    "date": 1789111915688,
+    "duration": 206196,
+    "left": {
+      "bet_amount": 78207,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Marona",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 554403,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Archer f/sn",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 5624,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
