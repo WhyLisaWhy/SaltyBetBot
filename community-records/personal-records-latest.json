@@ -281950,5 +281950,167 @@
     "sum": 114333888,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17295
+    },
+    "date": 1789139735494,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 1754391,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Mario mythos",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3013481,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Blue blood",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 114335952,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789139889694,
+    "duration": 93979,
+    "left": {
+      "bet_amount": 2232072,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Archetype:earth",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3146496,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Asha (sega)",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 114318657,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31001
+    },
+    "date": 1789140025895,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 2058795,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Goodman",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2122320,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Sammo-hacka",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 114318656,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22095
+    },
+    "date": 1789140195894,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 1633849,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rin_b",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3805344,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Akiha vermillion",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 114287655,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18578
+    },
+    "date": 1789140336095,
+    "duration": 79968,
+    "left": {
+      "bet_amount": 7649837,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Psionic donald",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1248262,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dom",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 114265560,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 746
+    },
+    "date": 1789140486090,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 2851343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Psycho mkiii",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1426058,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 4,
+      "name": "Pinocchio skinfaxi",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 114268585,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
