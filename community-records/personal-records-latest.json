@@ -280546,5 +280546,113 @@
     "sum": 114381160,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789129297295,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1877131,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kawajirikosaku EX3",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2823052,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "J.p.polnareff",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 114373824,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789129457494,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1913617,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Shin aomizu",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2063590,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Belial",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 114373825,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31145
+    },
+    "date": 1789129623698,
+    "duration": 110204,
+    "left": {
+      "bet_amount": 1525428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Judith_odea_akof",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2485606,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Fubuki",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 114373824,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45959
+    },
+    "date": 1789129803690,
+    "duration": 123994,
+    "left": {
+      "bet_amount": 1579649,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Werewolf",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2422369,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Daiyousei_hsts",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 114392702,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
