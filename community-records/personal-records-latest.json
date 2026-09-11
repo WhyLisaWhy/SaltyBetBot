@@ -280870,5 +280870,140 @@
     "sum": 1939,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789131741290,
+    "duration": 200195,
+    "left": {
+      "bet_amount": 206982,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ex iori xiii",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 37085,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Reicubas",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1826
+    },
+    "date": 1789131921493,
+    "duration": 120196,
+    "left": {
+      "bet_amount": 225928,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yami_miko EX",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 24184,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Potemkin",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 1826,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2020
+    },
+    "date": 1789132253696,
+    "duration": 272199,
+    "left": {
+      "bet_amount": 190027,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Eirin yagokoro",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 92825,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Date masamune_ch",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "sum": 2020,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789132447896,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 214356,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Dragon EX",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 126467,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Akame",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4146
+    },
+    "date": 1789132678091,
+    "duration": 164197,
+    "left": {
+      "bet_amount": 290255,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Opirus element",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125872,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ryougi_shiki",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 4146,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
