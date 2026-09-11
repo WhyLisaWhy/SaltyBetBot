@@ -281194,5 +281194,32 @@
     "sum": 2968,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4511
+    },
+    "date": 1789134487090,
+    "duration": 245796,
+    "left": {
+      "bet_amount": 513274,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "The owner of eden",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 143786,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akame",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 4511,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
