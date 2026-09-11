@@ -285730,5 +285730,86 @@
     "sum": 114821914,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14371
+    },
+    "date": 1789168910093,
+    "duration": 213999,
+    "left": {
+      "bet_amount": 2174738,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Super-8",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1586427,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Platinum the trinity",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 114786510,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9059
+    },
+    "date": 1789169066292,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 5007969,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Rugal's panther zoo",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1367247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Famicom wars",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 114796925,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25408
+    },
+    "date": 1789169276493,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 1569541,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mia touma",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2769901,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Yu asuka",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 114787866,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
