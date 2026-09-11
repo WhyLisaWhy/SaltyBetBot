@@ -279601,5 +279601,86 @@
     "sum": 114338244,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23353
+    },
+    "date": 1789122918296,
+    "duration": 116003,
+    "left": {
+      "bet_amount": 2626809,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Luffy mvc",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 836890,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Truffe",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 114338245,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29247
+    },
+    "date": 1789123052494,
+    "duration": 74198,
+    "left": {
+      "bet_amount": 2225965,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Kishimax EX2",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1441406,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kou EX",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 114314892,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18240
+    },
+    "date": 1789123238496,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 3064699,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Balert",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1204298,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lunasa",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 114333586,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
