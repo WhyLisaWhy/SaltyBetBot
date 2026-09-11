@@ -280114,5 +280114,113 @@
     "sum": 114399561,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14513
+    },
+    "date": 1789126593298,
+    "duration": 64201,
+    "left": {
+      "bet_amount": 1096898,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Scylla",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5083333,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Spacemouse deluxe",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 114379488,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5380
+    },
+    "date": 1789126739296,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 1431899,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Black princess tohka",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4076430,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Shrek",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 114382611,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12859
+    },
+    "date": 1789126909494,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 3351592,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ushiromiya battler",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1557850,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ksitigarbha ikkyu",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 114384499,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22846
+    },
+    "date": 1789127039491,
+    "duration": 69995,
+    "left": {
+      "bet_amount": 1825475,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "O_flan-var.2",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1806649,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Moe yumezora",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 114390454,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
