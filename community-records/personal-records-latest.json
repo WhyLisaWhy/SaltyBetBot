@@ -281113,5 +281113,86 @@
     "sum": 2668,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2895
+    },
+    "date": 1789133680894,
+    "duration": 250196,
+    "left": {
+      "bet_amount": 468192,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Opirus element",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 122820,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "May(ac)",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 2895,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789133854896,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 378686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "The owner of eden",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 347829,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Yami_miko EX",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2968
+    },
+    "date": 1789134181290,
+    "duration": 270193,
+    "left": {
+      "bet_amount": 406125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Akame",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 212605,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "May(ac)",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 2968,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
