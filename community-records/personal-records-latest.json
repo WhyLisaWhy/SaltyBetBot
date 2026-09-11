@@ -278116,5 +278116,32 @@
     "sum": 2396,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3528
+    },
+    "date": 1789112687095,
+    "duration": 285007,
+    "left": {
+      "bet_amount": 522851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ragna the bloodedge",
+      "normal_bettors": 24,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 362221,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Zein_dael",
+      "normal_bettors": 12,
+      "win_streak": 6
+    },
+    "sum": 3528,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
