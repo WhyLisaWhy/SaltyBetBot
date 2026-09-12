@@ -296746,5 +296746,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30285
+    },
+    "date": 1789249784493,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 2718758,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Yanpeko na hibikisan",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1290684,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Down",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 115591753,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41501
+    },
+    "date": 1789249928495,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 1745072,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dios",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1884515,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Cid highwind",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115561468,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19116
+    },
+    "date": 1789250108696,
+    "duration": 123961,
+    "left": {
+      "bet_amount": 1281041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zinc",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4198828,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Dhalsim3",
+      "normal_bettors": 30,
+      "win_streak": 11
+    },
+    "sum": 115519967,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28209
+    },
+    "date": 1789250288893,
+    "duration": 124198,
+    "left": {
+      "bet_amount": 2161259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Koumakan sakuya",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1827177,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Saber_alter",
+      "normal_bettors": 21,
+      "win_streak": 9
+    },
+    "sum": 115500851,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9413
+    },
+    "date": 1789250448894,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 3818459,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Ruili kong",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1179027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lucy diclonius",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "sum": 115533711,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
