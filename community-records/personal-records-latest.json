@@ -290590,5 +290590,140 @@
     "sum": 114754204,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 160
+    },
+    "date": 1789204733492,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 3382826,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Abyss form 1",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1476616,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ness",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 114754203,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23552
+    },
+    "date": 1789204853695,
+    "duration": 66202,
+    "left": {
+      "bet_amount": 2606827,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Captain sawada",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1290301,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ado",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 114754273,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789205015693,
+    "duration": 102000,
+    "left": {
+      "bet_amount": 1420538,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Gregariously",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2156885,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Shining gundam EX2",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "sum": 114801003,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6676
+    },
+    "date": 1789205143894,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 4201579,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Earthquake",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1664547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Otonashi",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 114801002,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7235
+    },
+    "date": 1789205257894,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 1227828,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lf2 - deep",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3664440,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Demigod meep140",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 114803643,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
