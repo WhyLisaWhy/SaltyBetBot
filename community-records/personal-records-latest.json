@@ -287566,5 +287566,113 @@
     "sum": 114770206,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22519
+    },
+    "date": 1789184235693,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 5836307,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Onslaught 1st",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1089318,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Guldo",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 114771374,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26428
+    },
+    "date": 1789184419894,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 2292228,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Judith odea",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2296001,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shishimaru EX",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "sum": 114748855,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789184589894,
+    "duration": 113994,
+    "left": {
+      "bet_amount": 3253849,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dr. weil",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2230632,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "The universe emperor",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 114775025,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25771
+    },
+    "date": 1789184806097,
+    "duration": 160204,
+    "left": {
+      "bet_amount": 4172657,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Heavyarmscustom",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1775455,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ayaka fonstead",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 114775027,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
