@@ -287431,5 +287431,140 @@
     "sum": 2500,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38038
+    },
+    "date": 1789183298896,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 3070910,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Vivi_ornitier",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1766113,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Valgasu",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 114775126,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20531
+    },
+    "date": 1789183483090,
+    "duration": 123998,
+    "left": {
+      "bet_amount": 6322726,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2279014,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Injya",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 114737088,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789183659097,
+    "duration": 116004,
+    "left": {
+      "bet_amount": 1266845,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Anime chiffon",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6230755,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Gel",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 114793540,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23333
+    },
+    "date": 1789183829294,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 2320339,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Alissa",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1445213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Nekomo",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 114793539,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8379
+    },
+    "date": 1789183969493,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 1146604,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Seth ex",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8223481,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Syanahime",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 114770206,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
