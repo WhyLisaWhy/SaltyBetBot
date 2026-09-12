@@ -296233,5 +296233,113 @@
     "sum": 115421568,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25271
+    },
+    "date": 1789245110694,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 6002379,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Airi",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1388123,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shunsui kyouraku",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 115444890,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21413
+    },
+    "date": 1789245270893,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 2545285,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Chloe heartfield",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1721911,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Abobo",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 115552211,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27971
+    },
+    "date": 1789245420893,
+    "duration": 93996,
+    "left": {
+      "bet_amount": 2736316,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Guillotine gen",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2486015,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tuna",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 115530798,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24850
+    },
+    "date": 1789245583694,
+    "duration": 100433,
+    "left": {
+      "bet_amount": 2480195,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "A'",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1894936,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Psychotic ryu",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 115555954,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
