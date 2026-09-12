@@ -294856,5 +294856,140 @@
     "sum": 115185078,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3376
+    },
+    "date": 1789236311892,
+    "duration": 109994,
+    "left": {
+      "bet_amount": 4883926,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Whip",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1791436,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ukyo tachibana EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 115185079,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9037
+    },
+    "date": 1789236492105,
+    "duration": 120007,
+    "left": {
+      "bet_amount": 2449572,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Vile EX3",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1310739,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 3,
+      "name": "Neko re",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 115186317,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24035
+    },
+    "date": 1789236632088,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 2216344,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Emperor fou-lu",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1687581,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Ryo sakazaki special",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 115191135,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21753
+    },
+    "date": 1789236772291,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 2386665,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Pogo",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1787847,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kyko",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 115209240,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29971
+    },
+    "date": 1789236884495,
+    "duration": 60201,
+    "left": {
+      "bet_amount": 1219974,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ria-10",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2057478,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Cool",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 115237930,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
