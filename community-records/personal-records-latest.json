@@ -287188,5 +287188,113 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3273
+    },
+    "date": 1789178641493,
+    "duration": 186201,
+    "left": {
+      "bet_amount": 229034,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 6,
+      "name": "C.iori blood",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 162585,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Raisen",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 3273,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7793
+    },
+    "date": 1789178881696,
+    "duration": 180204,
+    "left": {
+      "bet_amount": 267263,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 8,
+      "name": "Donald face",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 233783,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "B_komachi",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 7793,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789179121692,
+    "duration": 183999,
+    "left": {
+      "bet_amount": 340550,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 12,
+      "name": "Grgr_clark",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 113238,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ultra super3 goku",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2064
+    },
+    "date": 1789179237896,
+    "duration": 60000,
+    "left": {
+      "bet_amount": 288417,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "M_kusanagi_ex",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236858,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Necoarc_abyss",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 2064,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
