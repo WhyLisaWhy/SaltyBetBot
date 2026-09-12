@@ -290320,5 +290320,113 @@
     "sum": 4918,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5325
+    },
+    "date": 1789201937296,
+    "duration": 153993,
+    "left": {
+      "bet_amount": 328423,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Yu narukami",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 82583,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tukuruyo",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 5325,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789202153495,
+    "duration": 160003,
+    "left": {
+      "bet_amount": 121325,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Zenon",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 331715,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Emperor mateus",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5735
+    },
+    "date": 1789202403692,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 110227,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Maebara_keiichi",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 399318,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Orsted",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 5735,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789202663894,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 287591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Orochi shermie",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 246404,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Levin",
+      "normal_bettors": 30,
+      "win_streak": 8
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
