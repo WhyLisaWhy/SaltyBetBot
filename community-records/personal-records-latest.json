@@ -296584,5 +296584,86 @@
     "sum": 2037,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2175
+    },
+    "date": 1789247820892,
+    "duration": 170197,
+    "left": {
+      "bet_amount": 490341,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Billy kane",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61342,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kurippudassu",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "sum": 2175,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18966
+    },
+    "date": 1789247980907,
+    "duration": 106014,
+    "left": {
+      "bet_amount": 124255,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Google chrome t-rex",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 382063,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 18966,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24843
+    },
+    "date": 1789248311295,
+    "duration": 264201,
+    "left": {
+      "bet_amount": 256909,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ms. fanservice",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 331307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Masked rider wizard",
+      "normal_bettors": 13,
+      "win_streak": 7
+    },
+    "sum": 24843,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
