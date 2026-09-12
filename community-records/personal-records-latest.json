@@ -288538,5 +288538,86 @@
     "sum": 114668445,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789190494490,
+    "duration": 159998,
+    "left": {
+      "bet_amount": 1303253,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Turn-a",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2851815,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Saori - athena",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 114676916,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32943
+    },
+    "date": 1789190694699,
+    "duration": 144208,
+    "left": {
+      "bet_amount": 1676319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sailor moon EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2997746,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Lenneth vp",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 114676919,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24320
+    },
+    "date": 1789190894895,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 1680124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "T-h-m-a",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2512297,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Homura & friends",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 114695141,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
