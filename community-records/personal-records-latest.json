@@ -295720,5 +295720,140 @@
     "sum": 115395297,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26836
+    },
+    "date": 1789241796290,
+    "duration": 206198,
+    "left": {
+      "bet_amount": 1023499,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 3,
+      "name": "Mononobe no futo",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2674073,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Rick",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 115395298,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27786
+    },
+    "date": 1789241932288,
+    "duration": 75995,
+    "left": {
+      "bet_amount": 3832060,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Youki-so-suika",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1256289,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "S.sinclair EX",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 115463621,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23194
+    },
+    "date": 1789242062494,
+    "duration": 76200,
+    "left": {
+      "bet_amount": 2674069,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Aoi matsubara",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1565267,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Ruccio roche",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 115472665,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30966
+    },
+    "date": 1789242232493,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 2154894,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Karin_a",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1855473,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mini caster",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 115449471,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789242352694,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 2363094,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Ohaou",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1827734,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Joe swanson",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 115418505,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
