@@ -294991,5 +294991,140 @@
     "sum": 115237930,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12607
+    },
+    "date": 1789237118698,
+    "duration": 180206,
+    "left": {
+      "bet_amount": 2570651,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Fenri-lunaedge",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1382369,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ed-209",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 115207959,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12321
+    },
+    "date": 1789237294697,
+    "duration": 116003,
+    "left": {
+      "bet_amount": 3242236,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Chako",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1796225,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sirius",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 115214706,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39944
+    },
+    "date": 1789237464896,
+    "duration": 110206,
+    "left": {
+      "bet_amount": 2370383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dink smallwood",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2541160,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Gori",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 115221507,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789237608895,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 2735569,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Chloe heartfield",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1406161,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kungfumithra",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 115181563,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25756
+    },
+    "date": 1789237805092,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 4250195,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Broli",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1277911,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kliff",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 115181564,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
