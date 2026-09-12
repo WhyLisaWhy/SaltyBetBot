@@ -297205,5 +297205,86 @@
     "sum": 115596634,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789252688693,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 15776265,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Aurum axe",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1197637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zekamasi",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115608437,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3150
+    },
+    "date": 1789252882895,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 4768450,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Waka moto man",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1625432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Satsuki vp EX3",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 115608438,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789253054905,
+    "duration": 112009,
+    "left": {
+      "bet_amount": 2343271,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Zeppeli ex",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1718580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Wendy",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 115605288,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
