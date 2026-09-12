@@ -286675,5 +286675,140 @@
     "sum": 114663839,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23166
+    },
+    "date": 1789174964693,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 2505867,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Sol badguy ah",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1565499,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Garjian's el fuerte",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 114625686,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32677
+    },
+    "date": 1789175130894,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1565908,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Duo lon",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2293727,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 9,
+      "name": "Kurihan",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 114602520,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24053
+    },
+    "date": 1789175387094,
+    "duration": 192200,
+    "left": {
+      "bet_amount": 1529517,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider accel",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2229780,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Josuke higashikata",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 114624515,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11774
+    },
+    "date": 1789175577291,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 2289741,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Emerl the gizoid",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1817924,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Mizuki takase",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 114659038,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1116
+    },
+    "date": 1789175691294,
+    "duration": 60000,
+    "left": {
+      "bet_amount": 1655372,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "K.goemon",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3591699,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 17,
+      "name": "Class wo",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 114647264,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
