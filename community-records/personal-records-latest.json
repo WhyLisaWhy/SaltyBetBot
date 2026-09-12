@@ -287296,5 +287296,113 @@
     "sum": 2064,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3747
+    },
+    "date": 1789179402091,
+    "duration": 104196,
+    "left": {
+      "bet_amount": 251249,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Love of z",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287489,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shippu_no_96noah",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 3747,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789179678093,
+    "duration": 219998,
+    "left": {
+      "bet_amount": 218537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Raisen",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 321454,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Donald face",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2599
+    },
+    "date": 1789179822292,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 299942,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Grgr_clark",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 340231,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "M_kusanagi_ex",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 2599,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789179974493,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 367422,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Love of z",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225962,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Donald face",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
