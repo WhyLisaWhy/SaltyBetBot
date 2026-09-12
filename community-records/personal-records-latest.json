@@ -295558,5 +295558,167 @@
     "sum": 115235716,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25616
+    },
+    "date": 1789240649292,
+    "duration": 123999,
+    "left": {
+      "bet_amount": 2286457,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Rin_tohsaka",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1652183,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yamazaki 98",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 115239789,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46576
+    },
+    "date": 1789240805491,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 2463170,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Priecia",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2027091,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Deathvoice-shogun",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 115214173,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20683
+    },
+    "date": 1789240989688,
+    "duration": 124191,
+    "left": {
+      "bet_amount": 6165665,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Grand_diable",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2078974,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kakarotto [goku] ssj7",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 115251792,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789241161692,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 7907931,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Tios",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1014030,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Trinitronity",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 115312528,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34311
+    },
+    "date": 1789241325890,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 1361471,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Miranda",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3366988,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Muscle power",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 115312529,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789241526090,
+    "duration": 146197,
+    "left": {
+      "bet_amount": 1362163,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ky-pw",
+      "normal_bettors": 11,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3550164,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Holy strider",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 115395297,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
