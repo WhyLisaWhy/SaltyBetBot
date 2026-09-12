@@ -296476,5 +296476,113 @@
     "sum": 4406,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5017
+    },
+    "date": 1789247014295,
+    "duration": 154201,
+    "left": {
+      "bet_amount": 163987,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 171452,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Makendo",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 5017,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789247210495,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 445022,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ms. fanservice",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 18172,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Duke nukem",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1614
+    },
+    "date": 1789247444693,
+    "duration": 174199,
+    "left": {
+      "bet_amount": 96773,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ahuroken",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 368220,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Masked rider wizard",
+      "normal_bettors": 22,
+      "win_streak": 6
+    },
+    "sum": 1614,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2037
+    },
+    "date": 1789247590693,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 463231,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Racheal mc",
+      "normal_bettors": 26,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 31350,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Noel",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 2037,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
