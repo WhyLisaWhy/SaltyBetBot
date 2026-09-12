@@ -290185,5 +290185,140 @@
     "sum": 2043,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2603
+    },
+    "date": 1789200940695,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 189071,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Angel hikaru",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 56269,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Maebara_keiichi",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 2603,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789201112705,
+    "duration": 115953,
+    "left": {
+      "bet_amount": 145107,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Orsted",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "N-geese",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2808
+    },
+    "date": 1789201352897,
+    "duration": 180000,
+    "left": {
+      "bet_amount": 259953,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Orochi shermie",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74910,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yashiro EX6",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 2808,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3609
+    },
+    "date": 1789201543095,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 264244,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Levin",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 97085,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vanilla gouken",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 3609,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4918
+    },
+    "date": 1789201723292,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 354663,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Luna himeki +q",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 29722,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Maraiah",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 4918,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
