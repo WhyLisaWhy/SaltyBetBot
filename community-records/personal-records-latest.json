@@ -289402,5 +289402,140 @@
     "sum": 114856719,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24512
+    },
+    "date": 1789195872695,
+    "duration": 54003,
+    "left": {
+      "bet_amount": 1801290,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Prier",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2488023,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Felden crais",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 114827753,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4383
+    },
+    "date": 1789196024692,
+    "duration": 89983,
+    "left": {
+      "bet_amount": 1496525,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rin natsume",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3633117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Doctor wily",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 114803241,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24921
+    },
+    "date": 1789196174898,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1925050,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Bousou oni-chiduru K",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1899400,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kirara",
+      "normal_bettors": 14,
+      "win_streak": 6
+    },
+    "sum": 114798858,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21530
+    },
+    "date": 1789196315098,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 1477340,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Applejack m",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2815493,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Anji",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 114823133,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28021
+    },
+    "date": 1789196461093,
+    "duration": 85951,
+    "left": {
+      "bet_amount": 1955740,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Adelheid xiii",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1173079,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kuroko EX2",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 114801603,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
