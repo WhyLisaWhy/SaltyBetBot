@@ -296125,5 +296125,113 @@
     "sum": 115423259,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30187
+    },
+    "date": 1789244330093,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1453255,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Robo kung fu man",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2215194,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Alcott",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 115404935,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8483
+    },
+    "date": 1789244476292,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 2113430,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Durian EX3",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2180342,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "The mountain",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 115450013,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36636
+    },
+    "date": 1789244706494,
+    "duration": 176135,
+    "left": {
+      "bet_amount": 1858126,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cassius bright",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2851264,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Salty surfer",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 115458204,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30220
+    },
+    "date": 1789244900697,
+    "duration": 134203,
+    "left": {
+      "bet_amount": 1719846,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Morrigan EX",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2198329,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Fire sonic",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 115421568,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
