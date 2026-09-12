@@ -293587,5 +293587,59 @@
     "sum": 2834,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789224384689,
+    "duration": 166000,
+    "left": {
+      "bet_amount": 147257,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yuugi mb",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 213846,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Shrek",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789224865497,
+    "duration": 426807,
+    "left": {
+      "bet_amount": 341841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Baragon",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 201611,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yuugi mb",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
