@@ -295990,5 +295990,140 @@
     "sum": 115392448,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23861
+    },
+    "date": 1789243539495,
+    "duration": 119990,
+    "left": {
+      "bet_amount": 3052774,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Oni inomura",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1372036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Super goku",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 115394702,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15133
+    },
+    "date": 1789243649694,
+    "duration": 55928,
+    "left": {
+      "bet_amount": 1630845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Necrosis",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4256101,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Mvc3 lilith",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 115405343,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21082
+    },
+    "date": 1789243823690,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 1276399,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vampire hunter hsien-ko",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2599449,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Umvc_sentinel",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 115411122,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7410
+    },
+    "date": 1789244029896,
+    "duration": 145998,
+    "left": {
+      "bet_amount": 1296389,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kenpachi zaraki",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5135467,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "B.jenet",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 115421391,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18324
+    },
+    "date": 1789244160097,
+    "duration": 76204,
+    "left": {
+      "bet_amount": 1298531,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Frankenroid",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2841139,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Evil homer",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 115423259,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
