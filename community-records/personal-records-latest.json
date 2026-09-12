@@ -296665,5 +296665,86 @@
     "sum": 24843,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789248587492,
+    "duration": 220196,
+    "left": {
+      "bet_amount": 140748,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Racheal mc",
+      "normal_bettors": 25,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 512376,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kurippudassu",
+      "normal_bettors": 18,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789248741692,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 493706,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 265561,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Masked rider wizard",
+      "normal_bettors": 14,
+      "win_streak": 8
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789249030490,
+    "duration": 232795,
+    "left": {
+      "bet_amount": 533648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Racheal mc",
+      "normal_bettors": 23,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 384659,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
