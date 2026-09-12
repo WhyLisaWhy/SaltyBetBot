@@ -296341,5 +296341,140 @@
     "sum": 115555954,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789245949493,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 111416,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Racheal mc",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 43322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "G-black manta",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2145
+    },
+    "date": 1789246143492,
+    "duration": 135996,
+    "left": {
+      "bet_amount": 76798,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Noel",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 118303,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Itachi",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 2145,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789246323693,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 216675,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Billy kane",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 60514,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jack krauser",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1980
+    },
+    "date": 1789246593893,
+    "duration": 210197,
+    "left": {
+      "bet_amount": 174027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Clown",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 140077,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kurippudassu",
+      "normal_bettors": 16,
+      "win_streak": 5
+    },
+    "sum": 1980,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4406
+    },
+    "date": 1789246804093,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 322041,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Google chrome t-rex",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 45242,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Flamme",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 4406,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
