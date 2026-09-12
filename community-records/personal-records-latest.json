@@ -295288,5 +295288,140 @@
     "sum": 115214735,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28954
+    },
+    "date": 1789238966093,
+    "duration": 94161,
+    "left": {
+      "bet_amount": 4464434,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Violet",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208808,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Guarborg",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "sum": 115224787,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24571
+    },
+    "date": 1789239216098,
+    "duration": 190002,
+    "left": {
+      "bet_amount": 1294457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Monokuma",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3583826,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Charging chuck",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 115195833,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4944
+    },
+    "date": 1789239372289,
+    "duration": 93994,
+    "left": {
+      "bet_amount": 1975343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Whip-kofm",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2299580,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Moriah the thief",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 115171262,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19931
+    },
+    "date": 1789239518492,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 1182294,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Bubsy bobcat",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3432111,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Sabretoothu",
+      "normal_bettors": 24,
+      "win_streak": 9
+    },
+    "sum": 115175500,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12437
+    },
+    "date": 1789239648531,
+    "duration": 70039,
+    "left": {
+      "bet_amount": 1537000,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black guardian",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3466810,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 9,
+      "name": "Jin O",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "sum": 115182327,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
