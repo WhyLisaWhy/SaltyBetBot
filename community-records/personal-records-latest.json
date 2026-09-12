@@ -297772,5 +297772,113 @@
     "sum": 115657566,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27182
+    },
+    "date": 1789256173495,
+    "duration": 100206,
+    "left": {
+      "bet_amount": 2075007,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Neo metal sonic",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2243178,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Wing.0",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 115610069,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36523
+    },
+    "date": 1789256299493,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 1929376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Amato",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1981778,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Turbo ken",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 115582887,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9664
+    },
+    "date": 1789256459694,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 3365893,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ryuji yamazaki",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1889261,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mageko EX",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 115546364,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789256669695,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 2545834,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "New mechagodzilla",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1839544,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Arena",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 115551773,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
