@@ -287404,5 +287404,32 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2500
+    },
+    "date": 1789180192292,
+    "duration": 163799,
+    "left": {
+      "bet_amount": 414145,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Grgr_clark",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 302234,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Love of z",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 2500,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
