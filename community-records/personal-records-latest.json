@@ -293371,5 +293371,113 @@
     "sum": 3033,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789222695496,
+    "duration": 174201,
+    "left": {
+      "bet_amount": 126101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "3rd alsiel",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236434,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yuugi mb",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2372
+    },
+    "date": 1789222955691,
+    "duration": 204197,
+    "left": {
+      "bet_amount": 184363,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Birdy",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89562,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nega peach",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 2372,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789223091691,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 36305,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Curfue",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 393841,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Shrek",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1693
+    },
+    "date": 1789223301896,
+    "duration": 150002,
+    "left": {
+      "bet_amount": 123393,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Baragon",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 256200,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Umvc3 norimaro",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 1693,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
