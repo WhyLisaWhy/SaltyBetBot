@@ -291778,5 +291778,140 @@
     "sum": 114705709,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21284
+    },
+    "date": 1789211923094,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 1829559,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Burnie",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1139370,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Regalo",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 114703202,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12358
+    },
+    "date": 1789212083291,
+    "duration": 99968,
+    "left": {
+      "bet_amount": 3424288,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Order-ky",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1312069,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Disrupter",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 114716305,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12879
+    },
+    "date": 1789212275495,
+    "duration": 130176,
+    "left": {
+      "bet_amount": 2742658,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "E-101 beta mkii",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1606272,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ash",
+      "normal_bettors": 8,
+      "win_streak": -9
+    },
+    "sum": 114721024,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31253
+    },
+    "date": 1789212495493,
+    "duration": 165997,
+    "left": {
+      "bet_amount": 2418459,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Z-akuma EX",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1219034,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hamburglar",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "sum": 114728532,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20861
+    },
+    "date": 1789212689697,
+    "duration": 133990,
+    "left": {
+      "bet_amount": 2565551,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Shirai_kuroko",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1714102,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "J lance",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 114788986,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
