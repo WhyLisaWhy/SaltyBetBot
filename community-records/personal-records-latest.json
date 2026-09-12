@@ -294559,5 +294559,113 @@
     "sum": 114946315,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30788
+    },
+    "date": 1789234440494,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 1210064,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Natural miku",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2836314,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Absolute_white_len",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 114922443,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39649
+    },
+    "date": 1789234610734,
+    "duration": 110242,
+    "left": {
+      "bet_amount": 1498296,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Akatsuki musashi",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1649524,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 2,
+      "name": "D4 meirin",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 114935438,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6375
+    },
+    "date": 1789234850892,
+    "duration": 186196,
+    "left": {
+      "bet_amount": 2095298,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Lei lei",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1594457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shiki_kageya",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 114977964,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10875
+    },
+    "date": 1789234990891,
+    "duration": 85996,
+    "left": {
+      "bet_amount": 1208975,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bloodia",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8733093,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Justice gg1 ex",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 114971589,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
