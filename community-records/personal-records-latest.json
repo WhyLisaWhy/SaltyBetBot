@@ -286972,5 +286972,59 @@
     "sum": 114836707,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29088
+    },
+    "date": 1789176878296,
+    "duration": 94199,
+    "left": {
+      "bet_amount": 2597066,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Swalot",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1655745,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Lotus master",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 114781120,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42872
+    },
+    "date": 1789177147293,
+    "duration": 212996,
+    "left": {
+      "bet_amount": 3570799,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Chisa tsukamoto",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1582651,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ron max",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 114752032,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
