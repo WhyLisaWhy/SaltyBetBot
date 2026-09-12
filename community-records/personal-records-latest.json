@@ -293857,5 +293857,113 @@
     "sum": 114924804,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46565
+    },
+    "date": 1789229997092,
+    "duration": 83994,
+    "left": {
+      "bet_amount": 2243372,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Dormammu",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1511765,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tyrant t-002",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 114931375,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12469
+    },
+    "date": 1789230213293,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 4440734,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Jun",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1496555,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tony won",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 114998410,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18335
+    },
+    "date": 1789230363295,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1514930,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cb valimes",
+      "normal_bettors": 11,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1808035,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Krizalid-kofm-kbr",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 115002601,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33965
+    },
+    "date": 1789230567501,
+    "duration": 150008,
+    "left": {
+      "bet_amount": 3421286,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Eyedol",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1500169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zero Cloud",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 114984266,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
