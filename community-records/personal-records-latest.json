@@ -297286,5 +297286,140 @@
     "sum": 115605288,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47774
+    },
+    "date": 1789253229118,
+    "duration": 114011,
+    "left": {
+      "bet_amount": 1747951,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Deathvoice-shogun",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3392399,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Crescent silvan",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 115605287,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30793
+    },
+    "date": 1789253409313,
+    "duration": 124218,
+    "left": {
+      "bet_amount": 3412178,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Scorpion EX4",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1630441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jake",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 115629561,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19069
+    },
+    "date": 1789253579493,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 2566953,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Skylla chimere",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1724450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chloe valens",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 115692810,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23411
+    },
+    "date": 1789253765493,
+    "duration": 129994,
+    "left": {
+      "bet_amount": 1790990,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alcott",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2390385,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Rin",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 115705526,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8004
+    },
+    "date": 1789253885697,
+    "duration": 60002,
+    "left": {
+      "bet_amount": 1191530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Leopaldon",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5371899,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "King of black dragon",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 115682115,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
