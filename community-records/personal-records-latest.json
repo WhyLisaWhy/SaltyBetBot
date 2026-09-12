@@ -293641,5 +293641,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22551
+    },
+    "date": 1789228640087,
+    "duration": 154193,
+    "left": {
+      "bet_amount": 1340961,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shazam ex",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2257354,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Aoba EX2",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 114944707,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18105
+    },
+    "date": 1789228820097,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1912141,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jam(ac)",
+      "normal_bettors": 12,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5082783,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Proto-omega",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 114957971,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
