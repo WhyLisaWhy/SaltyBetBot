@@ -293290,5 +293290,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789222061095,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 85761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rin natsume",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 192758,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Ss6 renfa",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2235
+    },
+    "date": 1789222205096,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 85633,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Saint kyo",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 237779,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kyo brunestud",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 2235,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3033
+    },
+    "date": 1789222461297,
+    "duration": 190205,
+    "left": {
+      "bet_amount": 64493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tsukikomori",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 260761,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Gatocyu",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 3033,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
