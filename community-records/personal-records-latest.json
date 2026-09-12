@@ -295423,5 +295423,140 @@
     "sum": 115182327,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17583
+    },
+    "date": 1789239832690,
+    "duration": 123995,
+    "left": {
+      "bet_amount": 5576747,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Maoh",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1114950,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kula",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 115187822,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8285
+    },
+    "date": 1789239948891,
+    "duration": 56197,
+    "left": {
+      "bet_amount": 9687107,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Captainamerica EX3",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1187216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Puppet yukino",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 115191327,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29215
+    },
+    "date": 1789240092890,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 2201948,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 10,
+      "name": "Kratos",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1555838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Happy.valentine",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 115192342,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37026
+    },
+    "date": 1789240323096,
+    "duration": 170207,
+    "left": {
+      "bet_amount": 1570583,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eagle f22",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2491313,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Sync",
+      "normal_bettors": 22,
+      "win_streak": -6
+    },
+    "sum": 115212715,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11652
+    },
+    "date": 1789240469293,
+    "duration": 80205,
+    "left": {
+      "bet_amount": 1227238,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dhalsim_a",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3499865,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Dangerous jiisan",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 115235716,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
