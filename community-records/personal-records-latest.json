@@ -292750,5 +292750,140 @@
     "sum": 114829341,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21909
+    },
+    "date": 1789218148093,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 5335157,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Johnny(ac)",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1275955,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Souther",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "sum": 114831852,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21922
+    },
+    "date": 1789218360094,
+    "duration": 151998,
+    "left": {
+      "bet_amount": 1585992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Astro",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2337736,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Kibanohara ethica",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 114837071,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 892
+    },
+    "date": 1789218594294,
+    "duration": 173994,
+    "left": {
+      "bet_amount": 2337521,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Dreamform sula",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1372826,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dante de cerbero",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 114851806,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789218750493,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1129330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eliza EX",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7570081,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Zen mc",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 114852330,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24712
+    },
+    "date": 1789218900492,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 2154257,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kenny",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1896865,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Evil karin",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 114852329,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
