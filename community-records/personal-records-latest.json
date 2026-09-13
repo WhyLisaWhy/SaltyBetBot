@@ -299770,5 +299770,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789270236294,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 127901,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Orochi-takashi",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 577807,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Rindou",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789270818694,
+    "duration": 528203,
+    "left": {
+      "bet_amount": 725366,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Eve b.c",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 371269,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Orochi-takashi",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
