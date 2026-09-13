@@ -308651,5 +308651,86 @@
     "sum": 115161944,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21488
+    },
+    "date": 1789331668094,
+    "duration": 114192,
+    "left": {
+      "bet_amount": 2527947,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Sailor chibi moon",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1528541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tnok",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 115165270,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29621
+    },
+    "date": 1789331838093,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 1499272,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider joker",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2249684,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Anastasia",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 115178154,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 46677
+    },
+    "date": 1789331976097,
+    "duration": 81804,
+    "left": {
+      "bet_amount": 4334321,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Nero claudius",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1210241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Trs",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 115221740,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
