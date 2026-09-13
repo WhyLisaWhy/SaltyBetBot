@@ -298042,5 +298042,140 @@
     "sum": 115526223,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16102
+    },
+    "date": 1789257766694,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 2871414,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Rin_h",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1655938,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Black cat",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 115526222,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22968
+    },
+    "date": 1789257936694,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1632571,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Liquid snake",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2967261,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Cius",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 115535457,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23581
+    },
+    "date": 1789258092896,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 1112568,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shirou yusa",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4195567,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Tokinomiya kamui EX3",
+      "normal_bettors": 48,
+      "win_streak": 1
+    },
+    "sum": 115512489,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13711
+    },
+    "date": 1789258277094,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2934703,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kirikou EX3",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1493658,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mast",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 115518708,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20242
+    },
+    "date": 1789258433298,
+    "duration": 100209,
+    "left": {
+      "bet_amount": 2898599,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Tane",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1538015,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fungi",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 115504997,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
