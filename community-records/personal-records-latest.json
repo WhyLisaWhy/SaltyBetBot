@@ -300310,5 +300310,140 @@
     "sum": 115571263,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20495
+    },
+    "date": 1789274813890,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 3316387,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Polnareff",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529589,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ss6 syunran-abab",
+      "normal_bettors": 14,
+      "win_streak": -11
+    },
+    "sum": 115571262,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 841
+    },
+    "date": 1789274977895,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 4698838,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Super3 goku",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1380932,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dizzy wsl",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 115580657,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21930
+    },
+    "date": 1789275134090,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1029550,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Zako-dan",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4811444,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Aoc",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 115580905,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28781
+    },
+    "date": 1789275294091,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 1097417,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 3,
+      "name": "Litchi qyc",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2409789,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Psylocke mvc2",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 115585577,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28994
+    },
+    "date": 1789275544292,
+    "duration": 194002,
+    "left": {
+      "bet_amount": 1621520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jiraiya",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1731717,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Slug wanzer",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 115647162,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
