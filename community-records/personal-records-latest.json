@@ -300202,5 +300202,113 @@
     "sum": 115554168,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789274113293,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 3496247,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Z-ton 2nd",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1389079,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Old goku",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 115560284,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20720
+    },
+    "date": 1789274283495,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 1225557,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Corrupted shinnok",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3584079,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Orochi-bs",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "sum": 115560285,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15396
+    },
+    "date": 1789274473693,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 4318012,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Excellent wario",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1106909,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Heavy strike",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 115567330,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789274659691,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1175461,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 2,
+      "name": "Tibigintou",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2200453,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Athena w",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 115571263,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
