@@ -309542,5 +309542,140 @@
     "sum": 115193432,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1045
+    },
+    "date": 1789341539493,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1436592,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rina",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3581191,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Yuri sakazaki-kofm",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 115170087,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1521
+    },
+    "date": 1789341749693,
+    "duration": 149939,
+    "left": {
+      "bet_amount": 2181866,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ogitafanada",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2532467,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Amano hyo",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 115170507,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25398
+    },
+    "date": 1789341953911,
+    "duration": 150217,
+    "left": {
+      "bet_amount": 2171390,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Marisa kirisame",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1673648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jean_pau",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 115172272,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30005
+    },
+    "date": 1789342073893,
+    "duration": 59997,
+    "left": {
+      "bet_amount": 3629149,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Yun",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1479669,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kenshin uesugi",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 115146874,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24730
+    },
+    "date": 1789342260095,
+    "duration": 123967,
+    "left": {
+      "bet_amount": 1826454,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Vixen",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5510188,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ultimate cell",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 115116869,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
