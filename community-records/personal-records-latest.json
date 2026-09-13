@@ -305521,5 +305521,86 @@
     "sum": 115471020,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32746
+    },
+    "date": 1789310099295,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 869959,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Ryoga hibiki",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2574773,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Tomoe mami",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 115510255,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789310349496,
+    "duration": 190203,
+    "left": {
+      "bet_amount": 2346352,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Isao jinrai",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1337013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Fuhashitei",
+      "normal_bettors": 12,
+      "win_streak": -9
+    },
+    "sum": 115477509,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40632
+    },
+    "date": 1789310509493,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1336455,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Ayu&misuzu&mizuka",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1606689,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Turbo ken",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115477510,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
