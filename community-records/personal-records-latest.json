@@ -302416,5 +302416,113 @@
     "sum": 115445149,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11412
+    },
+    "date": 1789288330293,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 5287352,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Kamen rider scissors",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1334257,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rizot",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115446283,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29083
+    },
+    "date": 1789288464494,
+    "duration": 74131,
+    "left": {
+      "bet_amount": 2328842,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Han EX3",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1916013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Venom MMV",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 115449157,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17843
+    },
+    "date": 1789288600495,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 2135077,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 22,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260954,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Revenge of mr. x",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 115472790,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29138
+    },
+    "date": 1789288727696,
+    "duration": 73204,
+    "left": {
+      "bet_amount": 1699117,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Ouyang feng",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2037372,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Epyon",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 115502581,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
