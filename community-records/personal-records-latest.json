@@ -305953,5 +305953,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2388
+    },
+    "date": 1789313880096,
+    "duration": 290199,
+    "left": {
+      "bet_amount": 650356,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Sonic",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125056,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Usada hikaru",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 2388,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789314090294,
+    "duration": 153999,
+    "left": {
+      "bet_amount": 362491,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Max pq",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 556191,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Maxima-xi",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
