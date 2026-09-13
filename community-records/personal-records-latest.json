@@ -307625,5 +307625,140 @@
     "sum": 115149004,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25399
+    },
+    "date": 1789325369097,
+    "duration": 110166,
+    "left": {
+      "bet_amount": 2101495,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hal",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2045940,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Donkey kong mvc",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 115108064,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24644
+    },
+    "date": 1789325553296,
+    "duration": 124196,
+    "left": {
+      "bet_amount": 2517057,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Iyo",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1269797,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jun asukai",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 115133833,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789325729298,
+    "duration": 119996,
+    "left": {
+      "bet_amount": 2244337,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kid gohan EX3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1086055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shin 2",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 115146145,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789325919494,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1812978,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Roppen heimer EX",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2160850,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rugal bernstein (cvs)-kofm",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 115146145,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31848
+    },
+    "date": 1789326119699,
+    "duration": 146206,
+    "left": {
+      "bet_amount": 2460807,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Athena asamiya-kofm",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1782658,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Alice's gensokyo",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 115146147,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
