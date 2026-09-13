@@ -308030,5 +308030,140 @@
     "sum": 115062230,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28176
+    },
+    "date": 1789327997092,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 1429446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Thau machine",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1673542,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Gaisei",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 115062368,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 45191
+    },
+    "date": 1789328137293,
+    "duration": 79957,
+    "left": {
+      "bet_amount": 5090497,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Chargeman len",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1382663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hellboy ex",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "sum": 115034192,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7610
+    },
+    "date": 1789328277296,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 2155083,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Maggyo IX",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Supooo!",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 115046359,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789328413495,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 1253099,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Team reimisen",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2632877,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Kaede kasiwagi",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 115050562,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29785
+    },
+    "date": 1789328603697,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 3462477,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Byakki s3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1138039,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rimle",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "sum": 115050563,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
