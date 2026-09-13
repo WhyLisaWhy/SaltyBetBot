@@ -305710,5 +305710,140 @@
     "sum": 9311,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789311746494,
+    "duration": 160000,
+    "left": {
+      "bet_amount": 74608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Cody the hedgehusky",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 219773,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Centurion",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2073
+    },
+    "date": 1789311916696,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 222733,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Max pq",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 164413,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Wonder girl",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 2073,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3590
+    },
+    "date": 1789312144893,
+    "duration": 172200,
+    "left": {
+      "bet_amount": 193528,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Norimaro EX3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 165664,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tloz link",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 3590,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6608
+    },
+    "date": 1789312296895,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 42221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sabotage",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 373333,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Maxima-xi",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 6608,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7343
+    },
+    "date": 1789312529099,
+    "duration": 172003,
+    "left": {
+      "bet_amount": 105761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pop",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 336176,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Keith wayne EX2",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 7343,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
