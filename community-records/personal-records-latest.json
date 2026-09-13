@@ -301876,5 +301876,113 @@
     "sum": 115501276,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789284843695,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 1747177,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Beautiful kuando",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1672103,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Heidern 94",
+      "normal_bettors": 15,
+      "win_streak": 10
+    },
+    "sum": 115500735,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5767
+    },
+    "date": 1789285009691,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 1445939,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Old school mario",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2649655,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kurumi mirumati",
+      "normal_bettors": 25,
+      "win_streak": 14
+    },
+    "sum": 115500736,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29808
+    },
+    "date": 1789285149896,
+    "duration": 86203,
+    "left": {
+      "bet_amount": 2002143,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Titi",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2096861,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Binran",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 115494969,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 607
+    },
+    "date": 1789285356094,
+    "duration": 146198,
+    "left": {
+      "bet_amount": 2133725,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Beavis EX3",
+      "normal_bettors": 17,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1578877,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Barts",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 115525730,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
