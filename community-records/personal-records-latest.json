@@ -299824,5 +299824,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31820
+    },
+    "date": 1789271943690,
+    "duration": 154198,
+    "left": {
+      "bet_amount": 1459168,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "C3po & r2d2",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2690223,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Mvc2 megaman",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 115495886,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
