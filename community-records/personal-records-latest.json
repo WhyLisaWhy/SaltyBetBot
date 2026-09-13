@@ -298177,5 +298177,140 @@
     "sum": 115504997,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20796
+    },
+    "date": 1789258607294,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 1908186,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Ryu Master",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1375394,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Thiele",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 115515664,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26906
+    },
+    "date": 1789258883495,
+    "duration": 216001,
+    "left": {
+      "bet_amount": 1782056,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hitosyura EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2030111,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Hoppou seiki",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 115494868,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43496
+    },
+    "date": 1789259023694,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 1591829,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nashu EX7",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2308048,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "G-hamster",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 115518178,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789259171694,
+    "duration": 93993,
+    "left": {
+      "bet_amount": 3205726,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Chariot du nord joven",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1498407,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Neo kazuma",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "sum": 115547622,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28514
+    },
+    "date": 1789259313895,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 1238337,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "63",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6358146,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Zen kasen ibaraki",
+      "normal_bettors": 43,
+      "win_streak": 6
+    },
+    "sum": 115547623,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
