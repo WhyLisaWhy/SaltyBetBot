@@ -305845,5 +305845,113 @@
     "sum": 7343,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789312763296,
+    "duration": 174201,
+    "left": {
+      "bet_amount": 410478,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sonic",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 92875,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Custom hsfa berabow man",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1900
+    },
+    "date": 1789312959494,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 512201,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Usada hikaru",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 96296,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Centurion",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 1900,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789313283697,
+    "duration": 270190,
+    "left": {
+      "bet_amount": 173936,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Max pq",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 549367,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Norimaro EX3",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789313533893,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 400492,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Maxima-xi",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 217253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Pop",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
