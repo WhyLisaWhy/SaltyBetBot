@@ -299014,5 +299014,140 @@
     "sum": 115358858,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28174
+    },
+    "date": 1789264081697,
+    "duration": 196206,
+    "left": {
+      "bet_amount": 1290032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Phoenix_connexion",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3025924,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Custom omk beatrice EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 115332189,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789264257695,
+    "duration": 122000,
+    "left": {
+      "bet_amount": 1193427,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Poring",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2386421,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yae-k",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 115344090,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23849
+    },
+    "date": 1789264521895,
+    "duration": 199995,
+    "left": {
+      "bet_amount": 1585209,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Big bear",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2245182,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ripper roo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 115344089,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789264712092,
+    "duration": 129992,
+    "left": {
+      "bet_amount": 1965710,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mildred avallone",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4778798,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Hakurei kanade",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 115360751,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789264832298,
+    "duration": 60203,
+    "left": {
+      "bet_amount": 4817618,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "M.bison mvc2",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1214955,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Original vega",
+      "normal_bettors": 13,
+      "win_streak": -9
+    },
+    "sum": 115360750,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
