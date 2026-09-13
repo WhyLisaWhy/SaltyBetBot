@@ -309056,5 +309056,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2406
+    },
+    "date": 1789335124695,
+    "duration": 186202,
+    "left": {
+      "bet_amount": 119802,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mb-01",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 572139,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Deuce",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 2406,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2908
+    },
+    "date": 1789335394893,
+    "duration": 216197,
+    "left": {
+      "bet_amount": 153168,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Seth ex",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 557019,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Trish una",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 2908,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
