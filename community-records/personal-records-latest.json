@@ -302929,5 +302929,32 @@
     "sum": 2723,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789293684495,
+    "duration": 76202,
+    "left": {
+      "bet_amount": 1163449,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tien",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2992332,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Eharu EX3",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "sum": 115476554,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
