@@ -305602,5 +305602,113 @@
     "sum": 115477510,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20996
+    },
+    "date": 1789310712695,
+    "duration": 143001,
+    "left": {
+      "bet_amount": 2920821,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Precure",
+      "normal_bettors": 28,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1558532,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bloo",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 115510475,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789311090097,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 119913,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ranma +",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 45902,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Sonic",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5467
+    },
+    "date": 1789311278098,
+    "duration": 128003,
+    "left": {
+      "bet_amount": 116521,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Custom hsfa berabow man",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85754,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aqua",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 5467,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9311
+    },
+    "date": 1789311532294,
+    "duration": 199979,
+    "left": {
+      "bet_amount": 82121,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Wood man",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 158900,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Usada hikaru",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 9311,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
