@@ -301417,5 +301417,140 @@
     "sum": 115680108,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29793
+    },
+    "date": 1789281925293,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 6019263,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Blaze-rock",
+      "normal_bettors": 29,
+      "win_streak": 16
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1146765,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kain r. heinlein",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 115647732,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2184
+    },
+    "date": 1789282075493,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 3993585,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yukiko amagi",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1147744,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kano EX",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 115653381,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2316
+    },
+    "date": 1789282275494,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1777984,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shin akuma dd",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3119380,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "The mighty thor",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 115651197,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9628
+    },
+    "date": 1789282411695,
+    "duration": 82000,
+    "left": {
+      "bet_amount": 632304,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Thomas the tank engine",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 18125740,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ninja EX3",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 115652517,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19901
+    },
+    "date": 1789282675895,
+    "duration": 206199,
+    "left": {
+      "bet_amount": 1297498,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hugo",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2389230,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Wing gundam zero custom",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 115652853,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
