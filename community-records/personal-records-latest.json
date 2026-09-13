@@ -302146,5 +302146,140 @@
     "sum": 115577564,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789286616892,
+    "duration": 129958,
+    "left": {
+      "bet_amount": 1738383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Garner",
+      "normal_bettors": 9,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2056453,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Witch",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 115540191,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12222
+    },
+    "date": 1789286793094,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1447192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sayo",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5152278,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Blaze-rock",
+      "normal_bettors": 29,
+      "win_streak": 17
+    },
+    "sum": 115540192,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789286993295,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 2127017,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Old robo-ky",
+      "normal_bettors": 14,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1132638,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Briaaaaaaaaaaaaaaaaan EX3",
+      "normal_bettors": 17,
+      "win_streak": 8
+    },
+    "sum": 115543617,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4474
+    },
+    "date": 1789287147302,
+    "duration": 100011,
+    "left": {
+      "bet_amount": 1102404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Old bonus kun",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3137495,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Izanagi",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 115543619,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 48441
+    },
+    "date": 1789287297492,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 2224791,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Buckdozer",
+      "normal_bettors": 24,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1463052,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Krauser 98",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 115545189,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
