@@ -301282,5 +301282,140 @@
     "sum": 115667665,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1752
+    },
+    "date": 1789281072697,
+    "duration": 94202,
+    "left": {
+      "bet_amount": 1107597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Leone abbacchio ex",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6423804,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Daimon EX2",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 115638217,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789281232694,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 2930556,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Deliza",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1820157,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Akuma shogun",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115638519,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25309
+    },
+    "date": 1789281404894,
+    "duration": 112001,
+    "left": {
+      "bet_amount": 2133686,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Alice's gensokyo",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1505261,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tuyoshi",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 115638520,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27646
+    },
+    "date": 1789281589094,
+    "duration": 124192,
+    "left": {
+      "bet_amount": 1901991,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Ellie_ngi",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1671059,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kuroko EX2",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 115656166,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32376
+    },
+    "date": 1789281785296,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 2323070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Antlar",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1127346,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Ash of blueblood",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 115680108,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
