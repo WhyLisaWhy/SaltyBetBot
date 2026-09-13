@@ -298879,5 +298879,140 @@
     "sum": 115421465,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789263112893,
+    "duration": 61998,
+    "left": {
+      "bet_amount": 8173702,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kusanagi EX3",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 847589,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Jotaro kujo",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 115403306,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 727
+    },
+    "date": 1789263250897,
+    "duration": 86003,
+    "left": {
+      "bet_amount": 1405677,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eagle",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5597140,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Sahad",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 115403307,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27280
+    },
+    "date": 1789263415095,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1336279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Tatsuo shiki",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3563396,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Bobby mk ii",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 115403490,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17352
+    },
+    "date": 1789263595295,
+    "duration": 124198,
+    "left": {
+      "bet_amount": 3049109,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Marisa,k",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1395626,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sean matsuda ex",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 115376210,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26669
+    },
+    "date": 1789263825495,
+    "duration": 174189,
+    "left": {
+      "bet_amount": 1169458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ditto",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2229074,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Chun-lee dark bolt",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 115358858,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
