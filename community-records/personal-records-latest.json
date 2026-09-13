@@ -304441,5 +304441,140 @@
     "sum": 115553960,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 533
+    },
+    "date": 1789303654290,
+    "duration": 96196,
+    "left": {
+      "bet_amount": 1348223,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Blaze agent",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2710570,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Chipp",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 115560550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10949
+    },
+    "date": 1789303760297,
+    "duration": 46002,
+    "left": {
+      "bet_amount": 1330840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Heavyweight champion balrog",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2447966,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "15 jhons lee",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 115560816,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 54466
+    },
+    "date": 1789303924494,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 1707775,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Sahaquiel",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1702848,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Stronk guy",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 115566742,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10445
+    },
+    "date": 1789304084494,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 1093685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tenkochan EX",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2923064,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Megumi shinigami",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 115512276,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32033
+    },
+    "date": 1789304234695,
+    "duration": 94003,
+    "left": {
+      "bet_amount": 1427081,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Durian EX3",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2221340,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Ryuko2nd",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 115501831,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
