@@ -308840,5 +308840,113 @@
     "sum": 16462,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789333415298,
+    "duration": 204001,
+    "left": {
+      "bet_amount": 195350,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yu-lan",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138607,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dlanor a. knox",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2642
+    },
+    "date": 1789333661492,
+    "duration": 190196,
+    "left": {
+      "bet_amount": 326167,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Aoba EX2",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65574,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Seth ex",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 2642,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789333891694,
+    "duration": 174000,
+    "left": {
+      "bet_amount": 145437,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lucina",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 192749,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Trish una",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789334091894,
+    "duration": 143998,
+    "left": {
+      "bet_amount": 102120,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mega tails",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 305093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "K'",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
