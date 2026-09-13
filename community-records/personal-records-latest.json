@@ -308732,5 +308732,113 @@
     "sum": 115221740,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789332424492,
+    "duration": 179997,
+    "left": {
+      "bet_amount": 121902,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Hamon kyo",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 46077,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Emily barnet",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5518
+    },
+    "date": 1789332614698,
+    "duration": 134003,
+    "left": {
+      "bet_amount": 105711,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mb-01",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 98393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dr.minerva",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 5518,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10400
+    },
+    "date": 1789332880893,
+    "duration": 209999,
+    "left": {
+      "bet_amount": 159476,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Deuce",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 99014,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kou",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 10400,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16462
+    },
+    "date": 1789333151094,
+    "duration": 216002,
+    "left": {
+      "bet_amount": 236797,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Houraisan kaguya",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 56154,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kotonoha katsura",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 16462,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
