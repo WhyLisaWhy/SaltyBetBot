@@ -309110,5 +309110,32 @@
     "sum": 2908,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3704
+    },
+    "date": 1789335756294,
+    "duration": 307401,
+    "left": {
+      "bet_amount": 207514,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Deuce",
+      "normal_bettors": 16,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 691705,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Trish una",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 3704,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
