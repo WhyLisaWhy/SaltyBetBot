@@ -300445,5 +300445,140 @@
     "sum": 115647162,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6295
+    },
+    "date": 1789275700493,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 1652926,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Roomi kof",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3172551,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Sieger",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 115618168,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 45042
+    },
+    "date": 1789275820697,
+    "duration": 60202,
+    "left": {
+      "bet_amount": 3527902,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "K_saber",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1175293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Syo hayate EX",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115621442,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28159
+    },
+    "date": 1789276004692,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1636551,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Eins EX6",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2029044,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "A_nayuki",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "sum": 115636259,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32721
+    },
+    "date": 1789276184894,
+    "duration": 124204,
+    "left": {
+      "bet_amount": 2493635,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Youmu konpaku",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1106033,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Yukkuri",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 115658661,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789276356893,
+    "duration": 111999,
+    "left": {
+      "bet_amount": 3150660,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Mahvel sean",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1093548,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Madoka kaname_ai",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 115625940,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
