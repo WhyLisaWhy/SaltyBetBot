@@ -303199,5 +303199,113 @@
     "sum": 115463577,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9336
+    },
+    "date": 1789295615902,
+    "duration": 124007,
+    "left": {
+      "bet_amount": 4579394,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Silver samurai",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1335475,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nyamo",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 115420595,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14033
+    },
+    "date": 1789295816093,
+    "duration": 139967,
+    "left": {
+      "bet_amount": 1251445,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Oyashirorika",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2666310,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Kenshiro-hell",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 115423313,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21509
+    },
+    "date": 1789295952294,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1573825,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Roy fe",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2090091,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Piccolo sb",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 115429865,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26230
+    },
+    "date": 1789296172295,
+    "duration": 165942,
+    "left": {
+      "bet_amount": 2785267,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Billy kane ffsp",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 953075,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Guile_a",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 115408356,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
