@@ -301174,5 +301174,113 @@
     "sum": 115668963,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41133
+    },
+    "date": 1789280418107,
+    "duration": 156014,
+    "left": {
+      "bet_amount": 2222293,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Unyuho",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1907062,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sigma x1",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 115641011,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28399
+    },
+    "date": 1789280548327,
+    "duration": 76033,
+    "left": {
+      "bet_amount": 1518419,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Boon",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2055102,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Mvc2 captain america",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 115599878,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26495
+    },
+    "date": 1789280742492,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 1417963,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Feilin",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2567225,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Hatchiyack",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 115620575,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29448
+    },
+    "date": 1789280922495,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 1976423,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Shishio",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1583287,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Darth vader",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 115667665,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
