@@ -303469,5 +303469,140 @@
     "sum": 115378471,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25547
+    },
+    "date": 1789297469497,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 1305934,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 3,
+      "name": "Aboras",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2246899,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mini caster",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 115443840,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21435
+    },
+    "date": 1789297609586,
+    "duration": 84093,
+    "left": {
+      "bet_amount": 1953597,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Hiryu EX2",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1706583,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gundam x",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 115458522,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29405
+    },
+    "date": 1789297829694,
+    "duration": 160167,
+    "left": {
+      "bet_amount": 1405210,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Haohmaru EX",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2168304,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Mark sein",
+      "normal_bettors": 18,
+      "win_streak": -7
+    },
+    "sum": 115477044,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789297969896,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 3683369,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Awakened morrigan",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ortega ex",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 115521488,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17817
+    },
+    "date": 1789298189888,
+    "duration": 153993,
+    "left": {
+      "bet_amount": 3190216,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Spiral mvc2",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1541237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Injya 1p",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 115521487,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
