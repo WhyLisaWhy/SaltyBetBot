@@ -302956,5 +302956,140 @@
     "sum": 115476554,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27166
+    },
+    "date": 1789293884694,
+    "duration": 146198,
+    "left": {
+      "bet_amount": 2712825,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Haohmaru",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1335393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Goro",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 115476555,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15343
+    },
+    "date": 1789294078695,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 2475026,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Deadpool EX",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1257258,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Iroha",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 115489795,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27997
+    },
+    "date": 1789294234891,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 1769817,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Hunter alpha",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1714401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sesame",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 115474452,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35705
+    },
+    "date": 1789294425091,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 1795843,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Happy.valentine",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1582941,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "God akuma",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 115446455,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21302
+    },
+    "date": 1789294599087,
+    "duration": 119991,
+    "left": {
+      "bet_amount": 1110926,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Pocket batman",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3227869,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ikkaku",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 115410750,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
