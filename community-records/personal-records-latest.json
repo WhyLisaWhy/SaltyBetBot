@@ -302875,5 +302875,59 @@
     "sum": 2353,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2524
+    },
+    "date": 1789292125299,
+    "duration": 100206,
+    "left": {
+      "bet_amount": 64882,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Coolseven",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 823491,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Iori clone-9",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 2524,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2723
+    },
+    "date": 1789292343295,
+    "duration": 158002,
+    "left": {
+      "bet_amount": 123886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "A-agito",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 871176,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Iori clone-9",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 2723,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
