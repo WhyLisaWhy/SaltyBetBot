@@ -299149,5 +299149,140 @@
     "sum": 115360750,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25212
+    },
+    "date": 1789264968296,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 7399706,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Sumireko",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1467321,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sol",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 115360751,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789265170492,
+    "duration": 148199,
+    "left": {
+      "bet_amount": 3661662,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Full power bojack",
+      "normal_bettors": 17,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1411233,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Undead jason voorhees",
+      "normal_bettors": 26,
+      "win_streak": -14
+    },
+    "sum": 115365734,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32423
+    },
+    "date": 1789265342496,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 2058857,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shaq",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2135685,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Monkey.d.luffy",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 115365735,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2129
+    },
+    "date": 1789265534692,
+    "duration": 129970,
+    "left": {
+      "bet_amount": 1571555,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ash",
+      "normal_bettors": 17,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5261579,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Blackmore",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 115333312,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24157
+    },
+    "date": 1789265724895,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 1050831,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chibi feilin",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3768485,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Sonson",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 115333948,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
