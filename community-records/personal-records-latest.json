@@ -306007,5 +306007,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2558
+    },
+    "date": 1789314370093,
+    "duration": 223797,
+    "left": {
+      "bet_amount": 450256,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Usada hikaru",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 589221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Maxima-xi",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 2558,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
