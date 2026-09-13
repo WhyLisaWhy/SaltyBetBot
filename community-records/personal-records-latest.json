@@ -309272,5 +309272,113 @@
     "sum": 115214136,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21004
+    },
+    "date": 1789339796294,
+    "duration": 84181,
+    "left": {
+      "bet_amount": 1462931,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Robinmask",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5220056,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kishimax EX2",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 115208183,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36417
+    },
+    "date": 1789339946304,
+    "duration": 90009,
+    "left": {
+      "bet_amount": 3710779,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Robo-ky EX",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1594593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Iron man z",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115214046,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25161
+    },
+    "date": 1789340172492,
+    "duration": 166196,
+    "left": {
+      "bet_amount": 4034198,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider gaim",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1355865,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pop",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 115229543,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25683
+    },
+    "date": 1789340376694,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 3505449,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Cir-el",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2001150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hellbat schilt",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 115204382,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
