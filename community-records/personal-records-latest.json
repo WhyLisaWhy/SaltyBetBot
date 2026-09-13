@@ -299392,5 +299392,86 @@
     "sum": 115444149,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19229
+    },
+    "date": 1789266680896,
+    "duration": 55198,
+    "left": {
+      "bet_amount": 3918282,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Enegori",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1794179,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zonu",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 115485572,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789267116094,
+    "duration": 170197,
+    "left": {
+      "bet_amount": 101291,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sekibanki",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 105528,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Vise",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789267386292,
+    "duration": 214198,
+    "left": {
+      "bet_amount": 233469,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Eve b.c",
+      "normal_bettors": 45,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63754,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sentry ex",
+      "normal_bettors": 14,
+      "win_streak": -10
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
