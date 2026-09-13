@@ -302524,5 +302524,113 @@
     "sum": 115502581,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789289130897,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 51271,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Heidiorn",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 106205,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Bane's a big guy",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789289337094,
+    "duration": 146202,
+    "left": {
+      "bet_amount": 69497,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Matsumura karate",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128293,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "God rugal-kofm",
+      "normal_bettors": 27,
+      "win_streak": -7
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789289571292,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 79215,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Johnny blaze",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 129850,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "A-agito",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2485
+    },
+    "date": 1789289871493,
+    "duration": 240200,
+    "left": {
+      "bet_amount": 131735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nokia 3310",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110118,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Nakozuki ruruko",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 2485,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
