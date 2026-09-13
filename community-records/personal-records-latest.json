@@ -302281,5 +302281,140 @@
     "sum": 115545189,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 453
+    },
+    "date": 1789287457700,
+    "duration": 104208,
+    "left": {
+      "bet_amount": 1757022,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "May lee",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2690383,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Tewi?",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 115496748,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14384
+    },
+    "date": 1789287679692,
+    "duration": 161999,
+    "left": {
+      "bet_amount": 4216429,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Antlar",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1205915,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bloo",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 115496295,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20644
+    },
+    "date": 1789287869893,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 1902404,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Rock EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1794797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Misuzu EX",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 115500395,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34602
+    },
+    "date": 1789288046095,
+    "duration": 122203,
+    "left": {
+      "bet_amount": 3400797,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Darun mister",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1334095,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Etomo shuko EX3",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "sum": 115479751,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4250
+    },
+    "date": 1789288180095,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 4308277,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Teoc reisen",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1150493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chain combo orochi head",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115445149,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
