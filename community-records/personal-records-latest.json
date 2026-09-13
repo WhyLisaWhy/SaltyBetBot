@@ -304360,5 +304360,86 @@
     "sum": 115503235,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27414
+    },
+    "date": 1789303107895,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 1659440,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Blossom DG",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2604788,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Sailor mercury crystal",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 115511626,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789303297896,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1826437,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Varnage",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1406853,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Snakeeyes",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 115553958,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17355
+    },
+    "date": 1789303498099,
+    "duration": 144007,
+    "left": {
+      "bet_amount": 3110548,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Kamitsurugi",
+      "normal_bettors": 22,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1187719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "F-k",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 115553960,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
