@@ -299473,5 +299473,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1971
+    },
+    "date": 1789267636291,
+    "duration": 193997,
+    "left": {
+      "bet_amount": 58048,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kishimax",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 281800,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Tiger mask 0d",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 1971,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789267852490,
+    "duration": 155996,
+    "left": {
+      "bet_amount": 179353,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Nono",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107794,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Morrigan EX",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2474
+    },
+    "date": 1789268118691,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 124014,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Neo geegus",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 232257,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Orochi-takashi",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 2474,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3782
+    },
+    "date": 1789268473096,
+    "duration": 294204,
+    "left": {
+      "bet_amount": 64647,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Imouto EX3",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 327101,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Rei akof",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 3782,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
