@@ -299689,5 +299689,86 @@
     "sum": 3732,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3939
+    },
+    "date": 1789269565958,
+    "duration": 180252,
+    "left": {
+      "bet_amount": 499409,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Orochi-takashi",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Imouto EX3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 3939,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789269870095,
+    "duration": 244120,
+    "left": {
+      "bet_amount": 170384,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rindou",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 565058,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Minato arisato",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789270060291,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 495557,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Eve b.c",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 285403,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Nono",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
