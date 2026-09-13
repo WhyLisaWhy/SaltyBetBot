@@ -309137,5 +309137,140 @@
     "sum": 3704,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25635
+    },
+    "date": 1789339099693,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2590568,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Anaroguma",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1507261,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sion's bizarre adventure",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 115250474,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 963
+    },
+    "date": 1789339209695,
+    "duration": 54001,
+    "left": {
+      "bet_amount": 1554633,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kirin",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3097024,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Igdrasil munchausen",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115224839,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24189
+    },
+    "date": 1789339309901,
+    "duration": 70005,
+    "left": {
+      "bet_amount": 1835044,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Suicider raoh",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1456533,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Angelia",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 115225323,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38602
+    },
+    "date": 1789339486095,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 4410331,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Meu(you-ki)",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1498396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ex snow",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 115201134,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5953
+    },
+    "date": 1789339650092,
+    "duration": 103996,
+    "left": {
+      "bet_amount": 4311348,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Ka(sa)in r. heinlein",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2265278,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dante must die",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 115214136,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
