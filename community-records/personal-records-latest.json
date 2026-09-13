@@ -303091,5 +303091,113 @@
     "sum": 115410750,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41281
+    },
+    "date": 1789294855294,
+    "duration": 199998,
+    "left": {
+      "bet_amount": 2100517,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Honoka",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1404744,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shampoo",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 115418034,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789295055495,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 3026298,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Gn-pioneer",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286296,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eriol hiiragizawa",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 115445110,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24041
+    },
+    "date": 1789295295692,
+    "duration": 184200,
+    "left": {
+      "bet_amount": 2004386,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "VanillaIce",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1558190,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rainbow mika",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 115445109,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42982
+    },
+    "date": 1789295435897,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 2541741,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Sahaquiel",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1633921,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Uzume",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 115463577,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
