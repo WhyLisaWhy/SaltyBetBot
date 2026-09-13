@@ -300877,5 +300877,140 @@
     "sum": 115677861,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789278518693,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 3336554,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Condor heads",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1369402,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Chin taimei",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 115677946,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789278674896,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 1972438,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dann of thursday",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2930897,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Ayame_ai",
+      "normal_bettors": 19,
+      "win_streak": 8
+    },
+    "sum": 115677947,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24305
+    },
+    "date": 1789278804891,
+    "duration": 69995,
+    "left": {
+      "bet_amount": 2702795,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Iori yagami 96",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1525093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Luigi wins by doing absolutely nothing",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 115677946,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39798
+    },
+    "date": 1789279021093,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 1340539,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Stewie griffin",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2138402,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Ghetto Warmachine 420",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 115653641,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30280
+    },
+    "date": 1789279171294,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 1306058,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Snipe lv2",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2604866,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Miyako(coh)",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 115678135,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
