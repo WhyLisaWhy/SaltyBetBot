@@ -315401,5 +315401,86 @@
     "sum": 115575670,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23094
+    },
+    "date": 1789383035694,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 3541393,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Bowser mythos",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Fix-it felix",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 115578052,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37479
+    },
+    "date": 1789383195894,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1157249,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Fio germi",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4479999,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "God orochi",
+      "normal_bettors": 28,
+      "win_streak": 13
+    },
+    "sum": 115585884,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789383366093,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 2899343,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Double_sword",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1154488,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Chaka EX3",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 115595486,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
