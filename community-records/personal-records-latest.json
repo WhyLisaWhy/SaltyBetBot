@@ -316346,5 +316346,140 @@
     "sum": 115802363,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16292
+    },
+    "date": 1789389134494,
+    "duration": 119993,
+    "left": {
+      "bet_amount": 2393527,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rasetsumaru",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1687935,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Klonoa",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 115810878,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25530
+    },
+    "date": 1789389320696,
+    "duration": 130208,
+    "left": {
+      "bet_amount": 3525983,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Kurokami medaka",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1033446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Urban champion",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 115794586,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16939
+    },
+    "date": 1789389454697,
+    "duration": 73978,
+    "left": {
+      "bet_amount": 4892818,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Nobuko(emanon)",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1153962,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "T.a.c.",
+      "normal_bettors": 5,
+      "win_streak": 3
+    },
+    "sum": 115802015,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5214
+    },
+    "date": 1789389585009,
+    "duration": 74111,
+    "left": {
+      "bet_amount": 1261719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cammy EX3",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3798023,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Tetsuo k9999",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 115805997,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 319
+    },
+    "date": 1789389715095,
+    "duration": 70200,
+    "left": {
+      "bet_amount": 3486288,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Sleeping nayuki",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1033699,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Grand dad",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "sum": 115807727,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
