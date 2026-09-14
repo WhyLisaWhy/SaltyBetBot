@@ -320988,5 +320988,59 @@
     "sum": 116108843,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789421035493,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 102366,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kouma kishima iqs",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93117,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kyoudou senna",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789421235695,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 209081,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "P-silver",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 73076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Arrange mukuro",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
