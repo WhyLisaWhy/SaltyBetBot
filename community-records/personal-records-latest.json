@@ -310487,5 +310487,113 @@
     "sum": 115051123,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17663
+    },
+    "date": 1789347133893,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1435707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lenalee-mvc EX3",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8454615,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Sparq",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 115041993,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 45873
+    },
+    "date": 1789347283891,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 2463726,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Jagi",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1620124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Morgiana EX2",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 115024330,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21990
+    },
+    "date": 1789347464105,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 1392027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jill ex",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3594891,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Bristol weller",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 114978457,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789347600294,
+    "duration": 76196,
+    "left": {
+      "bet_amount": 885398,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kusanagi-sp",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5280885,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Marian",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 114986921,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
