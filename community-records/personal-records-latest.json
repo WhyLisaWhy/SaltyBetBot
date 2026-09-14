@@ -312134,5 +312134,59 @@
     "sum": 110355,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29272
+    },
+    "date": 1789358716892,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 500083,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Guts",
+      "normal_bettors": 32,
+      "win_streak": 11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "May(ac)",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 117089,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42014
+    },
+    "date": 1789358918294,
+    "duration": 151403,
+    "left": {
+      "bet_amount": 549514,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Alter wind",
+      "normal_bettors": 24,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 390739,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "May(ac)",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 87817,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
