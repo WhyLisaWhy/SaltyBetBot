@@ -318263,5 +318263,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4273
+    },
+    "date": 1789401900695,
+    "duration": 130205,
+    "left": {
+      "bet_amount": 859858,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Babyd!",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 457050,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Soul aino",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 4273,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6534
+    },
+    "date": 1789402060693,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 188499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "D4 makoto kikuchi",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 905529,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Condor heads",
+      "normal_bettors": 21,
+      "win_streak": 10
+    },
+    "sum": 6534,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
