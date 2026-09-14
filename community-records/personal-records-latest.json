@@ -311162,5 +311162,167 @@
     "sum": 115029400,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26314
+    },
+    "date": 1789351369095,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1803782,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gyakutai-ojisan",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2442260,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Mary",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 115041970,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14099
+    },
+    "date": 1789351509297,
+    "duration": 84202,
+    "left": {
+      "bet_amount": 3144715,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "9",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1056059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "White glint",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "sum": 115077086,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5112
+    },
+    "date": 1789351759494,
+    "duration": 194201,
+    "left": {
+      "bet_amount": 1356743,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Hory marlu",
+      "normal_bettors": 9,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3380112,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Zako-c",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 115081800,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3301
+    },
+    "date": 1789351895495,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 3595033,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "K9999-kofm",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "True lotus master",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 115076688,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9274
+    },
+    "date": 1789352041698,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 1392337,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sheen",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3309038,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Zill",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 115073387,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37276
+    },
+    "date": 1789352201694,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 3089464,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Rinne churchyard",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1112379,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Lady",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 115077279,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
