@@ -310163,5 +310163,140 @@
     "sum": 115087026,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789345050295,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 1237562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lf2 - bat",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2747403,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Ayane_ikuse EX",
+      "normal_bettors": 20,
+      "win_streak": -8
+    },
+    "sum": 115106488,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23861
+    },
+    "date": 1789345230493,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 6950379,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Goku-kofm",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1420393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Double",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 115106487,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 45781
+    },
+    "date": 1789345430490,
+    "duration": 139996,
+    "left": {
+      "bet_amount": 3605366,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Taiga aisaka EX7",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2387715,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tony won",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115111347,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22014
+    },
+    "date": 1789345614695,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 1357686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Magic nanaya+ huunsaiki ex",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2928166,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Tora-san",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 115141287,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6508
+    },
+    "date": 1789345760694,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 1211284,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Samchay ex",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3491266,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "R-series",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 115119273,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
