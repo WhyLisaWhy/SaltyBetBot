@@ -314321,5 +314321,113 @@
     "sum": 115520485,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28017
+    },
+    "date": 1789374046692,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 1722812,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Rio hinayama",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1970646,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Karis arteria",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 115523350,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27968
+    },
+    "date": 1789374226895,
+    "duration": 120189,
+    "left": {
+      "bet_amount": 2270530,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mekazawa-sama",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1963041,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Ebisumaru",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 115495333,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36429
+    },
+    "date": 1789374487095,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 1122303,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Moriah the thief",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3054979,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Half-french sephiroth",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 115467365,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23229
+    },
+    "date": 1789374627094,
+    "duration": 85994,
+    "left": {
+      "bet_amount": 1892022,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mvsn nose-blood",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3102416,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kagami EX2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 115480591,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
