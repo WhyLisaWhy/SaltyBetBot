@@ -312188,5 +312188,32 @@
     "sum": 87817,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27953
+    },
+    "date": 1789360247895,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 2896707,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Pororo",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1133471,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ohga",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 115122405,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
