@@ -319854,5 +319854,86 @@
     "sum": 116124048,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27882
+    },
+    "date": 1789413603695,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 2843725,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Demon king dhaos",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1258537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Space zero",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 116132825,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789413803894,
+    "duration": 146167,
+    "left": {
+      "bet_amount": 1163441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Valdoll",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2529798,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Gundam exia",
+      "normal_bettors": 25,
+      "win_streak": -8
+    },
+    "sum": 116145045,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789413969893,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 1156751,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Videl dbz",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4833891,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Skapon",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 116145044,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
