@@ -314969,5 +314969,113 @@
     "sum": 3748,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9722
+    },
+    "date": 1789378462094,
+    "duration": 324201,
+    "left": {
+      "bet_amount": 245348,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Bloodtide",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61312,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The tick",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 9722,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789378752296,
+    "duration": 234204,
+    "left": {
+      "bet_amount": 100901,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Pikopiko EX3",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225644,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Chartette",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789378918496,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 58585,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sabotage",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 266187,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "King godzilla",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8412
+    },
+    "date": 1789379128699,
+    "duration": 150204,
+    "left": {
+      "bet_amount": 292045,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Beastman.exe",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124175,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lyzer spinel",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 8412,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
