@@ -310595,5 +310595,113 @@
     "sum": 114986921,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34628
+    },
+    "date": 1789347824296,
+    "duration": 170004,
+    "left": {
+      "bet_amount": 1684197,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Roppen heimer EX FF",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1995050,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Light the hedgehog",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 114986922,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24337
+    },
+    "date": 1789347964494,
+    "duration": 85996,
+    "left": {
+      "bet_amount": 1606199,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cci kim",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3749651,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Onpu segawa",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 114952294,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16139
+    },
+    "date": 1789348174693,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 2514205,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Chloe heartfield",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1497766,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cpt.falcon",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 114962652,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15077
+    },
+    "date": 1789348324697,
+    "duration": 94004,
+    "left": {
+      "bet_amount": 1530828,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tokiko",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2470347,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Sf1 evil ryu",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 114972206,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
