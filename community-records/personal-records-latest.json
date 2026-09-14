@@ -313592,5 +313592,113 @@
     "sum": 115522707,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1239
+    },
+    "date": 1789369403098,
+    "duration": 170209,
+    "left": {
+      "bet_amount": 1501089,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rick",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3629381,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Super sayajin 4",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 115522708,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29178
+    },
+    "date": 1789369569090,
+    "duration": 106003,
+    "left": {
+      "bet_amount": 2274378,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Fernandeath",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1445959,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ness EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115523221,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12983
+    },
+    "date": 1789369753290,
+    "duration": 123997,
+    "left": {
+      "bet_amount": 1151944,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lucifer EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2308571,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Kongou",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115494043,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38858
+    },
+    "date": 1789369919488,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 2481245,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "New kiwami",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1247344,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "K'-kofm",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "sum": 115481060,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
