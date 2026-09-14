@@ -318857,5 +318857,138 @@
     "sum": 115892661,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24582
+    },
+    "date": 1789407262895,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 1987743,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Bridget(ac)",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1118819,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Brogal",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 115910730,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42333
+    },
+    "date": 1789407453095,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 1775393,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Cirno",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1225583,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Asagi kun",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 115953465,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20807
+    },
+    "date": 1789407583098,
+    "duration": 74003,
+    "left": {
+      "bet_amount": 1217069,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Reptile umk3",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3427417,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Jill",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 115982008,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13847
+    },
+    "date": 1789407749318,
+    "duration": 106218,
+    "left": {
+      "bet_amount": 1495258,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Astranalent ex",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4237755,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Bike myson sr.",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 115989352,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1789407869295,
+    "duration": 59998,
+    "left": {
+      "bet_amount": 2160743,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Inubisu",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1309384,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cci xiangfei",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 115989352,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
