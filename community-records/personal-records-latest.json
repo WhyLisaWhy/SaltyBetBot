@@ -311810,5 +311810,86 @@
     "sum": 115122631,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789355772492,
+    "duration": 180202,
+    "left": {
+      "bet_amount": 38976,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Heaven ascension dio",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127546,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Blue eyes white karin",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2018
+    },
+    "date": 1789356162895,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 165078,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Alter wind",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 69447,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ness EX3",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 2018,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2857
+    },
+    "date": 1789356417093,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 60936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hakureimu",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 224410,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Haizilyo",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 2857,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
