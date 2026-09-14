@@ -311486,5 +311486,86 @@
     "sum": 115013347,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25222
+    },
+    "date": 1789353378693,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 2334916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Necrosis",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1923293,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Egith",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 115015593,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23655
+    },
+    "date": 1789353562900,
+    "duration": 124204,
+    "left": {
+      "bet_amount": 2174421,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Erdrick, the generic anime swordsman",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1457286,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ace in the hole",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 114990371,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17808
+    },
+    "date": 1789353762894,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 1256378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rolento f. schugerg",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2124480,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Harman",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 115006054,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
