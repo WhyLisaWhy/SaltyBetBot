@@ -315266,5 +315266,32 @@
     "sum": 1664,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1817
+    },
+    "date": 1789381122896,
+    "duration": 246803,
+    "left": {
+      "bet_amount": 530620,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Evil q",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 309097,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Beastman.exe",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 1817,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
