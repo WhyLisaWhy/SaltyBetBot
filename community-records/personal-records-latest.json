@@ -311702,5 +311702,113 @@
     "sum": 115158837,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19209
+    },
+    "date": 1789354789692,
+    "duration": 123999,
+    "left": {
+      "bet_amount": 2474393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kam'lanaut",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2434710,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Cute syakoya",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 115158836,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16995
+    },
+    "date": 1789354935894,
+    "duration": 85992,
+    "left": {
+      "bet_amount": 1692198,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Master krauser",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2247900,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Satsujinki",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 115139627,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789355116094,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 3200580,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Ryogi_exvs",
+      "normal_bettors": 25,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1303065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Spin akuma",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 115122632,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46028
+    },
+    "date": 1789355316093,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 3347371,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Luna papa",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1354598,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Valdoll",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 115122631,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
