@@ -310892,5 +310892,113 @@
     "sum": 114944985,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1327
+    },
+    "date": 1789349691893,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 3437366,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Keeper of k",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1410146,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Av-8 harrier",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 114951716,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789349948094,
+    "duration": 76200,
+    "left": {
+      "bet_amount": 1113362,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Advent cloud",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3643277,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Boss sagat",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 114950389,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23460
+    },
+    "date": 1789350142101,
+    "duration": 134004,
+    "left": {
+      "bet_amount": 1088464,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lucifer",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2502847,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "H_witch",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 114950388,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22153
+    },
+    "date": 1789350282292,
+    "duration": 79979,
+    "left": {
+      "bet_amount": 1115788,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sailor mars EX2",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2416104,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Kendo&kyudo",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 114960496,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
