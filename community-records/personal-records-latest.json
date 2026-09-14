@@ -315806,5 +315806,113 @@
     "sum": 115719256,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21850
+    },
+    "date": 1789385583693,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 1737535,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Goenitz rotd(shao)",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1732912,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Jin EX",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115754264,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30602
+    },
+    "date": 1789385833905,
+    "duration": 90010,
+    "left": {
+      "bet_amount": 2866203,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Element ma",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1149696,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Younger link",
+      "normal_bettors": 5,
+      "win_streak": -5
+    },
+    "sum": 115732414,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789386010093,
+    "duration": 116186,
+    "left": {
+      "bet_amount": 2851554,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Nameless 02",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1298190,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Frostman",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 115744560,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789386170294,
+    "duration": 106198,
+    "left": {
+      "bet_amount": 1828044,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yuri sakazaki EX3",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1605278,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Sf2 sean",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 115744563,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
