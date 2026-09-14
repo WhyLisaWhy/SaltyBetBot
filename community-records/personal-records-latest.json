@@ -321285,5 +321285,86 @@
     "sum": 3462,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4321
+    },
+    "date": 1789423343295,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 94060,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lunatic kaguya",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 631561,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 26,
+      "name": "Dhaos RD",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 4321,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4961
+    },
+    "date": 1789423509494,
+    "duration": 106189,
+    "left": {
+      "bet_amount": 374456,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "P-silver",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 304820,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Dhalsim EX9",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 4961,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8947
+    },
+    "date": 1789423689496,
+    "duration": 119994,
+    "left": {
+      "bet_amount": 753310,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Regular ass chizuru",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 154969,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Dhaos RD",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 8947,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
