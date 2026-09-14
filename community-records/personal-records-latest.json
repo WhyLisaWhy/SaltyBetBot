@@ -321366,5 +321366,32 @@
     "sum": 8947,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789423986533,
+    "duration": 243031,
+    "left": {
+      "bet_amount": 421700,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "P-silver",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 646912,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 22,
+      "name": "Dhaos RD",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
