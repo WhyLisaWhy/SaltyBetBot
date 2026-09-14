@@ -317561,5 +317561,86 @@
     "sum": 115883866,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789396566499,
+    "duration": 216204,
+    "left": {
+      "bet_amount": 1520060,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Mettaton",
+      "normal_bettors": 16,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2977856,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Yuuki terumi",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 115892850,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2673
+    },
+    "date": 1789396822694,
+    "duration": 196198,
+    "left": {
+      "bet_amount": 4506709,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Lf2 - rudolf",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1183054,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zoma ga",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "sum": 115892849,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18573
+    },
+    "date": 1789397022693,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1845207,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kanon EX3",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3684459,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Gouken sf3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 115893551,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
