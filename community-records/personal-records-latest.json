@@ -312215,5 +312215,140 @@
     "sum": 115122405,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17762
+    },
+    "date": 1789360394094,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 1430881,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Fang",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2346771,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Jun",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 115133239,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18897
+    },
+    "date": 1789360580094,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 988692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ramda EX3",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2596950,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Devil_daigo EX",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 115115477,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13517
+    },
+    "date": 1789360724294,
+    "duration": 83996,
+    "left": {
+      "bet_amount": 4639513,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Konpaku youkumo",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 809569,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zodd",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 115122620,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36166
+    },
+    "date": 1789360884496,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 1666775,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Mythos zero",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1787208,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rouge the bat",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 115124972,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25415
+    },
+    "date": 1789361054492,
+    "duration": 113995,
+    "left": {
+      "bet_amount": 1699824,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Adatubomi",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2178218,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Sakura EX3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 115088806,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
