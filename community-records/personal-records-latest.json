@@ -319395,5 +319395,140 @@
     "sum": 116154949,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28199
+    },
+    "date": 1789410849701,
+    "duration": 106207,
+    "left": {
+      "bet_amount": 1454619,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Apocalypse",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2386370,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Toki 2",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 116175524,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11783
+    },
+    "date": 1789411029693,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 3444125,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Haohmaru-kofm",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1291127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maraiah",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 116220906,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7471
+    },
+    "date": 1789411239893,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 3575170,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Marvin the martian",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1237669,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zeruel",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 116225309,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789411363890,
+    "duration": 63996,
+    "left": {
+      "bet_amount": 2244662,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Tenshi baiken",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1918911,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gulool ja ja",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 116227890,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17767
+    },
+    "date": 1789411600093,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 2441786,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Parsee",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1931630,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ex-kyo(jin-typea)",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 116227889,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
