@@ -315293,5 +315293,113 @@
     "sum": 1817,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 618
+    },
+    "date": 1789382499294,
+    "duration": 95995,
+    "left": {
+      "bet_amount": 5233255,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Rei chibi",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1016979,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Yamazaki sk",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 115489006,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17647
+    },
+    "date": 1789382629496,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 3671583,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Rainbow meiling",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1141884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The root pack",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 115489127,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40586
+    },
+    "date": 1789382753496,
+    "duration": 69993,
+    "left": {
+      "bet_amount": 2737360,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Ken masters xi",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1329658,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kokesz",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 115494590,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10148
+    },
+    "date": 1789382905694,
+    "duration": 90191,
+    "left": {
+      "bet_amount": 1269170,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ryu-hou",
+      "normal_bettors": 5,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5397814,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Gonzales",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "sum": 115575670,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
