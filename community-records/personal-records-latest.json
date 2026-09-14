@@ -320718,5 +320718,140 @@
     "sum": 116149577,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23120
+    },
+    "date": 1789419017895,
+    "duration": 86204,
+    "left": {
+      "bet_amount": 4343041,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 18,
+      "name": "Ultimate gohan",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1216136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Another igniz EX2",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 116149725,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789419188094,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 4209359,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Sylveon_var1",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1135921,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tia langray",
+      "normal_bettors": 4,
+      "win_streak": -7
+    },
+    "sum": 116156165,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789419318095,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 1198511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ray mcdogall",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2847808,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Bristol-d",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 116156166,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789419508294,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 2509843,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Yuzuki yukari",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1627899,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 116156167,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 901
+    },
+    "date": 1789419622308,
+    "duration": 54012,
+    "left": {
+      "bet_amount": 1224076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Prinny asagi dood",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 15371505,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Cyclone_nobita",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 116156166,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
