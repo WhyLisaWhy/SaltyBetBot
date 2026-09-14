@@ -311567,5 +311567,140 @@
     "sum": 115006054,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27975
+    },
+    "date": 1789353909098,
+    "duration": 90004,
+    "left": {
+      "bet_amount": 1793821,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Big volfogg",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1651560,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shiki",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 115016498,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27910
+    },
+    "date": 1789354059095,
+    "duration": 90004,
+    "left": {
+      "bet_amount": 1182458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ortega ex",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3018530,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Hato sabure",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 115046377,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26130
+    },
+    "date": 1789354279293,
+    "duration": 159974,
+    "left": {
+      "bet_amount": 1004311,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Dt",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3296833,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Touko matsudaira",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 115057211,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34134
+    },
+    "date": 1789354459501,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 1368927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nonon jakuzure",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2558474,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Nightmare geese",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 115140813,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789354609696,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 4040203,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Adon sfa",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1631490,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Marco EX",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 115158837,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
