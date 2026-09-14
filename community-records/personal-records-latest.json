@@ -311891,5 +311891,113 @@
     "sum": 2857,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3624
+    },
+    "date": 1789356643292,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 35581,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "John constantine",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 288087,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Anita msh",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 3624,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4067
+    },
+    "date": 1789357013491,
+    "duration": 310194,
+    "left": {
+      "bet_amount": 68661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Trapsatoko",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287686,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Guts",
+      "normal_bettors": 32,
+      "win_streak": 9
+    },
+    "sum": 4067,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5025
+    },
+    "date": 1789357243694,
+    "duration": 170171,
+    "left": {
+      "bet_amount": 186208,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "May(ac)",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 234159,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Igniz scarlet",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 5025,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11178
+    },
+    "date": 1789357463894,
+    "duration": 164194,
+    "left": {
+      "bet_amount": 230486,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Deluxe lin",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 273076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Ogre akuma",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 11178,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
