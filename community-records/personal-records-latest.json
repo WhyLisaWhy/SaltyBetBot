@@ -315698,5 +315698,113 @@
     "sum": 115689354,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1634
+    },
+    "date": 1789384843098,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 1102954,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ruby rose",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4084698,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Toguro 101%",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 115699445,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18524
+    },
+    "date": 1789385027294,
+    "duration": 123988,
+    "left": {
+      "bet_amount": 1838428,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Omega red mvc2",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1774246,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Scarlet devil",
+      "normal_bettors": 16,
+      "win_streak": 6
+    },
+    "sum": 115699887,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3839
+    },
+    "date": 1789385227493,
+    "duration": 144195,
+    "left": {
+      "bet_amount": 1311463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rascal",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3012262,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Ragna the bloodedge",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 115717586,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19366
+    },
+    "date": 1789385429698,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 3534331,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Princess nausicaa",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1935836,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Anji",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 115719256,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
