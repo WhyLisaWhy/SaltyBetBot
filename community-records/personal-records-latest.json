@@ -321042,5 +321042,140 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2088
+    },
+    "date": 1789421625896,
+    "duration": 326203,
+    "left": {
+      "bet_amount": 148234,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Willard h. wright",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 135726,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Satsujinki EX3",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 2088,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3974
+    },
+    "date": 1789421822091,
+    "duration": 136192,
+    "left": {
+      "bet_amount": 35935,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gundam epyon",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 368210,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Dhalsim EX9",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 3974,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4358
+    },
+    "date": 1789422006311,
+    "duration": 124218,
+    "left": {
+      "bet_amount": 383680,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Igniz scarlet",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 35404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kaen",
+      "normal_bettors": 11,
+      "win_streak": -10
+    },
+    "sum": 4358,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4756
+    },
+    "date": 1789422162294,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 36608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Samus aran",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 406812,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Regular ass chizuru",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 4756,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5180
+    },
+    "date": 1789422392494,
+    "duration": 160001,
+    "left": {
+      "bet_amount": 154766,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Lunatic kaguya",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 302474,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kamen rider double",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 5180,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
