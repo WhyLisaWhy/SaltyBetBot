@@ -314861,5 +314861,113 @@
     "sum": 115485301,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10761
+    },
+    "date": 1789377294493,
+    "duration": 69400,
+    "left": {
+      "bet_amount": 4985954,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Rubette EX2",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1102132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black panther",
+      "normal_bettors": 5,
+      "win_streak": -12
+    },
+    "sum": 115485085,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789377691493,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 86826,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Frank west",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 79579,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Cocoa",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2946
+    },
+    "date": 1789377889692,
+    "duration": 138197,
+    "left": {
+      "bet_amount": 178167,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Evil q",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 49268,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Greninja",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 2946,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3748
+    },
+    "date": 1789378081895,
+    "duration": 140195,
+    "left": {
+      "bet_amount": 142504,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Thonolan",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85659,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Tizoc",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 3748,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
