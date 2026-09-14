@@ -318047,5 +318047,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2358
+    },
+    "date": 1789400167294,
+    "duration": 156197,
+    "left": {
+      "bet_amount": 173682,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "D4 makoto kikuchi",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 455147,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 22,
+      "name": "Another unknown",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 2358,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789400367497,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 391237,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Yu narukami",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 325792,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gen shougo",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789400583697,
+    "duration": 162203,
+    "left": {
+      "bet_amount": 311980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 25,
+      "name": "Belial",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 632045,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "2b",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
