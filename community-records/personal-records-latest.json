@@ -319152,5 +319152,113 @@
     "sum": 115999334,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42936
+    },
+    "date": 1789409182293,
+    "duration": 212194,
+    "left": {
+      "bet_amount": 3057867,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Pulseman",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1384766,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Earth-suika",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 116005182,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9521
+    },
+    "date": 1789409322495,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 1933245,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Miss x",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1705258,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sa-tan",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 116097143,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31028
+    },
+    "date": 1789409512494,
+    "duration": 135998,
+    "left": {
+      "bet_amount": 2953066,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Manute",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1588768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Super-8-k",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 116105501,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23038
+    },
+    "date": 1789409656699,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 1210656,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Juggernaut msh",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5601515,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Akiha tohno EX",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 116074473,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
