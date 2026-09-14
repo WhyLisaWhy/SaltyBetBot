@@ -317237,5 +317237,140 @@
     "sum": 115808591,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 526
+    },
+    "date": 1789394542894,
+    "duration": 124197,
+    "left": {
+      "bet_amount": 1062840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Zankuro ex",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3074634,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Satsujinki",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115829802,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789394692894,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1161693,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sokaku mochizuki rb2",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5634114,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Heidern_ex",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 115829276,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31945
+    },
+    "date": 1789394863104,
+    "duration": 114011,
+    "left": {
+      "bet_amount": 2021917,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Sailor mars EX2",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2014694,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Pikachu sumin",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 115829277,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789395029296,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 1401148,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sakagami tomoyo",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3442248,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Shoto rockman x",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 115860837,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2895
+    },
+    "date": 1789395189295,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1346398,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Erisnomia",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2212646,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Elpizo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 115860840,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
