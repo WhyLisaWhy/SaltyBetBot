@@ -327599,5 +327599,32 @@
     "sum": 21661,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45314
+    },
+    "date": 1789475712894,
+    "duration": 337002,
+    "left": {
+      "bet_amount": 949185,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Hauzer",
+      "normal_bettors": 14,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 246127,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mazinger-zero",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "sum": 45314,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
