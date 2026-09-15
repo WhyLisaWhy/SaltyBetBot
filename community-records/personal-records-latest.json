@@ -331892,5 +331892,113 @@
     "sum": 115747505,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3111
+    },
+    "date": 1789506364298,
+    "duration": 93933,
+    "left": {
+      "bet_amount": 1190172,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Pupa",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8786421,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Another unknown",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 115724435,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17159
+    },
+    "date": 1789506530493,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 5863327,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Igniz scarlet",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1426727,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Q-bee soul",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115721324,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9011
+    },
+    "date": 1789506680499,
+    "duration": 95942,
+    "left": {
+      "bet_amount": 4874804,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Getsufuma",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1484349,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Grievous",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 115725488,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11741
+    },
+    "date": 1789506796695,
+    "duration": 55998,
+    "left": {
+      "bet_amount": 2014599,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "C-grant",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4144136,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Nuclear ralf",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 115728227,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
