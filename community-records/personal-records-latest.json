@@ -326251,5 +326251,140 @@
     "sum": 115621012,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789465778293,
+    "duration": 77992,
+    "left": {
+      "bet_amount": 4115733,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Kangaru",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 998259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mukuro EX",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "sum": 115590262,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23092
+    },
+    "date": 1789465960496,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 2193606,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Cecilia",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2251192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Octor",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 115590263,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 48487
+    },
+    "date": 1789466142506,
+    "duration": 122010,
+    "left": {
+      "bet_amount": 1344145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mr_shihan",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2196869,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Brunestud arcueid",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 115613715,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13960
+    },
+    "date": 1789466306692,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1415194,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Reisen-deadpool-inaba",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2688239,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Z-ukyo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 115642741,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789466442899,
+    "duration": 80205,
+    "left": {
+      "bet_amount": 4131257,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Rin EX4",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092656,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Samus",
+      "normal_bettors": 4,
+      "win_streak": -3
+    },
+    "sum": 115650053,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
