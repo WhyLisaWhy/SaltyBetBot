@@ -325738,5 +325738,113 @@
     "sum": 115681499,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 910
+    },
+    "date": 1789462165496,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 1848672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Soda popinski",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2490277,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Gouki sf3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 115666252,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19975
+    },
+    "date": 1789462305493,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 1485405,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Miku_tt",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3147344,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Fygar",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 115665342,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 950
+    },
+    "date": 1789462455698,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 2847736,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Suiseiseki",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1741107,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Senga jaguar",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 115645367,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31555
+    },
+    "date": 1789462615894,
+    "duration": 104197,
+    "left": {
+      "bet_amount": 1849538,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Umaibou nadeko",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2007302,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Natsumi andou",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 115645948,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
