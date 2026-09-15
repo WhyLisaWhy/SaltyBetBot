@@ -329273,5 +329273,140 @@
     "sum": 115621012,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17919
+    },
+    "date": 1789487501495,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 2119390,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sarashina",
+      "normal_bettors": 10,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3480326,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kunagi-f.o",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 115625772,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24370
+    },
+    "date": 1789487665494,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 2839661,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Kyo clone-10 ex",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1597760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hyper neo-kamek",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115636629,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29680
+    },
+    "date": 1789487841696,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 2304715,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Claire farron",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1885939,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Resistance",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115650225,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26606
+    },
+    "date": 1789487971693,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 1433969,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kimoharuka",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4726924,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Zangief sf4",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 115674204,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17841
+    },
+    "date": 1789488115895,
+    "duration": 83971,
+    "left": {
+      "bet_amount": 2559032,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Darkness-of-red",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1589795,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rock(mkii)",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 115647598,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
