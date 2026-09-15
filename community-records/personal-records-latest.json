@@ -323769,5 +323769,113 @@
     "sum": 115939688,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34794
+    },
+    "date": 1789444217493,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 3802283,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Arcueid_brunestud",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1884242,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Deathvoice-shogun",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 115920197,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26444
+    },
+    "date": 1789444341697,
+    "duration": 64004,
+    "left": {
+      "bet_amount": 1394071,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cyber smoke umk3",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2681771,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Kim EX",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 115885403,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3302
+    },
+    "date": 1789444577899,
+    "duration": 180203,
+    "left": {
+      "bet_amount": 2622479,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Y.u.p.i.a.",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5455476,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kaptain k.rool",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 115858959,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789444737896,
+    "duration": 106003,
+    "left": {
+      "bet_amount": 4315096,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Ryu Evil",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2129026,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Captain marvel",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 115855657,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
