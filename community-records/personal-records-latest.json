@@ -322716,5 +322716,113 @@
     "sum": 116177221,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789437005892,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1158255,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Makendo2",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5112120,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Terryman",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 116183639,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2038
+    },
+    "date": 1789437130094,
+    "duration": 60201,
+    "left": {
+      "bet_amount": 1599590,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sannomiya_shiho",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4360565,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Nmori_yagami",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 116183638,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12264
+    },
+    "date": 1789437366298,
+    "duration": 160203,
+    "left": {
+      "bet_amount": 1223673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tretista-kelverian",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8910506,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Vegeta ssbe",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 116184386,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789437506294,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 1359327,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Zoffy",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2260913,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Chintao FF",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 116186068,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
