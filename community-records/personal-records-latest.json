@@ -332837,5 +332837,140 @@
     "sum": 115515411,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19440
+    },
+    "date": 1789512375094,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 1351420,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ness EX3",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4438819,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Stake",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 115505972,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23123
+    },
+    "date": 1789512495335,
+    "duration": 60239,
+    "left": {
+      "bet_amount": 1422682,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Judith odea",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4499843,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Aoko 7thmoonstyle",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 115486532,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32099
+    },
+    "date": 1789512695293,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 3630331,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Belial",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1140245,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Atomic r chelnov",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 115463409,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3204
+    },
+    "date": 1789512825495,
+    "duration": 76160,
+    "left": {
+      "bet_amount": 2352491,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mr. x - the kung fu master",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5000247,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Sniper joe",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 115562809,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789513091693,
+    "duration": 212199,
+    "left": {
+      "bet_amount": 1300844,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Custom prier",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3328007,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Another bomberman",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 115564316,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
