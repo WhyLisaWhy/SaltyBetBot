@@ -322824,5 +322824,140 @@
     "sum": 116186068,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18328
+    },
+    "date": 1789437656494,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1758549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Heat-genblem",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5193435,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Gonzales s-r",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 116186067,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25690
+    },
+    "date": 1789437822493,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 2375274,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Red len",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1807396,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dhaos ND3",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 116239636,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2455
+    },
+    "date": 1789437986691,
+    "duration": 103932,
+    "left": {
+      "bet_amount": 2443023,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "O ilusionista",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1747954,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Saizo pi",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 116213946,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28597
+    },
+    "date": 1789438166904,
+    "duration": 120208,
+    "left": {
+      "bet_amount": 1572768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ryofu",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4506194,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Ironfist ryu",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 116215701,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46068
+    },
+    "date": 1789438433095,
+    "duration": 206194,
+    "left": {
+      "bet_amount": 2396926,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Vivi_ornitier",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2387565,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kawashima-san EX2",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 116187104,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
