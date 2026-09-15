@@ -326116,5 +326116,140 @@
     "sum": 115642812,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1523
+    },
+    "date": 1789464883496,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 1886014,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Megu asuhara",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1634874,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Warmachine MVC2",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 115663174,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24281
+    },
+    "date": 1789465109698,
+    "duration": 170005,
+    "left": {
+      "bet_amount": 2605853,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Hisui aa",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1669131,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dante M",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 115661651,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17057
+    },
+    "date": 1789465335894,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 2307741,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Nxc demitri",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1724342,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "T.a.c.",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115637370,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1593
+    },
+    "date": 1789465506095,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 3719840,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Custom ssfiv abel",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1630861,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Plasma wisp",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115620313,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30750
+    },
+    "date": 1789465636095,
+    "duration": 66007,
+    "left": {
+      "bet_amount": 2235778,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider joker",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1448471,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "G-akiha",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 115621012,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
