@@ -324280,5 +324280,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1627
+    },
+    "date": 1789447872292,
+    "duration": 290201,
+    "left": {
+      "bet_amount": 730624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Murakumo-abk",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1107205,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Chocobo",
+      "normal_bettors": 36,
+      "win_streak": 9
+    },
+    "sum": 1627,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2700
+    },
+    "date": 1789448004295,
+    "duration": 76004,
+    "left": {
+      "bet_amount": 1654244,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "King EX2",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 429697,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Trish",
+      "normal_bettors": 31,
+      "win_streak": -14
+    },
+    "sum": 2700,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3401
+    },
+    "date": 1789448338694,
+    "duration": 276199,
+    "left": {
+      "bet_amount": 2010700,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Midoriko",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149812,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Leonardo EX",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 3401,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 48035
+    },
+    "date": 1789448538685,
+    "duration": 145993,
+    "left": {
+      "bet_amount": 1172499,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 31,
+      "win_streak": 14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 371193,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Orochi vega",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 48035,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
