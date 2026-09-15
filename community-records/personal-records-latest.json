@@ -327356,5 +327356,86 @@
     "sum": 3432,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3708
+    },
+    "date": 1789473108095,
+    "duration": 236201,
+    "left": {
+      "bet_amount": 512162,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Karin CVS",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 731354,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kamui",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 3708,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6292
+    },
+    "date": 1789473278101,
+    "duration": 106007,
+    "left": {
+      "bet_amount": 203388,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Bao",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1069543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Carol tea",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 6292,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38387
+    },
+    "date": 1789473548295,
+    "duration": 206201,
+    "left": {
+      "bet_amount": 195013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "K9999",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 748582,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Mazinger-zero",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 38387,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
