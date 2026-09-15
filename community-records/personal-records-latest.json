@@ -330866,5 +330866,113 @@
     "sum": 115719112,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16942
+    },
+    "date": 1789499989303,
+    "duration": 120009,
+    "left": {
+      "bet_amount": 4836663,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "R.lightning",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1327893,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kaori yanase",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 115726777,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25208
+    },
+    "date": 1789500105293,
+    "duration": 55997,
+    "left": {
+      "bet_amount": 4302092,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Cute syakoya",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1255927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mint",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 115731413,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23147
+    },
+    "date": 1789500331495,
+    "duration": 166002,
+    "left": {
+      "bet_amount": 4972750,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Rajaa miyako",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1325131,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wonder momo",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115738730,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25148
+    },
+    "date": 1789500481693,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 2405256,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Mario 119",
+      "normal_bettors": 24,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2049986,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Perfect cell EX3",
+      "normal_bettors": 13,
+      "win_streak": -10
+    },
+    "sum": 115744870,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
