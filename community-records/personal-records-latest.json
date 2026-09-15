@@ -328814,5 +328814,140 @@
     "sum": 115442566,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3259
+    },
+    "date": 1789484585093,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2141215,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Geese",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1980334,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "1",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115442864,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32396
+    },
+    "date": 1789484751295,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 1162971,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jurarus",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3153704,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "G-len",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115446382,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28297
+    },
+    "date": 1789484891293,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 3519117,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Savage ryu hayabusa",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1323394,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ra's al ghul",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 115531852,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23590
+    },
+    "date": 1789485067493,
+    "duration": 122198,
+    "left": {
+      "bet_amount": 3418514,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Admiral fujitora",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2261150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Googoo64 mario",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 115503555,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8091
+    },
+    "date": 1789485257693,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 3892394,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 17,
+      "name": "Precure",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1517037,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mario smrpg",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 115538852,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
