@@ -329975,5 +329975,113 @@
     "sum": 115713812,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789491822889,
+    "duration": 90191,
+    "left": {
+      "bet_amount": 1159505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Khriz 02um",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3423393,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Briaaaaaaaaaaaaaaaaan EX3",
+      "normal_bettors": 22,
+      "win_streak": 9
+    },
+    "sum": 115723796,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6064
+    },
+    "date": 1789492057121,
+    "duration": 180226,
+    "left": {
+      "bet_amount": 1461718,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mario bros",
+      "normal_bettors": 7,
+      "win_streak": -13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 41601484,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "The pacifier",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 115723797,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789492253092,
+    "duration": 135996,
+    "left": {
+      "bet_amount": 2418224,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 9,
+      "name": "Spiny",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 673282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Vita EX3",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 115724011,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789492383294,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 4848070,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 8,
+      "name": "Tyrant J",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 478068,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mewtwo-y",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 115724010,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
