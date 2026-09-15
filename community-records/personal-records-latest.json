@@ -325981,5 +325981,140 @@
     "sum": 115643449,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789463768699,
+    "duration": 112006,
+    "left": {
+      "bet_amount": 2018388,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Duke the robot",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2305071,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Chaos mc",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 115643450,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20617
+    },
+    "date": 1789463958895,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 1970432,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "D Chun-li",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1957465,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kratos aurion",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 115643451,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32980
+    },
+    "date": 1789464149098,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 1856894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Wan-fu",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3622033,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Zangief",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115663721,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24432
+    },
+    "date": 1789464303094,
+    "duration": 99992,
+    "left": {
+      "bet_amount": 1432947,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ash crimson xiii",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2876090,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Boggy",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 115630741,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34077
+    },
+    "date": 1789464459294,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 2068655,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Hoshikage",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1256397,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "General-malin",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 115642812,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
