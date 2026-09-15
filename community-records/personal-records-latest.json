@@ -332432,5 +332432,140 @@
     "sum": 115673487,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35334
+    },
+    "date": 1789509670894,
+    "duration": 75978,
+    "left": {
+      "bet_amount": 1326304,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Giant Ultraman",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4482850,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 15,
+      "name": "Oyashirorika",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 115695314,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20093
+    },
+    "date": 1789509841094,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 2023536,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Grebam EX",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3407719,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Millia tnt",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115659980,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8267
+    },
+    "date": 1789510015295,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 1133345,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Judge.code-n03",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5063930,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Heart-armardi",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 115671842,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26295
+    },
+    "date": 1789510155294,
+    "duration": 83973,
+    "left": {
+      "bet_amount": 1551710,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Jet-stingray",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2522793,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hihumi",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 115663575,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28012
+    },
+    "date": 1789510351494,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 3160709,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Sf2 guile",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1829592,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Izumi konata",
+      "normal_bettors": 9,
+      "win_streak": 15
+    },
+    "sum": 115637280,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
