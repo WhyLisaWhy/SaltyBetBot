@@ -330677,5 +330677,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29430
+    },
+    "date": 1789498628092,
+    "duration": 135996,
+    "left": {
+      "bet_amount": 1670040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Toyotomi hideyoshi",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2695910,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Alder(seraph)",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 115749671,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
