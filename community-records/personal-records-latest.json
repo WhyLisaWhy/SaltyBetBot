@@ -321960,5 +321960,140 @@
     "sum": 116204407,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23327
+    },
+    "date": 1789432378291,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 1288004,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ratix",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3402360,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Virgilia",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 116210211,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21237
+    },
+    "date": 1789432558494,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 2515834,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Mallow smrpg",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1330404,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nina",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 116218982,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10626
+    },
+    "date": 1789432754495,
+    "duration": 139989,
+    "left": {
+      "bet_amount": 2469915,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Googoo64 mario",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1309735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Structure list",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116197745,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18623
+    },
+    "date": 1789433014894,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 1364292,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sion(coh)",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3255385,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Poongko's seth",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 116187119,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789433148895,
+    "duration": 79990,
+    "left": {
+      "bet_amount": 1714726,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Lightning mcqueen",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2765917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Akimoto",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 116230958,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
