@@ -329705,5 +329705,113 @@
     "sum": 115529594,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19463
+    },
+    "date": 1789490059497,
+    "duration": 76004,
+    "left": {
+      "bet_amount": 2135868,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Black widow",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1938119,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "To-to-",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "sum": 115540900,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789490239494,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 1554474,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Skiboots",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1994440,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Hikaru Shidou",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 115562136,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19189
+    },
+    "date": 1789490439724,
+    "duration": 144031,
+    "left": {
+      "bet_amount": 1499407,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kemular",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2285605,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Aleti",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 115562138,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789490609903,
+    "duration": 104008,
+    "left": {
+      "bet_amount": 1717494,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Cyborg t-8p",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1993434,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Chousokabe motochika",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 115542949,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
