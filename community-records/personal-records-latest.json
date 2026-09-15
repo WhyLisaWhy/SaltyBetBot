@@ -332297,5 +332297,140 @@
     "sum": 115774675,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32329
+    },
+    "date": 1789508874294,
+    "duration": 135993,
+    "left": {
+      "bet_amount": 3212147,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "E.soldat",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1547125,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yang adam",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 115745551,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40751
+    },
+    "date": 1789509048494,
+    "duration": 114199,
+    "left": {
+      "bet_amount": 3536863,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Poongko's seth",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1405495,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Galmnk",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 115713222,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1875
+    },
+    "date": 1789509184493,
+    "duration": 79989,
+    "left": {
+      "bet_amount": 1551437,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Dink smallwood revengeance",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3381806,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Gardener kurama",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "sum": 115672471,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1675
+    },
+    "date": 1789509364696,
+    "duration": 124002,
+    "left": {
+      "bet_amount": 11414593,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Damnd",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1059309,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "George goodlake",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 115673331,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25192
+    },
+    "date": 1789509534895,
+    "duration": 114204,
+    "left": {
+      "bet_amount": 2456961,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Starmie",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2150598,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tremor",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 115673487,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
