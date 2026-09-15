@@ -322095,5 +322095,140 @@
     "sum": 116230958,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24321
+    },
+    "date": 1789433299093,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 1419377,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 4,
+      "name": "Real beavis",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2379445,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sue-zo",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 116230957,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24711
+    },
+    "date": 1789433499294,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 1519995,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gotenks ssj EX",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2115017,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Mudman_n",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 116245319,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14110
+    },
+    "date": 1789433689296,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 4218917,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Hyper neo-kamek EX3",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1164776,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Quietus-sakuraba neku",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 116220608,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3034
+    },
+    "date": 1789433829494,
+    "duration": 80191,
+    "left": {
+      "bet_amount": 5510417,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Komasan",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1460889,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Saya IX",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 116206498,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1074
+    },
+    "date": 1789433965496,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 5143463,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Another kyo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1914480,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chucky",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 116207302,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
