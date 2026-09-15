@@ -331163,5 +331163,140 @@
     "sum": 115835171,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789501874694,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 2504429,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kiba",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8475738,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Robo rocky",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 115866172,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16869
+    },
+    "date": 1789502048893,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 1843286,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Jo'on & shion yorigami",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2583364,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Marco rossi",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115866171,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7467
+    },
+    "date": 1789502163095,
+    "duration": 54200,
+    "left": {
+      "bet_amount": 7397034,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Muhi EX",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1259111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ff1 terry bogard",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 115849302,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20010
+    },
+    "date": 1789502295092,
+    "duration": 71969,
+    "left": {
+      "bet_amount": 1184164,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 4,
+      "name": "Kabuki danjurou",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2784531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kamishiro_aya",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 115850572,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43430
+    },
+    "date": 1789502533293,
+    "duration": 180188,
+    "left": {
+      "bet_amount": 1844662,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Comrade athena",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2969442,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Mamizou EX",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "sum": 115830562,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
