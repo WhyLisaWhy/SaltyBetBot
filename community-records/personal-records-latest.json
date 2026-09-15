@@ -324604,5 +324604,140 @@
     "sum": 115876171,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20788
+    },
+    "date": 1789454923711,
+    "duration": 110017,
+    "left": {
+      "bet_amount": 3393575,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Komachi",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1468192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Char's z'gok",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 115857887,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31076
+    },
+    "date": 1789455163915,
+    "duration": 180222,
+    "left": {
+      "bet_amount": 1326793,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 3,
+      "name": "Singlove-drg",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2339986,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Tabuu sumin",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 115837099,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 52014
+    },
+    "date": 1789455424095,
+    "duration": 200130,
+    "left": {
+      "bet_amount": 1166516,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Axel stone EX6",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3165253,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Charging chuck",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 115854489,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10730
+    },
+    "date": 1789455530293,
+    "duration": 60199,
+    "left": {
+      "bet_amount": 1023426,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kagerou setsuna",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4114363,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Master rozwel",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 115802475,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31277
+    },
+    "date": 1789455690291,
+    "duration": 99993,
+    "left": {
+      "bet_amount": 3454245,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Ciel kagura",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1337922,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Old goku",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115805138,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
