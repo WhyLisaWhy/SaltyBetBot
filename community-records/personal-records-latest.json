@@ -327545,5 +327545,59 @@
     "sum": 71285,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15083
+    },
+    "date": 1789474875496,
+    "duration": 226201,
+    "left": {
+      "bet_amount": 168970,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Umvc onix",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 372375,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Hauzer",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 15083,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21661
+    },
+    "date": 1789475131693,
+    "duration": 196200,
+    "left": {
+      "bet_amount": 568393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Gameralen",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 498883,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Mazinger-zero",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 21661,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
