@@ -324039,5 +324039,138 @@
     "sum": 115855314,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789445804694,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1115156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Thawk sfa",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5728173,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Tenshi baiken",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 115861904,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 480
+    },
+    "date": 1789445978894,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 1795764,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sailor uranus",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2402918,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Cueca",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 115861905,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1789446113894,
+    "duration": 75001,
+    "left": {
+      "bet_amount": 354672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Yaridovich",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 515314,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chrysaor krishna",
+      "normal_bettors": 12,
+      "win_streak": -8
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789446527296,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 646359,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Midoriko",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 624628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Hobgoblin",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3045
+    },
+    "date": 1789446705493,
+    "duration": 124196,
+    "left": {
+      "bet_amount": 407294,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Neo dio EX3",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1347586,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Leonardo EX",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 3045,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
