@@ -325603,5 +325603,140 @@
     "sum": 115769599,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789461224696,
+    "duration": 92000,
+    "left": {
+      "bet_amount": 1241635,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Steve austin",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 14202248,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Sonic EX2",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115748925,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789461400893,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 5649591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Firestorm",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 878408,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Hokage",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "sum": 115748926,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34512
+    },
+    "date": 1789461534894,
+    "duration": 75994,
+    "left": {
+      "bet_amount": 1765853,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Ryu hd",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2448046,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Biscuit-oliva",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 115748927,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32916
+    },
+    "date": 1789461685096,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1330840,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Inuyasha mg",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2790827,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Skullomania",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 115714415,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15247
+    },
+    "date": 1789461925310,
+    "duration": 180216,
+    "left": {
+      "bet_amount": 1599942,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Oserotto",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2825612,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Azrael cpex",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 115681499,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
