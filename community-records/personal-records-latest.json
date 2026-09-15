@@ -332756,5 +332756,86 @@
     "sum": 115553054,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18359
+    },
+    "date": 1789511672493,
+    "duration": 143998,
+    "left": {
+      "bet_amount": 1207156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jagyuta EX2",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6795829,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Lazy garfield",
+      "normal_bettors": 26,
+      "win_streak": 11
+    },
+    "sum": 115553055,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19285
+    },
+    "date": 1789511944721,
+    "duration": 212223,
+    "left": {
+      "bet_amount": 2485861,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Kaori yanase",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2386027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Clone koa",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 115534696,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9439
+    },
+    "date": 1789512118896,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 1331421,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Iceclimber",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6080227,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Dream madotsuki",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 115515411,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
