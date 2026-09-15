@@ -326926,5 +326926,113 @@
     "sum": 115603937,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789470105694,
+    "duration": 152194,
+    "left": {
+      "bet_amount": 3744824,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Anchovy",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1243055,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Goten gt",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "sum": 115584056,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24954
+    },
+    "date": 1789470377896,
+    "duration": 220194,
+    "left": {
+      "bet_amount": 2438440,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Anisama",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1509412,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cursor",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115584055,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 545
+    },
+    "date": 1789470548094,
+    "duration": 114198,
+    "left": {
+      "bet_amount": 1412039,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Demitri maximoff",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2077342,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Pelecanus",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 115559101,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789470704093,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 2490679,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Hayao 12p color",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092220,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rai ex",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 115559472,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
