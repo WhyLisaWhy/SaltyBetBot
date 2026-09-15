@@ -324172,5 +324172,113 @@
     "sum": 3045,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3964
+    },
+    "date": 1789446895494,
+    "duration": 133983,
+    "left": {
+      "bet_amount": 1726694,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 35,
+      "win_streak": 13
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55937,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shadow2",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 3964,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4093
+    },
+    "date": 1789447125693,
+    "duration": 174000,
+    "left": {
+      "bet_amount": 1777104,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Orochi vega",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jolyne cujoh",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 4093,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4244
+    },
+    "date": 1789447345893,
+    "duration": 160203,
+    "left": {
+      "bet_amount": 539157,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mr. mary",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1337081,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Binjyobrothers",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 4244,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789447530091,
+    "duration": 124197,
+    "left": {
+      "bet_amount": 1895413,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Red angry bird",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 94079,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "The shadow EX",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
