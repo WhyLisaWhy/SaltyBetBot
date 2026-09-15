@@ -330488,5 +330488,86 @@
     "sum": 4309,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789495597889,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 165407,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Weather dopant",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 144094,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Powered ciel",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3311
+    },
+    "date": 1789495767895,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 241157,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shaolon",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127634,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ratking",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 3311,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5040
+    },
+    "date": 1789496004094,
+    "duration": 176194,
+    "left": {
+      "bet_amount": 33058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Da zhong tian",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 394059,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ikusan",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 5040,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
