@@ -327196,5 +327196,165 @@
     "sum": 115500346,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1789471626498,
+    "duration": 71801,
+    "left": {
+      "bet_amount": 519853,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Rin rin",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131485,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Juggernaut msh",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 1773,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1773
+    },
+    "date": 1789472031095,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 25993,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Naruto kun hr",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 830894,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Umvc onix",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 1773,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1829
+    },
+    "date": 1789472231294,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 143025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Vier",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 791649,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Perfecti ex",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1829,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2159
+    },
+    "date": 1789472411500,
+    "duration": 126206,
+    "left": {
+      "bet_amount": 205493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Big bear",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 801337,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Lenneth vp",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 2159,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2712
+    },
+    "date": 1789472657692,
+    "duration": 186185,
+    "left": {
+      "bet_amount": 856691,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hauzer",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 228158,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Buttercup DG",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 2712,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3432
+    },
+    "date": 1789472817694,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 86845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Werleck EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1079241,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Gameralen",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 3432,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
