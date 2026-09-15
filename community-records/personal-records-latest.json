@@ -326791,5 +326791,140 @@
     "sum": 115601374,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789469200895,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 3856370,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hikkoshi_baba",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1343667,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Venom",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 115612207,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29494
+    },
+    "date": 1789469361147,
+    "duration": 104252,
+    "left": {
+      "bet_amount": 1323151,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "K'",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3701264,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Mech rugal",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 115612208,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18732
+    },
+    "date": 1789469521296,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 984492,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kyo-boss",
+      "normal_bettors": 4,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3817884,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "D kanna",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "sum": 115622669,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20132
+    },
+    "date": 1789469747288,
+    "duration": 169947,
+    "left": {
+      "bet_amount": 1958193,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Adelheid 2003",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1694911,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yatteyaru-death",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 115603937,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 972
+    },
+    "date": 1789469893494,
+    "duration": 92001,
+    "left": {
+      "bet_amount": 1336639,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tenshi hinanai",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5186012,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Daga-ru",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 115603937,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
