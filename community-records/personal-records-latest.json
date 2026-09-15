@@ -323229,5 +323229,140 @@
     "sum": 116102130,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12511
+    },
+    "date": 1789440416693,
+    "duration": 156200,
+    "left": {
+      "bet_amount": 2278124,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Fulgore",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4354726,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Rogue",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 116103985,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22004
+    },
+    "date": 1789440646694,
+    "duration": 175999,
+    "left": {
+      "bet_amount": 1372831,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tnok",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6620370,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Princess silver",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 116091474,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23656
+    },
+    "date": 1789440836895,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 1296479,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Final",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8186191,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Nocturne",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 116096022,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12872
+    },
+    "date": 1789440987096,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 4193070,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Master juzo",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3299983,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ssf2x dhalsim",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 116072366,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28136
+    },
+    "date": 1789441127094,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1468403,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Terry rogers",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3947022,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Meta knight ssbb",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 116059494,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
