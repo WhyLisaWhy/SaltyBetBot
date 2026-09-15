@@ -332000,5 +332000,140 @@
     "sum": 115728227,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26714
+    },
+    "date": 1789506956694,
+    "duration": 99955,
+    "left": {
+      "bet_amount": 1999995,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Darkmatter",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3123738,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Rayquaza",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 115733919,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789507180901,
+    "duration": 170009,
+    "left": {
+      "bet_amount": 2476918,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Candy diamond",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2351599,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Kemou",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 115775093,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28398
+    },
+    "date": 1789507317097,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 2318433,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Younger link",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2020581,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Lf2 - freeze",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 115775094,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789507517294,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 5957614,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Rockman x",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1435905,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Grandmaster miyako",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 115807227,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25722
+    },
+    "date": 1789507671303,
+    "duration": 94010,
+    "left": {
+      "bet_amount": 2236839,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 8,
+      "name": "Ishtar",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1853376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 115807228,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
