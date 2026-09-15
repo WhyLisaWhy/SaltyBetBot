@@ -324523,5 +324523,86 @@
     "sum": 2085,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17833
+    },
+    "date": 1789454387293,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1084787,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mr_shihan",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2747466,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Vile EX3",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 115865336,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19931
+    },
+    "date": 1789454577493,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 1054791,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Great wario",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5456667,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Mai tokiha ex",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115872332,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18284
+    },
+    "date": 1789454757693,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 3015271,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Tewi?",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1177129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dirty fat",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 115876171,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
