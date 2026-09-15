@@ -324496,5 +324496,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2085
+    },
+    "date": 1789450039895,
+    "duration": 384406,
+    "left": {
+      "bet_amount": 697818,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Leonardo EX",
+      "normal_bettors": 21,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1082735,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Chocobo",
+      "normal_bettors": 26,
+      "win_streak": 11
+    },
+    "sum": 2085,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
