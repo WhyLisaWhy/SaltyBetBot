@@ -321663,5 +321663,140 @@
     "sum": 116081310,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31763
+    },
+    "date": 1789430550904,
+    "duration": 120208,
+    "left": {
+      "bet_amount": 3291032,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Chowder and kimchi",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1621603,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tios",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 116081311,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 49406
+    },
+    "date": 1789430680896,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 3177380,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Azami",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1700219,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Deathvoice-shogun",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 116049548,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2079
+    },
+    "date": 1789430841094,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 2827817,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Moriya_yae",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1403232,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Slamdunk",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 116075581,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20486
+    },
+    "date": 1789431055295,
+    "duration": 160188,
+    "left": {
+      "bet_amount": 1462634,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Zabi",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4032345,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gate x6",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 116073502,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29275
+    },
+    "date": 1789431185294,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 1905403,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Cockle",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2051497,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Houjyou torami",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 116080896,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
