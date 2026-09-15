@@ -327788,5 +327788,113 @@
     "sum": 115429027,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789477589496,
+    "duration": 170202,
+    "left": {
+      "bet_amount": 1263863,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Galford",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2988930,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "F_gills",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 115390832,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789477809694,
+    "duration": 164199,
+    "left": {
+      "bet_amount": 1255693,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Petra johanna lagerkvist",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6087679,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Captainamerica EX3",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 115390835,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29481
+    },
+    "date": 1789477939892,
+    "duration": 74192,
+    "left": {
+      "bet_amount": 6229145,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Nim woo",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1146768,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chili n pepper",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 115390836,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 47004
+    },
+    "date": 1789478135896,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1490696,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rouga zanma",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2715009,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 12,
+      "name": "Watern",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 115396238,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
