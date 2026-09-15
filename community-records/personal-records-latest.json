@@ -324901,5 +324901,140 @@
     "sum": 115717513,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5263
+    },
+    "date": 1789456827294,
+    "duration": 69994,
+    "left": {
+      "bet_amount": 1640328,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Blade rider",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4801840,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Katana 2097",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "sum": 115726421,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1874
+    },
+    "date": 1789456987493,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 6047171,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Kohaku iqs",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1176147,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hourai-car",
+      "normal_bettors": 4,
+      "win_streak": -6
+    },
+    "sum": 115728217,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10321
+    },
+    "date": 1789457171495,
+    "duration": 124003,
+    "left": {
+      "bet_amount": 1805963,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rocket tank",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2345082,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Amon EX2",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "sum": 115728582,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31697
+    },
+    "date": 1789457363689,
+    "duration": 132196,
+    "left": {
+      "bet_amount": 2125522,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Nakoruru EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1616234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gaibon",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115736496,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31643
+    },
+    "date": 1789457487695,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1074794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Garner",
+      "normal_bettors": 6,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4054963,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Deezer",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 115704799,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
