@@ -327896,5 +327896,113 @@
     "sum": 115396238,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19420
+    },
+    "date": 1789478280093,
+    "duration": 83997,
+    "left": {
+      "bet_amount": 2357227,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Grand master ryu",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2195172,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cathey",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 115421607,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42411
+    },
+    "date": 1789478460295,
+    "duration": 124200,
+    "left": {
+      "bet_amount": 1517750,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Master taekuk",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2484137,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Metal sonic",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 115402187,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789478838495,
+    "duration": 102001,
+    "left": {
+      "bet_amount": 5251863,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cyber dan",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2256061,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ruquia",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 115381542,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14239
+    },
+    "date": 1789479006696,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 1229428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sumo sw",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5302497,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Lolicard",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 115381541,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
