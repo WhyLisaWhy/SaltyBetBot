@@ -322959,5 +322959,140 @@
     "sum": 116187104,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789438637302,
+    "duration": 150210,
+    "left": {
+      "bet_amount": 3995615,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Hoppou seiki",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1175353,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rude spawn",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 116141036,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24624
+    },
+    "date": 1789438747296,
+    "duration": 50003,
+    "left": {
+      "bet_amount": 3064477,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Moogle",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1930161,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Medusa",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 116141037,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789438949494,
+    "duration": 142196,
+    "left": {
+      "bet_amount": 8402218,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Mr.karate EX3",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1294922,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Silver surfer EX",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 116156423,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16443
+    },
+    "date": 1789439129693,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 1294537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yugi(emanon)",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5567230,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "F.killerbee",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 116156424,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789439319696,
+    "duration": 129966,
+    "left": {
+      "bet_amount": 1523139,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Rea katori EX7",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5678074,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Ms.valliere",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 116139981,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
