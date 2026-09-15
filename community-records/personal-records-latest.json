@@ -326683,5 +326683,113 @@
     "sum": 115639322,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23373
+    },
+    "date": 1789468584559,
+    "duration": 164262,
+    "left": {
+      "bet_amount": 3462412,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Sim young gradation",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1336322,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lyndis",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 115622400,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789468740498,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 1679793,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Guile",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6462603,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Byakki s3",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 115631361,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29988
+    },
+    "date": 1789468930696,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 2897874,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Hancock EX",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1466338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Daos",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 115631362,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15709
+    },
+    "date": 1789469056896,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 1652301,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Joymech katima",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2380345,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Perfect reimu",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115601374,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
