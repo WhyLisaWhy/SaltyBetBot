@@ -323526,5 +323526,86 @@
     "sum": 116063603,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30088
+    },
+    "date": 1789442438095,
+    "duration": 129980,
+    "left": {
+      "bet_amount": 1216036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Poochy",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6809255,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Miko hd",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 116029597,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25754
+    },
+    "date": 1789442660294,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 6305203,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Ashley (warioware)",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1725498,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "F-zeryo x",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 115999509,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789442940494,
+    "duration": 226198,
+    "left": {
+      "bet_amount": 3382611,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Superior spider-man",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2892480,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mvc meep!?",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 116006529,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
