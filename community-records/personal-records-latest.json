@@ -323094,5 +323094,140 @@
     "sum": 116139981,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10461
+    },
+    "date": 1789439573893,
+    "duration": 194000,
+    "left": {
+      "bet_amount": 2732534,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Tsunade",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4722382,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Fond de veau",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 116139980,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30023
+    },
+    "date": 1789439784093,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 2129313,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Fukumen senshi",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2457622,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Tenkochan EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 116129519,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14947
+    },
+    "date": 1789439894096,
+    "duration": 59950,
+    "left": {
+      "bet_amount": 7671897,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Ra",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1354680,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Inubisu",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 116099496,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789440030295,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 4343351,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Mika returna",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2307640,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Supersonic ellic",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 116102131,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14568
+    },
+    "date": 1789440206494,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 1292242,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Igniz",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10135726,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Saiki",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 116102130,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
