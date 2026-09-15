@@ -331595,5 +331595,113 @@
     "sum": 115842115,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18590
+    },
+    "date": 1789504466900,
+    "duration": 94204,
+    "left": {
+      "bet_amount": 5627711,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Lady",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1439409,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rydia EX3",
+      "normal_bettors": 5,
+      "win_streak": -9
+    },
+    "sum": 115821434,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21349
+    },
+    "date": 1789504612894,
+    "duration": 85990,
+    "left": {
+      "bet_amount": 2882175,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Sasquatch",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2078920,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mega tails",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 115826174,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14962
+    },
+    "date": 1789504817095,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 2680021,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Pocket kefla",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2422096,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Cockle",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 115841460,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22561
+    },
+    "date": 1789505027294,
+    "duration": 154158,
+    "left": {
+      "bet_amount": 1455957,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cyber shredder",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4219203,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Testament",
+      "normal_bettors": 27,
+      "win_streak": -5
+    },
+    "sum": 115826498,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
