@@ -333269,5 +333269,113 @@
     "sum": 115504350,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34416
+    },
+    "date": 1789515173295,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 2540894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Arctic_avenger",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4617682,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Yukina_h",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 115509974,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38590
+    },
+    "date": 1789515349494,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 2353039,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Azusa hinomori",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2273215,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Souther",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 115475558,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17492
+    },
+    "date": 1789515533702,
+    "duration": 124210,
+    "left": {
+      "bet_amount": 1312329,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sento kun",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4673132,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Rinrin",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 115512238,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17376
+    },
+    "date": 1789515668695,
+    "duration": 75001,
+    "left": {
+      "bet_amount": 1336834,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "A-zodiac",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5942583,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Roadsign",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 115494746,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
