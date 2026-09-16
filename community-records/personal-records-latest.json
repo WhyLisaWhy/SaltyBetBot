@@ -334106,5 +334106,140 @@
     "sum": 115385245,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13007
+    },
+    "date": 1789526842500,
+    "duration": 136007,
+    "left": {
+      "bet_amount": 5043428,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Predalien",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1191668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Anime chiffon",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115389565,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35560
+    },
+    "date": 1789527098694,
+    "duration": 191999,
+    "left": {
+      "bet_amount": 3627857,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dark order sol",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3626190,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Blue colonel",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 115392631,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8124
+    },
+    "date": 1789527278894,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 1329848,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Werleck EX3",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6085011,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Sevil nathe",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 115427862,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 43219
+    },
+    "date": 1789527449093,
+    "duration": 110156,
+    "left": {
+      "bet_amount": 1226840,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Faust",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6012888,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ayu&misuzu&mizuka",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 115429636,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789527649292,
+    "duration": 140187,
+    "left": {
+      "bet_amount": 1715217,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Perfectakishimai",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1605542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shin 2",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 115386417,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
