@@ -340937,5 +340937,113 @@
     "sum": 115242101,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789576390296,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1069178,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Turkey",
+      "normal_bettors": 5,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8898329,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Ravange",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 115243817,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789576620494,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 6677171,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Lucia fernandez",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1504647,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ky kiske #reload",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 115243818,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9643
+    },
+    "date": 1789576736496,
+    "duration": 56000,
+    "left": {
+      "bet_amount": 3053327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rare nabeatu",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5337278,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Aruaru-orochi",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "sum": 115243817,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789576936694,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1579755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ragna bloodedge",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6970493,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Divine poison",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 115249324,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
