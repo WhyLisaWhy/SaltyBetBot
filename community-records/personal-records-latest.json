@@ -333836,5 +333836,140 @@
     "sum": 115462054,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18648
+    },
+    "date": 1789525109353,
+    "duration": 70259,
+    "left": {
+      "bet_amount": 7297307,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Gomora",
+      "normal_bettors": 29,
+      "win_streak": 16
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2931763,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Light yagami",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 115427458,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11265
+    },
+    "date": 1789525305295,
+    "duration": 135996,
+    "left": {
+      "bet_amount": 1224698,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Arrange_shiori",
+      "normal_bettors": 13,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6281201,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Hibachi",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 115434931,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30394
+    },
+    "date": 1789525475493,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1635913,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4365119,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Kotiya sanae",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 115437124,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9503
+    },
+    "date": 1789525719695,
+    "duration": 184196,
+    "left": {
+      "bet_amount": 4986358,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Charlie",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1177471,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Hitorisibai-san",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 115406730,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23172
+    },
+    "date": 1789525835693,
+    "duration": 55998,
+    "left": {
+      "bet_amount": 4218743,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Adelheid 2003",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1674908,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Reaper",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 115397227,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
