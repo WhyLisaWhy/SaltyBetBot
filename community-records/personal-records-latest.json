@@ -337670,5 +337670,140 @@
     "sum": 115291849,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10555
+    },
+    "date": 1789552196896,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 3281550,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Frieza dbs",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Reicubas",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 115281607,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13753
+    },
+    "date": 1789552356896,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 3018154,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "M-e-reptos",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3739176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lavos spawn",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 115271052,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24382
+    },
+    "date": 1789552583095,
+    "duration": 165998,
+    "left": {
+      "bet_amount": 2893158,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Masked rider agito",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1391010,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Monika",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 115288014,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10003
+    },
+    "date": 1789552809295,
+    "duration": 166198,
+    "left": {
+      "bet_amount": 1197901,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gumball watterson",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2919983,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kyo rotd",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 115263632,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31182
+    },
+    "date": 1789552953489,
+    "duration": 84194,
+    "left": {
+      "bet_amount": 2327799,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Aoc",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1513753,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Haohmaru-kofm",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 115253629,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
