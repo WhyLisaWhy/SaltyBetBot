@@ -342854,5 +342854,140 @@
     "sum": 5171,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7054
+    },
+    "date": 1789588968290,
+    "duration": 142197,
+    "left": {
+      "bet_amount": 230552,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hyrule Link",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 354210,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Clone koa",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 7054,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11556
+    },
+    "date": 1789589170493,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 96237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Wonderman",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 463079,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dejiko",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 11556,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13900
+    },
+    "date": 1789589370494,
+    "duration": 144002,
+    "left": {
+      "bet_amount": 98770,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Makendo",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 500494,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 29,
+      "win_streak": 8
+    },
+    "sum": 13900,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789589540695,
+    "duration": 112003,
+    "left": {
+      "bet_amount": 186543,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Mousebane",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 577069,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Iron_miyako",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6306
+    },
+    "date": 1789589786893,
+    "duration": 190136,
+    "left": {
+      "bet_amount": 385756,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Hatate_himekaidou",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 99328,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Clone koa",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 6306,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
