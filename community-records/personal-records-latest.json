@@ -342746,5 +342746,113 @@
     "sum": 1814,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3055
+    },
+    "date": 1789587973495,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 83217,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ukitake",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236604,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "sum": 3055,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4116
+    },
+    "date": 1789588213693,
+    "duration": 184197,
+    "left": {
+      "bet_amount": 45968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pocket tylor",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 331159,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Mousebane",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 4116,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4681
+    },
+    "date": 1789588549893,
+    "duration": 276197,
+    "left": {
+      "bet_amount": 39197,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Cyber-woo",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 370433,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Iron_miyako",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 4681,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5171
+    },
+    "date": 1789588766093,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 362518,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Hatate_himekaidou",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133882,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Oni inomura",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 5171,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
