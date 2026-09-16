@@ -336428,5 +336428,86 @@
     "sum": 115390283,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16555
+    },
+    "date": 1789542355689,
+    "duration": 93000,
+    "left": {
+      "bet_amount": 3902705,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Diana neko",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2300088,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Tatsuya shiba",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 115404408,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789542843286,
+    "duration": 220197,
+    "left": {
+      "bet_amount": 55886,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Masaki anzu EX3",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 121700,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Minmin",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2253
+    },
+    "date": 1789543023289,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 151907,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Zz_gundam",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 67507,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider ooo",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 2253,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
