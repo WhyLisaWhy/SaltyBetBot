@@ -341990,5 +341990,113 @@
     "sum": 115121892,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27491
+    },
+    "date": 1789582811295,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 1313652,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Jagyuta EX2",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1981086,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Puss in boots",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 115137968,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23232
+    },
+    "date": 1789582991499,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1285444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Damned",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3233584,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Lion(coh)",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 115155948,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35909
+    },
+    "date": 1789583175697,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 2072869,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ella",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2865517,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Kyoko_typek",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 115132716,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30411
+    },
+    "date": 1789583345694,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 5248344,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Ted broiler",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1734875,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ren-kun",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 115096807,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
