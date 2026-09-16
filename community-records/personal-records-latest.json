@@ -337535,5 +337535,140 @@
     "sum": 115340123,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1341
+    },
+    "date": 1789551206094,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 1851764,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Cassios",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1962836,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Clark kent",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "sum": 115315374,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41760
+    },
+    "date": 1789551390095,
+    "duration": 129985,
+    "left": {
+      "bet_amount": 1470993,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Parsee mb",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2437453,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Phone(redux)",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 115314033,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46963
+    },
+    "date": 1789551546295,
+    "duration": 93989,
+    "left": {
+      "bet_amount": 2275649,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Ozma the jawbreaker",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1967735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ted broiler",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 115338811,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789551712494,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 1334680,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Original vega",
+      "normal_bettors": 6,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4572610,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ms.valliere",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 115291848,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10242
+    },
+    "date": 1789552002695,
+    "duration": 230201,
+    "left": {
+      "bet_amount": 2691185,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Seravy",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1488774,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shadow EX3",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 115291849,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
