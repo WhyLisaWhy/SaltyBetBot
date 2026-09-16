@@ -337265,5 +337265,167 @@
     "sum": 115400555,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789549488694,
+    "duration": 100196,
+    "left": {
+      "bet_amount": 3365600,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Ravange",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1543436,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kanoko hosokawa",
+      "normal_bettors": 12,
+      "win_streak": 6
+    },
+    "sum": 115360237,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 521
+    },
+    "date": 1789549642695,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1422709,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rosemary",
+      "normal_bettors": 6,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6245599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Rangle EX3",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115360236,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20528
+    },
+    "date": 1789549798895,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 2939243,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Egg chamber",
+      "normal_bettors": 22,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1839477,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chrysalis",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 115360355,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27021
+    },
+    "date": 1789549939093,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 4613961,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Orga itsuka",
+      "normal_bettors": 24,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1292242,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yukari ex",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 115392795,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25016
+    },
+    "date": 1789550125093,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 947773,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 2,
+      "name": "Cci kim kaphwan",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2417714,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Serval",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 115365774,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20017
+    },
+    "date": 1789550289292,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 2130353,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "H-m-geese",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1468863,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "X-aestivalis",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "sum": 115340758,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
