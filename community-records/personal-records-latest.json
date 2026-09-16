@@ -333728,5 +333728,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3095
+    },
+    "date": 1789519656894,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 125858,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ohayato",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 436205,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Moai",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "sum": 3095,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789520019120,
+    "duration": 302227,
+    "left": {
+      "bet_amount": 316992,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Kyosuke shigure",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 488469,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Moai",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
