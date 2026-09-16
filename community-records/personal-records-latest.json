@@ -339965,5 +339965,86 @@
     "sum": 9369,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22091
+    },
+    "date": 1789570571493,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 4790637,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Sylphie nxc",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1460915,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kitaro EX3",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 115368645,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19443
+    },
+    "date": 1789570697693,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 1375340,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mint",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4904624,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "General daiyousei",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 115375351,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11611
+    },
+    "date": 1789570877932,
+    "duration": 116239,
+    "left": {
+      "bet_amount": 1207675,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ultimate warrior",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7758995,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Syanahime",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 115380782,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
