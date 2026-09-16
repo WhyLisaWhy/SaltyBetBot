@@ -335375,5 +335375,113 @@
     "sum": 115421435,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24828
+    },
+    "date": 1789535295293,
+    "duration": 224200,
+    "left": {
+      "bet_amount": 1156911,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kraidgief",
+      "normal_bettors": 6,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7287790,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Scarlet devil",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 115424809,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789535485495,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 4564254,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Rockman x",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1215634,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Alice smt",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 115399981,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17655
+    },
+    "date": 1789535701494,
+    "duration": 155999,
+    "left": {
+      "bet_amount": 1355159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Super-8-k",
+      "normal_bettors": 10,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4490948,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Nucoarc",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 115399980,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23558
+    },
+    "date": 1789535851692,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 1249351,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "J-mccoy",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4451498,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Zankuro",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 115382325,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
