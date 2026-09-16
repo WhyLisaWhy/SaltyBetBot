@@ -338075,5 +338075,113 @@
     "sum": 115055723,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21239
+    },
+    "date": 1789554991092,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 3298290,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kamen rider amazon alpha",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1675495,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Kim sueil",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 115055726,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34128
+    },
+    "date": 1789555247297,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 1723268,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucifer EX3",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2704418,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mappy",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 115066447,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789555413295,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1189829,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Task force batman",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6265695,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 115087923,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789555577496,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 2371566,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Hunter killer",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1563426,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Haohmaru EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 115087922,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
