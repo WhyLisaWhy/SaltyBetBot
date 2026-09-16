@@ -335645,5 +335645,113 @@
     "sum": 115392189,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28506
+    },
+    "date": 1789537042695,
+    "duration": 104202,
+    "left": {
+      "bet_amount": 1328107,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Genma",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2750898,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Toyger",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 115396732,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18443
+    },
+    "date": 1789537244893,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 1258366,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ange EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3303540,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Venomu",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 115368226,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21122
+    },
+    "date": 1789537408894,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 1323440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chrysaor krishna",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4885231,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Saki guitly gear",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 115349783,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25395
+    },
+    "date": 1789537579093,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 2147937,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Haoumaru",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2435635,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Injya",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 115355481,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
