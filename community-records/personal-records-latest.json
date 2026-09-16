@@ -343988,5 +343988,140 @@
     "sum": 115161713,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22433
+    },
+    "date": 1789597088490,
+    "duration": 115954,
+    "left": {
+      "bet_amount": 6939768,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Sabu EX3",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1588345,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Guy",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115165839,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35808
+    },
+    "date": 1789597288692,
+    "duration": 146171,
+    "left": {
+      "bet_amount": 2793858,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Claire redfield",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2140409,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mamizou EX",
+      "normal_bettors": 15,
+      "win_streak": 6
+    },
+    "sum": 115170957,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30220
+    },
+    "date": 1789597438894,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 1659359,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Earthquake svc",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5912074,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Magic geese",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 115216928,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18675
+    },
+    "date": 1789597628893,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 3755600,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Isao jinrai",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3503937,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Android 16 EX3",
+      "normal_bettors": 18,
+      "win_streak": -7
+    },
+    "sum": 115225367,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33097
+    },
+    "date": 1789597799093,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 6616643,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Piccolo",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1583125,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Solid snake",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 115245278,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
