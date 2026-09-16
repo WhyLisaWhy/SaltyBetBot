@@ -343097,5 +343097,113 @@
     "sum": 115143227,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 999
+    },
+    "date": 1789591814493,
+    "duration": 194201,
+    "left": {
+      "bet_amount": 4237712,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Luna himeki +q",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1202479,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Saya EX",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 115148127,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13962
+    },
+    "date": 1789592070694,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 3620934,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Ange EX",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423532,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dr. finitevus",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 115151645,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24619
+    },
+    "date": 1789592214893,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 1601966,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hagen EX7",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5763120,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "An ogre",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 115157113,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23991
+    },
+    "date": 1789592356893,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 10092681,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Johnny(ac)",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2655463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rouwe EX3",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 115163928,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
