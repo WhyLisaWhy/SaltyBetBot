@@ -334538,5 +334538,113 @@
     "sum": 115415937,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26216
+    },
+    "date": 1789529676922,
+    "duration": 120228,
+    "left": {
+      "bet_amount": 3738585,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Chizuru 71113",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1186879,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Trafalger law",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 115415983,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789529814893,
+    "duration": 77991,
+    "left": {
+      "bet_amount": 5777692,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vinsmoke sanji",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2422935,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Viuda negra",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 115389767,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 43731
+    },
+    "date": 1789529987096,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 1434608,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Madalitso",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3371888,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Pairon",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 115389768,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789530157296,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 7902884,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Chaoz_gf",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1094310,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Faydal",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 115489513,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
