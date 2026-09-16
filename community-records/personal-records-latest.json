@@ -344393,5 +344393,140 @@
     "sum": 115368008,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28996
+    },
+    "date": 1789599828730,
+    "duration": 106038,
+    "left": {
+      "bet_amount": 3128460,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Fuchigami saiki",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3412352,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ark EX8",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 115368580,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38890
+    },
+    "date": 1789600062894,
+    "duration": 180201,
+    "left": {
+      "bet_amount": 3945305,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Sonozaki_mion",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 994386,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hybrid",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 115399917,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19420
+    },
+    "date": 1789600299094,
+    "duration": 176186,
+    "left": {
+      "bet_amount": 4474068,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dio S",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1348449,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "God kula",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 115548409,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14090
+    },
+    "date": 1789600463292,
+    "duration": 110152,
+    "left": {
+      "bet_amount": 1808725,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Arietta",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2489361,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Miko hd",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115554237,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29533
+    },
+    "date": 1789600603292,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 3379949,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Helmet",
+      "normal_bettors": 21,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1871788,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Goodman EX",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 115564417,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
