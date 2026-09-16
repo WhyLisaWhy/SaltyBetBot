@@ -333782,5 +333782,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38147
+    },
+    "date": 1789524835093,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 1096590,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mythos zero",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6287995,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Commode serika",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 115500201,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34596
+    },
+    "date": 1789524979094,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 2688378,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Fevrier sf",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1810507,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "The acolytes",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 115462054,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
