@@ -336158,5 +336158,113 @@
     "sum": 115481008,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30382
+    },
+    "date": 1789540433301,
+    "duration": 114008,
+    "left": {
+      "bet_amount": 2144429,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Black-rock_shooter",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1928924,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Asura's wrath",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 115483866,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40056
+    },
+    "date": 1789540673495,
+    "duration": 174002,
+    "left": {
+      "bet_amount": 6178474,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "False valkyrie",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1762132,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Minori amanohara",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 115453484,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17357
+    },
+    "date": 1789540869693,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 1412540,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Jack-hamma",
+      "normal_bettors": 13,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3319430,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Leo-o",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 115413428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13764
+    },
+    "date": 1789541035893,
+    "duration": 112199,
+    "left": {
+      "bet_amount": 1684407,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Freddie mercury",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6128701,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Charles xavier",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 115396071,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
