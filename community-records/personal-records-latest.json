@@ -343043,5 +343043,59 @@
     "sum": 11496,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789590476692,
+    "duration": 189397,
+    "left": {
+      "bet_amount": 406111,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 26,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 560723,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mousebane",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21825
+    },
+    "date": 1789591564293,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 5856514,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Daigo hotta",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1319733,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hercule z2",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 115143227,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
