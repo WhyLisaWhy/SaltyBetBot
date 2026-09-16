@@ -333377,5 +333377,86 @@
     "sum": 115494746,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789516206095,
+    "duration": 266200,
+    "left": {
+      "bet_amount": 125847,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "General blue",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 53427,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Missmarvel",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2201
+    },
+    "date": 1789516366307,
+    "duration": 106014,
+    "left": {
+      "bet_amount": 165896,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Akatsuki-abk",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 54683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Baitang",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 2201,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2917
+    },
+    "date": 1789516512492,
+    "duration": 92198,
+    "left": {
+      "bet_amount": 39733,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ichijo akari",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 231016,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Kyosuke shigure",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 2917,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
