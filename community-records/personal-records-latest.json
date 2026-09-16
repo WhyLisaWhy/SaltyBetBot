@@ -344663,5 +344663,140 @@
     "sum": 115522871,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18993
+    },
+    "date": 1789601600094,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 1555950,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Setiawan",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3136077,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Elisabeth-kofm",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 115522873,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19708
+    },
+    "date": 1789601760293,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 4638278,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Tenjou-sin",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1254433,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gigant",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 115503880,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8399
+    },
+    "date": 1789601926493,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 5916362,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sanada kojiroh",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1153914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Duran",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "sum": 115484172,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21889
+    },
+    "date": 1789602080493,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2642226,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Aihara natsumi",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1496451,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Hihumi",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 115485808,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30813
+    },
+    "date": 1789602220693,
+    "duration": 84198,
+    "left": {
+      "bet_amount": 2883602,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Serval",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3803074,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Shizuru fujino",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 115463919,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
