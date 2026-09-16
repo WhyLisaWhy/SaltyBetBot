@@ -335078,5 +335078,140 @@
     "sum": 115547554,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34374
+    },
+    "date": 1789533161694,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1375751,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Evil karin",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4228905,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Schlussel-pre",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 115514740,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3408
+    },
+    "date": 1789533277693,
+    "duration": 59998,
+    "left": {
+      "bet_amount": 1199774,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kung fu m.bison",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4420251,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Q-bee ex",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 115480366,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789533467898,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 5515954,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Koryu",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1297727,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bad box art megaman",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 115481291,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36153
+    },
+    "date": 1789533613897,
+    "duration": 80005,
+    "left": {
+      "bet_amount": 3267980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "A-yuki",
+      "normal_bettors": 9,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3118631,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Primeus",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 115481290,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21339
+    },
+    "date": 1789533838092,
+    "duration": 164198,
+    "left": {
+      "bet_amount": 3297447,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "B.swordsman",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1823855,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "D4 reimu",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 115445137,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
