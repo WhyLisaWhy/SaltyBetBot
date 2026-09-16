@@ -334943,5 +334943,140 @@
     "sum": 115535995,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32354
+    },
+    "date": 1789532180696,
+    "duration": 75981,
+    "left": {
+      "bet_amount": 2494022,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Aoi matsubara",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1983815,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Hsien-ko",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 115538411,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789532396894,
+    "duration": 149996,
+    "left": {
+      "bet_amount": 1416066,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Serena corsair",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4412580,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Asagi asagiri",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 115578434,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30881
+    },
+    "date": 1789532541095,
+    "duration": 83996,
+    "left": {
+      "bet_amount": 5313235,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sparq",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2064907,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Yoko kurama",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 115578433,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789532791296,
+    "duration": 194202,
+    "left": {
+      "bet_amount": 2615646,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Electro",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2140103,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Tetsuo shima",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 115547552,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32814
+    },
+    "date": 1789532967501,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 1445594,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Brokken",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2283208,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Joseph joestar EX3",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 115547554,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
