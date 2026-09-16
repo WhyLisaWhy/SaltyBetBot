@@ -336860,5 +336860,140 @@
     "sum": 6937,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23250
+    },
+    "date": 1789546888495,
+    "duration": 144003,
+    "left": {
+      "bet_amount": 1432588,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Battler",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2579085,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Zangiefhd",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 115433850,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10952
+    },
+    "date": 1789547064696,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 1198638,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hannah dundee",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5104281,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Poongko's seth",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115475039,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12334
+    },
+    "date": 1789547218696,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1087923,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tam tam",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5800668,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ryuko2nd",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 115477606,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15064
+    },
+    "date": 1789547384893,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 4060439,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Hakufu sonsaku",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1505521,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "W arcueid",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 115465272,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21300
+    },
+    "date": 1789547585095,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 2249360,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "MB-02",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1250405,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Aboras",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 115470837,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
