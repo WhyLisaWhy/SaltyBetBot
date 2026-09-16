@@ -339830,5 +339830,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2516
+    },
+    "date": 1789566720492,
+    "duration": 296192,
+    "left": {
+      "bet_amount": 377924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Marie p4a",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 244640,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dark eternal champion",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 2516,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6364
+    },
+    "date": 1789566896738,
+    "duration": 116244,
+    "left": {
+      "bet_amount": 488041,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Taokaka",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131009,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Iwaminokami",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 6364,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8051
+    },
+    "date": 1789567066892,
+    "duration": 110188,
+    "left": {
+      "bet_amount": 55690,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Faust",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 746823,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Shindo tamaki",
+      "normal_bettors": 31,
+      "win_streak": 9
+    },
+    "sum": 8051,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8645
+    },
+    "date": 1789567381094,
+    "duration": 254188,
+    "left": {
+      "bet_amount": 72965,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dark eternal champion",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 863394,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Taokaka",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 8645,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
