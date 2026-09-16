@@ -343691,5 +343691,113 @@
     "sum": 115133609,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21599
+    },
+    "date": 1789595321092,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 2883951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Yuri945",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2449006,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Cody EX",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115134738,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28459
+    },
+    "date": 1789595521300,
+    "duration": 130009,
+    "left": {
+      "bet_amount": 5303613,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "All in shao kahn",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3347528,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yukkuri",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 115113139,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37034
+    },
+    "date": 1789595661492,
+    "duration": 86197,
+    "left": {
+      "bet_amount": 2724585,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Another takuma",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1943891,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Psychotic ryu",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 115157848,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20411
+    },
+    "date": 1789595871490,
+    "duration": 155997,
+    "left": {
+      "bet_amount": 3988105,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Detton",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1834458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hanzo EX",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 115208785,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
