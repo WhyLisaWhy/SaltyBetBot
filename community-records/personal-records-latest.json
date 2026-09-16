@@ -336995,5 +336995,113 @@
     "sum": 115470837,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29012
+    },
+    "date": 1789547731295,
+    "duration": 90191,
+    "left": {
+      "bet_amount": 1185867,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Scylla",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2205736,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Mishio & makoto",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "sum": 115508512,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789547921293,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 6301549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Nannanda anta",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1165852,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Noel",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 115479500,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 46657
+    },
+    "date": 1789548081495,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 1236225,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider saga",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1912300,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Vice xiii",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 115479501,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20934
+    },
+    "date": 1789548221695,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 1208917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black battler",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1901663,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Goenitz rotd(shao)",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 115432844,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
