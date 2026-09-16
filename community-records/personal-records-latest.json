@@ -336617,5 +336617,113 @@
     "sum": 5809,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10127
+    },
+    "date": 1789544124295,
+    "duration": 180202,
+    "left": {
+      "bet_amount": 386902,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Air man ga taosenai",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 35916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Terry rogers",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 10127,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11044
+    },
+    "date": 1789544284494,
+    "duration": 104189,
+    "left": {
+      "bet_amount": 366186,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Psychotic ryu",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 81696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Zangief_musclebomber",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 11044,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789544474492,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 35589,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Minmin",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 491038,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Zz_gundam",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1662
+    },
+    "date": 1789544764697,
+    "duration": 234004,
+    "left": {
+      "bet_amount": 491945,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Rugal.b",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 48052,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Real personal trooper type-2",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "sum": 1662,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
