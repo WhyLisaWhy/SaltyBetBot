@@ -339479,5 +339479,140 @@
     "sum": 115436304,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21922
+    },
+    "date": 1789563740094,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 1293684,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Nakoruru EX3",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2851073,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "A-rachel",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 115411967,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8841
+    },
+    "date": 1789563936297,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1591916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Brian battler",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5763450,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Goenitz-kofm",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 115390045,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25401
+    },
+    "date": 1789564116097,
+    "duration": 125802,
+    "left": {
+      "bet_amount": 1607312,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Green lantern lucario",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3186774,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Master ryu",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 115392484,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789564516689,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 35121,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Soma cruz",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 130805,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Real general",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1962
+    },
+    "date": 1789564706893,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 46983,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Faust",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149872,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Charlotte s",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 1962,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
