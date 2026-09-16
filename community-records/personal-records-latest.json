@@ -339614,5 +339614,86 @@
     "sum": 1962,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789564903095,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 198369,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shindo tamaki",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 36932,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1837
+    },
+    "date": 1789565103294,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 74027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Fragrant310",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 172410,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Deezer",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 1837,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789565427494,
+    "duration": 260200,
+    "left": {
+      "bet_amount": 123683,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kazuma the shell bullet",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 252783,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Marie p4a",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
