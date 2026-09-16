@@ -344123,5 +344123,113 @@
     "sum": 115245278,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29526
+    },
+    "date": 1789597989288,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 3022447,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Metal slug",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3145980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "C_krizalid",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 115380774,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789598219495,
+    "duration": 174205,
+    "left": {
+      "bet_amount": 3419537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Murasa EX",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2436446,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Undead_zombie",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "sum": 115351248,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16945
+    },
+    "date": 1789598445495,
+    "duration": 166003,
+    "left": {
+      "bet_amount": 7117667,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kamen rider gaim",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1792786,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Prinny P",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 115351247,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21071
+    },
+    "date": 1789598651693,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 11345510,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Luke skywalker EX3",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ironhide",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 115334302,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
