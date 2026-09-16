@@ -342638,5 +342638,113 @@
     "sum": 115207773,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47639
+    },
+    "date": 1789587002093,
+    "duration": 79600,
+    "left": {
+      "bet_amount": 3395400,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Clarice di lanza",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2057386,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Azami",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 115189317,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789587392896,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 35141,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Wonderman",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133102,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "New kakyoin",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789587589095,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 191077,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Dejiko",
+      "normal_bettors": 29,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 32716,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Gild tesoro",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1814
+    },
+    "date": 1789587799297,
+    "duration": 156202,
+    "left": {
+      "bet_amount": 108319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tinky winky",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 156611,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Makendo",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1814,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
