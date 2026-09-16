@@ -334241,5 +334241,140 @@
     "sum": 115386417,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 49653
+    },
+    "date": 1789527789294,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 1481885,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chonshu ex",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2887068,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Kawajirikosaku EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 115386418,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 715
+    },
+    "date": 1789527969500,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 1332911,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shishin",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4676108,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Sylveon_var1",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115411474,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10413
+    },
+    "date": 1789528113493,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 1497866,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Igniz-ev",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4425201,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Saitama",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 115410759,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25956
+    },
+    "date": 1789528269693,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1389260,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kurusugawa ayaka",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7046712,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Ono kohaku",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "sum": 115400346,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789528445904,
+    "duration": 120208,
+    "left": {
+      "bet_amount": 1440177,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mai shiranui-kofm",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7459680,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Levin",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 115405445,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
