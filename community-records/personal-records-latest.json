@@ -339371,5 +339371,113 @@
     "sum": 115390528,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34514
+    },
+    "date": 1789562999494,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 1579431,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "8th angel",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2322486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kosanjou",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 115390529,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23887
+    },
+    "date": 1789563159696,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 4534359,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Frank west",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1261803,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Segalow",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 115440196,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27708
+    },
+    "date": 1789563415894,
+    "duration": 196198,
+    "left": {
+      "bet_amount": 1509513,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Shikieiki yamaxanadu",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2064124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Merkava",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 115416309,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24337
+    },
+    "date": 1789563610093,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 1648879,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Black goku",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3095518,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Quick silver",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 115436304,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
