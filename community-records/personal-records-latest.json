@@ -336050,5 +336050,113 @@
     "sum": 115516417,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10197
+    },
+    "date": 1789539696696,
+    "duration": 70007,
+    "left": {
+      "bet_amount": 1408399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Star",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2965454,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Light yagami",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 115494886,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21764
+    },
+    "date": 1789539908894,
+    "duration": 156001,
+    "left": {
+      "bet_amount": 1959824,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Yukari ice",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2003699,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Hory marlu ex",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 115499713,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20787
+    },
+    "date": 1789540069093,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1099707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ryo 98",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7453115,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Sonic machine",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 115477949,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3745
+    },
+    "date": 1789540263293,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 2142597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Yukiko amagi",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2804459,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Cecil_damon",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 115481008,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
