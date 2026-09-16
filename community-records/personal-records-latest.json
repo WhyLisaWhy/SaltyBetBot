@@ -342989,5 +342989,59 @@
     "sum": 6306,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7904
+    },
+    "date": 1789590037094,
+    "duration": 194202,
+    "left": {
+      "bet_amount": 238259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dejiko",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 516459,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Old mechagodzilla",
+      "normal_bettors": 31,
+      "win_streak": 9
+    },
+    "sum": 7904,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11496
+    },
+    "date": 1789590227295,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 238178,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mousebane",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 507314,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Hatate_himekaidou",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 11496,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
