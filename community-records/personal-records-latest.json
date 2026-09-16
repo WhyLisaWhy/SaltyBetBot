@@ -338615,5 +338615,113 @@
     "sum": 115174891,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2171
+    },
+    "date": 1789558447893,
+    "duration": 140183,
+    "left": {
+      "bet_amount": 1405851,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4625465,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Resonance",
+      "normal_bettors": 25,
+      "win_streak": 8
+    },
+    "sum": 115174890,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18804
+    },
+    "date": 1789558592094,
+    "duration": 84197,
+    "left": {
+      "bet_amount": 2028280,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Super saiyan 2 vegeta",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2192736,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Aoba",
+      "normal_bettors": 12,
+      "win_streak": 5
+    },
+    "sum": 115175550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18004
+    },
+    "date": 1789558772095,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1142415,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "A'",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4468680,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Baki-hanma EX3",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 115156746,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20895
+    },
+    "date": 1789558962298,
+    "duration": 134205,
+    "left": {
+      "bet_amount": 8830044,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Cajun gambit EX7",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171603,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Koneko",
+      "normal_bettors": 5,
+      "win_streak": -7
+    },
+    "sum": 115138742,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
