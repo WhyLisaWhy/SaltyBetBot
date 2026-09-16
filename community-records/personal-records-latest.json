@@ -338183,5 +338183,140 @@
     "sum": 115087922,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13007
+    },
+    "date": 1789555727703,
+    "duration": 90008,
+    "left": {
+      "bet_amount": 1131392,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rentaro satomi EX7",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6771126,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Recca",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 115087921,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 229
+    },
+    "date": 1789555993898,
+    "duration": 206202,
+    "left": {
+      "bet_amount": 4725951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Saisyu kusanagi",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1111310,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hawk",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "sum": 115090091,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14022
+    },
+    "date": 1789556144093,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 1408432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sumo santa",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9865259,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 115090145,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1724
+    },
+    "date": 1789556334093,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 1100057,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pocket Dan",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3687796,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Big bomberder",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 115092145,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22976
+    },
+    "date": 1789556498496,
+    "duration": 110397,
+    "left": {
+      "bet_amount": 1102547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kiyohime",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6503800,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Hunter killer hydralisk",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 115092660,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
