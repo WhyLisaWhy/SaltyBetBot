@@ -342530,5 +342530,113 @@
     "sum": 115121564,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35781
+    },
+    "date": 1789586374093,
+    "duration": 111998,
+    "left": {
+      "bet_amount": 3663005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Mettaton",
+      "normal_bettors": 24,
+      "win_streak": 14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2492809,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kagami ex",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 115141287,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789586472293,
+    "duration": 46006,
+    "left": {
+      "bet_amount": 8114427,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Obstinate_tank",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1486943,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mvsn nosepass",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 115165402,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25019
+    },
+    "date": 1789586732493,
+    "duration": 206201,
+    "left": {
+      "bet_amount": 3700922,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Nami",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2160333,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Chunli_a",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 115165403,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18456
+    },
+    "date": 1789586866493,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 2430074,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Magic nanaya+ huunsaiki ex",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1186531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kris",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 115207773,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
