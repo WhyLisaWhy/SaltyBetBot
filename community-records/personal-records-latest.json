@@ -336725,5 +336725,113 @@
     "sum": 1662,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789544946894,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 130358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Soga no tojiko",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 251493,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Old robo-ky",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2349
+    },
+    "date": 1789545107094,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 208411,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Air man ga taosenai",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 230416,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Psychotic ryu",
+      "normal_bettors": 10,
+      "win_streak": 5
+    },
+    "sum": 2349,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789545357295,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 184414,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Zz_gundam",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 279146,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Real personal trooper type-2",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3877
+    },
+    "date": 1789545567492,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 304125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Old robo-ky",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 243070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Psychotic ryu",
+      "normal_bettors": 13,
+      "win_streak": 6
+    },
+    "sum": 3877,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
