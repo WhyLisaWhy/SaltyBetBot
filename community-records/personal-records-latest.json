@@ -334835,5 +334835,113 @@
     "sum": 115573585,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28593
+    },
+    "date": 1789531510293,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 2348096,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Umbreon",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366320,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "No.8",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 115538982,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26262
+    },
+    "date": 1789531714494,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 1613914,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Relius clover",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3020426,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Anakaris",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 115587114,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24857
+    },
+    "date": 1789531900493,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 3336076,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Italian juda",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4037076,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Taoist",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 115560852,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16663
+    },
+    "date": 1789532050695,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 8613911,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Goenitz-kofm",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1251142,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black battler",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "sum": 115535995,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
