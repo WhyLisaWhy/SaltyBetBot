@@ -339938,5 +339938,32 @@
     "sum": 8645,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9369
+    },
+    "date": 1789567771093,
+    "duration": 333998,
+    "left": {
+      "bet_amount": 256332,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shindo tamaki",
+      "normal_bettors": 19,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 758102,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Taokaka",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 9369,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
