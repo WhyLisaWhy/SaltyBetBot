@@ -333647,5 +333647,86 @@
     "sum": 2033,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2595
+    },
+    "date": 1789518896293,
+    "duration": 266199,
+    "left": {
+      "bet_amount": 491836,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Big bomberder",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 64642,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ohayato",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 2595,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789519230489,
+    "duration": 280197,
+    "left": {
+      "bet_amount": 232895,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Yukkuri z-ton 2",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 268417,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Moai",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789519426694,
+    "duration": 142201,
+    "left": {
+      "bet_amount": 292051,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Akatsuki-abk",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 291529,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Kyosuke shigure",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
