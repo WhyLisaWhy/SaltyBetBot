@@ -355943,5 +355943,140 @@
     "sum": 117163681,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789687878694,
+    "duration": 62202,
+    "left": {
+      "bet_amount": 905460,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Shadir",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 54140251,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 17,
+      "name": "Quack",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 117163680,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20944
+    },
+    "date": 1789688086890,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 1873628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Akane inuwaka",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3926018,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Asuka EX2",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 117163681,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789688276892,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 2066491,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Super soldier",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 13261101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Poring",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 117142737,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29578
+    },
+    "date": 1789688423093,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1130767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Task force wonder woman",
+      "normal_bettors": 11,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3301061,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Princess silver",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 117142744,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5308
+    },
+    "date": 1789688553094,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 1201554,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Quietus-sakuraba neku",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 12424106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Pororo",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 117152786,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
