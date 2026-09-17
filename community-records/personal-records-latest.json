@@ -346794,5 +346794,167 @@
     "sum": 115992609,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19729
+    },
+    "date": 1789621233707,
+    "duration": 132212,
+    "left": {
+      "bet_amount": 3160195,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rigby",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5268986,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Thomas the tanky engine",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "sum": 115996914,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789621411694,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1421221,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nu-13 EX",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3152513,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 116008703,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29060
+    },
+    "date": 1789621631896,
+    "duration": 160168,
+    "left": {
+      "bet_amount": 2984668,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Eva-01 srw",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1807812,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dios",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 116008706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17129
+    },
+    "date": 1789621808095,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 6876092,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Smile mkv",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 966359,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Raoh",
+      "normal_bettors": 5,
+      "win_streak": -6
+    },
+    "sum": 116055925,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30183
+    },
+    "date": 1789621938092,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 2162541,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Kratos aurion",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1508721,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kurokishi",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 116038796,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27515
+    },
+    "date": 1789622072289,
+    "duration": 77998,
+    "left": {
+      "bet_amount": 2195588,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Flame demon",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2134640,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Final bison",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 116081211,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
