@@ -346200,5 +346200,59 @@
     "sum": 113612,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3639
+    },
+    "date": 1789617284493,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2548212,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Asamiya-dgf",
+      "normal_bettors": 20,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1126530,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Raisen",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 116070399,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789617424493,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 10716284,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Spin youmu EX",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 976993,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Fuhashitei",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "sum": 116078604,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
