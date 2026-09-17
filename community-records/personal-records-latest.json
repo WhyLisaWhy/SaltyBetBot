@@ -345635,5 +345635,140 @@
     "sum": 116026529,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33076
+    },
+    "date": 1789607835093,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2060510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Gojo-san",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2873300,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Dios",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 116026528,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19962
+    },
+    "date": 1789608065304,
+    "duration": 174211,
+    "left": {
+      "bet_amount": 4461469,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Kohaku EX2",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1299780,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kyo brunestud",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 115993452,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18310
+    },
+    "date": 1789608211493,
+    "duration": 86196,
+    "left": {
+      "bet_amount": 2020796,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Peketo EX3",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3144040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Daigo ken",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 115973490,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789608421501,
+    "duration": 156008,
+    "left": {
+      "bet_amount": 1273995,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chaves",
+      "normal_bettors": 7,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10339861,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Insane hiryu",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "sum": 115985191,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19980
+    },
+    "date": 1789608571690,
+    "duration": 96191,
+    "left": {
+      "bet_amount": 1729684,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Bridget(ac)",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3618600,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Rainbow edition ryu",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 115985192,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
