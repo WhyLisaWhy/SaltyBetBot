@@ -355835,5 +355835,113 @@
     "sum": 117179525,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34860
+    },
+    "date": 1789687110091,
+    "duration": 164198,
+    "left": {
+      "bet_amount": 5119839,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Dragon EX3",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1314001,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Trigger",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117191194,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28108
+    },
+    "date": 1789687370291,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 2257188,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Chester stoddart",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1933913,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ultimate aizen",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 117200081,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8292
+    },
+    "date": 1789687510294,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 3095755,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Sion eltnam atlasia EX",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1484245,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Awakened-clark",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 117171973,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789687756488,
+    "duration": 185991,
+    "left": {
+      "bet_amount": 14705501,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Yamcha",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2277099,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Metabee EX6",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 117163681,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
