@@ -352707,5 +352707,113 @@
     "sum": 117139325,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3357
+    },
+    "date": 1789663823497,
+    "duration": 224191,
+    "left": {
+      "bet_amount": 5730842,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Holy god earth svg",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023971,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 117145165,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28029
+    },
+    "date": 1789664069694,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 2051093,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Tokiko",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1154046,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lutete",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 117141808,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27974
+    },
+    "date": 1789664209692,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 1773451,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Goku black ssr",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1677062,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Zantetsu udou",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 117113779,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789664349897,
+    "duration": 86004,
+    "left": {
+      "bet_amount": 2080548,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Pelican",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1560479,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Goku mythos",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 117139822,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
