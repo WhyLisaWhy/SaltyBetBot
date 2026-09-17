@@ -347658,5 +347658,167 @@
     "sum": 116067874,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789626695929,
+    "duration": 90038,
+    "left": {
+      "bet_amount": 2061990,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Levin",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2063586,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Gardener",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 116067875,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27500
+    },
+    "date": 1789626846093,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1658120,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Mvc2 dan",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2194912,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Paragus",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 116067876,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20763
+    },
+    "date": 1789626990091,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 3461281,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Petra johanna lagerkvist",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 728428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kabuki danjurou",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 116088394,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789627128292,
+    "duration": 81997,
+    "left": {
+      "bet_amount": 2871960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Marufoi",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9919406,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Cthylla",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 116092738,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24202
+    },
+    "date": 1789627280294,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 6475089,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Serika_os",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 686008,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Black moth",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 116092739,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44668
+    },
+    "date": 1789627486494,
+    "duration": 145997,
+    "left": {
+      "bet_amount": 3231226,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Heidern_ex",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023390,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Boss archetype: earth",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116095294,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
