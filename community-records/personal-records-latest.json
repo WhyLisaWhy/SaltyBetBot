@@ -352950,5 +352950,113 @@
     "sum": 117021244,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789665596896,
+    "duration": 139984,
+    "left": {
+      "bet_amount": 3366229,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Micky13",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Miyako rockstyle",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 116991275,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789665751094,
+    "duration": 94198,
+    "left": {
+      "bet_amount": 1308842,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Super soldier",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3444534,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Master ken",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 116991274,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789665907094,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 784076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Offender",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4681696,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Sage kabuto",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 116991273,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29404
+    },
+    "date": 1789666057295,
+    "duration": 90195,
+    "left": {
+      "bet_amount": 666185,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "2nd r.s.p",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7447486,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Shindo tamaki",
+      "normal_bettors": 34,
+      "win_streak": 11
+    },
+    "sum": 116991274,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
