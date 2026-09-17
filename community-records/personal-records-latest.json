@@ -352599,5 +352599,113 @@
     "sum": 117137410,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25101
+    },
+    "date": 1789662836693,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 803218,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Blanka sfxt",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4945497,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Masked rider decade",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 117181768,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23743
+    },
+    "date": 1789663096893,
+    "duration": 200197,
+    "left": {
+      "bet_amount": 777171,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Hi-nu gundam",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4603406,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Junichi",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 117156667,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27380
+    },
+    "date": 1789663393094,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 872842,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Joker_nanaya",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3706390,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "William birkin",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 117132924,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34158
+    },
+    "date": 1789663533294,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 5015457,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kazama kazuki EX3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 863213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ranmaru",
+      "normal_bettors": 6,
+      "win_streak": -11
+    },
+    "sum": 117139325,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
