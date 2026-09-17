@@ -350601,5 +350601,140 @@
     "sum": 116741083,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22152
+    },
+    "date": 1789647648695,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 800952,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chibi elque",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2876780,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Hiziri",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 116774857,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22164
+    },
+    "date": 1789647838693,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1921721,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Black rugal",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2906540,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Fiona belli",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 116752705,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 736
+    },
+    "date": 1789648018894,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 1052257,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Forecaster blackmore",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2542852,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Alexey zalazof",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 116785846,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6680
+    },
+    "date": 1789648148895,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 2087575,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "King of heroes EX7",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1903674,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Curse of judas",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 116787624,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21076
+    },
+    "date": 1789648335093,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 994178,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gaibon",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2712601,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Brass",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 116794924,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
