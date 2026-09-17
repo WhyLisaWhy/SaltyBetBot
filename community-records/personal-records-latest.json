@@ -353517,5 +353517,138 @@
     "sum": 116978379,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1295
+    },
+    "date": 1789669111694,
+    "duration": 169995,
+    "left": {
+      "bet_amount": 603673,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kanae EX3",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4481972,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Luna himeki +q",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 116980298,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17550
+    },
+    "date": 1789669321895,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 772758,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Arrange_ayu",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3076304,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Maximum seraph",
+      "normal_bettors": 24,
+      "win_streak": 10
+    },
+    "sum": 116979003,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19383
+    },
+    "date": 1789669532094,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 4664374,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Sladegelmir",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 806176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mast",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 116961453,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30158
+    },
+    "date": 1789669694294,
+    "duration": 106152,
+    "left": {
+      "bet_amount": 1080720,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kilroy",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5800066,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Youki-so-suika",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 116942070,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1789669872296,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 4527458,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Rion",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1105971,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jiren z2",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 116947661,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
