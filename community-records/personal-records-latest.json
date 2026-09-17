@@ -345095,5 +345095,113 @@
     "sum": 115738969,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14221
+    },
+    "date": 1789604420290,
+    "duration": 179996,
+    "left": {
+      "bet_amount": 1885676,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ibuki beast-max",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4472785,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Ingram prisken",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 115869680,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13031
+    },
+    "date": 1789604534493,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 681905,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "God alosson",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10823294,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Zen kasen ibaraki",
+      "normal_bettors": 27,
+      "win_streak": 8
+    },
+    "sum": 115855459,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22237
+    },
+    "date": 1789604720495,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 3060552,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Bloodia EX2",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3968880,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Umvc_redarcueid",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 115856280,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789604870692,
+    "duration": 95996,
+    "left": {
+      "bet_amount": 991971,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Blackheart",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3415767,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Duck king rb2",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 115834043,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
