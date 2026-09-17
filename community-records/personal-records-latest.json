@@ -347091,5 +347091,140 @@
     "sum": 116057643,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32789
+    },
+    "date": 1789623259299,
+    "duration": 134207,
+    "left": {
+      "bet_amount": 1038702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Emperor fou-lu",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4788782,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Bs agumon",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 116033150,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19319
+    },
+    "date": 1789623505494,
+    "duration": 180201,
+    "left": {
+      "bet_amount": 1080125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Raizen",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3321838,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Turf EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 116040214,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789623641491,
+    "duration": 81994,
+    "left": {
+      "bet_amount": 271395968,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Kurorim",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1266409,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Goku sb1",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "sum": 116046460,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40391
+    },
+    "date": 1789623781691,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 5060855,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Mvc2 ciel",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 964699,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Cius",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 116046461,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25730
+    },
+    "date": 1789623919694,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 6172883,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Minis mahn",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1139516,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Andy bogard rb",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "sum": 116054100,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
