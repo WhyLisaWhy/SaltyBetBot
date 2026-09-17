@@ -346416,5 +346416,140 @@
     "sum": 116047051,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789618737694,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 4923029,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Lee rekka",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1137191,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lion(coh)",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 116047052,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789618867693,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 940481,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wolf",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4119938,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 9,
+      "name": "Goku mythos",
+      "normal_bettors": 20,
+      "win_streak": -6
+    },
+    "sum": 116047057,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2862
+    },
+    "date": 1789619103896,
+    "duration": 176202,
+    "left": {
+      "bet_amount": 1422584,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 4,
+      "name": "Taiga ex",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2082723,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Nucoarc",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 116047056,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37190
+    },
+    "date": 1789619328094,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 2784741,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Arale",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1740022,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dark warrior 2",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 116049009,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12736
+    },
+    "date": 1789619514294,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 6757041,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Nannanda anta",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1174600,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cell Hyper Dimension",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 116011819,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
