@@ -351006,5 +351006,113 @@
     "sum": 116813750,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 50363
+    },
+    "date": 1789650302696,
+    "duration": 50001,
+    "left": {
+      "bet_amount": 846065,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Divekick doom",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3646309,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Gundam nataku",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 116821882,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6898
+    },
+    "date": 1789650512892,
+    "duration": 146197,
+    "left": {
+      "bet_amount": 2996097,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Neco-arc chaos ac",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1044898,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ultimate aizen",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 116771519,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789650652894,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 6439716,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Haohmaru 98",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 784422,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Karin EX3",
+      "normal_bettors": 3,
+      "win_streak": -2
+    },
+    "sum": 116764621,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33751
+    },
+    "date": 1789650819095,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 4426121,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Shimo EX",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 981390,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hanzou hattori",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 116764620,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
