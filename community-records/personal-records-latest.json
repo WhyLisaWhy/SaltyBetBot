@@ -354782,5 +354782,140 @@
     "sum": 117151663,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19918
+    },
+    "date": 1789677100093,
+    "duration": 139992,
+    "left": {
+      "bet_amount": 5795221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "H_witch",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1418431,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Homura akemi",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 117133254,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47706
+    },
+    "date": 1789677324293,
+    "duration": 169935,
+    "left": {
+      "bet_amount": 1005893,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Taideo EX",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4518132,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Nocturne",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "sum": 117113336,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34004
+    },
+    "date": 1789677470493,
+    "duration": 85992,
+    "left": {
+      "bet_amount": 1251578,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ume_age19",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5134810,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Toki",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 117065630,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789677660492,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 2602648,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Akuma shogun",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2197460,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Misaka",
+      "normal_bettors": 24,
+      "win_streak": -8
+    },
+    "sum": 117073864,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8298
+    },
+    "date": 1789677810692,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 1681815,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bokosuka wars",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4171784,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Gold len",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 117073866,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
