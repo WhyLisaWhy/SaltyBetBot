@@ -346092,5 +346092,86 @@
     "sum": 136671,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34821
+    },
+    "date": 1789611351893,
+    "duration": 152203,
+    "left": {
+      "bet_amount": 1159575,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Enero cvs",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 82383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shishimaru EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 139285,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35422
+    },
+    "date": 1789611475893,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 1152122,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Deathvoice-shogun",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 156918,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Omega flowey",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 141687,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26566
+    },
+    "date": 1789611752094,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 241294,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Rapid ayaka",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Enero cvs",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 106265,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
