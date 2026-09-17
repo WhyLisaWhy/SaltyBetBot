@@ -349305,5 +349305,86 @@
     "sum": 8063,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25930
+    },
+    "date": 1789638933535,
+    "duration": 104038,
+    "left": {
+      "bet_amount": 3470274,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Psychociel",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1207154,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Detton",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 116519049,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22342
+    },
+    "date": 1789639119694,
+    "duration": 125991,
+    "left": {
+      "bet_amount": 700926,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Duo maxwell",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7029792,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Oyashirorika",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 116528002,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24997
+    },
+    "date": 1789639259896,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 6315828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Dudley K",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 915038,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yunfei",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 116505660,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
