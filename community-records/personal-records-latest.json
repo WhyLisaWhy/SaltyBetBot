@@ -353382,5 +353382,140 @@
     "sum": 116925963,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789668245093,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 1384395,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Mado gakusha",
+      "normal_bettors": 19,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4464393,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shingo EX2",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 116939593,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25445
+    },
+    "date": 1789668371093,
+    "duration": 65984,
+    "left": {
+      "bet_amount": 733279,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Wild iori",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5877713,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Ted broiler",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 116939594,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21383
+    },
+    "date": 1789668545293,
+    "duration": 114198,
+    "left": {
+      "bet_amount": 1685554,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ignis",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1770692,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Nakoruru",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 116942755,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26518
+    },
+    "date": 1789668751495,
+    "duration": 146198,
+    "left": {
+      "bet_amount": 1271524,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Crawdo",
+      "normal_bettors": 11,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2482072,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Petra johanna lagerkvist",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 116964937,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14790
+    },
+    "date": 1789668881494,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 788209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "D4 meirin",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6061820,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Jo'on & shion yorigami",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 116978379,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
