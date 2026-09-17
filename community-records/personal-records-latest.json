@@ -355349,5 +355349,86 @@
     "sum": 52586,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 58931
+    },
+    "date": 1789681737891,
+    "duration": 166197,
+    "left": {
+      "bet_amount": 359782,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sharaku",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 324450,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Kurumi mirumati",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 64921,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30056
+    },
+    "date": 1789681897892,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 604677,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Cyber blue",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 82887,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sayuri bernstein",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 120225,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31038
+    },
+    "date": 1789682088695,
+    "duration": 136602,
+    "left": {
+      "bet_amount": 698741,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 27,
+      "name": "Kurumi mirumati",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 140249,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Cyber blue",
+      "normal_bettors": 16,
+      "win_streak": 5
+    },
+    "sum": 124150,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
