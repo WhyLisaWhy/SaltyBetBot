@@ -352140,5 +352140,113 @@
     "sum": 15938,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789658185094,
+    "duration": 156200,
+    "left": {
+      "bet_amount": 173479,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chartette",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 433824,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Xiayu cvs",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2168
+    },
+    "date": 1789658365093,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 92838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Renamon Dv2",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 258134,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Akaneko EX6",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 2168,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2942
+    },
+    "date": 1789658541312,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 320360,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Zebura",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85652,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Wonderman",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 2942,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3722
+    },
+    "date": 1789658745493,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 98109,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Red skull",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 385723,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 25,
+      "name": "Fefnir",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 3722,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
