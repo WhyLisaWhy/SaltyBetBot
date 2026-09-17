@@ -353891,5 +353891,140 @@
     "sum": 116913087,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23279
+    },
+    "date": 1789671711896,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 2676452,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Charles babbage",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1783081,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Vergil2",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 116916743,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15506
+    },
+    "date": 1789671865897,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1711437,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yawara",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2376857,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Blue mary 02um",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 116951236,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30818
+    },
+    "date": 1789672036095,
+    "duration": 114002,
+    "left": {
+      "bet_amount": 1352055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Burning futo",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4267421,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Justice gg1 ex",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 116962329,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26779
+    },
+    "date": 1789672216292,
+    "duration": 124196,
+    "left": {
+      "bet_amount": 1170368,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Yuri945",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6480078,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Young joseph",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 116972024,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29701
+    },
+    "date": 1789672372297,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 1537538,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Jackie Drunken Fist",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4028507,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Grimace",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 116945245,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
