@@ -353650,5 +353650,111 @@
     "sum": 116947661,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10733
+    },
+    "date": 1789670074493,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 2264448,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lizardbuckler attack!",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1906793,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Clawbear",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 116947661,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1789670408696,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1010008,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shinnosuke_kagami(shao)",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4291116,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Bern and lambda",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "sum": 116956457,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789670616892,
+    "duration": 147997,
+    "left": {
+      "bet_amount": 1195496,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Green ranger",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5233597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Yumel",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 116956457,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3665
+    },
+    "date": 1789670759096,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 991736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Arctic emperor",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7945043,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Akiha tohno-r",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 116956456,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
