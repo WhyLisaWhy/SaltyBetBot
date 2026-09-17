@@ -350304,5 +350304,140 @@
     "sum": 116731586,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13446
+    },
+    "date": 1789645620899,
+    "duration": 212003,
+    "left": {
+      "bet_amount": 3600936,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Cerulean boss-type",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1242418,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Elfriede",
+      "normal_bettors": 7,
+      "win_streak": -11
+    },
+    "sum": 116732578,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18016
+    },
+    "date": 1789645871096,
+    "duration": 195999,
+    "left": {
+      "bet_amount": 649971,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hercules",
+      "normal_bettors": 5,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5637203,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sonic machine",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 116737200,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27036
+    },
+    "date": 1789646045296,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 3661729,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Edi.e",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1269873,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cheerful kohaku",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "sum": 116719184,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19559
+    },
+    "date": 1789646241495,
+    "duration": 140192,
+    "left": {
+      "bet_amount": 1507326,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ark EX8",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3027523,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "School girl lilith",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 116692148,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789646411694,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 6422999,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Gedoumiko",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 720035,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mysterious heroine x",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 116730930,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
