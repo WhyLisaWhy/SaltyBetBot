@@ -354917,5 +354917,113 @@
     "sum": 117073866,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21086
+    },
+    "date": 1789677946897,
+    "duration": 76167,
+    "left": {
+      "bet_amount": 1545949,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Boss order-sol",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2821026,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Big o",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 117065568,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2661
+    },
+    "date": 1789678151093,
+    "duration": 150189,
+    "left": {
+      "bet_amount": 6945368,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Blue suede goo",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1479041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Auron",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "sum": 117044482,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13812
+    },
+    "date": 1789678357093,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 6876122,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Magician type-0",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1221595,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fragrant310",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 117045049,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15535
+    },
+    "date": 1789678539698,
+    "duration": 122366,
+    "left": {
+      "bet_amount": 2995121,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Koichi hirose",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2091126,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kamek EX3",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 117047498,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
