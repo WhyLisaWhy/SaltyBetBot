@@ -352356,5 +352356,32 @@
     "sum": 2751,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3749
+    },
+    "date": 1789660302492,
+    "duration": 313999,
+    "left": {
+      "bet_amount": 262294,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Zebura",
+      "normal_bettors": 19,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 436198,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Xiayu cvs",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 3749,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
