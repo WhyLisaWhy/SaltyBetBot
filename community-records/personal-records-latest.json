@@ -347226,5 +347226,140 @@
     "sum": 116054100,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5454
+    },
+    "date": 1789624081892,
+    "duration": 106197,
+    "left": {
+      "bet_amount": 619900,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Vixen ex",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6438474,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Ragna the bloodedge",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 116058831,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789624261892,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 768983,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4435407,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Kenoh",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 116053377,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1871
+    },
+    "date": 1789624432096,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 775792,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Vampire hunter hsien-ko",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7593763,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sogiita gunha",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 116053378,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789624622289,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 2017700,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Yamazaki",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1680568,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Wingnut",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 116053570,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789624782494,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 987679,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Androide 17",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9489178,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Chaoz_gf",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 116053571,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
