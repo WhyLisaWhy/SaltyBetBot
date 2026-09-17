@@ -349386,5 +349386,113 @@
     "sum": 116505660,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25530
+    },
+    "date": 1789639426093,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1308478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Gundam x",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2724518,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Chipp",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 116509268,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14713
+    },
+    "date": 1789639596093,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 4925869,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Walkure",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1216902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Q-bee soul",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 116561410,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28853
+    },
+    "date": 1789639806296,
+    "duration": 149946,
+    "left": {
+      "bet_amount": 1393381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vegito",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2331802,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Megamari",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 116565034,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789640030500,
+    "duration": 164206,
+    "left": {
+      "bet_amount": 2650507,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rajaa miyako",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2635215,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Batsu EX2",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 116536181,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
