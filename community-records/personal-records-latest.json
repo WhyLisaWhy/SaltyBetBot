@@ -346551,5 +346551,113 @@
     "sum": 116011819,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23289
+    },
+    "date": 1789619744495,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 3183717,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Yuki morikawa",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 724406,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dudley streets",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 116014029,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17602
+    },
+    "date": 1789619928494,
+    "duration": 123962,
+    "left": {
+      "bet_amount": 645509,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Blizzard EX3",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7706251,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Gustab munchausen",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 116019290,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9173
+    },
+    "date": 1789620048694,
+    "duration": 63997,
+    "left": {
+      "bet_amount": 653074,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ninja_kun",
+      "normal_bettors": 4,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8406295,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "P-silver",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 116020762,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789620210893,
+    "duration": 102198,
+    "left": {
+      "bet_amount": 969225,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Oshawott",
+      "normal_bettors": 9,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2799814,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Majin vegeta z2",
+      "normal_bettors": 23,
+      "win_streak": 0
+    },
+    "sum": 116021474,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
