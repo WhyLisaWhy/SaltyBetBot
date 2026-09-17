@@ -352383,5 +352383,59 @@
     "sum": 3749,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29924
+    },
+    "date": 1789661175495,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 4192891,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Acirno_3.5",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 991836,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Assiette",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 117103258,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23241
+    },
+    "date": 1789661349495,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 889925,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Void",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3208372,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Pierre",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 117073334,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
