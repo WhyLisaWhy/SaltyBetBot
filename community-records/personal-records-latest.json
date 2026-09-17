@@ -347523,5 +347523,140 @@
     "sum": 116093010,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19180
+    },
+    "date": 1789625943293,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 619472,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Undeadsoldier",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4432151,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 15,
+      "name": "Rock(mkii)",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 116127813,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22875
+    },
+    "date": 1789626053294,
+    "duration": 50001,
+    "left": {
+      "bet_amount": 3993891,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Poongko's seth",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2089799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Alucks",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 116108633,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26859
+    },
+    "date": 1789626223492,
+    "duration": 113993,
+    "left": {
+      "bet_amount": 4843191,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "King arturo",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 694093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ryu sf3",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 116120535,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25802
+    },
+    "date": 1789626403718,
+    "duration": 120224,
+    "left": {
+      "bet_amount": 1101027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mrheart",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3675822,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Tiria",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 116093676,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789626549693,
+    "duration": 83989,
+    "left": {
+      "bet_amount": 1365282,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Genma",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5906197,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Task force flash",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 116067874,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
