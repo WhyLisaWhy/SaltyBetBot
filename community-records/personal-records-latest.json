@@ -348090,5 +348090,167 @@
     "sum": 116282885,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789629444089,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 870186,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chilly",
+      "normal_bettors": 3,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7089828,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Captain atlantis",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 116285013,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17032
+    },
+    "date": 1789629584121,
+    "duration": 84032,
+    "left": {
+      "bet_amount": 1530106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Obelix",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2145803,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "King arturo",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 116285014,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 810
+    },
+    "date": 1789629760333,
+    "duration": 120243,
+    "left": {
+      "bet_amount": 1412136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zekamasi",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5118603,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Koryu fu man",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 116267982,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789629904295,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 613128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Another agito",
+      "normal_bettors": 3,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7071311,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Mech-hisui EX",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 116267172,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44550
+    },
+    "date": 1789630050492,
+    "duration": 85997,
+    "left": {
+      "bet_amount": 1278092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1959710,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 6,
+      "name": "Mithra",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 116267171,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29474
+    },
+    "date": 1789630216694,
+    "duration": 112199,
+    "left": {
+      "bet_amount": 838318,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tatsuo shiki",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2765999,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Kusanagi xiii",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 116295580,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
