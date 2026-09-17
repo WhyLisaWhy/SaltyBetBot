@@ -349008,5 +349008,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789635745093,
+    "duration": 206197,
+    "left": {
+      "bet_amount": 53236,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eltnum srt",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 283918,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mech hisui iqs",
+      "normal_bettors": 28,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1840
+    },
+    "date": 1789636059295,
+    "duration": 250198,
+    "left": {
+      "bet_amount": 31975,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Mizuki rashoujin",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 247707,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Acirno_3.5",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 1840,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789636219494,
+    "duration": 94197,
+    "left": {
+      "bet_amount": 286019,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Johann EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 52839,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kat",
+      "normal_bettors": 10,
+      "win_streak": -10
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
