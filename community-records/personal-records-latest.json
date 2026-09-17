@@ -352248,5 +352248,113 @@
     "sum": 3722,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789659141896,
+    "duration": 340403,
+    "left": {
+      "bet_amount": 524634,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Wing gundam-z2",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 84182,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gohan grande normale",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789659411898,
+    "duration": 216004,
+    "left": {
+      "bet_amount": 299071,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 25,
+      "name": "Xiayu cvs",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145764,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Akaneko EX6",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2302
+    },
+    "date": 1789659616092,
+    "duration": 147999,
+    "left": {
+      "bet_amount": 400840,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Zebura",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 78568,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Red skull",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 2302,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2751
+    },
+    "date": 1789659932494,
+    "duration": 260399,
+    "left": {
+      "bet_amount": 150664,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gohan grande normale",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 412817,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 25,
+      "name": "Xiayu cvs",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 2751,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
