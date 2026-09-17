@@ -349791,5 +349791,113 @@
     "sum": 116480067,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40124
+    },
+    "date": 1789642100095,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 925185,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Cycloid omega q",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6943376,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Proto-omega",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 116488869,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11865
+    },
+    "date": 1789642280294,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 1135951,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nanoha takamachi",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6236555,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Latias",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 116777478,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28302
+    },
+    "date": 1789642540494,
+    "duration": 206177,
+    "left": {
+      "bet_amount": 933693,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kevin rian",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3579255,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Cable",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 116765613,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44966
+    },
+    "date": 1789642710693,
+    "duration": 106198,
+    "left": {
+      "bet_amount": 4668009,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Kenoh EX2",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 681076,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Aizen",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 116772939,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
