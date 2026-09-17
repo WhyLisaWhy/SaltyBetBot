@@ -350196,5 +350196,113 @@
     "sum": 116700720,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32132
+    },
+    "date": 1789644804294,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 1731333,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Haoumaru",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1879562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ky(ac)",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 116700721,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789644944494,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 3976348,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "King-kofm",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 805886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pyron",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 116700721,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18142
+    },
+    "date": 1789645118494,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 736436,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Balrog EX4",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7554089,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Elizabeth p4a",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 116729821,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5477
+    },
+    "date": 1789645344698,
+    "duration": 170006,
+    "left": {
+      "bet_amount": 938174,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vh_mami EX",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5174510,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 116731586,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
