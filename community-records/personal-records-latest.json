@@ -351438,5 +351438,113 @@
     "sum": 116738102,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26470
+    },
+    "date": 1789653000912,
+    "duration": 130222,
+    "left": {
+      "bet_amount": 1506698,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jumbo ozaki",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7086722,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kudora",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 116701663,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1159
+    },
+    "date": 1789653231098,
+    "duration": 170205,
+    "left": {
+      "bet_amount": 822314,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "No.6 ikazuchi",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3041867,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Angelg",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 116675193,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29772
+    },
+    "date": 1789653407094,
+    "duration": 119995,
+    "left": {
+      "bet_amount": 907381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mvc2 iceman",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2430691,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Elon catghost",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 116674034,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11413
+    },
+    "date": 1789653517292,
+    "duration": 49993,
+    "left": {
+      "bet_amount": 1316453,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Young geese neo",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3180957,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Wild.o.yashiro",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 116685014,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
