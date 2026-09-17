@@ -351708,5 +351708,140 @@
     "sum": 116796477,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17045
+    },
+    "date": 1789654694295,
+    "duration": 160189,
+    "left": {
+      "bet_amount": 2126443,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Older hihumi",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1631106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Aladdin",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 116768581,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40971
+    },
+    "date": 1789654894290,
+    "duration": 139996,
+    "left": {
+      "bet_amount": 622287,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Aboras",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3541489,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Jagi sama",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 116790573,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789655050496,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 2824416,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "95",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1551784,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Torao onigawara",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 117009340,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8449
+    },
+    "date": 1789655242693,
+    "duration": 148201,
+    "left": {
+      "bet_amount": 685859,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sora",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6829601,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Custom hsfa berabow man",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 117009339,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40067
+    },
+    "date": 1789655350695,
+    "duration": 56001,
+    "left": {
+      "bet_amount": 788450,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cecilia",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3435461,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Gogeta mvc",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 117010187,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
