@@ -352059,5 +352059,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2202
+    },
+    "date": 1789657424497,
+    "duration": 176202,
+    "left": {
+      "bet_amount": 105867,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rock EX",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 243633,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Fefnir",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 2202,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3151
+    },
+    "date": 1789657658494,
+    "duration": 180000,
+    "left": {
+      "bet_amount": 75489,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Wing gundam-z2",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 319112,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Aw shit, here we go again",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 3151,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15938
+    },
+    "date": 1789657974893,
+    "duration": 260199,
+    "left": {
+      "bet_amount": 220679,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gohan grande normale",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 186346,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Jubei",
+      "normal_bettors": 21,
+      "win_streak": 6
+    },
+    "sum": 15938,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
