@@ -348846,5 +348846,86 @@
     "sum": 116445218,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29870
+    },
+    "date": 1789633927556,
+    "duration": 122060,
+    "left": {
+      "bet_amount": 2283319,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Sonic the hedgehog",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1503369,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tokisada shirou amakusa",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 116516584,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18498
+    },
+    "date": 1789634061293,
+    "duration": 73505,
+    "left": {
+      "bet_amount": 1525563,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Grappler shiki",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2178083,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Cassie cage",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 116535997,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789634488093,
+    "duration": 156200,
+    "left": {
+      "bet_amount": 52076,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Elsa la conti",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112701,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Deluxe kung fu man",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
