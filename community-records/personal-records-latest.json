@@ -366955,5 +366955,113 @@
     "sum": 117571039,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789765383893,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 1281264,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tingle",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4027342,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Mystic gohan EX5",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 117574697,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789765539895,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 4277406,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Joe kusanagi aodk",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1901034,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Getsufuma",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 117574698,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39962
+    },
+    "date": 1789765734095,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 2276678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Mc'chris",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2727785,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Cecilia",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 117574699,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789766020339,
+    "duration": 220247,
+    "left": {
+      "bet_amount": 1441352,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Lambda",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3333270,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Megamami EX2",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 117534737,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
