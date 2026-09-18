@@ -358886,5 +358886,113 @@
     "sum": 116978627,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24580
+    },
+    "date": 1789708775094,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 5466455,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Sakazaki ryo",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1143358,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Miu kurosaki",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 116987143,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789708939095,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 1727839,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Latias",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2743239,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Haohmaru 98",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 116962563,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21674
+    },
+    "date": 1789709055293,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 4492051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Captain rolf",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1202810,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Liu kang",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 116962564,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36215
+    },
+    "date": 1789709185294,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 1087811,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Robocop",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6517311,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Chizuru 71113",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 116940890,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
