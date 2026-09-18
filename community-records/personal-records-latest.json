@@ -358211,5 +358211,113 @@
     "sum": 8922,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11683
+    },
+    "date": 1789703170690,
+    "duration": 260197,
+    "left": {
+      "bet_amount": 340446,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Sonans",
+      "normal_bettors": 29,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 57902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Wooden_doll",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 11683,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13605
+    },
+    "date": 1789703330696,
+    "duration": 100006,
+    "left": {
+      "bet_amount": 36188,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Burning futo",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 401505,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Joon deluxe",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 13605,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14792
+    },
+    "date": 1789703546892,
+    "duration": 156003,
+    "left": {
+      "bet_amount": 179174,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Sannomiya_shiho",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287876,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Miko EX",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 14792,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789703841090,
+    "duration": 234198,
+    "left": {
+      "bet_amount": 352094,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Princess nausicaa",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145254,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mictlan EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
