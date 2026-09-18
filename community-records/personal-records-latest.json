@@ -358319,5 +358319,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5268
+    },
+    "date": 1789704013289,
+    "duration": 112202,
+    "left": {
+      "bet_amount": 353766,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Vegeta ssb",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 195761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Azazel",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 5268,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8141
+    },
+    "date": 1789704253492,
+    "duration": 186203,
+    "left": {
+      "bet_amount": 113932,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Sonans",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 520151,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Joon deluxe",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 8141,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789704517694,
+    "duration": 200203,
+    "left": {
+      "bet_amount": 467849,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Miko EX",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 272239,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Mictlan EX",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789704737893,
+    "duration": 160205,
+    "left": {
+      "bet_amount": 579644,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Vegeta ssb",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 254209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Sonans",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
