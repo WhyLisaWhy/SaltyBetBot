@@ -362743,5 +362743,113 @@
     "sum": 116665531,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9755
+    },
+    "date": 1789735752294,
+    "duration": 75995,
+    "left": {
+      "bet_amount": 1133461,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "New arhan",
+      "normal_bettors": 5,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7611556,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Warlock 3",
+      "normal_bettors": 28,
+      "win_streak": 8
+    },
+    "sum": 116765871,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34681
+    },
+    "date": 1789735922490,
+    "duration": 114194,
+    "left": {
+      "bet_amount": 1572397,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jagyuta EX2",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2399869,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Dd jiemeihua",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 116767322,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25702
+    },
+    "date": 1789736142697,
+    "duration": 154200,
+    "left": {
+      "bet_amount": 3013147,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Rise kujikawa",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1145823,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sladegelmir",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 116732641,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789736272694,
+    "duration": 69996,
+    "left": {
+      "bet_amount": 1707569,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Goombario",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3504276,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mike Tyson IWBTG",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 116798747,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
