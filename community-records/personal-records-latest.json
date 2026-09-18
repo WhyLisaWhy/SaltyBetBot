@@ -366550,5 +366550,140 @@
     "sum": 117445046,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23438
+    },
+    "date": 1789762635694,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 1424420,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryu hd",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3084313,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Feilong sfa",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 117448450,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19415
+    },
+    "date": 1789762795895,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 2944101,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Orochi shermie",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1085394,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Blackheart",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 117459193,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10132
+    },
+    "date": 1789762965922,
+    "duration": 110028,
+    "left": {
+      "bet_amount": 6395855,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Rare Sophitia",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1363141,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alucard",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 117466304,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22905
+    },
+    "date": 1789763086093,
+    "duration": 66198,
+    "left": {
+      "bet_amount": 1975210,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Mr golem",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2249110,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ryo fu",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 117468461,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8560
+    },
+    "date": 1789763260298,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 4701999,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Syouzan matsuo",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1331768,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Vayeate",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "sum": 117445556,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
