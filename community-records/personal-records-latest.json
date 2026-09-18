@@ -367522,5 +367522,113 @@
     "sum": 3367,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6467
+    },
+    "date": 1789769725094,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 269212,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Dongon",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 208545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jet-stingray",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 6467,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11360
+    },
+    "date": 1789769951296,
+    "duration": 170003,
+    "left": {
+      "bet_amount": 434411,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Fire-donald",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128352,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jilche",
+      "normal_bettors": 14,
+      "win_streak": -11
+    },
+    "sum": 11360,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14631
+    },
+    "date": 1789770117491,
+    "duration": 110196,
+    "left": {
+      "bet_amount": 553051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Toatus",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 68981,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hyouken",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 14631,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789770261506,
+    "duration": 84012,
+    "left": {
+      "bet_amount": 177771,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 9,
+      "name": "Hotaru's bizarre adventure",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 178010,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yukkuri",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
