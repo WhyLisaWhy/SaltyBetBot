@@ -356834,5 +356834,113 @@
     "sum": 117356051,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10194
+    },
+    "date": 1789693494893,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 3125856,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Ferroman",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1184169,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Wolf",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 117356052,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30876
+    },
+    "date": 1789693841092,
+    "duration": 135999,
+    "left": {
+      "bet_amount": 1343117,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hagen EX7",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5989610,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Midler EX6",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 117359902,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27244
+    },
+    "date": 1789694031294,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1654592,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Shiki_tohno kofum",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1861652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kagura mutsuki",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 117329026,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18761
+    },
+    "date": 1789694171497,
+    "duration": 84205,
+    "left": {
+      "bet_amount": 1142633,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tamara",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6503475,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Shar-makai EX3",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 117301782,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
