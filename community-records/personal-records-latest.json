@@ -361314,5 +361314,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1695
+    },
+    "date": 1789725195893,
+    "duration": 296205,
+    "left": {
+      "bet_amount": 209868,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Orochi vega",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 197882,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yoma komatsu",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 1695,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3281
+    },
+    "date": 1789725376096,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 38146,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Lucifer 2",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 397713,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Dhalsim svc chaos",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 3281,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3594
+    },
+    "date": 1789725622292,
+    "duration": 186199,
+    "left": {
+      "bet_amount": 303093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ohosi nagisa",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 153558,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Jigglypuff EX2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 3594,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
