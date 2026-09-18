@@ -363526,5 +363526,86 @@
     "sum": 117033757,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31703
+    },
+    "date": 1789740440094,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1498542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Soldier ms",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3197340,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Alien guts",
+      "normal_bettors": 25,
+      "win_streak": 7
+    },
+    "sum": 117033756,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21673
+    },
+    "date": 1789740574294,
+    "duration": 80194,
+    "left": {
+      "bet_amount": 4746286,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Arajin god mk2",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1595262,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Felden crais",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 117048469,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 955
+    },
+    "date": 1789740844494,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 1477963,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Vegeta ssj5",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6438750,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Rei ayanami",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 117055721,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
