@@ -361395,5 +361395,113 @@
     "sum": 3594,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789725772297,
+    "duration": 95990,
+    "left": {
+      "bet_amount": 474084,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Houki gonjou",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 62036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Acid",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1753
+    },
+    "date": 1789725992494,
+    "duration": 159999,
+    "left": {
+      "bet_amount": 97519,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sf2 sean",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 483261,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Burstman",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1753,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2106
+    },
+    "date": 1789726206692,
+    "duration": 154197,
+    "left": {
+      "bet_amount": 74534,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Orochi vega",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 604706,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dhalsim svc chaos",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 2106,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789726412895,
+    "duration": 150167,
+    "left": {
+      "bet_amount": 327374,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ohosi nagisa",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 417152,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Houki gonjou",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
