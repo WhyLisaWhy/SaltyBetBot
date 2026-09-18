@@ -365821,5 +365821,140 @@
     "sum": 117404618,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42867
+    },
+    "date": 1789758192294,
+    "duration": 84202,
+    "left": {
+      "bet_amount": 3800381,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Gardener",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1573719,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Celsius",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "sum": 117416316,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22179
+    },
+    "date": 1789758458493,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 2121245,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kira yoshikage",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1807104,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Chip's challenge",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "sum": 117373449,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7585
+    },
+    "date": 1789758612495,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 6059787,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Mekazawa-sama",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1082719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Vegeta ssj4",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "sum": 117399168,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789758834693,
+    "duration": 166198,
+    "left": {
+      "bet_amount": 1457348,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mvc meep!?",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4079750,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Curehappy",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 117400522,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2328
+    },
+    "date": 1789758958895,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 1421840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bloodia EX2",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7216637,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Cyclone_nobita",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 117400523,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
