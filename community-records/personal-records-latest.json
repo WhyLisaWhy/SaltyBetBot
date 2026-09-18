@@ -357212,5 +357212,140 @@
     "sum": 117218419,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37015
+    },
+    "date": 1789696159092,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 1584495,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Misuzu",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1947820,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Prizm-star",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 117184723,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23369
+    },
+    "date": 1789696325095,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 957806,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Robert garcia EX2",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3477801,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Renne hayworth",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 117147708,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789696525293,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 2923114,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Lancer",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067370,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sentry ex",
+      "normal_bettors": 7,
+      "win_streak": -11
+    },
+    "sum": 117154101,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28887
+    },
+    "date": 1789696651493,
+    "duration": 66206,
+    "left": {
+      "bet_amount": 1172904,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Omni-psych chipp",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2650385,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Kaen",
+      "normal_bettors": 17,
+      "win_streak": -11
+    },
+    "sum": 117154102,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8135
+    },
+    "date": 1789696855695,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 1063623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Inuyasha mg",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5778111,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Aoko aozaki",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 117125215,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
