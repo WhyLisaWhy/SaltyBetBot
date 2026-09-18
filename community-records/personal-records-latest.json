@@ -361557,5 +361557,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29484
+    },
+    "date": 1789728456495,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 1093772,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Rera EX3",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3034526,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Gundam epyon",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 116848858,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789728646694,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 1348301,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Squirtle",
+      "normal_bettors": 16,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4013707,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "R2 prototype a",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 116819374,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41814
+    },
+    "date": 1789728816694,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 7178201,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Arrange kohaku",
+      "normal_bettors": 25,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1130554,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Colonel.exe",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "sum": 116819375,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18587
+    },
+    "date": 1789728976896,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1480583,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Anna ex",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2313338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Q-bee ex",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 116825923,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789729177095,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 5525307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Zangoose EX2",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1352458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Savage ryu hayabusa",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "sum": 116837725,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
