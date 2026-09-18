@@ -358427,5 +358427,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2228
+    },
+    "date": 1789704988291,
+    "duration": 190400,
+    "left": {
+      "bet_amount": 229096,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Miko EX",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 698243,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Vegeta ssb",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 2228,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
