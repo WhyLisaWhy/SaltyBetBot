@@ -364606,5 +364606,59 @@
     "sum": 2472,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2939
+    },
+    "date": 1789748232295,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 497575,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 22,
+      "name": "Black frost",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 262481,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rarity",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 2939,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789748478093,
+    "duration": 191799,
+    "left": {
+      "bet_amount": 284148,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Braun",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 653631,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Black frost",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
