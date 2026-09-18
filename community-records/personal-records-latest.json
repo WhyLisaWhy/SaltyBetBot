@@ -358157,5 +358157,59 @@
     "sum": 6767,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7284
+    },
+    "date": 1789702584090,
+    "duration": 189998,
+    "left": {
+      "bet_amount": 61621,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 266785,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Vegeta ssb",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 7284,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8922
+    },
+    "date": 1789702856295,
+    "duration": 212001,
+    "left": {
+      "bet_amount": 82830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shirou yusa",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 258760,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Azazel",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 8922,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
