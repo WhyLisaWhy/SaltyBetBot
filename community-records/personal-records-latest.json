@@ -362473,5 +362473,113 @@
     "sum": 116745086,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40784
+    },
+    "date": 1789734139095,
+    "duration": 124203,
+    "left": {
+      "bet_amount": 1086036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hawkgirl",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2934858,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Hoppou seiki",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 116712552,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 220
+    },
+    "date": 1789734285094,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 2057628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dragon_warrior(dnf) +q",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3601204,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kid gohan EX3",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 116671768,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20098
+    },
+    "date": 1789734455296,
+    "duration": 115992,
+    "left": {
+      "bet_amount": 1858590,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Dio S",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1757634,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Prosciutto",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116671894,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24865
+    },
+    "date": 1789734605492,
+    "duration": 84196,
+    "left": {
+      "bet_amount": 2928881,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Falco la pasione(nagiai)",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1177216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider garren",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "sum": 116651796,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
