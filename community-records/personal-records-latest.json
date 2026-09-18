@@ -361879,5 +361879,113 @@
     "sum": 116919804,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25592
+    },
+    "date": 1789730458096,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 2169185,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryu Master",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2151151,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Unyuho",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 116926051,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15542
+    },
+    "date": 1789730640294,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 4645388,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Pocket android 21",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1163342,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Death force",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 116900459,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789730764295,
+    "duration": 70005,
+    "left": {
+      "bet_amount": 5715955,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Benimaru EX3",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423113,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Omega rugal 98",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "sum": 116884917,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9390
+    },
+    "date": 1789730950493,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 1434293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pietro",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2825590,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Yuuki asuna",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 116884918,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
