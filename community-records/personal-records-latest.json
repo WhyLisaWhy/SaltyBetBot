@@ -367441,5 +367441,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1940
+    },
+    "date": 1789769080694,
+    "duration": 166197,
+    "left": {
+      "bet_amount": 286225,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Kaio helmo",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 52357,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yukkuri",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 1940,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789769300895,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 225571,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Rbff master geese",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 190911,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Tabuu sumin",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3367
+    },
+    "date": 1789769531090,
+    "duration": 176197,
+    "left": {
+      "bet_amount": 220737,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Baiken(ac)",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236430,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Frieza dbs",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 3367,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
