@@ -367630,5 +367630,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3089
+    },
+    "date": 1789770581903,
+    "duration": 264210,
+    "left": {
+      "bet_amount": 365960,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 16,
+      "name": "Tabuu sumin",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 105302,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Frieza dbs",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 3089,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3971
+    },
+    "date": 1789770791893,
+    "duration": 154003,
+    "left": {
+      "bet_amount": 419826,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 17,
+      "name": "Dongon",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128409,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fire-donald",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 3971,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
