@@ -357779,5 +357779,113 @@
     "sum": 117045713,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32780
+    },
+    "date": 1789699719895,
+    "duration": 64001,
+    "left": {
+      "bet_amount": 2539203,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Yawara",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1527749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Black glass",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 117059651,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26882
+    },
+    "date": 1789699880095,
+    "duration": 99980,
+    "left": {
+      "bet_amount": 1262451,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mishio & makoto",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6923716,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "A-minagi",
+      "normal_bettors": 27,
+      "win_streak": 8
+    },
+    "sum": 117026871,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15507
+    },
+    "date": 1789700040303,
+    "duration": 104180,
+    "left": {
+      "bet_amount": 1246955,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alice smt",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4491053,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Suparfcmeirin ver.1.15",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 117031754,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34254
+    },
+    "date": 1789700346492,
+    "duration": 180197,
+    "left": {
+      "bet_amount": 1421960,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Ferroman",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1345380,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Captain_heart",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117036045,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
