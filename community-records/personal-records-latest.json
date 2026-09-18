@@ -361098,5 +361098,86 @@
     "sum": 116860199,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789723030093,
+    "duration": 77999,
+    "left": {
+      "bet_amount": 14096693,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Amakusa",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 740794,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tidus",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 116829377,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25638
+    },
+    "date": 1789723161527,
+    "duration": 79235,
+    "left": {
+      "bet_amount": 1470407,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 6,
+      "name": "Felicia EX2",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2076019,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Asuka tmnt remix",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 116829376,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789723628695,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 97818,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ohosi nagisa",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55677,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Resistance",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
