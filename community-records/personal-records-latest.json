@@ -359156,5 +359156,113 @@
     "sum": 116803704,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40325
+    },
+    "date": 1789710502299,
+    "duration": 74006,
+    "left": {
+      "bet_amount": 1397171,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Mewtwo ex",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3708165,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Tetrisman",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 116827218,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47480
+    },
+    "date": 1789710718494,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 1327247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sorluska",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3225689,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Holy god earth svg",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 116786893,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789710972693,
+    "duration": 199997,
+    "left": {
+      "bet_amount": 6332619,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Joker_shiki",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1083290,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "The mighty thor",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 116739413,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20435
+    },
+    "date": 1789711132894,
+    "duration": 104002,
+    "left": {
+      "bet_amount": 2193685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ex-kyo",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3056600,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Gertrud",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "sum": 116739414,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
