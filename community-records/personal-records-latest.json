@@ -358454,5 +358454,140 @@
     "sum": 2228,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789705980895,
+    "duration": 86203,
+    "left": {
+      "bet_amount": 1673909,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Masaki anzu",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2766767,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Rick",
+      "normal_bettors": 21,
+      "win_streak": -7
+    },
+    "sum": 116965638,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18330
+    },
+    "date": 1789706191094,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 1806713,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Blue worker",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2821850,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Order-sol",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 116965637,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16006
+    },
+    "date": 1789706311091,
+    "duration": 65997,
+    "left": {
+      "bet_amount": 14661009,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Extra usapi-",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1226592,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Masked rider 1st",
+      "normal_bettors": 7,
+      "win_streak": -12
+    },
+    "sum": 116993979,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39745
+    },
+    "date": 1789706465293,
+    "duration": 94202,
+    "left": {
+      "bet_amount": 1259815,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chinese doge",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4367582,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Medusa",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 116995317,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28676
+    },
+    "date": 1789706627293,
+    "duration": 102001,
+    "left": {
+      "bet_amount": 2044847,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Wong_fei_h",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2134856,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chad EX7",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 116955572,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
