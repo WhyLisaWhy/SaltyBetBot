@@ -365443,5 +365443,113 @@
     "sum": 117315591,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42405
+    },
+    "date": 1789755564093,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1186369,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Evil reiji oyama",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2049841,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Buguu",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 117327839,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1307
+    },
+    "date": 1789755734294,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 2680646,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Orochi vega",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1062502,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Very gregariously",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 117285434,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30419
+    },
+    "date": 1789755914492,
+    "duration": 126197,
+    "left": {
+      "bet_amount": 1797519,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Joker_nanaya",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2282409,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Sissy EX3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 117285952,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35261
+    },
+    "date": 1789756104562,
+    "duration": 130034,
+    "left": {
+      "bet_amount": 1494353,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Deluxe lin",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10129943,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Taokaka",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 117309594,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
