@@ -359723,5 +359723,113 @@
     "sum": 116724479,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9088
+    },
+    "date": 1789714239295,
+    "duration": 172001,
+    "left": {
+      "bet_amount": 3676657,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Shinryu zero",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1298799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "The king of terror",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116698220,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28305
+    },
+    "date": 1789714389494,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 2722545,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Maximum seraph",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1473331,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Eagle-sabu",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 116689132,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12274
+    },
+    "date": 1789714593692,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 1386173,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Light the hedgehog",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3949748,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Fluttershy",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "sum": 116704292,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29802
+    },
+    "date": 1789714769893,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 990433,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ghetto Warmachine 420",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4803436,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Tora shou",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 116708587,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
