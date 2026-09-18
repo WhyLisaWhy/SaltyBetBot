@@ -364201,5 +364201,59 @@
     "sum": 117403026,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35594
+    },
+    "date": 1789744931701,
+    "duration": 150205,
+    "left": {
+      "bet_amount": 2114869,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shermie bc",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2031143,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Biollente",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 117355234,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1849
+    },
+    "date": 1789745075296,
+    "duration": 83602,
+    "left": {
+      "bet_amount": 1633795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sakura haruno shippuden",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4785981,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Deluxe chipp",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 117391657,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
