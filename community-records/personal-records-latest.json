@@ -363607,5 +363607,140 @@
     "sum": 117055721,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27562
+    },
+    "date": 1789741020496,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 1091901,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sailor jupiter EX2",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4466336,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kim hoon EX",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 117055941,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18687
+    },
+    "date": 1789741226695,
+    "duration": 155944,
+    "left": {
+      "bet_amount": 2954123,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hamburglar",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2016600,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Darth vader",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 117165906,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16929
+    },
+    "date": 1789741396896,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 4074203,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Suika_pon",
+      "normal_bettors": 24,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1381055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mvc2 megaman",
+      "normal_bettors": 10,
+      "win_streak": 7
+    },
+    "sum": 117178583,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20533
+    },
+    "date": 1789741557094,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 3594294,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Ermac mk2",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1686575,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Grox",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "sum": 117161654,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18194
+    },
+    "date": 1789741831293,
+    "duration": 220199,
+    "left": {
+      "bet_amount": 2658631,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1910036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Radish ssj4",
+      "normal_bettors": 14,
+      "win_streak": 5
+    },
+    "sum": 117141121,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
