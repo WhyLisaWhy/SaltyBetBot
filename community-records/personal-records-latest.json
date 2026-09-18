@@ -360018,5 +360018,113 @@
     "sum": 116682364,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27825
+    },
+    "date": 1789716026699,
+    "duration": 120008,
+    "left": {
+      "bet_amount": 1108297,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ninja nwa",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6165481,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Mr.karate EX2",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 116706981,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44824
+    },
+    "date": 1789716240892,
+    "duration": 154004,
+    "left": {
+      "bet_amount": 3959913,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Serena corsair",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1440038,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Pyron",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 116711961,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31996
+    },
+    "date": 1789716381095,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 2729203,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Ada wong",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1778282,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jack krauser",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 116667137,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21496
+    },
+    "date": 1789716567092,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 2093759,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zphiroude",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2963775,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Sissy ex",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 116687744,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
