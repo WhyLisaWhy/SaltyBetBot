@@ -373435,5 +373435,84 @@
     "sum": 117504950,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1789817633755,
+    "duration": 112800,
+    "left": {
+      "bet_amount": 15718,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Hedorah",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 8554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Kazama kazuki",
+      "normal_bettors": 2,
+      "win_streak": 7
+    },
+    "sum": 117496264,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789818083355,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 42776,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rinrin",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 123141,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Mai_ff3rb",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2082
+    },
+    "date": 1789818277556,
+    "duration": 140134,
+    "left": {
+      "bet_amount": 150635,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Omake",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65517,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jaguar junichi",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 2082,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
