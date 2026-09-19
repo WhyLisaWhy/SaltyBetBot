@@ -368332,5 +368332,113 @@
     "sum": 117608834,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19234
+    },
+    "date": 1789780053152,
+    "duration": 141980,
+    "left": {
+      "bet_amount": 5709228,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Asutorea",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2421502,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Johnny cage EX",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 117609194,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789780225353,
+    "duration": 111996,
+    "left": {
+      "bet_amount": 5090265,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kulate kenji",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366672,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Waha- EX3",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "sum": 117589960,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789780423554,
+    "duration": 146196,
+    "left": {
+      "bet_amount": 1310124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Billy 'big bang' blitz",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2848328,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Yong-taiga",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 117589961,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13041
+    },
+    "date": 1789780603758,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 1298204,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Soul king brook",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6744326,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Kamek EX3",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 117589960,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
