@@ -371059,5 +371059,86 @@
     "sum": 117299449,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19604
+    },
+    "date": 1789802466953,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 1236527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chin taimei",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3165404,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "M.a.d",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 117278642,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40867
+    },
+    "date": 1789802708952,
+    "duration": 181999,
+    "left": {
+      "bet_amount": 2056257,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rinrin",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5083059,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Susie haltmann",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 117286253,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40537
+    },
+    "date": 1789802853153,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 5323412,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Weiss schnee",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1137120,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hiryu",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 117245386,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
