@@ -372895,5 +372895,140 @@
     "sum": 117606085,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15436
+    },
+    "date": 1789813996155,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 1537497,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dies",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2224990,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Destiny.dio",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 117579774,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1837
+    },
+    "date": 1789814126155,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 4011330,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Zantetsu ex",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1100666,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kou EX",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "sum": 117564338,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35857
+    },
+    "date": 1789814332354,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 1115268,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kain r. heinlein",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4181638,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Alt(hana-ai)",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 117564842,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789814518555,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 1135695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ume_age18",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6815261,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Anonym-guard",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 117528985,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28866
+    },
+    "date": 1789814702757,
+    "duration": 126205,
+    "left": {
+      "bet_amount": 1227939,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shiteyannyo",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4693312,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ozma the jawbreaker",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 117528986,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
