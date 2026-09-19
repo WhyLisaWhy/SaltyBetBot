@@ -372301,5 +372301,167 @@
     "sum": 117703957,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32960
+    },
+    "date": 1789810259158,
+    "duration": 70186,
+    "left": {
+      "bet_amount": 1393850,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pietro",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2253450,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Sektor umk3",
+      "normal_bettors": 17,
+      "win_streak": -7
+    },
+    "sum": 117706109,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19907
+    },
+    "date": 1789810421155,
+    "duration": 101998,
+    "left": {
+      "bet_amount": 6472359,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Faust(ac)",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1066960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kamishiro_aya",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "sum": 117758165,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14897
+    },
+    "date": 1789810601363,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 1175409,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sirius",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3634092,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Meiya_striker",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 117738258,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 974
+    },
+    "date": 1789810791554,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 4894606,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Wolverine 71113 i",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1228040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sakagami tomoyo",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 117743057,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789810947555,
+    "duration": 102003,
+    "left": {
+      "bet_amount": 1413201,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Isaiah bradley",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8267969,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Tam-tam nrf",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 117746936,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20158
+    },
+    "date": 1789811101752,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 2180561,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Nightwolf mk3",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1842316,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Tarochan",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 117746935,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
