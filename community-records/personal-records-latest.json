@@ -368710,5 +368710,113 @@
     "sum": 117495592,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42230
+    },
+    "date": 1789782591354,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 2239919,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Alvin the chipmunk",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1461068,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Super better luigi",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 117495593,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20292
+    },
+    "date": 1789782771355,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2969307,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Waka moto man",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1662997,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Celesty",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 117453363,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43881
+    },
+    "date": 1789782981556,
+    "duration": 153999,
+    "left": {
+      "bet_amount": 1413393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Copy marisa",
+      "normal_bettors": 8,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3023411,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Warlock",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 117433071,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789783117755,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 3595602,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kouma kishima",
+      "normal_bettors": 10,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2655887,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Tails",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 117389190,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
