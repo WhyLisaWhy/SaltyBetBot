@@ -370762,5 +370762,32 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789800435354,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 3357098,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Jin CVS",
+      "normal_bettors": 13,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1946270,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Garlic jr",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "sum": 117335544,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
