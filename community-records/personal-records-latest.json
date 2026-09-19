@@ -369871,5 +369871,113 @@
     "sum": 117363546,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25356
+    },
+    "date": 1789789827152,
+    "duration": 134180,
+    "left": {
+      "bet_amount": 4440200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "D-miyako",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1911052,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ugly raditz",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 117371574,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789789987152,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1212494,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Freedom -meteor-",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 20635288,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Rasetsu",
+      "normal_bettors": 30,
+      "win_streak": 12
+    },
+    "sum": 117346218,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789790135352,
+    "duration": 88197,
+    "left": {
+      "bet_amount": 16300163,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Sagat",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1124742,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Hyper kagami",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "sum": 117346219,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789790333354,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1727353,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mephiles the dark",
+      "normal_bettors": 15,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2885055,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Hazama",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 117346220,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
