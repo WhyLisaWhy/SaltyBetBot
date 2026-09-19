@@ -376943,5 +376943,32 @@
     "sum": 35413,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789843341152,
+    "duration": 163799,
+    "left": {
+      "bet_amount": 411750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Remilia scarlet",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 472233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Yuri lowell",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
