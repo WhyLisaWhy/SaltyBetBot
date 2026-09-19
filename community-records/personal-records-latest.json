@@ -368440,5 +368440,113 @@
     "sum": 117589960,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15267
+    },
+    "date": 1789780767756,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1274949,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ksitigarbha ikkyu",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3880864,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Lucina",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 117576919,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21628
+    },
+    "date": 1789780913957,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 1201320,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yunalesca",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2869199,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Toguro 101%",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 117581915,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13970
+    },
+    "date": 1789781128157,
+    "duration": 154204,
+    "left": {
+      "bet_amount": 2421427,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Faust(ac)",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1694770,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lilica felchenerow",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 117590903,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7297
+    },
+    "date": 1789781344352,
+    "duration": 156196,
+    "left": {
+      "bet_amount": 1496528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Steven seagal",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2598701,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Geki de oso",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 117576933,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
