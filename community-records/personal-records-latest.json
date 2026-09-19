@@ -376646,5 +376646,140 @@
     "sum": 2809,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3783
+    },
+    "date": 1789840943570,
+    "duration": 120016,
+    "left": {
+      "bet_amount": 233703,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Makoto mizoguchi",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 62998,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Setsuna hsr",
+      "normal_bettors": 21,
+      "win_streak": -8
+    },
+    "sum": 3783,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789841123754,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 107951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Megaman.exe EX",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 195461,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yuri lowell",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789841323955,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 130120,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Wai",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 237826,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Trunks EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789841624152,
+    "duration": 244194,
+    "left": {
+      "bet_amount": 227066,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Galford",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138423,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Royal guard",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2489
+    },
+    "date": 1789841860354,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 114600,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Task force despero",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 359315,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dark phoenix",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 2489,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
