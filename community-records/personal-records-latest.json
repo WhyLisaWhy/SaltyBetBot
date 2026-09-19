@@ -375647,5 +375647,140 @@
     "sum": 117530179,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17231
+    },
+    "date": 1789833837953,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 2778543,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Temjin 747j",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1160616,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fortissimo",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 117521240,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21488
+    },
+    "date": 1789834062156,
+    "duration": 160203,
+    "left": {
+      "bet_amount": 5164044,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Order-sol",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1388229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Evil talon",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117528394,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29998
+    },
+    "date": 1789834298357,
+    "duration": 186204,
+    "left": {
+      "bet_amount": 2451907,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Touko matsudaira",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1370773,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Cyborg kung fu man",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 117506906,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1431
+    },
+    "date": 1789834442549,
+    "duration": 90194,
+    "left": {
+      "bet_amount": 2469066,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Sf1 evil ryu",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1563037,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Presea combatir",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 117476908,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789834642555,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 2844543,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1151285,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Marisa EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 117477814,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
