@@ -375377,5 +375377,113 @@
     "sum": 117450563,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18750
+    },
+    "date": 1789832054557,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1064732,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hi_guma",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5648343,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Fake okami",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 117493428,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789832184758,
+    "duration": 76201,
+    "left": {
+      "bet_amount": 2393918,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Syo hayate EX",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1575678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Thawk sfa",
+      "normal_bettors": 10,
+      "win_streak": -7
+    },
+    "sum": 117496951,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 528
+    },
+    "date": 1789832354754,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1593301,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Elsa_la_conti",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3413065,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Gorunks ssj4",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 117496952,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24174
+    },
+    "date": 1789832524954,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 2981567,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Raoh-jp",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1511509,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ultimate aizen",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 117497199,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
