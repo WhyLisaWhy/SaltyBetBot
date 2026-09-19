@@ -373030,5 +373030,113 @@
     "sum": 117528986,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20118
+    },
+    "date": 1789814912754,
+    "duration": 149985,
+    "left": {
+      "bet_amount": 2547798,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Syuren kano",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1231761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Seven",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117536493,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789815076957,
+    "duration": 110007,
+    "left": {
+      "bet_amount": 1091851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chonshu 02um",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4158906,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Hugo EX",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 117546144,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34913
+    },
+    "date": 1789815207157,
+    "duration": 70197,
+    "left": {
+      "bet_amount": 1547637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sakura svc chaos",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3129555,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Youko",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 117546145,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789815407155,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 2211523,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Eri hasumi",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7999602,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Antlar",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 117511232,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
