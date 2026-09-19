@@ -373703,5 +373703,140 @@
     "sum": 5245,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789820385155,
+    "duration": 254198,
+    "left": {
+      "bet_amount": 125386,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bonus kun EX2",
+      "normal_bettors": 14,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 470944,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Rugal rotd",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1962
+    },
+    "date": 1789820601356,
+    "duration": 190201,
+    "left": {
+      "bet_amount": 499215,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Steel",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 104452,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dark baltan",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1962,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789820847553,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 101843,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Erim",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 445640,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Gesrenst",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1903
+    },
+    "date": 1789821087755,
+    "duration": 186179,
+    "left": {
+      "bet_amount": 262109,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Omake",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 306356,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Rugal rotd",
+      "normal_bettors": 21,
+      "win_streak": 6
+    },
+    "sum": 1903,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4112
+    },
+    "date": 1789821181755,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 121027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Dark baltan",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 542818,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Gesrenst",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 4112,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
