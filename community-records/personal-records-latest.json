@@ -371923,5 +371923,113 @@
     "sum": 117483333,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21277
+    },
+    "date": 1789807751150,
+    "duration": 120175,
+    "left": {
+      "bet_amount": 1295437,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rosemary applefield",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3053026,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Blizzard",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 117561631,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16901
+    },
+    "date": 1789807891166,
+    "duration": 80010,
+    "left": {
+      "bet_amount": 1048474,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rozwel",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5305521,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Dopefish",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 117610966,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28567
+    },
+    "date": 1789808121356,
+    "duration": 170204,
+    "left": {
+      "bet_amount": 2509643,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2333060,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Toguro 101%",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 117614296,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23408
+    },
+    "date": 1789808307553,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 3200586,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Bike myson sr.",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1066311,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lucifer of pride",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 117644654,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
