@@ -370141,5 +370141,140 @@
     "sum": 117337555,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28715
+    },
+    "date": 1789791530356,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 1449076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shin",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3928269,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Ex-aid",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 117337638,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2343
+    },
+    "date": 1789791710559,
+    "duration": 120203,
+    "left": {
+      "bet_amount": 16687626,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Crashman",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1374139,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "George goodlake",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 117348154,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18751
+    },
+    "date": 1789791866752,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 6903192,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Sakuya ex",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1305328,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Oboren",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 117348347,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23155
+    },
+    "date": 1789792070754,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 1312889,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sledge",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5397289,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Yaruo_aa",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 117351884,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10602
+    },
+    "date": 1789792231036,
+    "duration": 104085,
+    "left": {
+      "bet_amount": 4680888,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Rockula",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1152784,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Geese 98",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 117357493,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
