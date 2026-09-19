@@ -376781,5 +376781,113 @@
     "sum": 2489,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3278
+    },
+    "date": 1789842060556,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 363355,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ares",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 52956,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aztec falcon",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 3278,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3752
+    },
+    "date": 1789842224553,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 378916,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Remilia scarlet",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 171294,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Setsuna hsr",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 3752,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5432
+    },
+    "date": 1789842430752,
+    "duration": 145993,
+    "left": {
+      "bet_amount": 259809,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Yuri lowell",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 183823,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Wai",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 5432,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9197
+    },
+    "date": 1789842710952,
+    "duration": 224162,
+    "left": {
+      "bet_amount": 355339,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Galford",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 223297,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dark phoenix",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 9197,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
