@@ -375782,5 +375782,113 @@
     "sum": 117477814,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31198
+    },
+    "date": 1789834788756,
+    "duration": 85993,
+    "left": {
+      "bet_amount": 1315005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nike & kukuri",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2467296,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kasen EX",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 117477817,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43732
+    },
+    "date": 1789834994957,
+    "duration": 136203,
+    "left": {
+      "bet_amount": 1106908,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chargeman ken!",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2076397,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Mike tyson",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 117446619,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789835181152,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 2494584,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Megaman",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3355592,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ditto EX3",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 117402887,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42423
+    },
+    "date": 1789835375355,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 1037929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Orochi ball",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4177908,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Special edition rock",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 117402888,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
