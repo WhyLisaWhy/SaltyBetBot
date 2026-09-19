@@ -376295,5 +376295,140 @@
     "sum": 117577798,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20335
+    },
+    "date": 1789838123356,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 2520019,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Albion",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1678722,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Death battle sakuya",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 117587487,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26006
+    },
+    "date": 1789838309555,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 4209385,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Waldstein",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1309204,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "W.nut",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 117600925,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33008
+    },
+    "date": 1789838479754,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 1865858,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Samchay ex",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2180514,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Chaos satellite",
+      "normal_bettors": 11,
+      "win_streak": 5
+    },
+    "sum": 117608964,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 872
+    },
+    "date": 1789838669753,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 1473069,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rouga-zanma",
+      "normal_bettors": 9,
+      "win_streak": -20
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7162980,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Plastic man",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 117575956,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1633
+    },
+    "date": 1789838819955,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 3340190,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Erimaki",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1008773,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Thawk sfa",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "sum": 117576136,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
