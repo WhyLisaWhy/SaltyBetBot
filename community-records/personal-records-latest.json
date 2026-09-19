@@ -377807,5 +377807,113 @@
     "sum": 117479659,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30349
+    },
+    "date": 1789852807154,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 2198275,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kanaka",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366774,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hoshikage",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 117511852,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789853069351,
+    "duration": 206198,
+    "left": {
+      "bet_amount": 2659746,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Reimu hakurei rp",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1499282,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Gtus",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 117481503,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789853245569,
+    "duration": 122215,
+    "left": {
+      "bet_amount": 6519963,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Duck hunt dog",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1714545,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Hisui&kohaku",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "sum": 117481502,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35810
+    },
+    "date": 1789853373554,
+    "duration": 69995,
+    "left": {
+      "bet_amount": 5006104,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Evil karin",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2084541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ex-robert garcia",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 117481503,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
