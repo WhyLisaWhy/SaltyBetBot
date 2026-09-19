@@ -374162,5 +374162,140 @@
     "sum": 117433352,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28761
+    },
+    "date": 1789824798753,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 3214030,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Taki EX3",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1598681,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sagat f22",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 117449678,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789824992955,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 1453491,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Pocket Mario",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3186536,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dk",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 117463858,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17316
+    },
+    "date": 1789825142954,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1315873,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sf4 ryu",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2290693,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kagami EX2",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 117463859,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31485
+    },
+    "date": 1789825309153,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1512777,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shampoo",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2052620,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Satsuki vp EX3",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 117446543,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1232
+    },
+    "date": 1789825449151,
+    "duration": 89978,
+    "left": {
+      "bet_amount": 12432806,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Mini vanilla ice",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1187039,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Leopaldon",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 117415058,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
