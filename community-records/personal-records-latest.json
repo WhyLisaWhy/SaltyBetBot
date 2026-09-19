@@ -377510,5 +377510,113 @@
     "sum": 117513961,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1511
+    },
+    "date": 1789850999556,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 1473323,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bristol weller",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3225275,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Zangief EX3",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "sum": 117475061,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30937
+    },
+    "date": 1789851229756,
+    "duration": 176002,
+    "left": {
+      "bet_amount": 1604491,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pentagon & black hole",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3711211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Mvc3 alice buster",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 117473550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19213
+    },
+    "date": 1789851355953,
+    "duration": 72195,
+    "left": {
+      "bet_amount": 1149958,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sensei karate kenji",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6075005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Awakened-clark",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 117442613,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789851519956,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 2785411,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Babyd!",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1885543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Dark Slayer",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 117446239,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
