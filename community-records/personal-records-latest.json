@@ -377402,5 +377402,113 @@
     "sum": 117538538,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31177
+    },
+    "date": 1789850086955,
+    "duration": 84201,
+    "left": {
+      "bet_amount": 5188782,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Shindo tamaki",
+      "normal_bettors": 28,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1745677,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Garagaranda",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 117499544,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4993
+    },
+    "date": 1789850268947,
+    "duration": 119995,
+    "left": {
+      "bet_amount": 1056933,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mion sonozaki",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6478353,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Sun god",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 117509971,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19165
+    },
+    "date": 1789850579357,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 1141376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Puppet yukino",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6869184,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Mango sentinel",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 117510785,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38900
+    },
+    "date": 1789850789554,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 3062832,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Arrange sion",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1482351,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Chip's challenge",
+      "normal_bettors": 14,
+      "win_streak": 7
+    },
+    "sum": 117513961,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
