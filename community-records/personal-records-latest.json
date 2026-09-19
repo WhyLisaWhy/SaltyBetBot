@@ -373595,5 +373595,113 @@
     "sum": 2395,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2805
+    },
+    "date": 1789819284357,
+    "duration": 316201,
+    "left": {
+      "bet_amount": 47133,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Alpaca suri",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 321947,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dark baltan",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 2805,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3213
+    },
+    "date": 1789819510555,
+    "duration": 172198,
+    "left": {
+      "bet_amount": 132385,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rushim",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267220,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Erim",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 3213,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4786
+    },
+    "date": 1789819774756,
+    "duration": 204202,
+    "left": {
+      "bet_amount": 42304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yoshi ssbb",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 436412,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Gesrenst",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 4786,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5245
+    },
+    "date": 1789820074957,
+    "duration": 244201,
+    "left": {
+      "bet_amount": 223907,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mai_ff3rb",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267233,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Omake",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 5245,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
