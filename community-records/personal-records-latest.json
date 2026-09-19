@@ -369736,5 +369736,140 @@
     "sum": 117391861,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789788896353,
+    "duration": 46180,
+    "left": {
+      "bet_amount": 1058316,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sadistic sea lion",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3047361,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Gp-02 physalis",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 117391862,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 227
+    },
+    "date": 1789789086355,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1176897,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Misaka",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5209602,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Dirty heart",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 117391863,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37763
+    },
+    "date": 1789789232556,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 1402485,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "The mask of ero",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3601706,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "All for one",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 117391915,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31752
+    },
+    "date": 1789789382756,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 5599537,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Robert nbc",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1665920,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sf4 omni",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117354152,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21233
+    },
+    "date": 1789789636953,
+    "duration": 194199,
+    "left": {
+      "bet_amount": 3612122,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Weiss-ritter",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1373643,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kyko",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 117363546,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
