@@ -369115,5 +369115,140 @@
     "sum": 117648382,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3682
+    },
+    "date": 1789785221356,
+    "duration": 89979,
+    "left": {
+      "bet_amount": 2542022,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "K9999-kofm",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1397974,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Gekka suika",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 117648381,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24665
+    },
+    "date": 1789785391553,
+    "duration": 110153,
+    "left": {
+      "bet_amount": 1295547,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shadow fiend",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3160571,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Orochi reichel",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 117644699,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789785575557,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 1259923,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "A-utsuho",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2585422,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Overcoat kars",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 117620034,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28908
+    },
+    "date": 1789785731754,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1008188,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kunoichi nwa",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2975634,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Victor ortega",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 117620035,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 554
+    },
+    "date": 1789785975953,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 2007077,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mevella",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2070631,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Supernovice",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 117591127,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
