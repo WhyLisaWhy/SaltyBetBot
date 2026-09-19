@@ -370411,5 +370411,86 @@
     "sum": 3452,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4547
+    },
+    "date": 1789793493955,
+    "duration": 256201,
+    "left": {
+      "bet_amount": 265742,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Susie",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Heart",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 4547,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6295
+    },
+    "date": 1789793854148,
+    "duration": 300197,
+    "left": {
+      "bet_amount": 300103,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Kirigamine kiriko_k",
+      "normal_bettors": 21,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 114323,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Supreme gogeta v1.5",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 6295,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21958
+    },
+    "date": 1789794000353,
+    "duration": 92201,
+    "left": {
+      "bet_amount": 192158,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Senbei master",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 232185,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "King_leo",
+      "normal_bettors": 26,
+      "win_streak": -8
+    },
+    "sum": 21958,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
