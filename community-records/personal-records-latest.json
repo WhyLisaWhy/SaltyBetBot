@@ -370276,5 +370276,140 @@
     "sum": 117357493,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789792421154,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 1138510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Maccho",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7482168,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Cco",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 117346891,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16875
+    },
+    "date": 1789792571153,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1996834,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sissy ex",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2752339,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Master moriya",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 117346892,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11974
+    },
+    "date": 1789792695760,
+    "duration": 68608,
+    "left": {
+      "bet_amount": 1166576,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rock robot",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4145354,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Elite zaku",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 117330017,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789793043552,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 121595,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "B_chun-li",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 97567,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "M-griffon",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3452
+    },
+    "date": 1789793183754,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 75837,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Genocide rugal",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 235836,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Rokudo k.",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 3452,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
