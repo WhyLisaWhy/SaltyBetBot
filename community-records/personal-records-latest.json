@@ -376025,5 +376025,167 @@
     "sum": 117545655,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789836431956,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 3786854,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Blue colonel",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1572303,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Turn-x",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 117554057,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789836632155,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 3542430,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Micky13",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1394479,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Terry ex02",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 117554058,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789836778352,
+    "duration": 91999,
+    "left": {
+      "bet_amount": 6196917,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Zx",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1228548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mayor of earth",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 117554061,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18969
+    },
+    "date": 1789836966554,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 3000969,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Gliformoth EX3",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1301761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kunoichi nwa",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 117554062,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38083
+    },
+    "date": 1789837122556,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 3415800,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Miduma EX3",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1686253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Raoh",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 117562239,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1191
+    },
+    "date": 1789837256756,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 3111006,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Zangief EX3",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1338068,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jyuzumaru",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 117580832,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
