@@ -376565,5 +376565,86 @@
     "sum": 117592379,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789840162953,
+    "duration": 155998,
+    "left": {
+      "bet_amount": 51401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Lf2 - woody",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 129830,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Ares",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2157
+    },
+    "date": 1789840533354,
+    "duration": 310406,
+    "left": {
+      "bet_amount": 52264,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Blaze agent",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 170911,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Aztec falcon",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 2157,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2809
+    },
+    "date": 1789840763557,
+    "duration": 176203,
+    "left": {
+      "bet_amount": 178353,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Remilia scarlet",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 62798,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Aska EX2",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 2809,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
