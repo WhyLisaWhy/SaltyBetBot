@@ -370789,5 +370789,113 @@
     "sum": 117335544,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27025
+    },
+    "date": 1789800729555,
+    "duration": 230203,
+    "left": {
+      "bet_amount": 3403378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Linne",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1779386,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Twitch waifu chan-sd",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 117335543,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24543
+    },
+    "date": 1789800985755,
+    "duration": 196169,
+    "left": {
+      "bet_amount": 2337616,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Smug dudley",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2692742,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Waldstein",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 117308518,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12980
+    },
+    "date": 1789801085752,
+    "duration": 46000,
+    "left": {
+      "bet_amount": 1068445,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ring-less",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11075413,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Atomos",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "sum": 117329632,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25518
+    },
+    "date": 1789801309958,
+    "duration": 164207,
+    "left": {
+      "bet_amount": 5168462,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 12,
+      "name": "Titi",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 442145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bang EX2",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "sum": 117330883,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
