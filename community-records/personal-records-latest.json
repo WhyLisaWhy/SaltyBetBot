@@ -373865,5 +373865,113 @@
     "sum": 21949,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18777
+    },
+    "date": 1789822995355,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 1272119,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Titan the great",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3922663,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Omega svc",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 117539731,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3504
+    },
+    "date": 1789823135354,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1208528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Doppo orochi",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6974501,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Small chibi-moon",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "sum": 117520954,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42698
+    },
+    "date": 1789823281554,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 2678493,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Rin_tohsaka",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096352,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kung fu men",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 117521561,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15575
+    },
+    "date": 1789823485748,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 3357292,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Yuno gasai",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096669,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Foxy the pirate",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "sum": 117478863,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
