@@ -376187,5 +376187,113 @@
     "sum": 117580832,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32054
+    },
+    "date": 1789837408754,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1872961,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shoto rockman x",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2679081,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "2nd mr. karate",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 117581345,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18435
+    },
+    "date": 1789837568958,
+    "duration": 106003,
+    "left": {
+      "bet_amount": 1648143,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Himrio",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2503957,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "First role mayu",
+      "normal_bettors": 28,
+      "win_streak": -7
+    },
+    "sum": 117549291,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4381
+    },
+    "date": 1789837679153,
+    "duration": 56196,
+    "left": {
+      "bet_amount": 1255591,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rugal b. type 0+1",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6799986,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "The jackie chan",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 117576989,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34166
+    },
+    "date": 1789837953355,
+    "duration": 214199,
+    "left": {
+      "bet_amount": 1210244,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yui hirasawa",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4233543,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 13,
+      "name": "Athena asamiya-kofm",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 117577798,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
