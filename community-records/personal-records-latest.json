@@ -376889,5 +376889,59 @@
     "sum": 9197,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23254
+    },
+    "date": 1789842937154,
+    "duration": 166000,
+    "left": {
+      "bet_amount": 226556,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ares",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 410055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Remilia scarlet",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 23254,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35413
+    },
+    "date": 1789843121411,
+    "duration": 124237,
+    "left": {
+      "bet_amount": 110546,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Yuri lowell",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 655850,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Dark phoenix",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 35413,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
