@@ -371329,5 +371329,140 @@
     "sum": 117402227,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 877
+    },
+    "date": 1789804180154,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 3123296,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Zantetsu ex",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1201998,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Franco bash rb2",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 117402759,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19750
+    },
+    "date": 1789804316348,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 1585092,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Simonkin2005",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8174856,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kyosuke shigure",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 117403097,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25933
+    },
+    "date": 1789804470554,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 4196957,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Mudman_n",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1114049,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tia langray",
+      "normal_bettors": 8,
+      "win_streak": -8
+    },
+    "sum": 117406918,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789804600552,
+    "duration": 73997,
+    "left": {
+      "bet_amount": 5518473,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Miyuki",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1122682,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Flail",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "sum": 117413760,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789804750761,
+    "duration": 90209,
+    "left": {
+      "bet_amount": 4328646,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Yumi",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2507293,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mono EX3",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 117413761,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
