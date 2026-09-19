@@ -372166,5 +372166,140 @@
     "sum": 117655021,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27017
+    },
+    "date": 1789809468556,
+    "duration": 184202,
+    "left": {
+      "bet_amount": 2349513,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Athena x",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2119396,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Umbreon",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 117655020,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20891
+    },
+    "date": 1789809608554,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1369524,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Skullomania",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 13939511,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Neff",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 117684594,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16893
+    },
+    "date": 1789809808755,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 3255921,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Rinrin",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1577611,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Darkgun",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 117686644,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33881
+    },
+    "date": 1789809958954,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 1475689,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Super3 goku EX3",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5419304,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dongon",
+      "normal_bettors": 26,
+      "win_streak": 10
+    },
+    "sum": 117694788,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10792
+    },
+    "date": 1789810134952,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 5395292,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Dr. nucleus",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1077968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Litchi qyc",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 117703957,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
