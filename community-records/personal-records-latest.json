@@ -367684,5 +367684,113 @@
     "sum": 3971,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24748
+    },
+    "date": 1789776286354,
+    "duration": 220201,
+    "left": {
+      "bet_amount": 2619689,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Meep140 s-type",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1536242,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Pikachu g&s",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 117536670,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23967
+    },
+    "date": 1789776456352,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 1631030,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Brocken",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1731837,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Ibuki-toranoo",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 117551047,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789776616553,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 2053811,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Moogle",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1691011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kliff",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117573311,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23109
+    },
+    "date": 1789776752755,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 4045071,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Sabretooth EX",
+      "normal_bettors": 25,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1644191,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Armored gohan",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 117573310,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
