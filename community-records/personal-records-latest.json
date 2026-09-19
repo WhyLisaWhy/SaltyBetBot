@@ -378077,5 +378077,113 @@
     "sum": 117462664,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13594
+    },
+    "date": 1789854574557,
+    "duration": 70201,
+    "left": {
+      "bet_amount": 13517747,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Flash byakuren",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1256610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Stevareno",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "sum": 117458905,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17719
+    },
+    "date": 1789854710558,
+    "duration": 76004,
+    "left": {
+      "bet_amount": 1447557,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Quick silver",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3110187,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Stupido",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 117460168,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15680
+    },
+    "date": 1789854890759,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 3611845,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Incredible power kyo",
+      "normal_bettors": 30,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 767360,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Mvc2 captain america",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 117497779,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6362
+    },
+    "date": 1789855030754,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 1133663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Genocide rugal",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6733163,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Code: crashed killer",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 117482099,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
