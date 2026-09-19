@@ -373838,5 +373838,32 @@
     "sum": 4112,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21949
+    },
+    "date": 1789821775355,
+    "duration": 563399,
+    "left": {
+      "bet_amount": 358435,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Omake",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 372881,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Dark baltan",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 21949,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
