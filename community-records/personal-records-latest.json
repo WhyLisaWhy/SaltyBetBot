@@ -371626,5 +371626,140 @@
     "sum": 117422840,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19757
+    },
+    "date": 1789806013755,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 2560721,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Terminator orochi",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1587212,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chain combo orochi head",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 117424174,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789806163754,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1326598,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Super boo",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6719780,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Tron Bonne MVC2",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "sum": 117404417,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789806297954,
+    "duration": 73998,
+    "left": {
+      "bet_amount": 3424033,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Enoch",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1440842,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Azusa",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 117404418,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25159
+    },
+    "date": 1789806437953,
+    "duration": 83997,
+    "left": {
+      "bet_amount": 3164723,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "A-blackheart",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1282296,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chester stoddart",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 117404419,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17097
+    },
+    "date": 1789806554156,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 13679570,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Benimaru EX3",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1193229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gat-x105",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117414533,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
