@@ -372652,5 +372652,113 @@
     "sum": 117676159,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28385
+    },
+    "date": 1789812422754,
+    "duration": 89992,
+    "left": {
+      "bet_amount": 1045837,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Koizumi itsuki",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4653116,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Waluigi sumin",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 117693814,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37064
+    },
+    "date": 1789812598953,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 1677611,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Killer crocodile",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2163692,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kirikou",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "sum": 117700156,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789812773157,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 3245130,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Anna frozen",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1317104,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shiki",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 117663092,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31450
+    },
+    "date": 1789812909155,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 1778234,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Konata EX",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3199540,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Curehappy",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 117663095,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
