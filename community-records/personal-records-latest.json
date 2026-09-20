@@ -386877,5 +386877,140 @@
     "sum": 117404081,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3900
+    },
+    "date": 1789917508553,
+    "duration": 53998,
+    "left": {
+      "bet_amount": 983023,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The creepy clock",
+      "normal_bettors": 4,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3020968,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Stupido",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 117412186,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789917646552,
+    "duration": 81998,
+    "left": {
+      "bet_amount": 1131635,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kung flappy man",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7863242,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "The unbeatable madara uchiha",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 117413454,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789917850757,
+    "duration": 152203,
+    "left": {
+      "bet_amount": 2746832,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Starmie",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1218658,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Raiden mgr",
+      "normal_bettors": 5,
+      "win_streak": -10
+    },
+    "sum": 117413455,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28236
+    },
+    "date": 1789918014958,
+    "duration": 110204,
+    "left": {
+      "bet_amount": 2722989,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Manbou bbb",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1053346,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sailor chibi moon",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 117413456,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789918215167,
+    "duration": 140211,
+    "left": {
+      "bet_amount": 1293838,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kawashima-san EX3",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2915361,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Yagumo_ex",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 117424267,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
