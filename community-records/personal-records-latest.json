@@ -379616,5 +379616,86 @@
     "sum": 117283174,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40776
+    },
+    "date": 1789864418354,
+    "duration": 102201,
+    "left": {
+      "bet_amount": 2967715,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Playstation 2 diavolo",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1680208,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kevin rian",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 117283173,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789864906753,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 54676,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Joker_nanaya",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 129560,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "God rugal",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789865156952,
+    "duration": 196166,
+    "left": {
+      "bet_amount": 99453,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Matoi ryuko",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 136519,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Rascalex",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
