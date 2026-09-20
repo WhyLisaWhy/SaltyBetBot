@@ -385286,5 +385286,113 @@
     "sum": 117312962,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9340
+    },
+    "date": 1789905725155,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 7205270,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Grant",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1337191,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "2k",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 117295405,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28825
+    },
+    "date": 1789906001354,
+    "duration": 216201,
+    "left": {
+      "bet_amount": 1223072,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dark arcueid mk2",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2673017,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 117297137,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1633
+    },
+    "date": 1789906165358,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 1172843,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hawk",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4121533,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Rikard hawlett EX7",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 117268312,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36309
+    },
+    "date": 1789906327554,
+    "duration": 101999,
+    "left": {
+      "bet_amount": 3302925,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Kirby sdx",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1276226,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Damned",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 117268777,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
