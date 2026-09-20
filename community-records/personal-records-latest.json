@@ -382289,5 +382289,113 @@
     "sum": 117161629,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24669
+    },
+    "date": 1789885252754,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 2046413,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Agito bbb",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2040661,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Ramparudo",
+      "normal_bettors": 23,
+      "win_streak": -8
+    },
+    "sum": 117171600,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19614
+    },
+    "date": 1789885422956,
+    "duration": 109991,
+    "left": {
+      "bet_amount": 5789462,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Junichi",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1240228,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rosie",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 117195907,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7920
+    },
+    "date": 1789885553153,
+    "duration": 74197,
+    "left": {
+      "bet_amount": 1108981,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sai EX2",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5121977,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Moe yumezora",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 117200095,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31032
+    },
+    "date": 1789885679154,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 1668518,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Orochi fire chris",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1952759,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kishimax EX2",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 117201808,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
