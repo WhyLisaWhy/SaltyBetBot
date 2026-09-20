@@ -380318,5 +380318,113 @@
     "sum": 117371795,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36175
+    },
+    "date": 1789872562754,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 2880393,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Tyrantrum",
+      "normal_bettors": 24,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1262079,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Garner",
+      "normal_bettors": 10,
+      "win_streak": -13
+    },
+    "sum": 117338562,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28871
+    },
+    "date": 1789872752955,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 996568,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Duran",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2461232,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Satori komeiji",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 117354216,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30438
+    },
+    "date": 1789872922955,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 2909185,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Super saiyan 2 vegeta",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1015377,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Armor lord",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117325345,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789873105198,
+    "duration": 122243,
+    "left": {
+      "bet_amount": 1950220,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Mr heart & ms heart",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1126037,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rock howard lv3",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 117294907,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
