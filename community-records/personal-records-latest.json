@@ -381803,5 +381803,167 @@
     "sum": 117240348,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789882300552,
+    "duration": 76198,
+    "left": {
+      "bet_amount": 17384922,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 15,
+      "name": "Akaneko EX6",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1055457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Metabee",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "sum": 117214752,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29560
+    },
+    "date": 1789882438560,
+    "duration": 84006,
+    "left": {
+      "bet_amount": 1349895,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "R.lightning",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2466989,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Mizukami nanase",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 117214753,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28332
+    },
+    "date": 1789882594754,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 2430113,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Glacial_girl",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1052817,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Medusa",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 117185193,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30618
+    },
+    "date": 1789882748762,
+    "duration": 94009,
+    "left": {
+      "bet_amount": 2952354,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Hato sabure",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1460886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider garren",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 117197327,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10630
+    },
+    "date": 1789882938955,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 1476041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mitsuru kirijo",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4249093,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hisame shizumaru ex2",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 117212322,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19826
+    },
+    "date": 1789883135153,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1817540,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kintaro",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2432984,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Ottoh",
+      "normal_bettors": 22,
+      "win_streak": 6
+    },
+    "sum": 117216006,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
