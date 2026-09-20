@@ -388686,5 +388686,140 @@
     "sum": 116947584,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20727
+    },
+    "date": 1789929243751,
+    "duration": 122001,
+    "left": {
+      "bet_amount": 1462990,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Burner man",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5669450,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Farah oersted",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 116948842,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 384
+    },
+    "date": 1789929437952,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 1328579,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Manic",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2871504,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ray",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 116954172,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1528
+    },
+    "date": 1789929598152,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 4056465,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Medamaoyaji",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1317469,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mima EX",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 116953788,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8064
+    },
+    "date": 1789929818351,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 7917440,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Yumemi",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1437739,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Phoenix ikki",
+      "normal_bettors": 8,
+      "win_streak": -13
+    },
+    "sum": 116952260,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30133
+    },
+    "date": 1789930004351,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 2614868,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chrome dome EX",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2037587,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Karin CVS",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 116953723,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
