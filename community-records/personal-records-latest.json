@@ -385718,5 +385718,86 @@
     "sum": 117243365,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24173
+    },
+    "date": 1789908561359,
+    "duration": 142193,
+    "left": {
+      "bet_amount": 1286528,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Limbo_bros",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2541976,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Aruru(yuka)",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 117247496,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29959
+    },
+    "date": 1789908739549,
+    "duration": 120194,
+    "left": {
+      "bet_amount": 4795440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Kyo kusanagi sp",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1156430,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kucheat",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 117223323,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41209
+    },
+    "date": 1789908951549,
+    "duration": 156002,
+    "left": {
+      "bet_amount": 1609489,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Centaur man",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2170439,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Annie hamilton",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 117344419,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
