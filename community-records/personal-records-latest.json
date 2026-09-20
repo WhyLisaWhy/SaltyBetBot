@@ -385905,5 +385905,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2916
+    },
+    "date": 1789910332753,
+    "duration": 326201,
+    "left": {
+      "bet_amount": 726181,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Pocket Sakura",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 392100,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Always bet kintaro",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 2916,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4485
+    },
+    "date": 1789910482954,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 437328,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Extreme bardock",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 830445,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Athena945",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 4485,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12916
+    },
+    "date": 1789910783153,
+    "duration": 244198,
+    "left": {
+      "bet_amount": 175256,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Manami kusunoki",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 747872,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "No.6 akatsuki",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 12916,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
