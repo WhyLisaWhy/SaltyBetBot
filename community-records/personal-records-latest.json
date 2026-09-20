@@ -384692,5 +384692,113 @@
     "sum": 117385066,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789902224350,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 1158591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mr funny",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2703030,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Alucard RAI",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 117367187,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22534
+    },
+    "date": 1789902416350,
+    "duration": 135998,
+    "left": {
+      "bet_amount": 1437662,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Misaka sisters",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2020905,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Victor von simonstein",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 117367190,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11041
+    },
+    "date": 1789902646551,
+    "duration": 176202,
+    "left": {
+      "bet_amount": 3812619,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Spy-dama EX",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092250,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Multiple man",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 117398377,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16878
+    },
+    "date": 1789902816751,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 2171645,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Glacial_girl",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3187833,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rainbow edition ryu",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 117401531,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
