@@ -384314,5 +384314,86 @@
     "sum": 117402658,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34281
+    },
+    "date": 1789899730357,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 1472403,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Chizuru kagura",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2227727,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Serika",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 117416980,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34782
+    },
+    "date": 1789899856354,
+    "duration": 65958,
+    "left": {
+      "bet_amount": 1279391,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Duck king EX2",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2592029,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Mike bison",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 117439295,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2111
+    },
+    "date": 1789900102554,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 969013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lilia",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3250418,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Hunk",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 117404513,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
