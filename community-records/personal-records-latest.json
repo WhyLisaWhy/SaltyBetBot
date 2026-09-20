@@ -387606,5 +387606,113 @@
     "sum": 117128718,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32743
+    },
+    "date": 1789922092155,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 2639469,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Yami_miko EX",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1591047,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kagelogan EX7",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 117128717,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36940
+    },
+    "date": 1789922286355,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 1165088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Axel stone EX6",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5759685,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Arrange sion",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 117095974,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22543
+    },
+    "date": 1789922472556,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 1502872,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Char's z'gok",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1852900,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Ninja nwa",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 117103399,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35413
+    },
+    "date": 1789922616558,
+    "duration": 89989,
+    "left": {
+      "bet_amount": 1660464,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Genjuro-kofm",
+      "normal_bettors": 15,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1850508,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Weiss schnee",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 117080856,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
