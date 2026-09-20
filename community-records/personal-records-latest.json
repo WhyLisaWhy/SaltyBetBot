@@ -380426,5 +380426,113 @@
     "sum": 117294907,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29940
+    },
+    "date": 1789873285390,
+    "duration": 120189,
+    "left": {
+      "bet_amount": 2767220,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "A-rugal",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1756104,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "3rd alsiel",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 117294909,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11644
+    },
+    "date": 1789873425355,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 3717505,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Duck king xi",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1069274,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Setsuna hsr",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 117313706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23280
+    },
+    "date": 1789873619554,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1168036,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kawashima-san EX3",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2492265,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Dou zou man",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 117302062,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28926
+    },
+    "date": 1789873729756,
+    "duration": 54198,
+    "left": {
+      "bet_amount": 2310443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Death13 EX3",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050897,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Anti.guile.zangief",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 117278782,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
