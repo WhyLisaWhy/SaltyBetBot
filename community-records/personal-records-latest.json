@@ -385799,5 +385799,111 @@
     "sum": 117344419,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1789909056548,
+    "duration": 44800,
+    "left": {
+      "bet_amount": 22500,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kevin rian",
+      "normal_bettors": 3,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 296743,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Smile mkv",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789909452149,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 100027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Byuu",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 510115,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Varnage",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789909772348,
+    "duration": 266199,
+    "left": {
+      "bet_amount": 135626,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Terumi",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 958151,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Dorako marufoi",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789909942354,
+    "duration": 116006,
+    "left": {
+      "bet_amount": 508066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "M.bison sf2ww",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 575298,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Trish EX6",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
