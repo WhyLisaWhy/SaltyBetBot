@@ -380048,5 +380048,113 @@
     "sum": 1696,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1470
+    },
+    "date": 1789870781354,
+    "duration": 100087,
+    "left": {
+      "bet_amount": 4363767,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Cursehead",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1203986,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Battle dome",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 117308226,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35624
+    },
+    "date": 1789870945554,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 1634907,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alia",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2756608,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Perfect storm x",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 117308632,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20305
+    },
+    "date": 1789871141552,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 2032496,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Toyger",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1513738,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Elle",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 117329491,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789871315753,
+    "duration": 119921,
+    "left": {
+      "bet_amount": 2663495,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Daimon 71113",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1209144,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ryofu",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 117309186,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
