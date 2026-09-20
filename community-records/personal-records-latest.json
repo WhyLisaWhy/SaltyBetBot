@@ -384395,5 +384395,140 @@
     "sum": 117404513,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14956
+    },
+    "date": 1789900262769,
+    "duration": 100212,
+    "left": {
+      "bet_amount": 3184174,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ken mvc",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1325762,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aska himeko",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 117405142,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22987
+    },
+    "date": 1789900398750,
+    "duration": 81991,
+    "left": {
+      "bet_amount": 5399957,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "You are already dead",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1088004,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Garner",
+      "normal_bettors": 5,
+      "win_streak": -14
+    },
+    "sum": 117411340,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 719
+    },
+    "date": 1789900542949,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 4388935,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Levin",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3162773,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ringo aomori",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 117415952,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17256
+    },
+    "date": 1789900727148,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 1125271,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jagyuta EX2",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3628713,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Q-bee ex",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 117415233,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16904
+    },
+    "date": 1789900927151,
+    "duration": 144002,
+    "left": {
+      "bet_amount": 3405335,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "B.swordsman",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1164478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jhons lee EX3",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 117420559,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
