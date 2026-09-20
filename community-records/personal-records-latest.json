@@ -381128,5 +381128,86 @@
     "sum": 117218823,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789878050953,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 1542443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dig dug",
+      "normal_bettors": 5,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3869777,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Yong-taiga",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 117226683,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18288
+    },
+    "date": 1789878203155,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 1066140,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mr. game & watch plus",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2444261,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Peach mythos",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "sum": 117226684,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20544
+    },
+    "date": 1789878423353,
+    "duration": 166200,
+    "left": {
+      "bet_amount": 1878575,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Lihua",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1193958,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ky(ac)",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 117208396,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
