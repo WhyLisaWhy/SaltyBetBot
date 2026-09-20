@@ -389251,5 +389251,59 @@
     "sum": 6054,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7920
+    },
+    "date": 1789933729356,
+    "duration": 194205,
+    "left": {
+      "bet_amount": 206739,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Lolicard",
+      "normal_bettors": 15,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 435789,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Alexa",
+      "normal_bettors": 29,
+      "win_streak": 9
+    },
+    "sum": 7920,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789933909554,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 296413,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Vegito",
+      "normal_bettors": 14,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 187690,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Nightmare madotsuki",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
