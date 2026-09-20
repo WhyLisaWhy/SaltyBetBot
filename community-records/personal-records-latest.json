@@ -388902,5 +388902,138 @@
     "sum": 116937964,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1789930650754,
+    "duration": 69801,
+    "left": {
+      "bet_amount": 39896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Wind-se",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 342321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Balrog svc chaos",
+      "normal_bettors": 15,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789931115354,
+    "duration": 200202,
+    "left": {
+      "bet_amount": 40606,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wooden_doll",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1002500,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lolicard",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1613
+    },
+    "date": 1789931401555,
+    "duration": 230203,
+    "left": {
+      "bet_amount": 86518,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Reisen-deadpool-inaba",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1208462,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Tyrant J",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 1613,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1729
+    },
+    "date": 1789931541553,
+    "duration": 85992,
+    "left": {
+      "bet_amount": 1171855,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Alexa",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 43619,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Slash-beast",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 1729,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1794
+    },
+    "date": 1789931771751,
+    "duration": 175959,
+    "left": {
+      "bet_amount": 355162,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Myon gitsune",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1023445,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Temtan",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 1794,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
