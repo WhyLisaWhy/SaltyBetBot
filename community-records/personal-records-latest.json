@@ -389845,5 +389845,86 @@
     "sum": 117002309,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19216
+    },
+    "date": 1789938497154,
+    "duration": 179998,
+    "left": {
+      "bet_amount": 1379251,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nogami_aoi",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2591471,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Young_rugal",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 117019309,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19372
+    },
+    "date": 1789938703355,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 2151924,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Blair dame n",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1773366,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rin_h",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 117000093,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 842
+    },
+    "date": 1789938867555,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 4233074,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Legion EX3",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3888427,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Awakened okina",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 116980721,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
