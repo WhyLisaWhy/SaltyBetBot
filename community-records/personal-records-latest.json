@@ -384989,5 +384989,140 @@
     "sum": 117389832,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5189
+    },
+    "date": 1789904027756,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 2914096,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gray fullbuster",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1665170,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Roger",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "sum": 117390462,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20322
+    },
+    "date": 1789904153756,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 1598489,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Turf EX3",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1999677,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mizuchi",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 117385273,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789904307955,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 1138954,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Miyakaka",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5047469,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Dark super sonic",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 117364951,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27869
+    },
+    "date": 1789904443954,
+    "duration": 79994,
+    "left": {
+      "bet_amount": 1289690,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Damned",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4491925,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Small Ryu",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 117364952,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38779
+    },
+    "date": 1789904644154,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 1576820,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Baldi",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1995407,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Hanzou hattori",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 117372905,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
