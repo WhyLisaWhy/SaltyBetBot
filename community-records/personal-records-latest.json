@@ -386202,5 +386202,113 @@
     "sum": 2260,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4914
+    },
+    "date": 1789912683356,
+    "duration": 206802,
+    "left": {
+      "bet_amount": 1059055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Trish EX6",
+      "normal_bettors": 25,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 517243,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Uesugi kensin EX G",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 4914,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35488
+    },
+    "date": 1789913377153,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 2323097,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Bokosuka wars",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1430226,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "The master",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 117351723,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17087
+    },
+    "date": 1789913517354,
+    "duration": 78000,
+    "left": {
+      "bet_amount": 1283755,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Saizo",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5002712,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Superior dragon",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 117316235,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27507
+    },
+    "date": 1789913673352,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1001510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Takuma945",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3707334,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Byakuren UliL",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 117320605,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
