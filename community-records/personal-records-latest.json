@@ -382667,5 +382667,113 @@
     "sum": 117291473,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3238
+    },
+    "date": 1789887384156,
+    "duration": 117800,
+    "left": {
+      "bet_amount": 1251726,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Big volfogg",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2630747,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Hamon kyo",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 117257568,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789887846950,
+    "duration": 190195,
+    "left": {
+      "bet_amount": 55211,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Custom ssfiv oni",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110390,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Wolfgang k altstein",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4565
+    },
+    "date": 1789888127150,
+    "duration": 224201,
+    "left": {
+      "bet_amount": 142223,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Jack the ripper",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 68694,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Vixen",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 4565,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6702
+    },
+    "date": 1789888367350,
+    "duration": 180199,
+    "left": {
+      "bet_amount": 134889,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Fireman EX3",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 91785,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Wheelchair guy",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "sum": 6702,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
