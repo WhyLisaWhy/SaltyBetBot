@@ -387984,5 +387984,113 @@
     "sum": 116978955,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23027
+    },
+    "date": 1789924720359,
+    "duration": 140205,
+    "left": {
+      "bet_amount": 1362778,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ahau kin",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2819082,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Yumel",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 116978954,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789924890352,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 3445759,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Normal vegeta z2",
+      "normal_bettors": 20,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2023312,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Neodio",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 116955927,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789925046552,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1606208,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Dr. husser",
+      "normal_bettors": 5,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4404482,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Reptos-k",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 116955926,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789925260753,
+    "duration": 154199,
+    "left": {
+      "bet_amount": 1619353,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mysty_monkstyle",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3025602,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Sho 100% v2.0 by inverse",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "sum": 116955925,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
