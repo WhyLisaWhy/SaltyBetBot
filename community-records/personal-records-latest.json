@@ -386148,5 +386148,59 @@
     "sum": 3289,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789912220355,
+    "duration": 74201,
+    "left": {
+      "bet_amount": 393020,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Byuu",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 857342,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Trish EX6",
+      "normal_bettors": 32,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2260
+    },
+    "date": 1789912420353,
+    "duration": 143995,
+    "left": {
+      "bet_amount": 632027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "No.6 akatsuki",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 536102,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Uesugi kensin EX G",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 2260,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
