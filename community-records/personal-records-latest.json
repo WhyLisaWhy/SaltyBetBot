@@ -389035,5 +389035,113 @@
     "sum": 1794,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2416
+    },
+    "date": 1789932048154,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 1042852,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Vegito",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Super3 goku EX3",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "sum": 2416,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2893
+    },
+    "date": 1789932218154,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 57714,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maccho",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1318038,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Goenitz EX3",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 2893,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789932418355,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 585988,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Nightmare madotsuki",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 252101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sanada ani",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2216
+    },
+    "date": 1789932642555,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 380317,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryu mvc1",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 438016,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Kenshiro-hell",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 2216,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
