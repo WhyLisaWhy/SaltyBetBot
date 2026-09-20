@@ -383072,5 +383072,59 @@
     "sum": 2643,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3590
+    },
+    "date": 1789891292555,
+    "duration": 295200,
+    "left": {
+      "bet_amount": 357804,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Yamamoto burai",
+      "normal_bettors": 22,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 513197,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Karina toyota",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 3590,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17446
+    },
+    "date": 1789892044152,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1558486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mech ralf",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3709372,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Raiya_mikazuchi",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 117260405,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
