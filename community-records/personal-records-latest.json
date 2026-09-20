@@ -383450,5 +383450,140 @@
     "sum": 117265051,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1202
+    },
+    "date": 1789894171954,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 4996727,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Dr. baldhead",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1190848,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Noob saibot umk3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 117272550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20210
+    },
+    "date": 1789894382152,
+    "duration": 154194,
+    "left": {
+      "bet_amount": 1262580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gunvolt",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2755894,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Ettoman",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 117272837,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789894522154,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 4103150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Chadha",
+      "normal_bettors": 23,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1144005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Erimaki",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 117282029,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26530
+    },
+    "date": 1789894712354,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 1120159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eva-beatrice",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3811778,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Turf EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 117282030,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27544
+    },
+    "date": 1789894848354,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 1109622,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Assassin",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3899090,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Yumemi",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 117289773,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
