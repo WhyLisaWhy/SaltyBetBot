@@ -386634,5 +386634,113 @@
     "sum": 117300924,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789915837154,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1248125,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ibuki-toranoo",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4385919,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Jin chonrei",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 117306808,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20683
+    },
+    "date": 1789915977353,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 1151429,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Frieza mvc",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3921297,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Rubette EX2",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 117306807,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34719
+    },
+    "date": 1789916131353,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 2302996,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Bloodia EX3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1999648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Bubbles DG",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 117286124,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37386
+    },
+    "date": 1789916291553,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 1935627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ouija silver",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1500492,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Huryou hatune",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 117325428,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
