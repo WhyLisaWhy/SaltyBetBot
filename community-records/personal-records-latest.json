@@ -389305,5 +389305,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3978
+    },
+    "date": 1789934498951,
+    "duration": 533396,
+    "left": {
+      "bet_amount": 753599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Lolicard",
+      "normal_bettors": 27,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 458095,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Nightmare madotsuki",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 3978,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26337
+    },
+    "date": 1789935206552,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 1005910,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Makoto mizoguchi",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2724993,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Alissa",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 116939513,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15323
+    },
+    "date": 1789935352753,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 3826722,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Sephiroth EX9",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170603,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kokesz",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 116949143,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20061
+    },
+    "date": 1789935476754,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 3677846,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Awakened-clark",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2179413,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lyner_barsett",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 116953812,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
