@@ -379481,5 +379481,140 @@
     "sum": 117267509,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33518
+    },
+    "date": 1789863569557,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 1909635,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Mvc phoenix wright",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1856017,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kobun 43",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 117258585,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789863691749,
+    "duration": 67997,
+    "left": {
+      "bet_amount": 15242703,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "R. lilith",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1255321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tetris",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 117290600,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9630
+    },
+    "date": 1789863953956,
+    "duration": 204201,
+    "left": {
+      "bet_amount": 2371590,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "The guy",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2665391,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Plum-ax",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 117290599,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18205
+    },
+    "date": 1789864109955,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 6766241,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Hanayama",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6529430,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Giant d!",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 117301379,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789864250153,
+    "duration": 79931,
+    "left": {
+      "bet_amount": 1380720,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dee bee kaw EX3",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1939813,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Godzillen",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 117283174,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
