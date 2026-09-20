@@ -381209,5 +381209,167 @@
     "sum": 117208396,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789878633554,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 30073366,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Riot",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1034885,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Deidara",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 117240174,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789878839751,
+    "duration": 152194,
+    "left": {
+      "bet_amount": 1875156,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Himegami aisa",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2447841,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "More suave dude",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 117240175,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 478
+    },
+    "date": 1789879017756,
+    "duration": 124007,
+    "left": {
+      "bet_amount": 5061739,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ash crimson-kofm",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2385778,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Agrias",
+      "normal_bettors": 9,
+      "win_streak": -13
+    },
+    "sum": 117240176,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21459
+    },
+    "date": 1789879223954,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 1283964,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lenalee-mvc EX3",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2365407,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kisarah-n",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 117240402,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24622
+    },
+    "date": 1789879378155,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 1147127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Brass",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4286749,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Eve",
+      "normal_bettors": 23,
+      "win_streak": 8
+    },
+    "sum": 117218943,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36315
+    },
+    "date": 1789879514153,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 5792971,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kinyo roadshow",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1376435,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Iron lantern",
+      "normal_bettors": 9,
+      "win_streak": -11
+    },
+    "sum": 117225495,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
