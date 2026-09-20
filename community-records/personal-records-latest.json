@@ -388821,5 +388821,86 @@
     "sum": 116953723,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3354
+    },
+    "date": 1789930178555,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 1478135,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tita russell",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2582728,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kurumi mirumati",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 116923590,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28108
+    },
+    "date": 1789930348758,
+    "duration": 114204,
+    "left": {
+      "bet_amount": 2547835,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Arietta",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1141477,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Super mario EX3",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 116925508,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 414
+    },
+    "date": 1789930524754,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 3708106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Classic ryu hayabusa",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1513903,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shishimaru EX",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 116937964,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
