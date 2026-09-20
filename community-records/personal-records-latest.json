@@ -388281,5 +388281,113 @@
     "sum": 116939179,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37829
+    },
+    "date": 1789926683756,
+    "duration": 206002,
+    "left": {
+      "bet_amount": 4216223,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rock volnutt",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1147239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shermie bc",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 116939181,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789926803954,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 1699715,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Akatsuki",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2555325,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Bonegolem",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 116949383,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22665
+    },
+    "date": 1789926953955,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 4099123,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Another igniz",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1802554,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Swamp thing",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 116949385,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25970
+    },
+    "date": 1789927114157,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 4467343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Rugal bernstein",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1097670,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jyubei yagyu",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "sum": 116959297,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
