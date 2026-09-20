@@ -382991,5 +382991,86 @@
     "sum": 2064,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789890450955,
+    "duration": 194200,
+    "left": {
+      "bet_amount": 144880,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Illyasviel von einzbern",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 362986,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 22,
+      "name": "The Sailor Man",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2167
+    },
+    "date": 1789890687153,
+    "duration": 176201,
+    "left": {
+      "bet_amount": 98898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Custom ssfiv oni",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 448217,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Yamamoto burai",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 2167,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2643
+    },
+    "date": 1789890941353,
+    "duration": 194201,
+    "left": {
+      "bet_amount": 383432,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Karina toyota",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "The Sailor Man",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 2643,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
