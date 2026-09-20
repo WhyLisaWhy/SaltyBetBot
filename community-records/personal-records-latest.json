@@ -380804,5 +380804,140 @@
     "sum": 117195634,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33700
+    },
+    "date": 1789876103551,
+    "duration": 104198,
+    "left": {
+      "bet_amount": 1976627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Dormammu",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1493409,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Ares",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 117241923,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32357
+    },
+    "date": 1789876279754,
+    "duration": 116196,
+    "left": {
+      "bet_amount": 2281779,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Bison",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1256166,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "General blue",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 117285543,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789876415753,
+    "duration": 82002,
+    "left": {
+      "bet_amount": 16465206,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Yamazaki cvs2",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1073991,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Moyomoto",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "sum": 117253186,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32083
+    },
+    "date": 1789876583953,
+    "duration": 114198,
+    "left": {
+      "bet_amount": 1212436,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aya hasebe",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1848208,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Washizu iwao",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 117253187,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29374
+    },
+    "date": 1789876759948,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 1086569,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5787195,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Primeus",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 117273875,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
