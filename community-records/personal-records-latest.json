@@ -390385,5 +390385,140 @@
     "sum": 117094976,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 480
+    },
+    "date": 1789941737756,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 6420418,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Vega svc chaos",
+      "normal_bettors": 29,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2754871,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Aokiji kuzan",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 117099134,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789941963953,
+    "duration": 166201,
+    "left": {
+      "bet_amount": 1772718,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Magnus",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4952694,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Mami EX",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 117099340,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30900
+    },
+    "date": 1789942077955,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 1604183,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Prier",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3681590,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "R-haoumaru",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 117099339,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13025
+    },
+    "date": 1789942328353,
+    "duration": 194198,
+    "left": {
+      "bet_amount": 1315566,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lou mvc",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5670831,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Ryu mvc1",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 117068439,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789942504353,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1160596,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shadow devil",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11448546,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rugal 3rd",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 117071454,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
