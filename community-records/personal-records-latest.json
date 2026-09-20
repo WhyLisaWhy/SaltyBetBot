@@ -383720,5 +383720,113 @@
     "sum": 117304085,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29844
+    },
+    "date": 1789895925155,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 7082299,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Riesbyfe stridberg",
+      "normal_bettors": 27,
+      "win_streak": 15
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260175,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hi_guma",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 117377141,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32262
+    },
+    "date": 1789896131354,
+    "duration": 145986,
+    "left": {
+      "bet_amount": 1681378,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kohaku EX2",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3946807,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Wolverine_cota",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 117382429,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24215
+    },
+    "date": 1789896281555,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 995790,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hi_guma",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4957296,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Arrange mukuro",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 117350167,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11459
+    },
+    "date": 1789896471754,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 8201076,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Yami_miko EX",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1179613,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kagura mutsuki",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 117325952,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
