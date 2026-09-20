@@ -390682,5 +390682,113 @@
     "sum": 116956112,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26091
+    },
+    "date": 1789943671354,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 1285334,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dd yin yin",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2108423,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Ss6 ren",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 116937697,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13778
+    },
+    "date": 1789943845555,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 4123149,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kamijo toma EX",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1313327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Raph EX2",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 116911606,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23838
+    },
+    "date": 1789944035550,
+    "duration": 129993,
+    "left": {
+      "bet_amount": 4516282,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ikumi tatikawa",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1602804,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cco",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 116915981,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2261
+    },
+    "date": 1789944175753,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 1366182,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Av-8 harrier",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3504048,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Sailor saturn",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 116924397,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
