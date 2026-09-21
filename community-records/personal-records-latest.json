@@ -401939,5 +401939,167 @@
     "sum": 116883828,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6906
+    },
+    "date": 1790033518355,
+    "duration": 186000,
+    "left": {
+      "bet_amount": 2029284,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yukkuri hibiki",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1579473,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Izanagi",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 116861380,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4874
+    },
+    "date": 1790033672552,
+    "duration": 99992,
+    "left": {
+      "bet_amount": 1167548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kensuke kudou",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2707025,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Eirin yagokoro",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 116870215,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2796
+    },
+    "date": 1790033852747,
+    "duration": 124195,
+    "left": {
+      "bet_amount": 3089763,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "May EX2",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1447308,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Plastic man",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 116872314,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28367
+    },
+    "date": 1790034032953,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 2515597,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "The gandhara",
+      "normal_bettors": 30,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1036699,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sharon",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 116869518,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2845
+    },
+    "date": 1790034232952,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1184092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hawk",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4169129,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shizuru",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 116881078,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790034409154,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 1351320,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kazuya",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2123549,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Yoma komatsu",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 116881886,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
