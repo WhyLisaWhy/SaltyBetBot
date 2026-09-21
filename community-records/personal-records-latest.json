@@ -400346,5 +400346,140 @@
     "sum": 116446131,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 45567
+    },
+    "date": 1790017477754,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 2389674,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Sculd",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1482052,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Motaro",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 116420390,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17590
+    },
+    "date": 1790017643956,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 4449282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Tokinomiya kamui",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1105367,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 3,
+      "name": "Fidei EX6",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 116448122,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 524
+    },
+    "date": 1790017821957,
+    "duration": 114003,
+    "left": {
+      "bet_amount": 2590306,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Destoroyah ex",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1782537,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Maori",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 116452475,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790017952153,
+    "duration": 74202,
+    "left": {
+      "bet_amount": 3256527,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Dee jay",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1641469,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Adol_c",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 116451951,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790018078154,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 1155696,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gate",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2790802,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Benimaru945",
+      "normal_bettors": 24,
+      "win_streak": 13
+    },
+    "sum": 116451952,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
