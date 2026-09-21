@@ -392437,5 +392437,59 @@
     "sum": 2383,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8803
+    },
+    "date": 1789956825560,
+    "duration": 84005,
+    "left": {
+      "bet_amount": 1669456,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Leon c",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2136509,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Billy karn",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 116585665,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26477
+    },
+    "date": 1789957081754,
+    "duration": 195999,
+    "left": {
+      "bet_amount": 5727546,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Mai_k",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1382684,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Skullman",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 116592516,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
