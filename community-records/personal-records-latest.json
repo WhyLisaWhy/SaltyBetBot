@@ -399347,5 +399347,140 @@
     "sum": 116587674,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790011102752,
+    "duration": 86189,
+    "left": {
+      "bet_amount": 2106339,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Magical launcher aoko",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2545538,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shermie as",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 116599631,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790011238754,
+    "duration": 81997,
+    "left": {
+      "bet_amount": 1852160,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Super mario",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5177131,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rasetsumaru",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 116599633,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29417
+    },
+    "date": 1790011346954,
+    "duration": 50198,
+    "left": {
+      "bet_amount": 2387550,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Sunflower fairy",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1123070,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Schlussel",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 116599634,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 53199
+    },
+    "date": 1790011526955,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 1961051,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kratos aurion",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2359116,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Xaphan",
+      "normal_bettors": 13,
+      "win_streak": -11
+    },
+    "sum": 116570217,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790011697160,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 1265970,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kongou",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4404927,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shin aomizu",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 116613465,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
