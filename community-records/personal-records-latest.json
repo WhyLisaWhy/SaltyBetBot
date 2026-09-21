@@ -396514,5 +396514,113 @@
     "sum": 116644140,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20971
+    },
+    "date": 1789987776154,
+    "duration": 96192,
+    "left": {
+      "bet_amount": 2334900,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Aska EX2",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1239681,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Terry 02",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 116656577,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30877
+    },
+    "date": 1789988016364,
+    "duration": 180211,
+    "left": {
+      "bet_amount": 1469278,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "K.m.mioh",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1701920,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Yacopu",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 116635606,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17358
+    },
+    "date": 1789988156556,
+    "duration": 80183,
+    "left": {
+      "bet_amount": 1113088,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Supermario64",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1960167,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Thundermiss.shermie",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 116604729,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14997
+    },
+    "date": 1789988326554,
+    "duration": 115996,
+    "left": {
+      "bet_amount": 4929962,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dr. nucleus",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1236528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eltnum srt",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 116614500,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
