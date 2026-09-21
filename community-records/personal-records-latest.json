@@ -395164,5 +395164,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2387
+    },
+    "date": 1789975059953,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 174925,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Maria EX2",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hsien-ko",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 2387,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3263
+    },
+    "date": 1789975310154,
+    "duration": 194000,
+    "left": {
+      "bet_amount": 51091,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Papillon",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 237246,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Charles babbage",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 3263,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3957
+    },
+    "date": 1789975486351,
+    "duration": 119996,
+    "left": {
+      "bet_amount": 42788,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lancer",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 265356,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Jurane",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "sum": 3957,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4586
+    },
+    "date": 1789975776554,
+    "duration": 230201,
+    "left": {
+      "bet_amount": 240357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Toyotomi hideyoshi",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103302,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Assassin",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "sum": 4586,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
