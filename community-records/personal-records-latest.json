@@ -395542,5 +395542,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22853
+    },
+    "date": 1789981675355,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 1714650,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Destoroyah ex",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1623185,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Mary",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 116668508,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1292
+    },
+    "date": 1789981861554,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 1375427,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Andrew",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2771198,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Levin",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 116645655,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
