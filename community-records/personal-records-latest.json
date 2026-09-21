@@ -393463,5 +393463,113 @@
     "sum": 116681007,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14361
+    },
+    "date": 1789963472955,
+    "duration": 142202,
+    "left": {
+      "bet_amount": 2998828,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Saiki",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1298520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "New kiwami",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 116695117,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16192
+    },
+    "date": 1789963606955,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1055807,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shaky jake",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4033122,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Geese rotd",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 116701306,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27820
+    },
+    "date": 1789963747154,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 1413502,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Vegeta gt",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2439226,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Ken mvc",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 116705528,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14815
+    },
+    "date": 1789963937348,
+    "duration": 130193,
+    "left": {
+      "bet_amount": 1304029,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "March",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6787971,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Kliff",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 116705528,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
