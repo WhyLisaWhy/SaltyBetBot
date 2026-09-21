@@ -393166,5 +393166,140 @@
     "sum": 116599230,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4087
+    },
+    "date": 1789961539353,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 2420325,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kinyo roadshow",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2412287,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kaisensei ken",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 116638719,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29240
+    },
+    "date": 1789961759553,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 1262727,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Salamandra_fe",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4674977,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Keine kamishirasawa(keln)",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 116634632,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3778
+    },
+    "date": 1789961933750,
+    "duration": 114194,
+    "left": {
+      "bet_amount": 2598453,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Regice orochi",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1447149,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "The creepy clock",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "sum": 116642481,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789962139755,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1277306,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Saori - athena",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3389908,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Panda genma",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 116644583,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40803
+    },
+    "date": 1789962269954,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 1549765,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Asuka tmnt remix",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2749153,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ran horigein",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 116644582,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
