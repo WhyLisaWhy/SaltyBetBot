@@ -398350,5 +398350,113 @@
     "sum": 8845,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790000446155,
+    "duration": 266198,
+    "left": {
+      "bet_amount": 54240,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "S.o.g",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 345159,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Tournament of power goku",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1793
+    },
+    "date": 1790000616354,
+    "duration": 109994,
+    "left": {
+      "bet_amount": 395685,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kongou-s",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 40261,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Caesar P3",
+      "normal_bettors": 8,
+      "win_streak": 4
+    },
+    "sum": 1793,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1975
+    },
+    "date": 1790000786558,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 52259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mictlan",
+      "normal_bettors": 11,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 416209,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Alexa",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1975,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2222
+    },
+    "date": 1790001080756,
+    "duration": 240192,
+    "left": {
+      "bet_amount": 27495,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "K-ko",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 466941,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Saiki",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "sum": 2222,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
