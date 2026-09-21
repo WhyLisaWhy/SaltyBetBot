@@ -392221,5 +392221,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3165
+    },
+    "date": 1789954171552,
+    "duration": 214199,
+    "left": {
+      "bet_amount": 219736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Soul king brook",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 359019,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Annie hamilton",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 3165,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5086
+    },
+    "date": 1789954367753,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 89570,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mario mythos",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 555474,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sabrewulf ki2",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 5086,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5899
+    },
+    "date": 1789954663952,
+    "duration": 242197,
+    "left": {
+      "bet_amount": 162616,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ow the edge",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 533793,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Sachiel",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 5899,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24585
+    },
+    "date": 1789954908159,
+    "duration": 190206,
+    "left": {
+      "bet_amount": 458808,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Magneto mvc2",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 102892,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Seifuku akiha",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 24585,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
