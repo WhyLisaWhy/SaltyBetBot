@@ -398134,5 +398134,113 @@
     "sum": 116501903,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789998514754,
+    "duration": 112198,
+    "left": {
+      "bet_amount": 3537155,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Barry burton",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1264592,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Hades",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "sum": 116501904,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8322
+    },
+    "date": 1789998653754,
+    "duration": 86998,
+    "left": {
+      "bet_amount": 5557660,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dhalsim3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1242906,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "2k",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 116501905,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789999143153,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 110885,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Mictlan",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 52827,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Sailor mercury crystal",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2279
+    },
+    "date": 1789999259389,
+    "duration": 60234,
+    "left": {
+      "bet_amount": 34339,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lunatic kaguya",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 180696,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Alexa",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 2279,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
