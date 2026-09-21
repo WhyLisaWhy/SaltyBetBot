@@ -401237,5 +401237,113 @@
     "sum": 116617336,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790023608552,
+    "duration": 165980,
+    "left": {
+      "bet_amount": 117055,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Udonge_a",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 80462,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Foxy the pirate",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790023792753,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 137986,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shadow knight",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116371,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Shining gundam EX2",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2843
+    },
+    "date": 1790024054954,
+    "duration": 212201,
+    "left": {
+      "bet_amount": 214722,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Haru-chan",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 101748,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Test a.i.",
+      "normal_bettors": 22,
+      "win_streak": -14
+    },
+    "sum": 2843,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4173
+    },
+    "date": 1790024265153,
+    "duration": 152198,
+    "left": {
+      "bet_amount": 255312,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sagat",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Galivan",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 4173,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
