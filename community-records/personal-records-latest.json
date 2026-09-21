@@ -398647,5 +398647,113 @@
     "sum": 116523745,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20902
+    },
+    "date": 1790006701166,
+    "duration": 122210,
+    "left": {
+      "bet_amount": 1208050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gouf",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2659222,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Rumine",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 116529151,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31694
+    },
+    "date": 1790006891355,
+    "duration": 126164,
+    "left": {
+      "bet_amount": 1144381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mawile",
+      "normal_bettors": 4,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6189860,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Silversamurai mvc2",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "sum": 116508249,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25501
+    },
+    "date": 1790007041349,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 1489224,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Y'",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3218011,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Erimaki",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 116514079,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38430
+    },
+    "date": 1790007211560,
+    "duration": 116002,
+    "left": {
+      "bet_amount": 2094508,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Sim young gradation",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1803459,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Namikiyo",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 116525788,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
