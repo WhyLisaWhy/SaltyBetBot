@@ -400049,5 +400049,140 @@
     "sum": 116535276,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12091
+    },
+    "date": 1790015714354,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 2169270,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "K-unknown",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1622639,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kendou",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 116534649,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21369
+    },
+    "date": 1790015894557,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 1537599,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Keiji",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1588426,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 11,
+      "name": "Pisaci",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 116522558,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18746
+    },
+    "date": 1790016050554,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 2535010,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "You are already dead",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2566688,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Satchi",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 116501189,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37800
+    },
+    "date": 1790016220755,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 2192332,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Nayuki the runner",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 920573,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Ginzu",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 116519570,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31073
+    },
+    "date": 1790016370754,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1362065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gokuraku tarou EX5",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1543011,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Ultimate gohan",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 116481770,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
