@@ -400184,5 +400184,167 @@
     "sum": 116481770,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790016544956,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 1107662,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "King EX3",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6111036,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Kotonoha-sama",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 116450697,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22717
+    },
+    "date": 1790016715153,
+    "duration": 114193,
+    "left": {
+      "bet_amount": 1164797,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chain combo orochi head",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3564898,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Konoha mvc",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 116450698,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1294
+    },
+    "date": 1790016921356,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 2504287,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Takumi hattori",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 985844,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Misaka",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 116427981,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790017017357,
+    "duration": 36004,
+    "left": {
+      "bet_amount": 1702989,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mettaton neo",
+      "normal_bettors": 11,
+      "win_streak": -25
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 57678813,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Naked snake",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 116431264,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26165
+    },
+    "date": 1790017141352,
+    "duration": 63999,
+    "left": {
+      "bet_amount": 2556766,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Zankuro EX2",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1467464,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Vritra",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116431265,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25741
+    },
+    "date": 1790017291552,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1540098,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kilroy",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2871947,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Felden crais",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 116446131,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
