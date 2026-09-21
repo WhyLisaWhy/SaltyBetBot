@@ -400778,5 +400778,86 @@
     "sum": 116497910,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11070
+    },
+    "date": 1790020195953,
+    "duration": 114196,
+    "left": {
+      "bet_amount": 1820771,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ayaka fonstead",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1412785,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Ridley ssbb",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 116468329,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2658
+    },
+    "date": 1790020355954,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 3317965,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "George",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1186923,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ayane_ikuse EX",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 116476867,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23001
+    },
+    "date": 1790020792355,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1686078,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Shampoo",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1887725,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Ootani reimu",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 116474209,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
