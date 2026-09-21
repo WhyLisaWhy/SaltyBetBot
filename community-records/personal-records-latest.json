@@ -401534,5 +401534,86 @@
     "sum": 4996,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5728
+    },
+    "date": 1790026340753,
+    "duration": 274198,
+    "left": {
+      "bet_amount": 143499,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Capricorn shura",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 485051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Remy",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 5728,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7403
+    },
+    "date": 1790026570961,
+    "duration": 170210,
+    "left": {
+      "bet_amount": 98898,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Foxy the pirate",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 540786,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Galivan",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 7403,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8739
+    },
+    "date": 1790026841155,
+    "duration": 214201,
+    "left": {
+      "bet_amount": 168982,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Xu huang",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 585520,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Remy",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "sum": 8739,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
