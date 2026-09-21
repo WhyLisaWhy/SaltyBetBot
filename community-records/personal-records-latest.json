@@ -396082,5 +396082,140 @@
     "sum": 116632220,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31993
+    },
+    "date": 1789985035957,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1311860,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Curse seal",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2199888,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Kei nanasawa",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 116641786,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32416
+    },
+    "date": 1789985172152,
+    "duration": 82198,
+    "left": {
+      "bet_amount": 1159717,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Young geese",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2000741,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Gutsman",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 116609793,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1358
+    },
+    "date": 1789985382353,
+    "duration": 156197,
+    "left": {
+      "bet_amount": 1115444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zeus",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2419728,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Shura",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "sum": 116628284,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20920
+    },
+    "date": 1789985556357,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 1987047,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Goku black",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1375840,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "J lance",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 116628910,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17160
+    },
+    "date": 1789985746557,
+    "duration": 129990,
+    "left": {
+      "bet_amount": 2393426,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Arsene lupin",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1562351,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Toriel",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 116607990,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
