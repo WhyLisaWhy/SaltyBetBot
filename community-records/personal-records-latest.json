@@ -397351,5 +397351,86 @@
     "sum": 116522252,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2147
+    },
+    "date": 1789993224554,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 1285605,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "!!!",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 13086040,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Suwako ai",
+      "normal_bettors": 30,
+      "win_streak": 11
+    },
+    "sum": 116544995,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26542
+    },
+    "date": 1789993408761,
+    "duration": 124206,
+    "left": {
+      "bet_amount": 1828911,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Senel",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1717581,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Vega",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 116545206,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789993658955,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 1872329,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Dark lord sauron EX7",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1642234,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Dark karin EX2",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 116518664,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
