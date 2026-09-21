@@ -392923,5 +392923,113 @@
     "sum": 116592532,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789960036153,
+    "duration": 180200,
+    "left": {
+      "bet_amount": 3411112,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Cycloid omega q",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 786436,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 116594012,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789960196352,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 1011003,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Fritz",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4543594,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Cyber akuma",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 116594013,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7348
+    },
+    "date": 1789960376553,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 5109655,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Chameleo arm",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1154126,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rain mk2",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 116594012,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789960572553,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 4200411,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Anthony hawk",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155251,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chun-lee dark bolt",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 116595670,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
