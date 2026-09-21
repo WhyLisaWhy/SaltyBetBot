@@ -401777,5 +401777,167 @@
     "sum": 116831019,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29002
+    },
+    "date": 1790032475554,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 1242501,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dudley streets",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1858882,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Kazunoko's yun",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 116846500,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13537
+    },
+    "date": 1790032645758,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 4546048,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Balert",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2160992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The master",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 116817498,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27348
+    },
+    "date": 1790032825956,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 1189053,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Puppetmon",
+      "normal_bettors": 15,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1933531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Carmilla",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 116823914,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12525
+    },
+    "date": 1790033016154,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 1388059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hugo dc",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8439883,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Lilica felchenerow",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 116867386,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23206
+    },
+    "date": 1790033156153,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1258554,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 3,
+      "name": "Layban",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2007154,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Buckdozer",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 116869443,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22448
+    },
+    "date": 1790033272353,
+    "duration": 50197,
+    "left": {
+      "bet_amount": 3875876,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Saggot v2",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3806582,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hibachi",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 116883828,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
