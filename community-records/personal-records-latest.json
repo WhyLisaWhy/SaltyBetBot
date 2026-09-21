@@ -401345,5 +401345,113 @@
     "sum": 4173,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790024547354,
+    "duration": 230201,
+    "left": {
+      "bet_amount": 236847,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Xu huang",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 216746,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mienshao",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2960
+    },
+    "date": 1790024779552,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 396765,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Marshal law",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 171735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Mega man mythos",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 2960,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4232
+    },
+    "date": 1790025039755,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 234702,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Capricorn shura",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 438625,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Tsunade",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 4232,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12001
+    },
+    "date": 1790025309955,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 467075,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Remy",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65449,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pocket Ibuki",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 12001,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
