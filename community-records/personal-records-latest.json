@@ -396811,5 +396811,113 @@
     "sum": 116620055,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19250
+    },
+    "date": 1789989673757,
+    "duration": 166200,
+    "left": {
+      "bet_amount": 1928883,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ulquiorra cifer",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1193792,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Chain combo orochi head",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 116602206,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1973
+    },
+    "date": 1789989833756,
+    "duration": 105993,
+    "left": {
+      "bet_amount": 4508989,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Thouther 2",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1187267,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Agrias",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 116614003,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19722
+    },
+    "date": 1789989977956,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 2143082,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Kimoharuka",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2243559,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kureha EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 116614523,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36793
+    },
+    "date": 1789990234157,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 1397782,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kat",
+      "normal_bettors": 6,
+      "win_streak": -13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7145806,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Tetsuo k9999",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 116633198,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
