@@ -394273,5 +394273,140 @@
     "sum": 116582966,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789968873154,
+    "duration": 112002,
+    "left": {
+      "bet_amount": 939355,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Vyres",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 656724343,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 15,
+      "name": "Patoelietoe",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 116597760,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20582
+    },
+    "date": 1789969051356,
+    "duration": 120203,
+    "left": {
+      "bet_amount": 4220750,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Riyoh_nagasaki EX6",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1516542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Iori xiii",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116597761,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33563
+    },
+    "date": 1789969221557,
+    "duration": 116204,
+    "left": {
+      "bet_amount": 9688028,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Konoha mvc",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1237027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chad EX7",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 116577179,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21028
+    },
+    "date": 1789969473751,
+    "duration": 198195,
+    "left": {
+      "bet_amount": 1722586,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Blackjack",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1654456,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Mike haggar EX3",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 116543616,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38080
+    },
+    "date": 1789969631753,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1266932,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cpt. falcon",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5027186,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kamijo toma EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 116565236,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
