@@ -391789,5 +391789,140 @@
     "sum": 116589063,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1657
+    },
+    "date": 1789950896955,
+    "duration": 124202,
+    "left": {
+      "bet_amount": 2584735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ryogi_exvs",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2015950,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Vice xiii",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 116560471,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39245
+    },
+    "date": 1789951057152,
+    "duration": 100204,
+    "left": {
+      "bet_amount": 2109671,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Goku",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2215305,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "John constantine",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 116558814,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23861
+    },
+    "date": 1789951277353,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 5937380,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Noriko nijou",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2059811,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Green arrow",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 116595538,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789951417352,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 2515917,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Magaki EX2",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1516476,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Gogan",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 116603783,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25155
+    },
+    "date": 1789951563553,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 5150293,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Shinjuro",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1782327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mahvel ken",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 116603782,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
