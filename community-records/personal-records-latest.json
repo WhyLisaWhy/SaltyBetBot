@@ -398242,5 +398242,113 @@
     "sum": 2279,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2707
+    },
+    "date": 1789999563553,
+    "duration": 244199,
+    "left": {
+      "bet_amount": 94483,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "K-ko",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 164490,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "God bizarro",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 2707,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7289
+    },
+    "date": 1789999779754,
+    "duration": 160192,
+    "left": {
+      "bet_amount": 296910,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Saiki",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 34065,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nemesis",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "sum": 7289,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8106
+    },
+    "date": 1789999933955,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 316375,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Shiki_sv",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 29562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kobun 43.5",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 8106,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8845
+    },
+    "date": 1790000119956,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 270550,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Soldier ms",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103953,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Coolseven",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 8845,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
