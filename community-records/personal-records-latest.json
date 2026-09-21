@@ -397432,5 +397432,113 @@
     "sum": 116518664,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22533
+    },
+    "date": 1789993898953,
+    "duration": 183995,
+    "left": {
+      "bet_amount": 5960232,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dies",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1125579,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Raizen",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 116518665,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15778
+    },
+    "date": 1789994045156,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 996550,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sailor pluto ex",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3099238,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Pinocchio skinfaxi",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 116496132,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45660
+    },
+    "date": 1789994211355,
+    "duration": 110192,
+    "left": {
+      "bet_amount": 2475670,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Kamui",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1303406,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yagumo og",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 116501180,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21918
+    },
+    "date": 1789994465559,
+    "duration": 200205,
+    "left": {
+      "bet_amount": 2448287,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Momo-kirby",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1034020,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Fu shun",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116584971,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
