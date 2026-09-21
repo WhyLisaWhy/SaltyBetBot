@@ -391384,5 +391384,167 @@
     "sum": 116624422,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32336
+    },
+    "date": 1789947966755,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 4468779,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Vaisaga",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2124593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lyzer",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 116603289,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21391
+    },
+    "date": 1789948096752,
+    "duration": 73997,
+    "left": {
+      "bet_amount": 2426954,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Neco-arc",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2632919,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Roadsign",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 116570953,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18951
+    },
+    "date": 1789948298949,
+    "duration": 142195,
+    "left": {
+      "bet_amount": 4634913,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Jaguar",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1546508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jack lantern EX3",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 116590512,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22594
+    },
+    "date": 1789948442954,
+    "duration": 83995,
+    "left": {
+      "bet_amount": 2548375,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Black cat",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1841019,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Eddie",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 116596810,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46336
+    },
+    "date": 1789948699154,
+    "duration": 199958,
+    "left": {
+      "bet_amount": 2846083,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Luke cage",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2369382,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Movie bison",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 116627706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27200
+    },
+    "date": 1789948899355,
+    "duration": 139928,
+    "left": {
+      "bet_amount": 1406514,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dante 4",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4807976,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Mai maino",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 116682297,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
