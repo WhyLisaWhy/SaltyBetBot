@@ -392329,5 +392329,113 @@
     "sum": 24585,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29819
+    },
+    "date": 1789955144354,
+    "duration": 176198,
+    "left": {
+      "bet_amount": 297200,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Shingo 98",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 312549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Annie hamilton",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 29819,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789955328354,
+    "duration": 124000,
+    "left": {
+      "bet_amount": 594047,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Sabrewulf ki2",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206105,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ow the edge",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2087
+    },
+    "date": 1789955508554,
+    "duration": 123997,
+    "left": {
+      "bet_amount": 709885,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Magneto mvc2",
+      "normal_bettors": 34,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 100898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Annie hamilton",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 2087,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2383
+    },
+    "date": 1789955779954,
+    "duration": 215399,
+    "left": {
+      "bet_amount": 513922,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sabrewulf ki2",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 368376,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Magneto mvc2",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "sum": 2383,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
