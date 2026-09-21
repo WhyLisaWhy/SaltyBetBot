@@ -396217,5 +396217,113 @@
     "sum": 116607990,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1884
+    },
+    "date": 1789985972756,
+    "duration": 170206,
+    "left": {
+      "bet_amount": 964475,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2513955,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "A decent chang",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 116619112,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26692
+    },
+    "date": 1789986112754,
+    "duration": 75996,
+    "left": {
+      "bet_amount": 1660292,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Momizi-e",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1438336,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "The acolytes",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 116617228,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17614
+    },
+    "date": 1789986272954,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1954476,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Toyotomi hideyoshi",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1469231,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kirikou EX3",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 116647478,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1789986453152,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 3279993,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "H-duolon",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1007399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rokudo mukuro",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "sum": 116629864,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
