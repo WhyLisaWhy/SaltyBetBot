@@ -399644,5 +399644,86 @@
     "sum": 116559212,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31802
+    },
+    "date": 1790012890155,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 1525146,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Big volfogg",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1947187,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Yoshitora",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 116580428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9532
+    },
+    "date": 1790013290360,
+    "duration": 336212,
+    "left": {
+      "bet_amount": 4422993,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Nightmare the jujin lv3",
+      "normal_bettors": 30,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1316176,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cliff-tsunade-godaime",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 116604937,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14286
+    },
+    "date": 1790013496554,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 1623889,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Rikard",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1898920,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Turbo bonkers",
+      "normal_bettors": 18,
+      "win_streak": -10
+    },
+    "sum": 116595405,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
