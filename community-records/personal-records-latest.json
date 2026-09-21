@@ -394813,5 +394813,140 @@
     "sum": 116598262,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23527
+    },
+    "date": 1789972411953,
+    "duration": 69980,
+    "left": {
+      "bet_amount": 6803014,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Kliff",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1052325,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Megafurashi",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 116599018,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17348
+    },
+    "date": 1789972622155,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 1032307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ness EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5664230,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Narukana EX3",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 116602645,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27195
+    },
+    "date": 1789972876352,
+    "duration": 200196,
+    "left": {
+      "bet_amount": 2887405,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Princess toadstool",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3385795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shampoo",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 116605798,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789973066551,
+    "duration": 134196,
+    "left": {
+      "bet_amount": 1688222,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pupazz",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2374058,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Vaisaga",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 116637390,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15349
+    },
+    "date": 1789973166555,
+    "duration": 40002,
+    "left": {
+      "bet_amount": 4771352,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Hakurei kanade",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1563401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kotonoha",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 116637389,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
