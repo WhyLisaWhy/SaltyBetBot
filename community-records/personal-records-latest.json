@@ -392491,5 +392491,167 @@
     "sum": 116592516,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8326
+    },
+    "date": 1789957251954,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1204570,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Anisama",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7377764,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ash of blueblood",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "sum": 116598879,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28525
+    },
+    "date": 1789957408155,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1644728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rim silveria",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3677349,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "G_cyclone",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 116600237,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30329
+    },
+    "date": 1789957568152,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 2174909,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Atari dragon EX2",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3619092,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Kei shidou EX7",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 116612897,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 621
+    },
+    "date": 1789957708393,
+    "duration": 80035,
+    "left": {
+      "bet_amount": 4419979,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Duralminn",
+      "normal_bettors": 27,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1606140,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Assassin",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 116582568,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23213
+    },
+    "date": 1789957862555,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 1655478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Abobo",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2696795,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Quickman.exe",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 116582794,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7607
+    },
+    "date": 1789957994553,
+    "duration": 72001,
+    "left": {
+      "bet_amount": 6167181,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Jack cf2",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189651,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Seth SF4",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "sum": 116559581,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
