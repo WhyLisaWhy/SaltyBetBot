@@ -24,6 +24,22 @@ jobs:
           HEAD_BRANCH: automation/personal-records-backup
           BASE_BRANCH: master
         run: |
+          has_pending_commits() {
+            local ahead
+            ahead=$(gh api "repos/$REPOSITORY/compare/$BASE_BRANCH...$HEAD_BRANCH" --jq '.ahead_by') || return 2
+            [[ "$ahead" =~ ^[0-9]+$ ]] || return 2
+            [[ "$ahead" -gt 0 ]]
+          }
+
+          if has_pending_commits; then
+            :
+          else
+            status=$?
+            if [[ "$status" -ne 1 ]]; then exit "$status"; fi
+            echo "Records are already published; no pull request needed."
+            exit 0
+          fi
+
           pr_url=$(gh pr list \
             --repo "$REPOSITORY" \
             --head "$HEAD_BRANCH" \
@@ -33,12 +49,24 @@ jobs:
             --jq '.[0].url // empty')
 
           if [[ -z "$pr_url" ]]; then
-            pr_url=$(gh pr create \
+            if pr_url=$(gh pr create \
               --repo "$REPOSITORY" \
               --head "$HEAD_BRANCH" \
               --base "$BASE_BRANCH" \
               --title "Update community personal match records" \
-              --body "Automated, validated personal-record backup from the SaltyBetBot collector VM. Empty, malformed, out-of-order, and regressed exports are rejected before this branch is pushed.")
+              --body "Automated, validated personal-record backup from the SaltyBetBot collector VM. Empty, malformed, out-of-order, and regressed exports are rejected before this branch is pushed."); then
+              :
+            else
+              # Another publisher may have merged the branch during PR creation.
+              if has_pending_commits; then
+                exit 1
+              else
+                status=$?
+                if [[ "$status" -ne 1 ]]; then exit "$status"; fi
+                echo "Records were published during PR creation."
+                exit 0
+              fi
+            fi
           fi
 
           gh pr merge --repo "$REPOSITORY" --auto --merge "$pr_url"
