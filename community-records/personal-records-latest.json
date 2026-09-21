@@ -401453,5 +401453,86 @@
     "sum": 12001,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13641
+    },
+    "date": 1790025664155,
+    "duration": 294201,
+    "left": {
+      "bet_amount": 131205,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Foxy the pirate",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 467263,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shadow knight",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 13641,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790025814350,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 327414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Haru-chan",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145738,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Galivan",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4996
+    },
+    "date": 1790026006552,
+    "duration": 130195,
+    "left": {
+      "bet_amount": 460521,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Xu huang",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 68128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Marshal law",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 4996,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
