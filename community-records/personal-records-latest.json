@@ -395785,5 +395785,140 @@
     "sum": 116689109,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21082
+    },
+    "date": 1789983298562,
+    "duration": 116006,
+    "left": {
+      "bet_amount": 1701868,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Zantetsu",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1181011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Glenn",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 116660366,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24979
+    },
+    "date": 1789983442757,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 2953177,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1120246,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Baiken(ac)",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 116639284,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23482
+    },
+    "date": 1789983562756,
+    "duration": 60000,
+    "left": {
+      "bet_amount": 1086580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Matou kariya",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7990413,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sa-x",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 116648680,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17922
+    },
+    "date": 1789983708975,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 3559722,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Omega adelheid",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1507431,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Maximum maxime",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 116651864,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47029
+    },
+    "date": 1789983842954,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 3706060,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ecoco",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1369117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Zoro roronoa",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 116633942,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
