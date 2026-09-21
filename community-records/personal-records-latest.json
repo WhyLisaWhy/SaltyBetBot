@@ -398566,5 +398566,32 @@
     "sum": 3994,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790002025956,
+    "duration": 158601,
+    "left": {
+      "bet_amount": 647146,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Alexa",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 237287,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Kongou-s",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
