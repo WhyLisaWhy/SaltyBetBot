@@ -401156,5 +401156,86 @@
     "sum": 116587178,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6436
+    },
+    "date": 1790022876148,
+    "duration": 66133,
+    "left": {
+      "bet_amount": 1145328,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pocket evil ryu",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5750435,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Omega_rugal EX",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 116599142,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33456
+    },
+    "date": 1790023026154,
+    "duration": 96007,
+    "left": {
+      "bet_amount": 1456948,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Deluxe ai",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2848601,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Faust",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 116600423,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24985
+    },
+    "date": 1790023167556,
+    "duration": 87397,
+    "left": {
+      "bet_amount": 1884904,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Birdie",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2785771,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Rick simpsons",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 116617336,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
