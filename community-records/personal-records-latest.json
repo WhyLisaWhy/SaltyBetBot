@@ -401615,5 +401615,32 @@
     "sum": 8739,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790027071156,
+    "duration": 169975,
+    "left": {
+      "bet_amount": 459865,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Galivan",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 687208,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Remy",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
