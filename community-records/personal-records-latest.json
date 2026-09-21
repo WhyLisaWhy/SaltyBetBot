@@ -401642,5 +401642,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23936
+    },
+    "date": 1790031684952,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 832040,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 3,
+      "name": "Fear mace rosenkranz",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2225628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ibuki beast-max",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 116636676,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38727
+    },
+    "date": 1790031855153,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 1252849,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kazama kazuki EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4312784,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Prizm-star",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 116698913,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13400
+    },
+    "date": 1790032049349,
+    "duration": 134196,
+    "left": {
+      "bet_amount": 2105517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Antman 64",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10096848,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Lavaila",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 116698913,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790032169431,
+    "duration": 64076,
+    "left": {
+      "bet_amount": 1592342,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nei terestar",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2092256,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "J lance",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 116831020,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30826
+    },
+    "date": 1790032301554,
+    "duration": 76202,
+    "left": {
+      "bet_amount": 1266411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Relly",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2490875,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Arale",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 116831019,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
