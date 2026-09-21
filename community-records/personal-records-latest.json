@@ -399187,5 +399187,165 @@
     "sum": 116575121,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790009955753,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 5010495,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "John anderson",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1202255,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kurihan",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 116528652,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3951
+    },
+    "date": 1790010225953,
+    "duration": 210197,
+    "left": {
+      "bet_amount": 4813519,
+      "ignored_bettors": 17,
+      "illuminati_bettors": 12,
+      "name": "Kongou-s",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 447087,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Agrias",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 116528653,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1790010436155,
+    "duration": 156199,
+    "left": {
+      "bet_amount": 1569847,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 5,
+      "name": "Yuki kameoka",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2286373,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mery",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 116529020,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6779
+    },
+    "date": 1790010586156,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 1709920,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 6,
+      "name": "Desu ada",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1406488,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Tohma_suika",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 116529020,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22305
+    },
+    "date": 1790010822354,
+    "duration": 175997,
+    "left": {
+      "bet_amount": 1081159,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Biscuit-oliva",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2495900,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Gg-wind",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 116537222,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20373
+    },
+    "date": 1790010962556,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 2993240,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Kungfumithra",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1768657,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kevin rian",
+      "normal_bettors": 4,
+      "win_streak": -6
+    },
+    "sum": 116587674,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
