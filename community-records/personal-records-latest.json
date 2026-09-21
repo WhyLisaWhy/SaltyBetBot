@@ -391654,5 +391654,140 @@
     "sum": 116625701,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28876
+    },
+    "date": 1789949780154,
+    "duration": 84208,
+    "left": {
+      "bet_amount": 1507468,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Musashi",
+      "normal_bettors": 7,
+      "win_streak": -13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3559604,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Chunli_a",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 116591141,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789949976156,
+    "duration": 136004,
+    "left": {
+      "bet_amount": 1954685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Monster ball",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8322586,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Storm_cota",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 116603272,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15629
+    },
+    "date": 1789950210355,
+    "duration": 180001,
+    "left": {
+      "bet_amount": 1475602,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Homura sk",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3312132,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Windows 95-tan",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 116603273,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4185
+    },
+    "date": 1789950446557,
+    "duration": 176007,
+    "left": {
+      "bet_amount": 5542214,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Chocobo",
+      "normal_bettors": 26,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1879525,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Syllin",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 116587644,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28592
+    },
+    "date": 1789950706756,
+    "duration": 206198,
+    "left": {
+      "bet_amount": 1857614,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Judith",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2433911,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Ashimiya_yu",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 116589063,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
