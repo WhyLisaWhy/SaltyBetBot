@@ -398458,5 +398458,113 @@
     "sum": 2222,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790001220762,
+    "duration": 80009,
+    "left": {
+      "bet_amount": 249683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shiki_sv",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 57382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Soldier ms",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1905
+    },
+    "date": 1790001416954,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 190673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Tournament of power goku",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 226755,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kongou-s",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 1905,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3494
+    },
+    "date": 1790001561154,
+    "duration": 90108,
+    "left": {
+      "bet_amount": 404845,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Alexa",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 58422,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "K-ko",
+      "normal_bettors": 10,
+      "win_streak": 5
+    },
+    "sum": 3494,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3994
+    },
+    "date": 1790001813355,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 224270,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Shiki_sv",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 348859,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Kongou-s",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 3994,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
