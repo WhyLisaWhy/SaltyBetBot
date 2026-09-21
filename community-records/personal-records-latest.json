@@ -397216,5 +397216,140 @@
     "sum": 116519968,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34866
+    },
+    "date": 1789992317756,
+    "duration": 230203,
+    "left": {
+      "bet_amount": 1475447,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Vampire hunter hsien-ko",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1510479,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kenzo",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 116519967,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789992497967,
+    "duration": 106209,
+    "left": {
+      "bet_amount": 1147063,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chopper",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6106463,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Rise kujikawa",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 116485101,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42018
+    },
+    "date": 1789992688155,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 1573168,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Roy wilson",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1737267,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Dlanor a. knox",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 116485102,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789992848155,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 3350147,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ridley other m",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1551667,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Cvs sagat",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 116522253,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22401
+    },
+    "date": 1789993028356,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 1642692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chan",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1595639,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Shinsaku maekawa",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 116522252,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
