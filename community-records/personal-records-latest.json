@@ -394003,5 +394003,86 @@
     "sum": 116673165,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19806
+    },
+    "date": 1789967017753,
+    "duration": 146194,
+    "left": {
+      "bet_amount": 1126061,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chipp_arrange",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2979781,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Tennma kazusanosuke",
+      "normal_bettors": 26,
+      "win_streak": -6
+    },
+    "sum": 116673164,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2990
+    },
+    "date": 1789967197756,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 1243417,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - woody",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5525011,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Shin valdoll",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 116680600,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1789967343954,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 1269951,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Trouble man, part 2",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5845987,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kaigen ishima",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 116677610,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
