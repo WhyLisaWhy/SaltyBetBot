@@ -391924,5 +391924,140 @@
     "sum": 116603782,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22514
+    },
+    "date": 1789951713553,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 2443385,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Yuen-joe",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1438714,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Reas",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 116612445,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35827
+    },
+    "date": 1789951827821,
+    "duration": 64268,
+    "left": {
+      "bet_amount": 1572042,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Ria-10",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2109773,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Imouto",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 116625581,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21709
+    },
+    "date": 1789952069956,
+    "duration": 182207,
+    "left": {
+      "bet_amount": 5998930,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Arthas",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1207860,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ultimate chris 2",
+      "normal_bettors": 11,
+      "win_streak": -16
+    },
+    "sum": 116589754,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28170
+    },
+    "date": 1789952243955,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 3653328,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Super mario maker ex",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1559197,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mobo",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 116568045,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1789952620355,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 61801,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Juggernaut",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 117623,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mario mythos",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
