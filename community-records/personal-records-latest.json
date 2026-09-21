@@ -392140,5 +392140,86 @@
     "sum": 3901,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6643
+    },
+    "date": 1789953480953,
+    "duration": 103965,
+    "left": {
+      "bet_amount": 92200,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Classic batman",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 313608,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Magneto mvc2",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 6643,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8556
+    },
+    "date": 1789953727152,
+    "duration": 190201,
+    "left": {
+      "bet_amount": 240569,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Miyako rockstyle",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 199508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Seifuku akiha",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 8556,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1789953897357,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 227246,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shingo 98",
+      "normal_bettors": 20,
+      "win_streak": -7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 238364,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Tails",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
