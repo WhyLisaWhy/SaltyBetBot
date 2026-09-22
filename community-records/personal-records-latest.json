@@ -405368,5 +405368,140 @@
     "sum": 117332455,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23200
+    },
+    "date": 1790057921954,
+    "duration": 176198,
+    "left": {
+      "bet_amount": 1069169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Karaage",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2445231,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gaia EX3",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 117333966,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24571
+    },
+    "date": 1790058066156,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1406818,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nf-kyo EX3",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2060030,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Wolf",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 117344015,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37296
+    },
+    "date": 1790058246156,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 813657,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Cyber shredder",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2350344,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Bunny marry",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 117379378,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9190
+    },
+    "date": 1790058436356,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 1746856,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Azteca EX",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1739061,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Real chibi scex",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 117342082,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 190
+    },
+    "date": 1790058582553,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 6433995,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Teoc reisen",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 796293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lisa lisa",
+      "normal_bettors": 4,
+      "win_streak": -13
+    },
+    "sum": 117332892,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
