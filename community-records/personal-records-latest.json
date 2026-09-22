@@ -403424,5 +403424,113 @@
     "sum": 116919696,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17224
+    },
+    "date": 1790042677754,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 4181442,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Johnny(ac)",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1094444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Wonder woman revolutions",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 116919697,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24129
+    },
+    "date": 1790042847954,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 3454892,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Faust(ac)",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 917279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mr. providence",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 116924187,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26241
+    },
+    "date": 1790043052152,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 1675452,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "O.tenho",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2540847,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Tsukushi_mio",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 116900058,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8606
+    },
+    "date": 1790043212354,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 8278276,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Colossus mvc2 ex",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 753313,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Default mugen character",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 116939240,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
