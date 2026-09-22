@@ -404369,5 +404369,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1949
+    },
+    "date": 1790048926776,
+    "duration": 96004,
+    "left": {
+      "bet_amount": 63907,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Remilya scarlet",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 117273,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ultraman gaia",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 1949,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5420
+    },
+    "date": 1790049172954,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 90112,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Neco-misaka",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 168980,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Zangief_musclebomber",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 5420,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8221
+    },
+    "date": 1790049427155,
+    "duration": 194200,
+    "left": {
+      "bet_amount": 187698,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ruby heart mvc3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 122620,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Devil_daigo EX",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 8221,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13367
+    },
+    "date": 1790049663357,
+    "duration": 176201,
+    "left": {
+      "bet_amount": 65761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nosferu",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 268691,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Made multi",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 13367,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
