@@ -403667,5 +403667,140 @@
     "sum": 117115243,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19570
+    },
+    "date": 1790044339154,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 1187865,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Namikiyo",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2133060,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Watatsuki no toyohime",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 117115244,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33061
+    },
+    "date": 1790044549355,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 1441670,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Gaogaigar",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2338563,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Jazu",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 117149817,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21013
+    },
+    "date": 1790044759556,
+    "duration": 144203,
+    "left": {
+      "bet_amount": 1899111,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Yashaou",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1233174,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Crazy mukuro",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 117202244,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38197
+    },
+    "date": 1790044935552,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 722165,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Zangief maskered",
+      "normal_bettors": 4,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3454728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Luffy's rose",
+      "normal_bettors": 25,
+      "win_streak": -5
+    },
+    "sum": 117181231,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790045061756,
+    "duration": 72204,
+    "left": {
+      "bet_amount": 56013494,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ren idagawa",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 793561,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Meilyne cujo",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "sum": 117143034,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
