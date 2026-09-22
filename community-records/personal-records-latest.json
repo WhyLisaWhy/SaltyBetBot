@@ -406961,5 +406961,113 @@
     "sum": 117241353,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18458
+    },
+    "date": 1790067961954,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 1230307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Boggy b",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1838543,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Armor Guts",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 117240130,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7782
+    },
+    "date": 1790068096154,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 1037325,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lf2 - deep",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2482647,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "More Evil Ryu",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 117221672,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790068302354,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 2490217,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mettaton",
+      "normal_bettors": 21,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2482592,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nega peach EX3",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 117224914,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28226
+    },
+    "date": 1790068498354,
+    "duration": 135989,
+    "left": {
+      "bet_amount": 961084,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Dom",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2657536,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Destoroyah_ex",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 117224916,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
