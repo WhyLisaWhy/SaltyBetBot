@@ -407690,5 +407690,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1894
+    },
+    "date": 1790073180153,
+    "duration": 129965,
+    "left": {
+      "bet_amount": 256968,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Guts",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 44983,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vegeta-st",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 1894,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2224
+    },
+    "date": 1790073430355,
+    "duration": 184202,
+    "left": {
+      "bet_amount": 293771,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ky kisuke hnk",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61396,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ange EX",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 2224,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12494
+    },
+    "date": 1790073650555,
+    "duration": 160002,
+    "left": {
+      "bet_amount": 139467,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Hugo dc",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 379572,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Hitosyura ex",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 12494,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16939
+    },
+    "date": 1790073830755,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 104213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Disrupter",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 374442,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Guts",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 16939,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
