@@ -405260,5 +405260,113 @@
     "sum": 117380667,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32687
+    },
+    "date": 1790057165354,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 2289260,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Napalmman",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 848423,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "!shizumaru",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 117359820,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27239
+    },
+    "date": 1790057339547,
+    "duration": 120194,
+    "left": {
+      "bet_amount": 3953907,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Mvc3 lilith",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 777600,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jin EX",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 117327133,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790057495555,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1031630,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Geese ex xi",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3436686,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Yagumo_ex",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 117332454,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 581
+    },
+    "date": 1790057689752,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 2560020,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Rambo",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 984415,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Aquarius camus",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 117332455,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
