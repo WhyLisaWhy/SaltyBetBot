@@ -402830,5 +402830,140 @@
     "sum": 117023249,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3336
+    },
+    "date": 1790039026955,
+    "duration": 220201,
+    "left": {
+      "bet_amount": 2463074,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Super waluigi",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1342289,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "The dark knight",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 117026258,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790039186955,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 1656781,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Heidern 94",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1707818,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Syanahime",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 117028074,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1509
+    },
+    "date": 1790039381155,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 2368281,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Gogyou setsuna",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1341818,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Arina",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 117028073,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790039487383,
+    "duration": 46226,
+    "left": {
+      "bet_amount": 1078139,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tsu-",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3389211,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Butthead sagat",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 117026564,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1234
+    },
+    "date": 1790039617354,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 4223564,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Dee jay",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1605924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kato",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 117026565,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
