@@ -404261,5 +404261,113 @@
     "sum": 117558246,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15008
+    },
+    "date": 1790047915953,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 800247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Star",
+      "normal_bettors": 5,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6480966,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kunagi-f.o",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 117518732,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34601
+    },
+    "date": 1790048116156,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 2273077,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Goro",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1363047,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Zangief maskered",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 117520581,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790048271154,
+    "duration": 94996,
+    "left": {
+      "bet_amount": 2659833,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Grande mestre",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1633985,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kuma CVS",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 117485980,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790048770555,
+    "duration": 224003,
+    "left": {
+      "bet_amount": 120848,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Nanase",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 31477,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Giant baba",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
