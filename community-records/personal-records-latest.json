@@ -407852,5 +407852,59 @@
     "sum": 30997,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25126
+    },
+    "date": 1790075518155,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 3634252,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Gloria EX3",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 810126,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nitori(emanon)",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 117192702,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790075664154,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1361234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pocket terry",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2154843,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Naitou",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 117167576,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
