@@ -407798,5 +407798,59 @@
     "sum": 16939,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21450
+    },
+    "date": 1790074206953,
+    "duration": 310198,
+    "left": {
+      "bet_amount": 307581,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Ange EX",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 146432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hitosyura ex",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 21450,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30997
+    },
+    "date": 1790074475154,
+    "duration": 204001,
+    "left": {
+      "bet_amount": 634051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Guts",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 135549,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ange EX",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 30997,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
