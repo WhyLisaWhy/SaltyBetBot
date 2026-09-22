@@ -403289,5 +403289,140 @@
     "sum": 116954203,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23534
+    },
+    "date": 1790041755153,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 2154058,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Red len",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1339800,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Ares",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 116923574,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29328
+    },
+    "date": 1790041901153,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 2732751,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kawashima-san",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1748640,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Nekomo",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 116938054,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17957
+    },
+    "date": 1790042115356,
+    "duration": 150204,
+    "left": {
+      "bet_amount": 3841944,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Shiki_sv",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1441845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kraidgief",
+      "normal_bettors": 7,
+      "win_streak": -11
+    },
+    "sum": 116908726,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20403
+    },
+    "date": 1790042285555,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 3803145,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dlanor a. knox kb",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 798673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Amato",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 116915434,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790042465549,
+    "duration": 123983,
+    "left": {
+      "bet_amount": 2462788,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mizuchi xiii",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1418879,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Chisa tsukamoto",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 116919696,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
