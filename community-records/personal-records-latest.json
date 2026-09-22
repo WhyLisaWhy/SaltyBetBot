@@ -404720,5 +404720,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790051821355,
+    "duration": 204401,
+    "left": {
+      "bet_amount": 360756,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Remilya scarlet",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 536284,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Meteor",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
