@@ -408068,5 +408068,113 @@
     "sum": 117188800,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 47339
+    },
+    "date": 1790076851157,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 967982,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bemular",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2177127,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Sahaquiel",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 117198579,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27608
+    },
+    "date": 1790077037154,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 1573594,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "H-chonshu",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1949013,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Bloodbane",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 117219179,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13335
+    },
+    "date": 1790077207356,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 5313786,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Gonzales s-r",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1946289,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Psyqhical kofm",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 117241158,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38561
+    },
+    "date": 1790077347556,
+    "duration": 76006,
+    "left": {
+      "bet_amount": 1143327,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Bebum ryo",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1940195,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Omega rugal 95",
+      "normal_bettors": 20,
+      "win_streak": -7
+    },
+    "sum": 117227823,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
