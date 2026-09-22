@@ -402965,5 +402965,167 @@
     "sum": 117026565,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6897
+    },
+    "date": 1790039827554,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 1137003,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Small akuma",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1963760,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Magma",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 117027035,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19954
+    },
+    "date": 1790039973554,
+    "duration": 85990,
+    "left": {
+      "bet_amount": 1048803,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aoc",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2449191,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Miyoshi karin",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 117031015,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24515
+    },
+    "date": 1790040137756,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 721380,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kendo&kyudo",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2395393,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Akaitsuki EX",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 117011061,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790040285955,
+    "duration": 92198,
+    "left": {
+      "bet_amount": 8903894,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Hamtaro",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 812438,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Retsu ff",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "sum": 116986546,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18246
+    },
+    "date": 1790040463957,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 3881766,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Heart of madness",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1115725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sayia-f",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 116986547,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18840
+    },
+    "date": 1790040638155,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 856101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kid goku sb",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2822207,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Taokaka",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 116968301,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
