@@ -411495,5 +411495,113 @@
     "sum": 2848,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790376644729,
+    "duration": 86203,
+    "left": {
+      "bet_amount": 697693,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Emporio alnino",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3807820,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 13,
+      "name": "Kirby mythos",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 119307299,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25903
+    },
+    "date": 1790376870726,
+    "duration": 171999,
+    "left": {
+      "bet_amount": 1010139,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Nagamine nozomi",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2904500,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Umbreon",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 119307300,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790376996925,
+    "duration": 72001,
+    "left": {
+      "bet_amount": 1155858,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sinestro",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9372973,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 14,
+      "name": "Sesame",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 119316230,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10018
+    },
+    "date": 1790377125126,
+    "duration": 74199,
+    "left": {
+      "bet_amount": 972237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gadis",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4576424,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "Snorlax EX2",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 119316231,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
