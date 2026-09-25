@@ -411468,5 +411468,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2848
+    },
+    "date": 1790372406518,
+    "duration": 309407,
+    "left": {
+      "bet_amount": 250841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Yukkuri z-ton 2",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 371550,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Roa EX3",
+      "normal_bettors": 31,
+      "win_streak": 8
+    },
+    "sum": 2848,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
