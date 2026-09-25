@@ -411603,5 +411603,113 @@
     "sum": 119316231,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36181
+    },
+    "date": 1790377405324,
+    "duration": 73971,
+    "left": {
+      "bet_amount": 1028536,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Raidou",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10259690,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Orochi akuma",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 119306213,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17413
+    },
+    "date": 1790377581324,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 1233404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Senna",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4095569,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Kaizuka bocky mogra",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 119270032,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26382
+    },
+    "date": 1790377765526,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1033268,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wonder woman revolutions",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7041293,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Vega mvc2",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "sum": 119275254,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37138
+    },
+    "date": 1790377923723,
+    "duration": 98196,
+    "left": {
+      "bet_amount": 4664809,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Monkey.d.luffy",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1847024,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kangaroo",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 119450561,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
