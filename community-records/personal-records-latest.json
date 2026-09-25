@@ -411441,5 +411441,32 @@
     "sum": 118411172,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790371876934,
+    "duration": 270199,
+    "left": {
+      "bet_amount": 433235,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Yukkuri z-ton 2",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 197484,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Pesoguin",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
