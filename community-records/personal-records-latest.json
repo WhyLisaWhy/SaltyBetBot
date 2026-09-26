@@ -413196,5 +413196,113 @@
     "sum": 120050466,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21525
+    },
+    "date": 1790387391124,
+    "duration": 164178,
+    "left": {
+      "bet_amount": 3655217,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Chelsea tone",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 701922,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kawashima-san EX2",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 120063547,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790387551124,
+    "duration": 89989,
+    "left": {
+      "bet_amount": 858298,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tatsuo",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6311316,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Kazuma EX",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 120067657,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1114
+    },
+    "date": 1790387843523,
+    "duration": 222194,
+    "left": {
+      "bet_amount": 589353,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Original vega",
+      "normal_bettors": 4,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6108159,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Lemeza",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 120067658,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18559
+    },
+    "date": 1790387991526,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 4091281,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Fevrier sf",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1039320,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Prince diamond",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 120067766,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
