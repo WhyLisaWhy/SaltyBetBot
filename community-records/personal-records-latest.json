@@ -415894,5 +415894,113 @@
     "sum": 120402207,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23927
+    },
+    "date": 1790409892728,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1030505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Super vegeta EX3",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2613439,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Vergil",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 120405451,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21633
+    },
+    "date": 1790410162927,
+    "duration": 210202,
+    "left": {
+      "bet_amount": 1556297,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Renne hayworth",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1773779,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Masked_dedede",
+      "normal_bettors": 15,
+      "win_streak": 11
+    },
+    "sum": 120381524,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790410353128,
+    "duration": 146202,
+    "left": {
+      "bet_amount": 4034425,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Egg chamber",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 927158,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Robbie rotten",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 120405843,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23065
+    },
+    "date": 1790410503128,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 3450710,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Shiina noriko",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 943932,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sumo sw",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 120405844,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
