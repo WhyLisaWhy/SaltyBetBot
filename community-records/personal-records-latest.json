@@ -413871,5 +413871,113 @@
     "sum": 120186004,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23053
+    },
+    "date": 1790391802532,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 1278786,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Doodlebob",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2254456,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Grass mud horse",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 120200952,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46031
+    },
+    "date": 1790391978726,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 5641851,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Koryuoh",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 826615,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chonshu 02um",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "sum": 120177899,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1271
+    },
+    "date": 1790392214925,
+    "duration": 170200,
+    "left": {
+      "bet_amount": 1965481,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Super sayajin 4",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2244900,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Vegeta gt",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 120131868,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30297
+    },
+    "date": 1790392394925,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 3336696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Silversamurai",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2684064,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Abyss form 1",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 120130597,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
