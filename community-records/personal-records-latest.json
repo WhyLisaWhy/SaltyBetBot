@@ -423506,5 +423506,86 @@
     "sum": 2427,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3278
+    },
+    "date": 1790465741128,
+    "duration": 156203,
+    "left": {
+      "bet_amount": 40268,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Iron knuckle willy",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 295835,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Luigi ssbb",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 3278,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3720
+    },
+    "date": 1790465995326,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 294118,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Metal mario",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 122787,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Boring vigilante EX3",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 3720,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12369
+    },
+    "date": 1790466153525,
+    "duration": 98186,
+    "left": {
+      "bet_amount": 368970,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Shimo EX3",
+      "normal_bettors": 42,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 56652,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Leon",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "sum": 12369,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
