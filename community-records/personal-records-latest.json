@@ -420347,5 +420347,86 @@
     "sum": 120905547,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790440621325,
+    "duration": 180187,
+    "left": {
+      "bet_amount": 36401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 144624,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Faust(ac)",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790440965727,
+    "duration": 284402,
+    "left": {
+      "bet_amount": 54317,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Doctor wily",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 207010,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Alter wind",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790441115726,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 248781,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Reisen udongein inaba",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 91007,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Goenitz EX3",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
