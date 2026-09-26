@@ -417350,5 +417350,86 @@
     "sum": 26735,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32218
+    },
+    "date": 1790419762726,
+    "duration": 190201,
+    "left": {
+      "bet_amount": 242675,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Konata EX",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1652026,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Straight cougar",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 32218,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 56460
+    },
+    "date": 1790419968726,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 119623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yuzuki yukari",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1012937,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Jumping jackal",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 225839,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 58039
+    },
+    "date": 1790420269126,
+    "duration": 246203,
+    "left": {
+      "bet_amount": 76541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Titan the great",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1058785,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "King-kofm",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 232155,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
