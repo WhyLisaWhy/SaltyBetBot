@@ -414220,5 +414220,113 @@
     "sum": 9966,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13088
+    },
+    "date": 1790394422522,
+    "duration": 125986,
+    "left": {
+      "bet_amount": 1082568,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Shimo/grand order",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 53461,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Toudou",
+      "normal_bettors": 8,
+      "win_streak": -11
+    },
+    "sum": 13088,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790394558723,
+    "duration": 80196,
+    "left": {
+      "bet_amount": 593262,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "O. rozwel gustab",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 336186,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Superkouji",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2427
+    },
+    "date": 1790394772924,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 844552,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Synn",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 179001,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "S.jagi",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 2427,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2940
+    },
+    "date": 1790395143125,
+    "duration": 310192,
+    "left": {
+      "bet_amount": 656910,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Nightmare-gamera_ex",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 329338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Neo meep140",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 2940,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
