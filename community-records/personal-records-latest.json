@@ -419375,5 +419375,113 @@
     "sum": 120852893,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30857
+    },
+    "date": 1790434240125,
+    "duration": 143998,
+    "left": {
+      "bet_amount": 4937757,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Rasyouzin miduki",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1077441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 120857278,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26902
+    },
+    "date": 1790434376325,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1340173,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dokuro",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5015243,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Ramon-kofm",
+      "normal_bettors": 26,
+      "win_streak": 8
+    },
+    "sum": 120826421,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17127
+    },
+    "date": 1790434550527,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 3499686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Foxy-kofm",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1333127,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Sf4 ryu",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "sum": 120833572,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 48770
+    },
+    "date": 1790434686524,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 1320803,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Serio",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4533218,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Galmnk",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 120877963,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
