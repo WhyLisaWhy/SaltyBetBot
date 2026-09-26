@@ -418403,5 +418403,167 @@
     "sum": 120665768,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14330
+    },
+    "date": 1790427861125,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 2260737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Samus",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1390800,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Pon",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 120671359,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19090
+    },
+    "date": 1790427985126,
+    "duration": 60002,
+    "left": {
+      "bet_amount": 5598097,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Invoker",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 721317,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shuu",
+      "normal_bettors": 4,
+      "win_streak": 2
+    },
+    "sum": 120680120,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790428151326,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 778735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tsu-",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5899141,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Goku black ssr",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 120682572,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 797
+    },
+    "date": 1790428331531,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 1532997,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Dante M",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2113234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Zero suicide",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 120682573,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16902
+    },
+    "date": 1790428547527,
+    "duration": 162001,
+    "left": {
+      "bet_amount": 1382863,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "The hero of time",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1890784,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Vanguard zero",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 120683672,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4698
+    },
+    "date": 1790428691724,
+    "duration": 83997,
+    "left": {
+      "bet_amount": 2106702,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Galacta knight mvc",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1006390,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Geese CVS",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 120706503,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
