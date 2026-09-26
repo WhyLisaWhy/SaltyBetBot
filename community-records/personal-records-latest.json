@@ -416839,5 +416839,140 @@
     "sum": 120215599,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36712
+    },
+    "date": 1790416231925,
+    "duration": 230189,
+    "left": {
+      "bet_amount": 3488500,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Michelangelo",
+      "normal_bettors": 19,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1066121,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shannon",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 120188411,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31321
+    },
+    "date": 1790416377928,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 1965548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Master fuuma",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1934125,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Hyper omega chaos hiryu",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 120304540,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25681
+    },
+    "date": 1790416578128,
+    "duration": 146204,
+    "left": {
+      "bet_amount": 1676472,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Aselia",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1844182,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mint",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 120335863,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29766
+    },
+    "date": 1790416708328,
+    "duration": 76198,
+    "left": {
+      "bet_amount": 4225153,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Patrick dulton",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 772136,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yu-lan",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 120310182,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9125
+    },
+    "date": 1790416872331,
+    "duration": 110005,
+    "left": {
+      "bet_amount": 1499436,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chaos 0",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2497059,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Meep140 s-type",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 120280416,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
