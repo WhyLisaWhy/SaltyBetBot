@@ -421994,5 +421994,140 @@
     "sum": 121171287,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25956
+    },
+    "date": 1790455821125,
+    "duration": 185999,
+    "left": {
+      "bet_amount": 2922337,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Gradriel",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1101686,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Merged zamasu",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 121171286,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21813
+    },
+    "date": 1790455969326,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 2132273,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ranma saotome EX2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2183489,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Android 18 EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 121180985,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19844
+    },
+    "date": 1790456195527,
+    "duration": 166198,
+    "left": {
+      "bet_amount": 1931693,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Serena corsair",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1673599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Dark super sonic",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 121180985,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790456325531,
+    "duration": 70004,
+    "left": {
+      "bet_amount": 1906995,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Reisen-e",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2770687,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "King lion",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 121182232,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36534
+    },
+    "date": 1790456461725,
+    "duration": 75995,
+    "left": {
+      "bet_amount": 3881907,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Biollente",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 980768,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kou EX",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 121182231,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
