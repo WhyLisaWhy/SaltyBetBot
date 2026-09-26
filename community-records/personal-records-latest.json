@@ -418835,5 +418835,167 @@
     "sum": 120737727,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37506
+    },
+    "date": 1790430529324,
+    "duration": 94196,
+    "left": {
+      "bet_amount": 1787345,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Dies",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1436114,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Alien borg",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 120753142,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790430665324,
+    "duration": 76002,
+    "left": {
+      "bet_amount": 2779101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Lee rekka",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 789840,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Eyedol",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 120715636,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20446
+    },
+    "date": 1790430789527,
+    "duration": 70199,
+    "left": {
+      "bet_amount": 2544404,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Leus hunter",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 871233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zinsuke",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 120715635,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23446
+    },
+    "date": 1790430919526,
+    "duration": 73995,
+    "left": {
+      "bet_amount": 924939,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ulquiorra cifer",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5483232,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Beelzebub",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 120695189,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14709
+    },
+    "date": 1790431065734,
+    "duration": 86182,
+    "left": {
+      "bet_amount": 1507512,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Choi special",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2466070,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 11,
+      "name": "Nakoruru",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 120671743,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22669
+    },
+    "date": 1790431255730,
+    "duration": 134004,
+    "left": {
+      "bet_amount": 1996534,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gully",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1362180,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Shadow2",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 120680682,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
