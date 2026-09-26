@@ -422993,5 +422993,140 @@
     "sum": 121336172,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790462124327,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 4506603,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Gilgamesh f/sn",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 668018,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pocket Mario",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 121341766,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26020
+    },
+    "date": 1790462274326,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1314835,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Tear",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2333174,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Task force green arrow",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121341765,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34798
+    },
+    "date": 1790462420528,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 2065319,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 6,
+      "name": "Cagney carnation",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1570857,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Vergil2",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121315745,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28246
+    },
+    "date": 1790462654725,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 1887145,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Fire quacker",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1934542,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Storm_cota",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121280947,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19430
+    },
+    "date": 1790462804767,
+    "duration": 94041,
+    "left": {
+      "bet_amount": 6380242,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Headdy",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1073758,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Signum",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 121252701,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
