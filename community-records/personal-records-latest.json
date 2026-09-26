@@ -420563,5 +420563,113 @@
     "sum": 2185,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790442388727,
+    "duration": 186204,
+    "left": {
+      "bet_amount": 133702,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 449359,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Doctor wily",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6700
+    },
+    "date": 1790442608723,
+    "duration": 165998,
+    "left": {
+      "bet_amount": 417385,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Reisen udongein inaba",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 247401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Yang xiao long",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 6700,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10609
+    },
+    "date": 1790442808923,
+    "duration": 139993,
+    "left": {
+      "bet_amount": 63553,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pheus_mor",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 700569,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Negativezero",
+      "normal_bettors": 36,
+      "win_streak": 9
+    },
+    "sum": 10609,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11558
+    },
+    "date": 1790443079124,
+    "duration": 214000,
+    "left": {
+      "bet_amount": 328373,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Bc-sakura",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 491873,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Soldier ms",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 11558,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
