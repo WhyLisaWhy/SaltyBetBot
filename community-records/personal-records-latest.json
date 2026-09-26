@@ -412629,5 +412629,113 @@
     "sum": 119994765,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28453
+    },
+    "date": 1790383766328,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 3494089,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Yukarin ex",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1868166,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 6,
+      "name": "Alena",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 119980289,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33885
+    },
+    "date": 1790383930325,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 2249528,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Lf2 - louis",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2285061,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vp frey",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 119951836,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790384118524,
+    "duration": 128195,
+    "left": {
+      "bet_amount": 13694580,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Sayuri kurata",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 998787,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "White Buffalo M1",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 119985746,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34729
+    },
+    "date": 1790384286727,
+    "duration": 116187,
+    "left": {
+      "bet_amount": 3151230,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Chibi kuroko",
+      "normal_bettors": 29,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353113,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Alsion 3rd",
+      "normal_bettors": 9,
+      "win_streak": 6
+    },
+    "sum": 119985747,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
