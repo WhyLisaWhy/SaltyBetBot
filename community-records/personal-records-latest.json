@@ -417136,5 +417136,113 @@
     "sum": 120380045,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21789
+    },
+    "date": 1790417915128,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 3115509,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Makoto sawatari",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2474983,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shin marie",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 120392888,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44121
+    },
+    "date": 1790418049329,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 1402478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Haiyoru_konton",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2627358,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Faust",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 120371099,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7106
+    },
+    "date": 1790418179329,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 4609844,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Racing miku 2014ev",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 925910,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chun-li",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 120326978,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11660
+    },
+    "date": 1790418455526,
+    "duration": 220001,
+    "left": {
+      "bet_amount": 2158106,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Gezorah",
+      "normal_bettors": 21,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1848194,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Diokles",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 120319872,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
