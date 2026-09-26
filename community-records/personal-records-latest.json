@@ -419186,5 +419186,59 @@
     "sum": 120695431,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23777
+    },
+    "date": 1790432418747,
+    "duration": 112015,
+    "left": {
+      "bet_amount": 875284,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kazu",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4671752,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 120750041,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20781
+    },
+    "date": 1790433149325,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 1039873,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 4,
+      "name": "Eddie DD",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1404958,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Amato",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 120754474,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
