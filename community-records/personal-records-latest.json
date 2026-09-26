@@ -419240,5 +419240,140 @@
     "sum": 120754474,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29656
+    },
+    "date": 1790433273524,
+    "duration": 70196,
+    "left": {
+      "bet_amount": 591036,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Sayo",
+      "normal_bettors": 3,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3260589,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Washizu iwao",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 120769631,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12799
+    },
+    "date": 1790433499525,
+    "duration": 170000,
+    "left": {
+      "bet_amount": 669128,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nuclear man",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2550234,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Scharlachrot",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 120774959,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30034
+    },
+    "date": 1790433715728,
+    "duration": 162001,
+    "left": {
+      "bet_amount": 796797,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Akane yatogi",
+      "normal_bettors": 5,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3666297,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Gate x6",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 120762160,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42443
+    },
+    "date": 1790433895930,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 642339,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Naya tatca nanafe",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5146560,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Cocoa",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 120895336,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15670
+    },
+    "date": 1790434040126,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 3135415,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Roy fe",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 881676,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Metal slug",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 120852893,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
