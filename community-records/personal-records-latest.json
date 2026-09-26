@@ -416434,5 +416434,86 @@
     "sum": 120385071,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28294
+    },
+    "date": 1790413573730,
+    "duration": 60003,
+    "left": {
+      "bet_amount": 2706191,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Q-bee ex",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 819035,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Xbl balrog",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 120385070,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27088
+    },
+    "date": 1790413753945,
+    "duration": 120219,
+    "left": {
+      "bet_amount": 662886,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Gign_counter",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5166179,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Shadow knight",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 120393545,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22288
+    },
+    "date": 1790413943926,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1190512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Saber_extra",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1842044,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Clark 98",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 120366457,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
