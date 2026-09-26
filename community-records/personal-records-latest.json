@@ -417244,5 +417244,111 @@
     "sum": 120319872,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1790418638128,
+    "duration": 126401,
+    "left": {
+      "bet_amount": 386101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Emily",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 222808,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mahvel ryu",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 14530,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14530
+    },
+    "date": 1790419012124,
+    "duration": 110188,
+    "left": {
+      "bet_amount": 887025,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Cheng sinzan rb2",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 605942,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Kisarah-n",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 14530,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24296
+    },
+    "date": 1790419252330,
+    "duration": 186160,
+    "left": {
+      "bet_amount": 150011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lightning bd",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1470481,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Shoto rockman x",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 24296,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26735
+    },
+    "date": 1790419512528,
+    "duration": 200204,
+    "left": {
+      "bet_amount": 318660,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sorluska EX2",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1527187,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kim as",
+      "normal_bettors": 30,
+      "win_streak": 9
+    },
+    "sum": 26735,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
