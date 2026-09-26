@@ -421400,5 +421400,167 @@
     "sum": 121039214,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16984
+    },
+    "date": 1790452094326,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 1047090,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Johnny(ac)",
+      "normal_bettors": 7,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2862445,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Neco-arc",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 121069889,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790452218335,
+    "duration": 64007,
+    "left": {
+      "bet_amount": 722806,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cci kula",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7131120,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Cammy pots",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 121115578,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9367
+    },
+    "date": 1790452378526,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 5712588,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Neff",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 732742,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kamui(arrange)",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 121115579,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1610
+    },
+    "date": 1790452498525,
+    "duration": 64002,
+    "left": {
+      "bet_amount": 4893546,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Duralminn",
+      "normal_bettors": 26,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 676432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Houjyou torami",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 121116779,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30392
+    },
+    "date": 1790452684726,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 1734967,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Kazane humuro",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1393909,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Reas",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 121117002,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790452840928,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 4320778,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Ultraman tarou",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1537215,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Necoarc",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 121086610,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
