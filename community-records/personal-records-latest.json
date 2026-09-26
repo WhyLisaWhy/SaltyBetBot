@@ -419672,5 +419672,113 @@
     "sum": 120808749,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32912
+    },
+    "date": 1790436147744,
+    "duration": 180215,
+    "left": {
+      "bet_amount": 1465257,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kizaru head",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2896768,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Dis astranagant",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 120877512,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 45027
+    },
+    "date": 1790436299924,
+    "duration": 92197,
+    "left": {
+      "bet_amount": 1257236,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Athena_96",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3120717,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kung fu men",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 120941149,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8482
+    },
+    "date": 1790436590127,
+    "duration": 226200,
+    "left": {
+      "bet_amount": 1445560,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Bomber hugo",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2186839,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Ghetsis",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 120959031,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37485
+    },
+    "date": 1790436734127,
+    "duration": 84001,
+    "left": {
+      "bet_amount": 5907218,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "K-core",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 811105,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fio germi",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 120971788,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
