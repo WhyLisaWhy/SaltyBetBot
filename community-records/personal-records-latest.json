@@ -422858,5 +422858,140 @@
     "sum": 121334864,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3687
+    },
+    "date": 1790461207536,
+    "duration": 80011,
+    "left": {
+      "bet_amount": 5793287,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Ishtar",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 973872,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alice smt",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 121334865,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 595
+    },
+    "date": 1790461383727,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 2234350,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tsu-",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2570637,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Ryo EX2",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 121335485,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790461557726,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 2442822,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Klose rinz",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3454853,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Blue blood",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 121336170,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790461799926,
+    "duration": 186001,
+    "left": {
+      "bet_amount": 2736189,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Bootleg orochi iori",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1491386,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Akane satomura",
+      "normal_bettors": 16,
+      "win_streak": 0
+    },
+    "sum": 121336171,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13932
+    },
+    "date": 1790461954189,
+    "duration": 100061,
+    "left": {
+      "bet_amount": 2756816,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Lucina",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1112492,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider saga",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121336172,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
