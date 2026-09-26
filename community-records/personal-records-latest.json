@@ -417971,5 +417971,140 @@
     "sum": 120569689,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30956
+    },
+    "date": 1790425247127,
+    "duration": 186195,
+    "left": {
+      "bet_amount": 2954489,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Iron fist",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1161351,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mr_shihan_ky",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 120614188,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1320
+    },
+    "date": 1790425437127,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 712013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The territorial mammoth",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3497097,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Suiseiseki",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 120583232,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22852
+    },
+    "date": 1790425567327,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 3847428,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Dormammu-r",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096782,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Master rouwe",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 120583501,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22253
+    },
+    "date": 1790425707324,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 2508243,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Inubisu",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1652740,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shinobu kawasaki",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 120589977,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35287
+    },
+    "date": 1790425867526,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 804150,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mr.r",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7005142,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Shiki nanaya",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 120623301,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
