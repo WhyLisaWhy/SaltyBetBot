@@ -414141,5 +414141,84 @@
     "sum": 120151716,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1790393589724,
+    "duration": 73797,
+    "left": {
+      "bet_amount": 454586,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Zangeese EX2",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 274513,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Alex_a",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 8699,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8699
+    },
+    "date": 1790393966125,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 165085,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "God vega",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1124870,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 26,
+      "name": "Boss gustab m.",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 8699,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9966
+    },
+    "date": 1790394242575,
+    "duration": 216247,
+    "left": {
+      "bet_amount": 1021357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Alphax",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 323001,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Bk_s.y",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 9966,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
