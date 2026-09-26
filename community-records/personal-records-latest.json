@@ -414328,5 +414328,113 @@
     "sum": 2940,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790395359325,
+    "duration": 156200,
+    "left": {
+      "bet_amount": 66196,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "S-zero",
+      "normal_bettors": 12,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 605310,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 23,
+      "name": "Washizuka ikusa style",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790395613527,
+    "duration": 194203,
+    "left": {
+      "bet_amount": 1078657,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Ereshkigal-e",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76851,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sutegoro girl kaori",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1661
+    },
+    "date": 1790395945726,
+    "duration": 272200,
+    "left": {
+      "bet_amount": 763295,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Boss gustab m.",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 441670,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Alphax",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "sum": 1661,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790396099923,
+    "duration": 94198,
+    "left": {
+      "bet_amount": 43313,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Toudou",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 511454,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 22,
+      "name": "O. rozwel gustab",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
