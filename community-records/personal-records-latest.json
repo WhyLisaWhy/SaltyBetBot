@@ -420671,5 +420671,59 @@
     "sum": 11558,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790443225326,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 223975,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 326866,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Reisen udongein inaba",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3797
+    },
+    "date": 1790443525525,
+    "duration": 246199,
+    "left": {
+      "bet_amount": 491792,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Negativezero",
+      "normal_bettors": 21,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145323,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Bc-sakura",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "sum": 3797,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
