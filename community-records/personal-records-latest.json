@@ -414571,5 +414571,86 @@
     "sum": 13022,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32457
+    },
+    "date": 1790401197724,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 1266327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zrygunte",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2694546,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Smoke umk3",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 120153278,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2180
+    },
+    "date": 1790401363927,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 2090271,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Jay garrick",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1901277,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Filea",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 120120821,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14559
+    },
+    "date": 1790401508124,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 932015,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mobo",
+      "normal_bettors": 5,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5635184,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Class wo",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 120122802,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
