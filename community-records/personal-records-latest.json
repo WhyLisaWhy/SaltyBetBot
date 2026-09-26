@@ -412926,5 +412926,167 @@
     "sum": 120028428,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17338
+    },
+    "date": 1790385627728,
+    "duration": 70204,
+    "left": {
+      "bet_amount": 920646,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "A-rei",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4118583,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "S.geist",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 120025173,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790385763723,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 1559124,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Sinobu-kofm",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2285263,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Lucifeller_ex",
+      "normal_bettors": 14,
+      "win_streak": 7
+    },
+    "sum": 120029033,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12505
+    },
+    "date": 1790385929927,
+    "duration": 106003,
+    "left": {
+      "bet_amount": 894831,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fake okami",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3277158,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "A-yuki",
+      "normal_bettors": 29,
+      "win_streak": 8
+    },
+    "sum": 120029032,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12339
+    },
+    "date": 1790386049923,
+    "duration": 59997,
+    "left": {
+      "bet_amount": 3664957,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Broken",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1131617,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ultrassjgoku",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "sum": 120016527,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16761
+    },
+    "date": 1790386214125,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 5553074,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Kukulkan",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 657520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Geisya",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 120020325,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790386350325,
+    "duration": 80203,
+    "left": {
+      "bet_amount": 5047712,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Hotaru's bizarre adventure",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1216797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yue hizoku",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 120022304,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
