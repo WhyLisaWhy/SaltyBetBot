@@ -422129,5 +422129,113 @@
     "sum": 121182231,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1115
+    },
+    "date": 1790456665927,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 1252520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Royal air king EX3",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4709788,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mizukami hokuto",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 121191376,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30512
+    },
+    "date": 1790456821926,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1314924,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mario ssbb",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2796229,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Crybow",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 121191673,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790457046129,
+    "duration": 170001,
+    "left": {
+      "bet_amount": 4244828,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Manly clark",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 856012,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mars people EX3",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 121161161,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790457206328,
+    "duration": 99991,
+    "left": {
+      "bet_amount": 900175,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Zoro roronoa",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6939705,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Edward trusdale",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 121161160,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
