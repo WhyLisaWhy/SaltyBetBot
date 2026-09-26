@@ -421697,5 +421697,140 @@
     "sum": 121129543,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790453919725,
+    "duration": 64001,
+    "left": {
+      "bet_amount": 1082134,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Jcvd EX",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7745102,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Rasputin",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 121129644,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8218
+    },
+    "date": 1790454131929,
+    "duration": 154170,
+    "left": {
+      "bet_amount": 978741,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mai-ling",
+      "normal_bettors": 9,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8601428,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Cvssantamu",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 121129645,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23754
+    },
+    "date": 1790454297927,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1258716,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Testament gg1",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2695261,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "S_youmu",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 121130580,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33487
+    },
+    "date": 1790454442126,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 5384583,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Nipponia nippon",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 854089,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Anna kyoyama",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121141577,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25102
+    },
+    "date": 1790454582326,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 5342976,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Bike myson sr.",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 999776,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "G-hamster",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 121146856,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
