@@ -420725,5 +420725,32 @@
     "sum": 3797,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790443878525,
+    "duration": 293000,
+    "left": {
+      "bet_amount": 244988,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 389825,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Bc-sakura",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
