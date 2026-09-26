@@ -417566,5 +417566,113 @@
     "sum": 149399,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38220
+    },
+    "date": 1790421546124,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 337719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Irriana",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 340402,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Funky dantel",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 152880,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46743
+    },
+    "date": 1790421736125,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 147354,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Shoto rockman x",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 474589,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kim as",
+      "normal_bettors": 28,
+      "win_streak": 11
+    },
+    "sum": 186972,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 50046
+    },
+    "date": 1790421896327,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 297148,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Jumping jackal",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 396650,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Funky dantel",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 200184,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 64340
+    },
+    "date": 1790422193128,
+    "duration": 236803,
+    "left": {
+      "bet_amount": 797478,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Kim as",
+      "normal_bettors": 28,
+      "win_streak": 12
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 306276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jumping jackal",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 257359,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
