@@ -422723,5 +422723,140 @@
     "sum": 121226699,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9887
+    },
+    "date": 1790460230726,
+    "duration": 49992,
+    "left": {
+      "bet_amount": 5686688,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Junko",
+      "normal_bettors": 26,
+      "win_streak": 42
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 993532,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gold mario ver.2.9",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 121226700,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790460496925,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 6248582,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Neferpitou",
+      "normal_bettors": 35,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1072719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Buguu",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 121228425,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46836
+    },
+    "date": 1790460623124,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 1154252,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jade",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2974587,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Saki guitly gear",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 121228424,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27305
+    },
+    "date": 1790460837325,
+    "duration": 154199,
+    "left": {
+      "bet_amount": 926859,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Alsa",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3094225,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 121246317,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790461073527,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 4282587,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Mictlan",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 934849,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Shanghai doll",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 121334864,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
