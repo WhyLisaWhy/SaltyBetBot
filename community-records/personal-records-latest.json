@@ -414787,5 +414787,140 @@
     "sum": 120146144,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29354
+    },
+    "date": 1790402584925,
+    "duration": 94201,
+    "left": {
+      "bet_amount": 5558872,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Angelia",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 726571,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Assiette",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "sum": 120121365,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27944
+    },
+    "date": 1790402734924,
+    "duration": 89967,
+    "left": {
+      "bet_amount": 1620077,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Alba meira",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1989928,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Gallon EX2",
+      "normal_bettors": 12,
+      "win_streak": 8
+    },
+    "sum": 120125182,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22203
+    },
+    "date": 1790402871126,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 611755,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Judge",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3158714,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Shiki",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 120097238,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27744
+    },
+    "date": 1790403115324,
+    "duration": 184197,
+    "left": {
+      "bet_amount": 2316078,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Prismatic jam",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189998,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Trapsatoko",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 120101509,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7477
+    },
+    "date": 1790403277528,
+    "duration": 96197,
+    "left": {
+      "bet_amount": 1165060,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bloody flandre",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6570695,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Order-ky",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 120073765,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
