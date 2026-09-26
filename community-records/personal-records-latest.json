@@ -419780,5 +419780,113 @@
     "sum": 120971788,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30835
+    },
+    "date": 1790436864325,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 5906520,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kutsuna yui ex",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 780941,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Youko",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 120976903,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29702
+    },
+    "date": 1790437064536,
+    "duration": 140210,
+    "left": {
+      "bet_amount": 1702219,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kid gohan EX3",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3701558,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Ren-kun",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 120980959,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3887
+    },
+    "date": 1790437214540,
+    "duration": 94013,
+    "left": {
+      "bet_amount": 2658200,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Condor heads",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1657996,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Akari kamigishi EX3",
+      "normal_bettors": 16,
+      "win_streak": -7
+    },
+    "sum": 120994510,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22597
+    },
+    "date": 1790437390728,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1042534,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kon-el EX9",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4246151,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Big volfogg",
+      "normal_bettors": 27,
+      "win_streak": -5
+    },
+    "sum": 120990623,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
