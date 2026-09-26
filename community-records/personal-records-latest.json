@@ -421562,5 +421562,140 @@
     "sum": 121086610,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32029
+    },
+    "date": 1790453091127,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 1616874,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "New kiwami",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3390594,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Pluto the sailor man",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 121086613,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22081
+    },
+    "date": 1790453255125,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1247290,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gonbe",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2836768,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Cvs terry bogard",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 121101744,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40141
+    },
+    "date": 1790453445328,
+    "duration": 134203,
+    "left": {
+      "bet_amount": 2541685,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Merkava",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1143648,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jeice",
+      "normal_bettors": 13,
+      "win_streak": -9
+    },
+    "sum": 121111378,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 731
+    },
+    "date": 1790453645532,
+    "duration": 144204,
+    "left": {
+      "bet_amount": 3962047,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ken",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2079710,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Fortress maximus",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 121129159,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 617
+    },
+    "date": 1790453795533,
+    "duration": 90007,
+    "left": {
+      "bet_amount": 4063707,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Kirby mythos",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 662967,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kitana mk2",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 121129543,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
