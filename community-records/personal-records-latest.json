@@ -415192,5 +415192,113 @@
     "sum": 120342236,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17854
+    },
+    "date": 1790405415126,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 2002749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mononobe no futo",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1443942,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Miu kurosaki",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 120343456,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32182
+    },
+    "date": 1790405599331,
+    "duration": 124005,
+    "left": {
+      "bet_amount": 2680290,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Cius",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2092019,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Jackie Drunken Fist",
+      "normal_bettors": 11,
+      "win_streak": -8
+    },
+    "sum": 120356215,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24910
+    },
+    "date": 1790405781526,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 2009722,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Hibiki takane",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1405089,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Yasha-hime",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 120324033,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26253
+    },
+    "date": 1790405991729,
+    "duration": 150203,
+    "left": {
+      "bet_amount": 2409122,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Selvaria bles",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1143520,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Reisen-deadpool-inaba",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 120341236,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
