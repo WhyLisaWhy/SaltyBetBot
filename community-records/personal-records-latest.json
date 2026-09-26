@@ -413088,5 +413088,113 @@
     "sum": 120022304,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 59323
+    },
+    "date": 1790386500327,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 2933683,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Jotaro kujo (part 4)",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 955528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yuri-rotd_ttsplus",
+      "normal_bettors": 6,
+      "win_streak": -8
+    },
+    "sum": 120022305,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4823
+    },
+    "date": 1790386694526,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 3452313,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Dark psylocke",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1401923,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Athena",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 120041245,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39633
+    },
+    "date": 1790386986728,
+    "duration": 94004,
+    "left": {
+      "bet_amount": 909634,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "C_krizalid",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4923311,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Orochi-bs",
+      "normal_bettors": 31,
+      "win_streak": 9
+    },
+    "sum": 120043201,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22709
+    },
+    "date": 1790387166932,
+    "duration": 120208,
+    "left": {
+      "bet_amount": 2932020,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Mizuki hayakawa",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1701975,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gen shougo",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 120050466,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
