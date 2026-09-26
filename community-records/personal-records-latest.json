@@ -423128,5 +423128,140 @@
     "sum": 121252701,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19029
+    },
+    "date": 1790462941054,
+    "duration": 80127,
+    "left": {
+      "bet_amount": 1165066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kung fu head",
+      "normal_bettors": 12,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11040984,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Vergil umvc3",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 121255962,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39358
+    },
+    "date": 1790463127129,
+    "duration": 130204,
+    "left": {
+      "bet_amount": 6752994,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Megamami",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1033520,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Vexen",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 121257967,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17226
+    },
+    "date": 1790463277127,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 6128585,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Zeppeli ex",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 843779,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gumball watterson",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 121218609,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21225
+    },
+    "date": 1790463447326,
+    "duration": 109990,
+    "left": {
+      "bet_amount": 1792597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Missingno.",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2076109,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Twin nina",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 121220975,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26894
+    },
+    "date": 1790463583526,
+    "duration": 76201,
+    "left": {
+      "bet_amount": 823755,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Shiho munakata",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2649826,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Godzilla_ex",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "sum": 121239117,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
