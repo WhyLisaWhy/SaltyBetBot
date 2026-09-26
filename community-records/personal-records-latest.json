@@ -413574,5 +413574,140 @@
     "sum": 120230751,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20213
+    },
+    "date": 1790389895125,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 2722447,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Milla basset",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1338994,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ryougi_shiki",
+      "normal_bettors": 11,
+      "win_streak": -9
+    },
+    "sum": 120196074,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790390071125,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 831939,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Otonashi",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5057193,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Brazer",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 120175861,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16033
+    },
+    "date": 1790390265331,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1367128,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kyoko_typea EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2600773,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 14,
+      "name": "Takiyasya",
+      "normal_bettors": 22,
+      "win_streak": -7
+    },
+    "sum": 120175860,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31382
+    },
+    "date": 1790390431528,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 654816,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lucario",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5490901,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Meiya_striker",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 120184237,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24595
+    },
+    "date": 1790390651725,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 1536808,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sparkster",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2376557,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Nucoarc",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 120187959,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
