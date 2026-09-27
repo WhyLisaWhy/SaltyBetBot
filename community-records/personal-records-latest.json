@@ -429012,5 +429012,113 @@
     "sum": 121825479,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30523
+    },
+    "date": 1790508969325,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 1541216,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Kongkong",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1728599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Weiss",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 121825479,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41708
+    },
+    "date": 1790509109526,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 2687178,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Gaia EX3",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1524288,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kusanagi",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 121800170,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1368
+    },
+    "date": 1790509293725,
+    "duration": 124200,
+    "left": {
+      "bet_amount": 682737,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kazunoko's yun",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4414502,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Flan Scarlet",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 121758462,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26151
+    },
+    "date": 1790509439724,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 1946696,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Kasumi ex",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1386005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Orochi k'",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 121758674,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
