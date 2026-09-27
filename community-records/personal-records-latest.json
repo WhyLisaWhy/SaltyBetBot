@@ -427797,5 +427797,140 @@
     "sum": 121433569,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 55430
+    },
+    "date": 1790501537525,
+    "duration": 106197,
+    "left": {
+      "bet_amount": 2055663,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Alice carrol",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1301731,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sho kamui",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 121433570,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13447
+    },
+    "date": 1790501721528,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 865123,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Toki 2",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3803012,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Flan-b",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 121467749,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32390
+    },
+    "date": 1790501867725,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 22397240,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Mahvel elena",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2325574,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Warlock 3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 121454302,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21746
+    },
+    "date": 1790502027727,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 5296298,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Sakuya.s.brando",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 649886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hattori-hanzo",
+      "normal_bettors": 4,
+      "win_streak": -12
+    },
+    "sum": 121761961,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 45268
+    },
+    "date": 1790502223929,
+    "duration": 141999,
+    "left": {
+      "bet_amount": 1976400,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jin O",
+      "normal_bettors": 13,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1762397,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Cyborg kung fu man",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 121764619,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
