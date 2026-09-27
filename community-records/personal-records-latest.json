@@ -423830,5 +423830,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2250
+    },
+    "date": 1790472816725,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 139749,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Stove igniz",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 17348183,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Hyper rare akuma",
+      "normal_bettors": 26,
+      "win_streak": 9
+    },
+    "sum": 121319598,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25048
+    },
+    "date": 1790472966928,
+    "duration": 96202,
+    "left": {
+      "bet_amount": 3594566,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Taki EX3",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2014392,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dios",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121319617,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38680
+    },
+    "date": 1790473092928,
+    "duration": 71999,
+    "left": {
+      "bet_amount": 937161,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "D4 uesugi kensin",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9918389,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Benimaru EX3",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 121294569,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25063
+    },
+    "date": 1790473273123,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 2893224,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Bullseye",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1061586,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Cap.com",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 121255889,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29189
+    },
+    "date": 1790473443326,
+    "duration": 120181,
+    "left": {
+      "bet_amount": 1165629,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Touko matsudaira",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2457683,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Inverno",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 121230826,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
