@@ -434007,5 +434007,113 @@
     "sum": 122235731,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30094
+    },
+    "date": 1790547490127,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 4495841,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Mad dog",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 789914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kusanagi xiii",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122235523,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790547630127,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 1051033,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Basilisx",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2900300,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Orochi lightning shermie",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 122240776,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9279
+    },
+    "date": 1790547824327,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 4532759,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 991813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cueca",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 122240775,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30564
+    },
+    "date": 1790547974530,
+    "duration": 94207,
+    "left": {
+      "bet_amount": 3411997,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Simonkin2019",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 821721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Weather dopant",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 122242802,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
