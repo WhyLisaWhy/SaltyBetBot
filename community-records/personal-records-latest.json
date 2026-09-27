@@ -426906,5 +426906,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30682
+    },
+    "date": 1790495928927,
+    "duration": 111997,
+    "left": {
+      "bet_amount": 4432809,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Goyan",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1035412,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Soma cruz",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 121554920,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
