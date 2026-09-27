@@ -432198,5 +432198,167 @@
     "sum": 121910043,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790531153125,
+    "duration": 154000,
+    "left": {
+      "bet_amount": 1350503,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Wakko",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4001790,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Dr.gero",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 121910870,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 47474
+    },
+    "date": 1790531329326,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 1009175,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Randy m. green EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3929361,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Chonshu 02um",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 121910871,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4393
+    },
+    "date": 1790531489327,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 971181,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Portgas d. ace",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2687248,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Fang 0d",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 121863397,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29115
+    },
+    "date": 1790531659525,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 1209623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Amon EX2",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2946555,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Rajaa len",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 121859004,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1215
+    },
+    "date": 1790531789528,
+    "duration": 70006,
+    "left": {
+      "bet_amount": 5280908,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Mulchi fe",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 695988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zankuro ex",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 121870840,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3066
+    },
+    "date": 1790531969725,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 6554634,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "King cvs",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023835,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dabura EX3",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 121871001,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
