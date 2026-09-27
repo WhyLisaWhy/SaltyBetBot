@@ -424802,5 +424802,113 @@
     "sum": 121389665,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17792
+    },
+    "date": 1790479111727,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 1835579,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Gaira",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3875342,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Shishiwakamaru",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 121394891,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790479345922,
+    "duration": 174200,
+    "left": {
+      "bet_amount": 7959549,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Chisa tsukamoto",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 654399,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Arcueid",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 121432094,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17055
+    },
+    "date": 1790479618125,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 9677144,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Yami_miko EX",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2632470,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Satan",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 121432107,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 902
+    },
+    "date": 1790479812125,
+    "duration": 144004,
+    "left": {
+      "bet_amount": 4668763,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Save spacemouse!",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 926455,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mysty_monkstyle",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 121415052,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
