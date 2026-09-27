@@ -432090,5 +432090,113 @@
     "sum": 121921197,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32629
+    },
+    "date": 1790530492524,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 2900116,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Gouki sf3",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 984590,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Pogo",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 121890137,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27144
+    },
+    "date": 1790530632727,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 5150549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Sanzou kongoumaru",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 863010,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rip_saber",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 121901092,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21101
+    },
+    "date": 1790530802927,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 5520356,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Arietta",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1162204,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Victor von gerdenheim",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121905617,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15036
+    },
+    "date": 1790530942926,
+    "duration": 84001,
+    "left": {
+      "bet_amount": 715180,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maccho",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 12991876,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Death battle sakuya",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 121910043,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
