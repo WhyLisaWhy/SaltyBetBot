@@ -429714,5 +429714,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1794
+    },
+    "date": 1790514117527,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 52800,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yuyuko",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 310343,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Opirus element",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1794,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2098
+    },
+    "date": 1790514297727,
+    "duration": 116195,
+    "left": {
+      "bet_amount": 315809,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Relius clover",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 72687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Enrico pucci",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 2098,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2578
+    },
+    "date": 1790514481924,
+    "duration": 124197,
+    "left": {
+      "bet_amount": 26924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Baiken(ac)",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 418539,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Gliz",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 2578,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2743
+    },
+    "date": 1790514661919,
+    "duration": 123994,
+    "left": {
+      "bet_amount": 340854,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mishio & makoto",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 123793,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Double",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 2743,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
