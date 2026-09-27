@@ -426771,5 +426771,113 @@
     "sum": 2094,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5319
+    },
+    "date": 1790492422124,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 445722,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Zagi EX4",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63805,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sailor pluto ex",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 5319,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6072
+    },
+    "date": 1790492552325,
+    "duration": 74200,
+    "left": {
+      "bet_amount": 412110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Smile mkv",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 163310,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Kazama sogetsu",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 6072,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8444
+    },
+    "date": 1790492732328,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 161209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Funky dantel",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 520137,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Shin gouki",
+      "normal_bettors": 23,
+      "win_streak": 9
+    },
+    "sum": 8444,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11020
+    },
+    "date": 1790492922523,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 292395,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Zagi EX4",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 564025,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Smile mkv",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 11020,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
