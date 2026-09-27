@@ -427392,5 +427392,113 @@
     "sum": 121441636,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33218
+    },
+    "date": 1790498897330,
+    "duration": 70168,
+    "left": {
+      "bet_amount": 1068482,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Robo weiss",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3137565,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Ms.valliere",
+      "normal_bettors": 28,
+      "win_streak": 8
+    },
+    "sum": 121450365,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16542
+    },
+    "date": 1790499087528,
+    "duration": 130166,
+    "left": {
+      "bet_amount": 3357344,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Oboromaru",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1266122,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "8th angel",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 121461559,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22472
+    },
+    "date": 1790499267525,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 7388307,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Sion tatari EX2",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 634861,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Terminator orochi",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 121467767,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790499463728,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 5327800,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Eg-x soulgain",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 865727,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Masta gambit",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "sum": 121469693,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
