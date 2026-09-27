@@ -431820,5 +431820,113 @@
     "sum": 121980753,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25059
+    },
+    "date": 1790528715128,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 2134847,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Robo kung fu man",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2489514,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Kung fu qb man",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 121956010,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21994
+    },
+    "date": 1790528889334,
+    "duration": 120210,
+    "left": {
+      "bet_amount": 1036791,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "G lancer",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4008611,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ryuko2nd",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 121930951,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30705
+    },
+    "date": 1790529085524,
+    "duration": 136188,
+    "left": {
+      "bet_amount": 1037266,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hatchiyack",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3049705,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Shao kahn",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 121908957,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13662
+    },
+    "date": 1790529285524,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 1666899,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Weiss dhq",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3810561,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Surtur",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 121919297,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
