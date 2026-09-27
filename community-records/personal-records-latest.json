@@ -431091,5 +431091,140 @@
     "sum": 122042185,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29126
+    },
+    "date": 1790524123527,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 2311845,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Suwako",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1374984,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "F.killerbee",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 122009563,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33000
+    },
+    "date": 1790524243528,
+    "duration": 60002,
+    "left": {
+      "bet_amount": 2064172,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gin ichimaru",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1402040,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Basilisk-s[0.98] EX3",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 122057519,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19751
+    },
+    "date": 1790524393726,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1337054,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nipponia nippon",
+      "normal_bettors": 8,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2351739,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Daga-ru",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 122024519,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 52669
+    },
+    "date": 1790524577928,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 2358373,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nick commando EX",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1404366,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "2nd r.s.p",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 122058754,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28228
+    },
+    "date": 1790524818122,
+    "duration": 184193,
+    "left": {
+      "bet_amount": 1301253,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Wanda",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2691845,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Blob",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "sum": 122144005,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
