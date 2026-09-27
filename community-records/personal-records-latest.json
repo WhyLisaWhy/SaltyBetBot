@@ -432522,5 +432522,140 @@
     "sum": 121943251,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45607
+    },
+    "date": 1790533186727,
+    "duration": 144191,
+    "left": {
+      "bet_amount": 2007925,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Chinnen EX5",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1335108,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Gutsman",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 121948858,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20112
+    },
+    "date": 1790533312923,
+    "duration": 70197,
+    "left": {
+      "bet_amount": 696088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kain r. heinlein",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9751843,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Houou jmf",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "sum": 122015183,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4500
+    },
+    "date": 1790533466925,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 5608021,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Sion(coh)",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 721117,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Miyakaka",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "sum": 122016616,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25133
+    },
+    "date": 1790533657126,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 1520458,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Potemkin",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2400607,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Nashu EX7",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 122017195,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5068
+    },
+    "date": 1790533809127,
+    "duration": 91997,
+    "left": {
+      "bet_amount": 1333030,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Kona-chan",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7678014,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Necro",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 122056232,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
