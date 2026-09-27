@@ -433143,5 +433143,140 @@
     "sum": 122072438,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32287
+    },
+    "date": 1790542055728,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 2345089,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Pokey the penguin",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1455582,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ringlerun",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122072437,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12654
+    },
+    "date": 1790542231925,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 769783,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Assassin",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3847981,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Benimaru(mkii)",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 122092206,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2143
+    },
+    "date": 1790542492128,
+    "duration": 206201,
+    "left": {
+      "bet_amount": 1141591,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Legion EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2158755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Vengeful bardock",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 122094730,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2169
+    },
+    "date": 1790542682323,
+    "duration": 130195,
+    "left": {
+      "bet_amount": 2476528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Harima",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2361078,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Umvc onix",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 122092587,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1158
+    },
+    "date": 1790542826329,
+    "duration": 90010,
+    "left": {
+      "bet_amount": 939915,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mysty_monkstyle",
+      "normal_bettors": 13,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4291155,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Fortissimo",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 122090418,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
