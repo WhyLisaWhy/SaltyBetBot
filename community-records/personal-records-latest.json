@@ -425234,5 +425234,167 @@
     "sum": 121363596,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790481747724,
+    "duration": 41999,
+    "left": {
+      "bet_amount": 10712606,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Beast",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353488,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Ultra magnus",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 121364431,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28580
+    },
+    "date": 1790481911724,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1174097,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Dex-starr",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3537700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Z-akuma EX",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 121364432,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12139
+    },
+    "date": 1790482041925,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 1120562,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Burnin' leo",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3745785,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 15,
+      "name": "Omega rugal 95",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 121335852,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21368
+    },
+    "date": 1790482182126,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 4274409,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 13,
+      "name": "Ryuhi SD",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 973002,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kevin rian",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "sum": 121339472,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37943
+    },
+    "date": 1790482422327,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 998542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zako-dan",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3771687,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Angus",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 121344312,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33556
+    },
+    "date": 1790482566324,
+    "duration": 89977,
+    "left": {
+      "bet_amount": 643174,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Gikoneko",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4467300,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "K EX",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 121354258,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
