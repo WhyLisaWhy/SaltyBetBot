@@ -433116,5 +433116,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790541859727,
+    "duration": 104202,
+    "left": {
+      "bet_amount": 6216446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Miyako yoshika",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 860306,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Little nemo",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 122072438,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
