@@ -423587,5 +423587,140 @@
     "sum": 12369,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14207
+    },
+    "date": 1790466355729,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 363687,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Mienshao",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 83896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dawn",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 14207,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17362
+    },
+    "date": 1790466541724,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 326341,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Yuyuko saigyouji",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 48695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Balrog_a",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 17362,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19822
+    },
+    "date": 1790466747927,
+    "duration": 146193,
+    "left": {
+      "bet_amount": 63111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Turkey",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 341400,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Hayate sfex",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 19822,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23286
+    },
+    "date": 1790467018128,
+    "duration": 210190,
+    "left": {
+      "bet_amount": 31461,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Small ryu EX3",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 446437,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Luigi ssbb",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 23286,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24846
+    },
+    "date": 1790467248324,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 41897,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Boring vigilante EX3",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 514180,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Shimo EX3",
+      "normal_bettors": 38,
+      "win_streak": 7
+    },
+    "sum": 24846,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
