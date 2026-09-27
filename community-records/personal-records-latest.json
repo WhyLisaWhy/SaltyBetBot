@@ -423722,5 +423722,86 @@
     "sum": 24846,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790467528530,
+    "duration": 226204,
+    "left": {
+      "bet_amount": 266184,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 19,
+      "name": "Mienshao",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 373335,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yuyuko saigyouji",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790467698727,
+    "duration": 116167,
+    "left": {
+      "bet_amount": 320038,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Hayate sfex",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 228248,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Luigi ssbb",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2651
+    },
+    "date": 1790467888926,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 262448,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Boring vigilante EX3",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 299536,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Mienshao",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 2651,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
