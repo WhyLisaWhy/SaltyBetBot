@@ -433089,5 +433089,32 @@
     "sum": 4704,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790538386126,
+    "duration": 201398,
+    "left": {
+      "bet_amount": 360323,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Shimo 2002um",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 174398,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ermac mk2",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
