@@ -433710,5 +433710,167 @@
     "sum": 122277295,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790545672728,
+    "duration": 72205,
+    "left": {
+      "bet_amount": 7221849,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mokou fujiwara",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 539937,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gadalar",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "sum": 122277488,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38323
+    },
+    "date": 1790545852725,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 3658609,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Tatsuo",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1605024,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Rosemary",
+      "normal_bettors": 19,
+      "win_streak": -13
+    },
+    "sum": 122277489,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24427
+    },
+    "date": 1790545986937,
+    "duration": 80212,
+    "left": {
+      "bet_amount": 1052006,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryo 98",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4571787,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Erisnomia",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 122239166,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13883
+    },
+    "date": 1790546116925,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 935032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kusaregedo EX",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6542951,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Regular ass iori",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 122244757,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24057
+    },
+    "date": 1790546383127,
+    "duration": 205998,
+    "left": {
+      "bet_amount": 1791928,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Kawakaze",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1685120,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mega robo-len",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122246737,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1430
+    },
+    "date": 1790546557327,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 1828259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kanon del geminis",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2179410,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Dao-long",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 122222680,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
