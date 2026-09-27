@@ -426582,5 +426582,113 @@
     "sum": 2483,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2898
+    },
+    "date": 1790490934929,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 49012,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "N.natsume",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 250882,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Mr.karate EX2",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 2898,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3458
+    },
+    "date": 1790491225136,
+    "duration": 230211,
+    "left": {
+      "bet_amount": 185812,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Zagi EX4",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 170542,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Lieselotte_achenbach",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 3458,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6574
+    },
+    "date": 1790491445327,
+    "duration": 159998,
+    "left": {
+      "bet_amount": 281607,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Sailor pluto ex",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127363,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 6574,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790491605528,
+    "duration": 104202,
+    "left": {
+      "bet_amount": 392900,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Smile mkv",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 49218,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alex sf3",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
