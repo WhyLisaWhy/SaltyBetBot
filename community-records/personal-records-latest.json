@@ -431496,5 +431496,140 @@
     "sum": 122087721,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6284
+    },
+    "date": 1790526701527,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 968839,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tom cat",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7719520,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 22,
+      "name": "Bridget",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 122090532,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3165
+    },
+    "date": 1790526887727,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 4363742,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Zangief EX3",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 932759,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Barbarccia",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122091321,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30068
+    },
+    "date": 1790527011926,
+    "duration": 64197,
+    "left": {
+      "bet_amount": 4461873,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Sakura 98",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 747852,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sabotage",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122088156,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33562
+    },
+    "date": 1790527187928,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 2119342,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Luigi wins by doing absolutely nothing",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1727152,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Shiroma",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 122093162,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 786
+    },
+    "date": 1790527358128,
+    "duration": 116204,
+    "left": {
+      "bet_amount": 4255153,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "A-unagi",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1128673,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ikaruga satuki",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 122059600,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
