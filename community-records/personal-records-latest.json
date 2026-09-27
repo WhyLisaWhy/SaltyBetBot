@@ -431388,5 +431388,113 @@
     "sum": 122160978,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20676
+    },
+    "date": 1790525991129,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 1707975,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Trishula,doragon of the ice barrier",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 961072,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gavora",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 122168323,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26325
+    },
+    "date": 1790526105128,
+    "duration": 60002,
+    "left": {
+      "bet_amount": 1297389,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Thwomp",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2467735,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "A decent chang",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 122147647,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33601
+    },
+    "date": 1790526321327,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 5204368,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Akiha vermillion",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1167240,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Anny hamilton",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "sum": 122121322,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17602
+    },
+    "date": 1790526535526,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 5162994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Peppercat",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 827077,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Adon ca",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122087721,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
