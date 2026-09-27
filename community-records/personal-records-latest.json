@@ -430794,5 +430794,140 @@
     "sum": 121900923,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790522229929,
+    "duration": 130004,
+    "left": {
+      "bet_amount": 12386438,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Cvssantamu",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 913748,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hoshi kage",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 121902732,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43091
+    },
+    "date": 1790522354134,
+    "duration": 70013,
+    "left": {
+      "bet_amount": 3975623,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Gale",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2278669,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Tyrant t-002",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 121902733,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32179
+    },
+    "date": 1790522554334,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 944548,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Lf2 - firzen",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2880239,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Brass",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 121976520,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25453
+    },
+    "date": 1790522820530,
+    "duration": 206204,
+    "left": {
+      "bet_amount": 1711097,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Lu sama",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1794747,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Miki sayaka",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "sum": 122071412,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23211
+    },
+    "date": 1790522940523,
+    "duration": 53994,
+    "left": {
+      "bet_amount": 3363777,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Archetype sun",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 706767,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Preposterous cirno",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "sum": 122045959,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
