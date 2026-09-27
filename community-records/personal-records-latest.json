@@ -429390,5 +429390,113 @@
     "sum": 121773819,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32860
+    },
+    "date": 1790511553525,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 1756232,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Nameless",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 723654,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sho kamui",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 121810803,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23585
+    },
+    "date": 1790511707525,
+    "duration": 93990,
+    "left": {
+      "bet_amount": 2127375,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Roast_uncle",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1684303,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Chun-li jj",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 121777943,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1803
+    },
+    "date": 1790511847730,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 4564998,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Duck king rb2",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 623646,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Twilight sparkle",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 121754358,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1268
+    },
+    "date": 1790512083931,
+    "duration": 180206,
+    "left": {
+      "bet_amount": 1023973,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "E Ryu",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10150371,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Dann of thursday",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 121754605,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
