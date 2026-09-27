@@ -429957,5 +429957,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790515959128,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 92432,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Relius clover",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 609345,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Double",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790516336928,
+    "duration": 321800,
+    "left": {
+      "bet_amount": 202162,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "K' dempsey",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 665571,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Double",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
