@@ -425396,5 +425396,113 @@
     "sum": 121354258,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6008
+    },
+    "date": 1790482732527,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 5484217,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Ryo EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1105097,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Bombman",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 121575772,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24340
+    },
+    "date": 1790482916723,
+    "duration": 130195,
+    "left": {
+      "bet_amount": 2852503,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 11,
+      "name": "Komachi",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 624743,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Athena_96",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 121569764,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39342
+    },
+    "date": 1790483082727,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1616920,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Kanako ohta",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1779543,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Majin alice",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 121545424,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26723
+    },
+    "date": 1790483242928,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 1358529,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Toki 2",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2180430,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Naruhodokun",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 121580398,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
