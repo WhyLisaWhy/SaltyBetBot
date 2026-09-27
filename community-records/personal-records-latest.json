@@ -425936,5 +425936,113 @@
     "sum": 121398272,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27736
+    },
+    "date": 1790486237328,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 8495849,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Samus mvc",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 882261,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shoujo genkai",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 121386401,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29411
+    },
+    "date": 1790486497527,
+    "duration": 194200,
+    "left": {
+      "bet_amount": 2923838,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Lambdadelta",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1903990,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ultron",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 121389272,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29528
+    },
+    "date": 1790486677526,
+    "duration": 124003,
+    "left": {
+      "bet_amount": 6044434,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Real Shuma",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 873129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Noel vermillion",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 121408234,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11432
+    },
+    "date": 1790486843728,
+    "duration": 110204,
+    "left": {
+      "bet_amount": 562427,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ralf_jones",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5802070,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Sakura kyoko",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 121412479,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
