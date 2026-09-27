@@ -424505,5 +424505,113 @@
     "sum": 121313767,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790477314326,
+    "duration": 220201,
+    "left": {
+      "bet_amount": 2609827,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Akuma shogun",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1671054,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Tokiko EX2",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "sum": 121316766,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790477568546,
+    "duration": 200219,
+    "left": {
+      "bet_amount": 1559542,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Starscream",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5883388,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Elie",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 121316768,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42474
+    },
+    "date": 1790477728727,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 1597765,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chaos satellite",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3892734,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Lancer EX2",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 121316772,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22134
+    },
+    "date": 1790477898735,
+    "duration": 110012,
+    "left": {
+      "bet_amount": 3170826,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Enja ex",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 826035,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Kubikiri basara EX",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 121417575,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
