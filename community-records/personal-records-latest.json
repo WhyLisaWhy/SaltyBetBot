@@ -427095,5 +427095,113 @@
     "sum": 121460702,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3103
+    },
+    "date": 1790497119930,
+    "duration": 180201,
+    "left": {
+      "bet_amount": 830370,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kanon del geminis",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6000368,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Izanagi",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 121463819,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14089
+    },
+    "date": 1790497340127,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 10078062,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Garou terry",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 668527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bloodia EX3",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 121460716,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28474
+    },
+    "date": 1790497470128,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 1133097,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lf2 - davis",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2534490,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "00 bigbear",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121446627,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39363
+    },
+    "date": 1790497720326,
+    "duration": 184201,
+    "left": {
+      "bet_amount": 2332111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kenoh",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2929988,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Alyssa ex",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 121418153,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
