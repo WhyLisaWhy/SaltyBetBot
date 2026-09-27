@@ -424154,5 +424154,113 @@
     "sum": 121164032,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37693
+    },
+    "date": 1790474760326,
+    "duration": 96197,
+    "left": {
+      "bet_amount": 681580,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Orochi ball",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5440593,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 121177512,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790475010526,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 5601426,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Mahvel elena",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 749992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Darkmatter",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121462623,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35181
+    },
+    "date": 1790475136527,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 1050447,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dlanor a. knox",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5280863,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Dark cornian",
+      "normal_bettors": 26,
+      "win_streak": 14
+    },
+    "sum": 121462624,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790475300753,
+    "duration": 106028,
+    "left": {
+      "bet_amount": 4662139,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Agumond",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2092438,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Hikaru Shidou",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 121427443,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
