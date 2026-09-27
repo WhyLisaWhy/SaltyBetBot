@@ -434466,5 +434466,140 @@
     "sum": 122389766,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30675
+    },
+    "date": 1790550104126,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 1734401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "The thing",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2305121,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Namikiyo",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 122395749,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32664
+    },
+    "date": 1790550284340,
+    "duration": 120212,
+    "left": {
+      "bet_amount": 2296990,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Atari dragon EX2",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2970258,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Muscle power",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122365074,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1057
+    },
+    "date": 1790550494527,
+    "duration": 150181,
+    "left": {
+      "bet_amount": 1413073,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kaori&shiori",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4362400,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Worm",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122332410,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34544
+    },
+    "date": 1790550624525,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 1531149,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Boring sdk mukurou",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 922821,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mastr Hand",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 122331353,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790550834726,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 2012908,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Linne",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2005798,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Turn-x",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 122296809,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
