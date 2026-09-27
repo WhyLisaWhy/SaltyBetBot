@@ -429120,5 +429120,140 @@
     "sum": 121758674,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24539
+    },
+    "date": 1790509633925,
+    "duration": 133997,
+    "left": {
+      "bet_amount": 2573460,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Shimo EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1136153,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Maggyo IX",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 121732523,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2310
+    },
+    "date": 1790509824125,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 855549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Liu-kang mk2",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2853630,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Evil ryu ssf'2 plus",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 121743255,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790509970127,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 4596760,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Deluxe may",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 627266,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Biscuit-oliva",
+      "normal_bettors": 4,
+      "win_streak": 2
+    },
+    "sum": 121743948,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2423
+    },
+    "date": 1790510136326,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 2437186,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Sunflower fairy",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 923270,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Furude rika",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 121743947,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23583
+    },
+    "date": 1790510336527,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 1900069,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Umvc_youmu",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1555568,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kyoji kasshu",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 121741524,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
