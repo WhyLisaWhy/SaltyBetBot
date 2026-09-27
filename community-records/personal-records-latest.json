@@ -424397,5 +424397,113 @@
     "sum": 121391304,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12053
+    },
+    "date": 1790476421729,
+    "duration": 194197,
+    "left": {
+      "bet_amount": 1252745,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Weapon master",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3218079,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Alchemy man",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 121372979,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43456
+    },
+    "date": 1790476621725,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 1169233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kunio_k",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3486919,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Seifuku akiha",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 121360926,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3703
+    },
+    "date": 1790476817932,
+    "duration": 140209,
+    "left": {
+      "bet_amount": 2011291,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Hornet man",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2124104,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Tarochan",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 121317470,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9284
+    },
+    "date": 1790477034128,
+    "duration": 156204,
+    "left": {
+      "bet_amount": 946924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Attack of the sentinels",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2922209,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Kirby sdx",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 121313767,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
