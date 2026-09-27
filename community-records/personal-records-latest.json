@@ -432657,5 +432657,113 @@
     "sum": 122056232,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11062
+    },
+    "date": 1790533977326,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 670715,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Famardy",
+      "normal_bettors": 5,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9268381,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Everphin",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 122057112,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35864
+    },
+    "date": 1790534093927,
+    "duration": 56600,
+    "left": {
+      "bet_amount": 901449,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Goryujin",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2609630,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Zappa",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 122057912,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790534503730,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 35026,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Samchay",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 170306,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Shimo 2002um",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1866
+    },
+    "date": 1790534739927,
+    "duration": 180200,
+    "left": {
+      "bet_amount": 160840,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Yue CC",
+      "normal_bettors": 23,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rare Sophitia",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 1866,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
