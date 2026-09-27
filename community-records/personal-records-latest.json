@@ -432927,5 +432927,86 @@
     "sum": 5045,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790536761529,
+    "duration": 244201,
+    "left": {
+      "bet_amount": 271759,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shimo 2002um",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 154670,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Yue CC",
+      "normal_bettors": 18,
+      "win_streak": 11
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2428
+    },
+    "date": 1790537013727,
+    "duration": 186196,
+    "left": {
+      "bet_amount": 271420,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Cyborg t-8p",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 250802,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Gogeta ssj4 evolution by franciynaldo",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 2428,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790537358124,
+    "duration": 274195,
+    "left": {
+      "bet_amount": 275541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ermac mk2",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 347830,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Aladdin EX3",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
