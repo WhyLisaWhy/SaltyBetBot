@@ -429498,5 +429498,140 @@
     "sum": 121754605,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11081
+    },
+    "date": 1790512248127,
+    "duration": 104203,
+    "left": {
+      "bet_amount": 1229505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cheddah gief",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2973096,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Pickle",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 121753337,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6535
+    },
+    "date": 1790512384125,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 2581926,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Nightmare battler EX5",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1897948,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Regular ass rugal",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 121757903,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32500
+    },
+    "date": 1790512544327,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 790884,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Genma",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2964281,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Blodia-k",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121751368,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18970
+    },
+    "date": 1790512687728,
+    "duration": 87401,
+    "left": {
+      "bet_amount": 2732085,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Copy marisa",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1101177,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "World-chang",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 121868372,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790513210928,
+    "duration": 256401,
+    "left": {
+      "bet_amount": 58466,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Tuxedo mask",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116952,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shanghai doll",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
