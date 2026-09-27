@@ -426474,5 +426474,113 @@
     "sum": 121452235,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42324
+    },
+    "date": 1790489745927,
+    "duration": 67969,
+    "left": {
+      "bet_amount": 3663774,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Shadow kirby mythos",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 892983,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Pyro",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 121543163,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790490284526,
+    "duration": 270400,
+    "left": {
+      "bet_amount": 157979,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Dhaos ND3",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 48277,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jean valjean",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2020
+    },
+    "date": 1790490504525,
+    "duration": 159996,
+    "left": {
+      "bet_amount": 43529,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Death adder",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 188216,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 21,
+      "name": "Funky dantel",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 2020,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2483
+    },
+    "date": 1790490708728,
+    "duration": 143998,
+    "left": {
+      "bet_amount": 40304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chun-li jj",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 238693,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Shin gouki",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 2483,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
