@@ -427500,5 +427500,140 @@
     "sum": 121469693,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26659
+    },
+    "date": 1790499659924,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 2051689,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gaisei",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1610298,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Alt(hana-ai)",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 121469692,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2361
+    },
+    "date": 1790499840127,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 1218142,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "D4 uesugi kensin",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1880754,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Legion EX3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 121443033,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36819
+    },
+    "date": 1790500014126,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 1695365,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Luise",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2070832,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Raphael",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 121446672,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28291
+    },
+    "date": 1790500174326,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 1952405,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - john",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 983966,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Cci xiangfei",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 121476289,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18676
+    },
+    "date": 1790500350526,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 4174777,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Rascal",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 916999,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Vegeta ssj4",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 121447998,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
