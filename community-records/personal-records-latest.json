@@ -423803,5 +423803,32 @@
     "sum": 2651,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790468147924,
+    "duration": 204998,
+    "left": {
+      "bet_amount": 604899,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Hayate sfex",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 205084,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mienshao",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
