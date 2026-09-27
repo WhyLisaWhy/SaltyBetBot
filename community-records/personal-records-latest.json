@@ -430011,5 +430011,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5090
+    },
+    "date": 1790517456130,
+    "duration": 124006,
+    "left": {
+      "bet_amount": 5829519,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Takuan_osho",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 932093,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "The nightmare",
+      "normal_bettors": 5,
+      "win_streak": -5
+    },
+    "sum": 121850955,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19616
+    },
+    "date": 1790517622324,
+    "duration": 109987,
+    "left": {
+      "bet_amount": 1495696,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Cheep-chomp",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2087717,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Mallow smrpg",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 121851769,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790517752529,
+    "duration": 70203,
+    "left": {
+      "bet_amount": 7041002,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Masamichi oyama",
+      "normal_bettors": 29,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 766155,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ruckus",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 121832153,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
