@@ -426690,5 +426690,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1744
+    },
+    "date": 1790491861727,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 481161,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kira yoshikage",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kazama sogetsu",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 1744,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790492025728,
+    "duration": 104002,
+    "left": {
+      "bet_amount": 123497,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dhaos ND3",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 350895,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Funky dantel",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2094
+    },
+    "date": 1790492257929,
+    "duration": 176004,
+    "left": {
+      "bet_amount": 181051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shin gouki",
+      "normal_bettors": 26,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 282048,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mr.karate EX2",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 2094,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
