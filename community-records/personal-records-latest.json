@@ -442348,5 +442348,32 @@
     "sum": 2948,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790607183526,
+    "duration": 300199,
+    "left": {
+      "bet_amount": 387674,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Chill penguin mvc",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 120830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Alvein",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
