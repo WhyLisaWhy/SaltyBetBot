@@ -441835,5 +441835,140 @@
     "sum": 122254426,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2105
+    },
+    "date": 1790602461726,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 1580423,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Sakagami tomoyo",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1820815,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Ratix",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122256199,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790602641926,
+    "duration": 120196,
+    "left": {
+      "bet_amount": 3816581,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Plastic man ex",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 977081,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chopper",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 122258621,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2811
+    },
+    "date": 1790602836126,
+    "duration": 134180,
+    "left": {
+      "bet_amount": 7799121,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Cute syakoya",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 640770,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Grandmaster miyako",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "sum": 122258622,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17495
+    },
+    "date": 1790602992127,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 4688038,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Kagelogan EX7",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 668494,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Undyne the undying",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 122258853,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17582
+    },
+    "date": 1790603162327,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 523182,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Ryo EX2",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3837825,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Ratking",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 122241358,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
