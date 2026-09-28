@@ -441268,5 +441268,113 @@
     "sum": 122149093,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26660
+    },
+    "date": 1790598874928,
+    "duration": 164199,
+    "left": {
+      "bet_amount": 1396039,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Rin_h",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2037929,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Victor ortega",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 122156407,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21803
+    },
+    "date": 1790599105128,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 604998,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "F-4 phantom",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5697324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Android 16 ub22",
+      "normal_bettors": 26,
+      "win_streak": 13
+    },
+    "sum": 122194596,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39132
+    },
+    "date": 1790599237126,
+    "duration": 75994,
+    "left": {
+      "bet_amount": 2040601,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Mask the griffon EX3",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1566928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yawara",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 122196903,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25620
+    },
+    "date": 1790599431327,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 2444706,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Bobby drake",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1720648,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dark order sol",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 122226387,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
