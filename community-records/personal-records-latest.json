@@ -442753,5 +442753,113 @@
     "sum": 122297992,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12687
+    },
+    "date": 1790610700327,
+    "duration": 252199,
+    "left": {
+      "bet_amount": 2753018,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Megaroman",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1301735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ragna 666",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 122298169,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15860
+    },
+    "date": 1790610884328,
+    "duration": 124002,
+    "left": {
+      "bet_amount": 3492335,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Original vega",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 819112,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Akumeme",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "sum": 122285482,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4171
+    },
+    "date": 1790611100530,
+    "duration": 160006,
+    "left": {
+      "bet_amount": 3459178,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "And 18",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1337756,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Deedrit",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 122289186,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29549
+    },
+    "date": 1790611280743,
+    "duration": 116013,
+    "left": {
+      "bet_amount": 1295310,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Custom experimental boring laggy omk beato",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1996795,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Aihara natsumi",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122290798,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
