@@ -444859,5 +444859,140 @@
     "sum": 122078119,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790623944723,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 1246239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gikoneko",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7631061,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Carol tea",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 122058079,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46733
+    },
+    "date": 1790624134924,
+    "duration": 134195,
+    "left": {
+      "bet_amount": 3833486,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Rugal rotd",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 654494,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shingo 98",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 122058080,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12308
+    },
+    "date": 1790624321127,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 18167346,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Hunter killer hydralisk",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 892799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mashiro",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122065963,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11822
+    },
+    "date": 1790624535125,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 3174365,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Overcoat kars",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 828197,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hoimislime",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122066568,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28878
+    },
+    "date": 1790624701327,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 981505,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Darthvader",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2192382,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Sion tatari EX",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 122069641,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
