@@ -444994,5 +444994,86 @@
     "sum": 122069641,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 569
+    },
+    "date": 1790624891526,
+    "duration": 130191,
+    "left": {
+      "bet_amount": 1580384,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Waifu misuzu EX7",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1835597,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Golden frieza",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 122040763,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 50460
+    },
+    "date": 1790625079723,
+    "duration": 122196,
+    "left": {
+      "bet_amount": 602870,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mars people EX3",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3810628,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Kamehameha",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 122040194,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21869
+    },
+    "date": 1790625257724,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2980587,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Nakoruru EX",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 817393,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Galacta knight",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 121989734,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
