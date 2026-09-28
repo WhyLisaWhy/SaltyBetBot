@@ -439297,5 +439297,86 @@
     "sum": 4774,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27880
+    },
+    "date": 1790586475126,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 3187942,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Koryuoh",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 655086,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shiena bee",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "sum": 122255375,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25594
+    },
+    "date": 1790586621124,
+    "duration": 83989,
+    "left": {
+      "bet_amount": 1154009,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Guy CVS",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4144444,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Giano",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 122261055,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4872
+    },
+    "date": 1790586771325,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 2622965,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Senator lieberman",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442405,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hey it's fred",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 122268138,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
