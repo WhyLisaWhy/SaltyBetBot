@@ -436300,5 +436300,86 @@
     "sum": 122419921,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24593
+    },
+    "date": 1790563805128,
+    "duration": 150203,
+    "left": {
+      "bet_amount": 3542898,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Aqua mp",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2096977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Bemular",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122420838,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40090
+    },
+    "date": 1790563965126,
+    "duration": 103995,
+    "left": {
+      "bet_amount": 2846654,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Basilisk-s[0.98] EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4292237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Fitzgerald",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 122396245,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2845
+    },
+    "date": 1790564171325,
+    "duration": 145991,
+    "left": {
+      "bet_amount": 1583683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Goku EX3",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2193291,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Great gohan",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "sum": 122455854,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
