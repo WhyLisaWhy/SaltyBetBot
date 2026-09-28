@@ -445318,5 +445318,140 @@
     "sum": 9136,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10421
+    },
+    "date": 1790627535541,
+    "duration": 104019,
+    "left": {
+      "bet_amount": 132599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Akatsuki hm",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 437371,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kamitsurugi",
+      "normal_bettors": 27,
+      "win_streak": 0
+    },
+    "sum": 10421,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13507
+    },
+    "date": 1790627707727,
+    "duration": 112197,
+    "left": {
+      "bet_amount": 82777,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Bobby mk ii",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 503829,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Lord of the rangs",
+      "normal_bettors": 30,
+      "win_streak": 14
+    },
+    "sum": 13507,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15669
+    },
+    "date": 1790627945928,
+    "duration": 184202,
+    "left": {
+      "bet_amount": 515730,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Class wo",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 146412,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nakoruru as",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 15669,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 58736
+    },
+    "date": 1790628182137,
+    "duration": 176219,
+    "left": {
+      "bet_amount": 209395,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Airou ver2.11",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 325837,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Juli & juni",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 65527,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34226
+    },
+    "date": 1790628398125,
+    "duration": 162001,
+    "left": {
+      "bet_amount": 309101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 19,
+      "name": "Kamitsurugi",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 278540,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lord of the rangs",
+      "normal_bettors": 23,
+      "win_streak": 0
+    },
+    "sum": 136904,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
