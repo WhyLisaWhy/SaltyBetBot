@@ -436705,5 +436705,113 @@
     "sum": 122408064,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15246
+    },
+    "date": 1790566509126,
+    "duration": 74002,
+    "left": {
+      "bet_amount": 604904,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dabura EX3",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5284715,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "V. joe",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 122371917,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790566655328,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 3571841,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Jack13",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1381927,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Blackmore",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122373658,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41379
+    },
+    "date": 1790566825556,
+    "duration": 110231,
+    "left": {
+      "bet_amount": 2320071,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Black cat",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1338774,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Mythos zero",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 122373657,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20506
+    },
+    "date": 1790567035726,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 2413813,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kirby c",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2198942,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Master gundam",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 122443217,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
