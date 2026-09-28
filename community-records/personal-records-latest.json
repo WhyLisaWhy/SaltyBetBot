@@ -442267,5 +442267,86 @@
     "sum": 3108,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3434
+    },
+    "date": 1790606176726,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 195030,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chill penguin mvc",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 177436,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Arx-7",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 3434,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790606572929,
+    "duration": 340200,
+    "left": {
+      "bet_amount": 202678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kenpachi zaraki",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 223197,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Alvein",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2948
+    },
+    "date": 1790606823126,
+    "duration": 195996,
+    "left": {
+      "bet_amount": 218751,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Roa",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 373714,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Ume",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 2948,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
