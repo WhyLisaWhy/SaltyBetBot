@@ -443023,5 +443023,113 @@
     "sum": 122306490,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30430
+    },
+    "date": 1790612357526,
+    "duration": 155997,
+    "left": {
+      "bet_amount": 756050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Princess silver",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2334995,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Jotaro kujo (part 4)",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 122259424,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20620
+    },
+    "date": 1790612511740,
+    "duration": 94212,
+    "left": {
+      "bet_amount": 4292822,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Earl",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 928428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Glacius",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 122269151,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13049
+    },
+    "date": 1790612687938,
+    "duration": 120209,
+    "left": {
+      "bet_amount": 1254045,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Karin CVS",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4334757,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Roppen heimer EX",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 122273590,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790612861929,
+    "duration": 113983,
+    "left": {
+      "bet_amount": 690257,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "No.6 hibiki",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3915968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Shar-makai EX3",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 122277354,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
