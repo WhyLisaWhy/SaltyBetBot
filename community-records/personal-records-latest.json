@@ -438514,5 +438514,167 @@
     "sum": 122274789,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790578112528,
+    "duration": 144183,
+    "left": {
+      "bet_amount": 3925529,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Alan",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1043833,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Dragon ken",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 122268117,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6324
+    },
+    "date": 1790578252528,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1329707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ruckus",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4827618,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Galivan",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 122268121,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1165
+    },
+    "date": 1790578382728,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 3711825,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Imr-765-s_kisaragi",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1655877,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Aruru(yuka)",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 122269861,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790578572929,
+    "duration": 130204,
+    "left": {
+      "bet_amount": 902016,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ss6 renfa",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7215381,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Sonic vanessa",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "sum": 122268696,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21193
+    },
+    "date": 1790578750924,
+    "duration": 121997,
+    "left": {
+      "bet_amount": 1398236,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Toron",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5061127,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Don patch",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 122268697,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19241
+    },
+    "date": 1790578899125,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 5791615,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Eve silvan",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1195689,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Final dio",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 122274528,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
