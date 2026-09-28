@@ -440161,5 +440161,86 @@
     "sum": 122236545,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17095
+    },
+    "date": 1790591769325,
+    "duration": 114197,
+    "left": {
+      "bet_amount": 2578232,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "John-117",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1269386,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kazama sogetsu EX3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 122214358,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1689
+    },
+    "date": 1790592015529,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 1051239,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 4,
+      "name": "Shen",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2719409,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Faud",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122222720,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21764
+    },
+    "date": 1790592175526,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 940986,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 5,
+      "name": "Sounanda",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2200792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Death adder",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 122221031,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
