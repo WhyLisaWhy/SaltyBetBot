@@ -436381,5 +436381,167 @@
     "sum": 122455854,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7221
+    },
+    "date": 1790564395524,
+    "duration": 164198,
+    "left": {
+      "bet_amount": 2217341,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Fluttershy",
+      "normal_bettors": 15,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2400090,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Sasquatch 71113",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 122453009,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790564551727,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 1063408,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Takumi hattori",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4971103,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Jonathan crane",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122460800,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7238
+    },
+    "date": 1790564721727,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 6603134,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Lilica_felchenerow",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1334346,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "New arhan",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122460801,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26628
+    },
+    "date": 1790564911925,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 3708957,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Polnareff",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1569546,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Schlussel",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 122462263,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22515
+    },
+    "date": 1790565132326,
+    "duration": 160402,
+    "left": {
+      "bet_amount": 1583409,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alvaaron",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5431761,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "The moon",
+      "normal_bettors": 31,
+      "win_streak": 9
+    },
+    "sum": 122473452,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18765
+    },
+    "date": 1790565312320,
+    "duration": 124193,
+    "left": {
+      "bet_amount": 1100484,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Wind-se",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2558532,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Tetrisman",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 122479989,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
