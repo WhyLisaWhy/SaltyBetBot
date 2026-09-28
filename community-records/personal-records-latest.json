@@ -443320,5 +443320,140 @@
     "sum": 122178082,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22093
+    },
+    "date": 1790614158929,
+    "duration": 144001,
+    "left": {
+      "bet_amount": 2384917,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Eins EX6",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1984421,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122178081,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8810
+    },
+    "date": 1790614305139,
+    "duration": 90210,
+    "left": {
+      "bet_amount": 4570198,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Nisego chaos",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 747070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ashura jmf",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122196296,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790614437129,
+    "duration": 77996,
+    "left": {
+      "bet_amount": 447605,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lee Cosplay",
+      "normal_bettors": 3,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9364022,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Asellus EX",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 122197734,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6285
+    },
+    "date": 1790614625330,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 5379367,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "A-yuki",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 29744797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "All in shao kahn",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 122197735,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43442
+    },
+    "date": 1790614807524,
+    "duration": 122198,
+    "left": {
+      "bet_amount": 961836,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "The joker",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3312296,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Fridge kirby",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 122191450,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
