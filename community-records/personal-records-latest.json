@@ -435733,5 +435733,86 @@
     "sum": 122454527,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36651
+    },
+    "date": 1790558346724,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 5044502,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Goku ssjgss",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1112692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chrysaor krishna",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 122454527,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790558500333,
+    "duration": 93607,
+    "left": {
+      "bet_amount": 2419883,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Robber crab",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2233638,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Spy-dama-man",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 122417876,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790558943127,
+    "duration": 169996,
+    "left": {
+      "bet_amount": 45376,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hercules",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148917,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Pickle",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
