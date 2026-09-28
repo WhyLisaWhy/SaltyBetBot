@@ -437515,5 +437515,140 @@
     "sum": 122474226,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8258
+    },
+    "date": 1790571633326,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 3697264,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Hydron",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 928987,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Vier",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "sum": 122453156,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1499
+    },
+    "date": 1790571763326,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 2275383,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Suiseiseki",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2447466,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Hiryu EX2",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122455227,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19410
+    },
+    "date": 1790571973528,
+    "duration": 156001,
+    "left": {
+      "bet_amount": 565508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7854582,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Omega_rugal EX",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 122453728,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31355
+    },
+    "date": 1790572167728,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 662106,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dhalsim R",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3002857,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Athena xiii",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "sum": 122455123,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22385
+    },
+    "date": 1790572373927,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 3082613,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Xiayu",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1001245,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Leon kennedy",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 122461966,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
