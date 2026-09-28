@@ -445507,5 +445507,113 @@
     "sum": 77008,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790633936526,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 5731579,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Carnage MMV",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1004960,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Orochimaru",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122091964,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27980
+    },
+    "date": 1790634120745,
+    "duration": 124221,
+    "left": {
+      "bet_amount": 2467616,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Bagira_ex",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3930031,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Megamari",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 122091965,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21109
+    },
+    "date": 1790634256727,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 3485527,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Goodman",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1138076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "W buffalo_n",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 122109410,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 58132
+    },
+    "date": 1790634637126,
+    "duration": 170200,
+    "left": {
+      "bet_amount": 1879786,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Yuri-rotd_ttsplus",
+      "normal_bettors": 8,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3717240,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Clippy",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 122116261,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
