@@ -438811,5 +438811,113 @@
     "sum": 122267646,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2060
+    },
+    "date": 1790579925928,
+    "duration": 126003,
+    "left": {
+      "bet_amount": 1031986,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gardener kurama",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5974460,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Z.e.r.o of n.e.s.t.s",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 122271215,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790580060125,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 1594352,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nei terestar",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4248373,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Smart-chang",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 122271571,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17757
+    },
+    "date": 1790580204926,
+    "duration": 88798,
+    "left": {
+      "bet_amount": 1914795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The mountain",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3475583,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ex rumia",
+      "normal_bettors": 18,
+      "win_streak": 7
+    },
+    "sum": 122271572,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790580606526,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 63226,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Euphoria the everlasting",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103976,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Maximune",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
