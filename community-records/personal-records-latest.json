@@ -437407,5 +437407,113 @@
     "sum": 122412017,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42128
+    },
+    "date": 1790570990726,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 2249883,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Victor ortega",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1397757,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Evil zodiac",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122419067,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36343
+    },
+    "date": 1790571160926,
+    "duration": 109990,
+    "left": {
+      "bet_amount": 1284124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bonker the clown",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3534558,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Cyber shredder 2.1",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 122376939,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790571306931,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 3743240,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Boss sagat",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 801085,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Litten",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 122474221,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21070
+    },
+    "date": 1790571463129,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 1180628,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Tia langray",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3167714,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Zenryoku",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 122474226,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
