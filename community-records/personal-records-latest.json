@@ -439729,5 +439729,113 @@
     "sum": 122293385,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23308
+    },
+    "date": 1790588999127,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 598252,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ripper roo",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2896770,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Orochi akuma",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 122295452,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1529
+    },
+    "date": 1790589251329,
+    "duration": 186202,
+    "left": {
+      "bet_amount": 1750282,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Saori - athena",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1819658,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Grebam EX",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 122272144,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 56140
+    },
+    "date": 1790589401326,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 599336,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tao jun EX",
+      "normal_bettors": 3,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5383663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Shingo",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "sum": 122270615,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790589595535,
+    "duration": 134006,
+    "left": {
+      "bet_amount": 1144486,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Marisa EX",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1275162,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "C3po & r2d2",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 122214475,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
