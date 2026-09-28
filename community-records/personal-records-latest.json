@@ -444454,5 +444454,113 @@
     "sum": 122070455,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2478
+    },
+    "date": 1790621246725,
+    "duration": 100184,
+    "left": {
+      "bet_amount": 3915284,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Flan Scarlet",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 775134,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Awakened x",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 122076853,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20586
+    },
+    "date": 1790621516926,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 747157,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Master gundam",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 14599007,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ada wong",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 122074375,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18918
+    },
+    "date": 1790621696924,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 17241496,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Renne hayworth",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 927779,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maverick hunter x",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 122075428,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19838
+    },
+    "date": 1790621851124,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 850782,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ironhide",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9956840,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Lex luthor",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 122076445,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
