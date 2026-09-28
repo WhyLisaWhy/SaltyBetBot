@@ -446209,5 +446209,113 @@
     "sum": 122148865,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3710
+    },
+    "date": 1790638422128,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 2787925,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Another unknown",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1255709,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Pierre",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 122170278,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36615
+    },
+    "date": 1790638578325,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1006672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Houjuu nue",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3386778,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shin kazuma",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 122178491,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2159
+    },
+    "date": 1790638768326,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1437898,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Masked rider wizard",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2636124,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Hey it's fred",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 122141876,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790638964526,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 4026326,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Evil talon",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1342223,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Turn-x",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 122145829,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
