@@ -444319,5 +444319,140 @@
     "sum": 121997349,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1123
+    },
+    "date": 1790620415927,
+    "duration": 121998,
+    "left": {
+      "bet_amount": 857640,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Michaelangelo",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5708254,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Katura hageteru",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 121997893,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26190
+    },
+    "date": 1790620550129,
+    "duration": 80204,
+    "left": {
+      "bet_amount": 3446927,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Lien neville",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1295093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Amakusa ex",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 121998062,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1153
+    },
+    "date": 1790620730128,
+    "duration": 125993,
+    "left": {
+      "bet_amount": 745327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucy",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5103592,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ss6 renfa",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 122066386,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25182
+    },
+    "date": 1790620916327,
+    "duration": 132000,
+    "left": {
+      "bet_amount": 4283720,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Margaret",
+      "normal_bettors": 32,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 893405,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rosie",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "sum": 122065233,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32303
+    },
+    "date": 1790621086538,
+    "duration": 106213,
+    "left": {
+      "bet_amount": 5343425,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Toatus",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Marie p4a",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 122070455,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
