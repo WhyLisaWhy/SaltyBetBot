@@ -446101,5 +446101,113 @@
     "sum": 122140409,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1257
+    },
+    "date": 1790637687525,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 1927418,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Enoch",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2090219,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "German santa",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 122147677,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790637881747,
+    "duration": 144220,
+    "left": {
+      "bet_amount": 3113342,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Dr. weil",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1406191,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yurung",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 122146420,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10687
+    },
+    "date": 1790638041927,
+    "duration": 104203,
+    "left": {
+      "bet_amount": 1111414,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Asutorea",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4845599,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Shigen EX3",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 122146419,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18586
+    },
+    "date": 1790638231925,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1657142,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Gajet",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1930571,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Katana 2097",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "sum": 122148865,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
