@@ -441970,5 +441970,86 @@
     "sum": 122241358,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790603283126,
+    "duration": 64797,
+    "left": {
+      "bet_amount": 531836,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Hayato MVC",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4718247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "P tabasa",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122243744,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790603704724,
+    "duration": 151997,
+    "left": {
+      "bet_amount": 79405,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Fat boo",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 82887,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Roa",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3008
+    },
+    "date": 1790603978929,
+    "duration": 216202,
+    "left": {
+      "bet_amount": 24716,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "E-123 omega",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 196903,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Dr. baldhead",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 3008,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
