@@ -436192,5 +436192,113 @@
     "sum": 33746,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 50500
+    },
+    "date": 1790563044527,
+    "duration": 106200,
+    "left": {
+      "bet_amount": 5612350,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Swole shovel knight",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1356406,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Judith_odea_akof",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122419428,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25274
+    },
+    "date": 1790563258726,
+    "duration": 154202,
+    "left": {
+      "bet_amount": 2086744,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Ren mizusaka",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1969467,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Sion_alien",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 122431525,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21705
+    },
+    "date": 1790563444728,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 1473018,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mei",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2317142,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Lion_gunta",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122406251,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4806
+    },
+    "date": 1790563594930,
+    "duration": 86005,
+    "left": {
+      "bet_amount": 785614,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Snipe lv2",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4115322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kim hoon EX FF",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 122419921,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
