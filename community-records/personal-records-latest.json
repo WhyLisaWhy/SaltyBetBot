@@ -441565,5 +441565,113 @@
     "sum": 122203648,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5838
+    },
+    "date": 1790600724326,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 596894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Melusine",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5706167,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Fusagiko",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 122203647,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2371
+    },
+    "date": 1790600874525,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 3638142,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Peketo EX3",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208599,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Thawk sfa",
+      "normal_bettors": 11,
+      "win_streak": -9
+    },
+    "sum": 122204258,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790601034725,
+    "duration": 96194,
+    "left": {
+      "bet_amount": 633629,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Straight cougar",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5028984,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Nanaya_s",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 122205046,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32007
+    },
+    "date": 1790601204728,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 624722,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aracne de tarantula",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3249881,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Aprile",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122205045,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
