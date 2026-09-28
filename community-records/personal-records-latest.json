@@ -445750,5 +445750,140 @@
     "sum": 122127930,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21258
+    },
+    "date": 1790635627927,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 5762012,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Mizuki hayakawa",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 595022,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kurokishi",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "sum": 122132333,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21727
+    },
+    "date": 1790635838124,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 18681994,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Brawl meta knight",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 964667,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gouki",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122134521,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790635970128,
+    "duration": 76003,
+    "left": {
+      "bet_amount": 3152423,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Xtreme 2 zero",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2010203,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Witch of element",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 122135642,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33983
+    },
+    "date": 1790636160324,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 1129830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Koneko",
+      "normal_bettors": 8,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8687710,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Mr. broly",
+      "normal_bettors": 36,
+      "win_streak": -4
+    },
+    "sum": 122135643,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28088
+    },
+    "date": 1790636300527,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 3953161,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Rock EX",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 708777,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cody the hedgehusky",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122140046,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
