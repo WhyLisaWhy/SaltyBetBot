@@ -438109,5 +438109,113 @@
     "sum": 122311527,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13054
+    },
+    "date": 1790575598539,
+    "duration": 174211,
+    "left": {
+      "bet_amount": 1072799,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "John crawley",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4803157,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Rubette EX2",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 122280434,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25515
+    },
+    "date": 1790575808728,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 4037264,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Evil god",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1280538,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Vengeful bardock",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 122267380,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41233
+    },
+    "date": 1790576004725,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 882214,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mech gouki",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3860742,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Strongheart",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122275423,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12016
+    },
+    "date": 1790576174928,
+    "duration": 116002,
+    "left": {
+      "bet_amount": 6247556,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Spin youmu EX",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 692924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Omega rugal cvs",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 122234190,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
