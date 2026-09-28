@@ -435814,5 +435814,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790559157329,
+    "duration": 159943,
+    "left": {
+      "bet_amount": 70471,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Taoist",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 178669,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Riru",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2157
+    },
+    "date": 1790559377532,
+    "duration": 164207,
+    "left": {
+      "bet_amount": 202684,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Tenshi baiken",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 129444,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Lf2 - archmage",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 2157,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790559647739,
+    "duration": 210214,
+    "left": {
+      "bet_amount": 87293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cable",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 312325,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Tsukiyomi kinako EX5",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1982
+    },
+    "date": 1790559913959,
+    "duration": 206234,
+    "left": {
+      "bet_amount": 331267,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Enegori",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 121658,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Presea combatir",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1982,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
