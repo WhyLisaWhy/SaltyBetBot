@@ -440701,5 +440701,113 @@
     "sum": 122230810,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21491
+    },
+    "date": 1790595273927,
+    "duration": 200000,
+    "left": {
+      "bet_amount": 797457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tamara",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4655969,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Ed-209",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 122237105,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24473
+    },
+    "date": 1790595480127,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 1170939,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mars people EX3",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1856054,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Genma",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 122240769,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2218
+    },
+    "date": 1790595646326,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 686781,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ranma saotome EX2",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3852163,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Another takuma",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 122216296,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19403
+    },
+    "date": 1790595796526,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 2629391,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Holy strider",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 912687,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Leone abbacchio ex",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 122216692,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
