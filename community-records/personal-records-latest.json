@@ -436138,5 +436138,59 @@
     "sum": 10999,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18471
+    },
+    "date": 1790561941524,
+    "duration": 139995,
+    "left": {
+      "bet_amount": 465736,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Akane satomura EX2",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 544730,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Ryuko2nd",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 18471,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33746
+    },
+    "date": 1790562151729,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 533140,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Riru",
+      "normal_bettors": 25,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 436077,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 24,
+      "name": "Ryuko2nd",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 33746,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
