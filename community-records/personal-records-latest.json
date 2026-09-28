@@ -445453,5 +445453,59 @@
     "sum": 136904,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25670
+    },
+    "date": 1790628658526,
+    "duration": 200197,
+    "left": {
+      "bet_amount": 294094,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Nakoruru as",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 280792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Airou ver2.11",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 102678,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 52450
+    },
+    "date": 1790628866120,
+    "duration": 147595,
+    "left": {
+      "bet_amount": 348437,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Kamitsurugi",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 386673,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Airou ver2.11",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 77008,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
