@@ -442159,5 +442159,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1745
+    },
+    "date": 1790605239928,
+    "duration": 284202,
+    "left": {
+      "bet_amount": 90213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kenpachi zaraki",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 293155,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Real veku",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1745,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790605546125,
+    "duration": 246195,
+    "left": {
+      "bet_amount": 196228,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Alvein",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shogun megazord",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2786
+    },
+    "date": 1790605762326,
+    "duration": 159996,
+    "left": {
+      "bet_amount": 356187,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Roa",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 41489,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "E-123 omega",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 2786,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3108
+    },
+    "date": 1790605916526,
+    "duration": 100193,
+    "left": {
+      "bet_amount": 348266,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ume",
+      "normal_bettors": 28,
+      "win_streak": 0
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 36805,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Invisible woman",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 3108,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
