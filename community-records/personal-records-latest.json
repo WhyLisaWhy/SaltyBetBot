@@ -442375,5 +442375,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790607534526,
+    "duration": 290998,
+    "left": {
+      "bet_amount": 378042,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Roa",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 508820,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Alvein",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30762
+    },
+    "date": 1790608236326,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 2288761,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "On",
+      "normal_bettors": 25,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 739570,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Baikinman",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 122246443,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19489
+    },
+    "date": 1790608396528,
+    "duration": 96202,
+    "left": {
+      "bet_amount": 652695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chrome dome",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2941823,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Starsavior",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 122215681,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
