@@ -440566,5 +440566,140 @@
     "sum": 122157842,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12898
+    },
+    "date": 1790594349326,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 562141,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Cvtw sol badguy",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5319215,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Orochi yuyuko",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 122157841,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1560
+    },
+    "date": 1790594519527,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 2613704,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Chintao FF",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1107227,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cheng sinzan rb2",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122159201,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34269
+    },
+    "date": 1790594699525,
+    "duration": 119996,
+    "left": {
+      "bet_amount": 627706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Crocodile",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3051839,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Azami",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 122159862,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27624
+    },
+    "date": 1790594873726,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 994735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Clawbear",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2367751,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Spiral",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 122166833,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4183
+    },
+    "date": 1790595013927,
+    "duration": 84154,
+    "left": {
+      "bet_amount": 2808250,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Matou kariya",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1862131,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Shana dg",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 122230810,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
