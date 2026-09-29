@@ -446641,5 +446641,113 @@
     "sum": 122110977,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25808
+    },
+    "date": 1790641118126,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 2710883,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Bugzzy sdx",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1906328,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Saki EX2",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 122122076,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16604
+    },
+    "date": 1790641322331,
+    "duration": 144003,
+    "left": {
+      "bet_amount": 1697270,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Robinmask",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3157020,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Misuzu",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "sum": 122140054,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5530
+    },
+    "date": 1790641472524,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 6402008,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sumireko",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1329003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Es",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 122123450,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2970
+    },
+    "date": 1790641668726,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 4189720,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Shadow knight",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1404291,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Felix the cat",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122124597,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
