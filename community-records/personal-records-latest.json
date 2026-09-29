@@ -448261,5 +448261,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790651978926,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 280491,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Goro daimon",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 106842,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Doraemon scwu",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2138
+    },
+    "date": 1790652289129,
+    "duration": 254202,
+    "left": {
+      "bet_amount": 118429,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Laharl-chan",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 368055,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Z-ton 2nd",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 2138,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2822
+    },
+    "date": 1790652451129,
+    "duration": 102000,
+    "left": {
+      "bet_amount": 449813,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ultimate gohan",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71400,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dragon_warrior(dnf) +q",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 2822,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
