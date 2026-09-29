@@ -448450,5 +448450,86 @@
     "sum": 16941,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21041
+    },
+    "date": 1790653666138,
+    "duration": 159941,
+    "left": {
+      "bet_amount": 91253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Evil barney",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 827805,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Sekiponki",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 21041,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23303
+    },
+    "date": 1790653902328,
+    "duration": 174188,
+    "left": {
+      "bet_amount": 343121,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Goro daimon",
+      "normal_bettors": 21,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 252895,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ultimate gohan",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 23303,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790654242725,
+    "duration": 280394,
+    "left": {
+      "bet_amount": 213735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Sekiponki",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 976099,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Ultimate gohan",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
