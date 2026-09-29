@@ -447208,5 +447208,140 @@
     "sum": 122271468,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24406
+    },
+    "date": 1790644546924,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 2079632,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Psylocke mvc2",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1840615,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Sanic",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 122245115,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27159
+    },
+    "date": 1790644687126,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 4553574,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Genjuro kibagami",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1297392,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Tao jun EX",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 122220709,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17574
+    },
+    "date": 1790644883327,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 3426612,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Sheng long",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1613307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Metal mario",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122314077,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790645083343,
+    "duration": 133953,
+    "left": {
+      "bet_amount": 1752064,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yukina himeragi",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2263865,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Hatsune miku",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122296503,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24176
+    },
+    "date": 1790645293529,
+    "duration": 150002,
+    "left": {
+      "bet_amount": 1254483,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rock(mkii)",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2602356,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Amato",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122296504,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
