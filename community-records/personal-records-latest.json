@@ -447343,5 +447343,113 @@
     "sum": 122296504,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12671
+    },
+    "date": 1790645479729,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 5936464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Yuugi mb",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1273926,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kyo and iori rebirth",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 122308051,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790645683927,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 1096903,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mysterious power",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3843583,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Evil ryu svc chaos",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 122310765,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2402
+    },
+    "date": 1790645809929,
+    "duration": 70003,
+    "left": {
+      "bet_amount": 4242594,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Superarabian",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 989529,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zaku Chibi",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122310766,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20204
+    },
+    "date": 1790646010136,
+    "duration": 146209,
+    "left": {
+      "bet_amount": 1902799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Yoshi EX2",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3690004,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Gaits",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 122311326,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
