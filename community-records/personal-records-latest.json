@@ -448072,5 +448072,86 @@
     "sum": 122385827,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790650007329,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1222171,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Takaragiko",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5461852,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Orochi reichel",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 122385828,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12974
+    },
+    "date": 1790650228550,
+    "duration": 61022,
+    "left": {
+      "bet_amount": 1392039,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Ultimate weapon kathumi orochi",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1856449,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Cheatman",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 122385829,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790650687927,
+    "duration": 190201,
+    "left": {
+      "bet_amount": 90016,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Evil barney",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 73988,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Ruili kong",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
