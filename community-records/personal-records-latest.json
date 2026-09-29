@@ -448153,5 +448153,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790650917925,
+    "duration": 166003,
+    "left": {
+      "bet_amount": 113634,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Chie satonaka",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124440,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 24,
+      "win_streak": -6
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790651254329,
+    "duration": 262199,
+    "left": {
+      "bet_amount": 64523,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bubsy bobcat",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 178155,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Servant emiya",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790651424330,
+    "duration": 116004,
+    "left": {
+      "bet_amount": 138132,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Suparfcmeirin ver.1.15",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 192096,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Sekiponki",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790651784728,
+    "duration": 306201,
+    "left": {
+      "bet_amount": 193808,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Dark eternal champion",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157149,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Xehrnyth",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
