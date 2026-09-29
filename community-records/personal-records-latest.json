@@ -448342,5 +448342,113 @@
     "sum": 2822,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3268
+    },
+    "date": 1790652711527,
+    "duration": 196200,
+    "left": {
+      "bet_amount": 433947,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Evil barney",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124812,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 3268,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4201
+    },
+    "date": 1790652981728,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 436769,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Bubsy bobcat",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 171422,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sekiponki",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 4201,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14649
+    },
+    "date": 1790653165728,
+    "duration": 124003,
+    "left": {
+      "bet_amount": 103308,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Xehrnyth",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 645896,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Goro daimon",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "sum": 14649,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16941
+    },
+    "date": 1790653445928,
+    "duration": 223980,
+    "left": {
+      "bet_amount": 169053,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Z-ton 2nd",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 681590,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Ultimate gohan",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 16941,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
