@@ -447100,5 +447100,113 @@
     "sum": 122232370,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17691
+    },
+    "date": 1790643926526,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 1569356,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mallow",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2541710,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mr_shihan",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 122232090,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39791
+    },
+    "date": 1790644066528,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 974738,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ringlerun",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4088593,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Crescent silvan",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "sum": 122260423,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7957
+    },
+    "date": 1790644216731,
+    "duration": 80006,
+    "left": {
+      "bet_amount": 4785499,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Blaze fielding",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 993904,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "The acolytes",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 122269818,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26353
+    },
+    "date": 1790644376928,
+    "duration": 100166,
+    "left": {
+      "bet_amount": 2075457,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Bellyache",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2422780,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Toejam",
+      "normal_bettors": 22,
+      "win_streak": -6
+    },
+    "sum": 122271468,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
