@@ -455726,5 +455726,113 @@
     "sum": 122170427,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27244
+    },
+    "date": 1790787103921,
+    "duration": 125989,
+    "left": {
+      "bet_amount": 1329673,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Athena_96",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2210192,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Heavyarmscustom",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 122211736,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19960
+    },
+    "date": 1790787284127,
+    "duration": 125995,
+    "left": {
+      "bet_amount": 1075540,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Asuka EX2",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3525237,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Master kaede",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 122184492,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33972
+    },
+    "date": 1790787514342,
+    "duration": 180212,
+    "left": {
+      "bet_amount": 2579022,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Metalman mvc",
+      "normal_bettors": 23,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2089750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Lio convoy",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 122164532,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30752
+    },
+    "date": 1790787650528,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 1245860,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Real general",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2425475,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Rainbow meiling",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 122191702,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
