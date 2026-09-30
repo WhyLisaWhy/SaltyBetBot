@@ -453728,5 +453728,140 @@
     "sum": 122270616,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21359
+    },
+    "date": 1790774257722,
+    "duration": 123987,
+    "left": {
+      "bet_amount": 3278145,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Nui harime",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1197163,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Duran",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122221734,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790774397926,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 4527225,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "P tabasa",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 896211,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kusanagi EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122229484,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2558
+    },
+    "date": 1790774539927,
+    "duration": 82002,
+    "left": {
+      "bet_amount": 5930251,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Chie_rumiko",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 678608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "!!!",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 122229485,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1294
+    },
+    "date": 1790774784130,
+    "duration": 184200,
+    "left": {
+      "bet_amount": 1795046,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - firen",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3142303,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mazinger-zero",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122229778,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3121
+    },
+    "date": 1790774990328,
+    "duration": 150182,
+    "left": {
+      "bet_amount": 2470645,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Shin scrub ken",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 742491,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Hyrule Link",
+      "normal_bettors": 4,
+      "win_streak": 0
+    },
+    "sum": 122228484,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
