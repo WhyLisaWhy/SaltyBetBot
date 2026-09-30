@@ -449314,5 +449314,140 @@
     "sum": 122254441,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33642
+    },
+    "date": 1790739193928,
+    "duration": 102002,
+    "left": {
+      "bet_amount": 2345761,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hyo amano",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2569047,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider shadow rx",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 122254917,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790739374125,
+    "duration": 119988,
+    "left": {
+      "bet_amount": 9283871,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Lilica_felchenerow",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 894985,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shadow dio",
+      "normal_bettors": 7,
+      "win_streak": -9
+    },
+    "sum": 122291241,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790739526325,
+    "duration": 98199,
+    "left": {
+      "bet_amount": 8498565,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Cc medusa",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1010477,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Ukyo EX",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 122291242,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23777
+    },
+    "date": 1790739668328,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 2803965,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Goro",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2158952,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Pyron",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 122291241,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23889
+    },
+    "date": 1790739890527,
+    "duration": 156001,
+    "left": {
+      "bet_amount": 3319270,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Momiji inubashiri",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4095399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Opera elmer",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 122321786,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
