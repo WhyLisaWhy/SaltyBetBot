@@ -453620,5 +453620,113 @@
     "sum": 122338850,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42051
+    },
+    "date": 1790773577131,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 3169548,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Gaira caffeine",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1054404,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mtguile",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122341367,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20354
+    },
+    "date": 1790773793326,
+    "duration": 160000,
+    "left": {
+      "bet_amount": 646389,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Meta jade",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2869298,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Arietta",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 122299316,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8346
+    },
+    "date": 1790773933527,
+    "duration": 79994,
+    "left": {
+      "bet_amount": 10827217,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Spera",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 799301,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jonathan joestar",
+      "normal_bettors": 5,
+      "win_streak": -6
+    },
+    "sum": 122278962,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 48882
+    },
+    "date": 1790774073527,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 3717221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Crescent silvan",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 870383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mika uraki",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "sum": 122270616,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
