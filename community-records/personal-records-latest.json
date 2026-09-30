@@ -452338,5 +452338,86 @@
     "sum": 122439091,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6793
+    },
+    "date": 1790760070325,
+    "duration": 133995,
+    "left": {
+      "bet_amount": 6347547,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Spy-dama EX",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1311627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Necro",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122448657,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24452
+    },
+    "date": 1790760270528,
+    "duration": 143998,
+    "left": {
+      "bet_amount": 1201481,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Ichi",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3392132,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ohayato",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 122450060,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15145
+    },
+    "date": 1790760416731,
+    "duration": 86204,
+    "left": {
+      "bet_amount": 1064271,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Miranda",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4358262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Samurai johnny",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 122425608,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
