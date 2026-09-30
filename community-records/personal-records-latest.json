@@ -451609,5 +451609,113 @@
     "sum": 122529843,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27547
+    },
+    "date": 1790755458726,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 4167703,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Aqua mp",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 891214,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Baiken(ac)",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "sum": 122529844,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31299
+    },
+    "date": 1790755678928,
+    "duration": 164200,
+    "left": {
+      "bet_amount": 1298670,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Cloud (3d)",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1925281,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Eleicia",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122535696,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24566
+    },
+    "date": 1790755798919,
+    "duration": 63995,
+    "left": {
+      "bet_amount": 9045695,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Yujiro-hanma",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1164470,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Petshop",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 122504397,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30343
+    },
+    "date": 1790755985124,
+    "duration": 125993,
+    "left": {
+      "bet_amount": 2729935,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Tatsuya shiba",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1691820,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Unlimited k'",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 122507551,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
