@@ -450313,5 +450313,113 @@
     "sum": 122354190,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17943
+    },
+    "date": 1790747370524,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 939273,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kirby sdx",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2817545,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Pierre",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 122416279,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18746
+    },
+    "date": 1790747560526,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 3152112,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Arcueid_brunestud",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1927854,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Skylla chimere",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 122469094,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24901
+    },
+    "date": 1790747696726,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 3480446,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Yatteyaru-death",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 811243,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Flame demon",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 122450348,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5973
+    },
+    "date": 1790747882726,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 899695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Flail",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5226590,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Rin_tohsaka",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122425447,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
