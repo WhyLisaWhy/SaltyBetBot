@@ -453171,5 +453171,105 @@
     "sum": 2036,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1790766425530,
+    "duration": 304193,
+    "left": {
+      "bet_amount": 240586,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Dianus",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 477500,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pokey the penguin",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 2036,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1790766691726,
+    "duration": 210191,
+    "left": {
+      "bet_amount": 110936,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Albus",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 717413,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Sakuya (shining blade)",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 2036,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1790766851926,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 709126,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Capsule monster",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 118407,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Zill",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 2036,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1790767088127,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 568290,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Pokey the penguin",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 404513,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Albus",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 2036,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
