@@ -456644,5 +456644,113 @@
     "sum": 122093234,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35216
+    },
+    "date": 1790795132327,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 1419903,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Prinny P",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2328031,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Divine skullomania",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 122135505,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12154
+    },
+    "date": 1790795318526,
+    "duration": 132004,
+    "left": {
+      "bet_amount": 1987312,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Benimaru lv3",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3205110,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ken asuka",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122191847,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790795452725,
+    "duration": 76197,
+    "left": {
+      "bet_amount": 1084613,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Raidou",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4582591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Sheana",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122199355,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28271
+    },
+    "date": 1790795612726,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1023340,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kula",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5664431,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Rulue",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 122199356,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
