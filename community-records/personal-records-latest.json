@@ -454862,5 +454862,113 @@
     "sum": 122315982,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29647
+    },
+    "date": 1790781675730,
+    "duration": 200206,
+    "left": {
+      "bet_amount": 883003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Xerxes",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3804293,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Shana",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122298880,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28883
+    },
+    "date": 1790781845724,
+    "duration": 109992,
+    "left": {
+      "bet_amount": 2707070,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Duo lon xiii",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1218603,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Goenitz-kofm",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 122305709,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37021
+    },
+    "date": 1790781979926,
+    "duration": 80007,
+    "left": {
+      "bet_amount": 2992421,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Gori",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1134017,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Michelangelo 0d",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 122318574,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10907
+    },
+    "date": 1790782176127,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 772434,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Youhei 1p",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5508617,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Hakufu sonsaku",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122281553,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
