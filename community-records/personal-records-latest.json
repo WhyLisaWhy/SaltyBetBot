@@ -450988,5 +450988,140 @@
     "sum": 122482336,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790751687726,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 829863,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Luke EX",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4643992,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Thora kithugawa",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122489938,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37776
+    },
+    "date": 1790751867928,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 4245609,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Salty surfer",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 930840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nashu EX7",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122489939,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790752038122,
+    "duration": 110191,
+    "left": {
+      "bet_amount": 908977,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Sagojo",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3546714,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Sabrewulf",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 122452163,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28708
+    },
+    "date": 1790752174124,
+    "duration": 75996,
+    "left": {
+      "bet_amount": 707598,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Shin donovan",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8820063,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "A-rugal",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "sum": 122452162,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1204
+    },
+    "date": 1790752348324,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 3733773,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Youhei 1p",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 967755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Monster ball",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 122454458,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
