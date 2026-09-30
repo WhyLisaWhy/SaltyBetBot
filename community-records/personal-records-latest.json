@@ -456401,5 +456401,59 @@
     "sum": 3428,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32906
+    },
+    "date": 1790793659327,
+    "duration": 56196,
+    "left": {
+      "bet_amount": 3148549,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Pepsiman",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1673668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "K.chris",
+      "normal_bettors": 6,
+      "win_streak": 4
+    },
+    "sum": 122181559,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30470
+    },
+    "date": 1790793859325,
+    "duration": 145998,
+    "left": {
+      "bet_amount": 1121023,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Angela belti",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5467004,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Iroha",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 122148653,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
