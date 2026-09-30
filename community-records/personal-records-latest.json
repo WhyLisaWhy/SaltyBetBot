@@ -455969,5 +455969,113 @@
     "sum": 122209223,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7712
+    },
+    "date": 1790788677326,
+    "duration": 76198,
+    "left": {
+      "bet_amount": 1129122,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bloodia",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6015213,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Suika_pon",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 122178566,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790789151727,
+    "duration": 204197,
+    "left": {
+      "bet_amount": 33836,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Fio germi",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 139083,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Sonic vanessa",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1923
+    },
+    "date": 1790789307720,
+    "duration": 79984,
+    "left": {
+      "bet_amount": 63330,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 144590,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "S_youmu",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 1923,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2755
+    },
+    "date": 1790789501929,
+    "duration": 129798,
+    "left": {
+      "bet_amount": 212394,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Colossus mvc2 ex",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 57767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sogiita gunha",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "sum": 2755,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
