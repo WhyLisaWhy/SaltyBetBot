@@ -458748,5 +458748,140 @@
     "sum": 121963225,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790808597129,
+    "duration": 110207,
+    "left": {
+      "bet_amount": 3038883,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Lee rekka",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1739769,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Orochi fire chris",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 121922766,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18654
+    },
+    "date": 1790808719126,
+    "duration": 66000,
+    "left": {
+      "bet_amount": 1008161,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Takuma 2002",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5186061,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Fat buu mvc",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 121922765,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20528
+    },
+    "date": 1790808853127,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 4239177,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Trixie lulamoon",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1709530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryu-hou",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 121926379,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790809003331,
+    "duration": 90005,
+    "left": {
+      "bet_amount": 6114958,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yumeko",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1190706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mature",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 121905851,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790809139528,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 1957758,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Mario",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3561568,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Duck king EX2",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 121905852,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
