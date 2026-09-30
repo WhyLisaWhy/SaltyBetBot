@@ -456293,5 +456293,86 @@
     "sum": 5232,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6891
+    },
+    "date": 1790791461527,
+    "duration": 166201,
+    "left": {
+      "bet_amount": 494443,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Tetsuo k9999",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 100159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Soma cruz",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 6891,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790791685728,
+    "duration": 160207,
+    "left": {
+      "bet_amount": 245905,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sonic vanessa",
+      "normal_bettors": 11,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 382408,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Colossus mvc2 ex",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790791931929,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 305869,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Gelonimon",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 372280,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Soma cruz",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
