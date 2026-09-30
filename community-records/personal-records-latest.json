@@ -457749,5 +457749,140 @@
     "sum": 122186967,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10643
+    },
+    "date": 1790802141923,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 1786017,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Himan zellode",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7995740,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "C-lelouch",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 122201266,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32838
+    },
+    "date": 1790802342125,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 3684874,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Skaxl roa",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1290690,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Histoire",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 122203641,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 947
+    },
+    "date": 1790802508126,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 5581507,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Amity",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1015787,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Wing gundam",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 122170803,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10812
+    },
+    "date": 1790802768525,
+    "duration": 220397,
+    "left": {
+      "bet_amount": 1314250,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Rudra-suija",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2608743,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Heart-armardi",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122169856,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790802924527,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1774701,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Kanoko hosokawa",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2585599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Lamia",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 122175281,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
