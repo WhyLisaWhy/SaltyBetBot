@@ -454295,5 +454295,140 @@
     "sum": 122225144,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31323
+    },
+    "date": 1790778028727,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 2306315,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Scorpion EX3",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1526577,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pupa",
+      "normal_bettors": 11,
+      "win_streak": -8
+    },
+    "sum": 122225143,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20860
+    },
+    "date": 1790778168927,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 7766288,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Satchi",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1120028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shadow geist",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 122193820,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15246
+    },
+    "date": 1790778318931,
+    "duration": 94003,
+    "left": {
+      "bet_amount": 892024,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dokuro",
+      "normal_bettors": 8,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5023513,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Alty garnet",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 122196821,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790778501127,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 1171503,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lumine",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2379906,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Another igniz EX2",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 122199521,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 481
+    },
+    "date": 1790778665328,
+    "duration": 110193,
+    "left": {
+      "bet_amount": 4569639,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Hitosyura",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1090752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Robo rock",
+      "normal_bettors": 13,
+      "win_streak": -10
+    },
+    "sum": 122199520,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
