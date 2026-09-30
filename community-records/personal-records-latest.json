@@ -452851,5 +452851,113 @@
     "sum": 122393925,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790763487123,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 1330906,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Shanghai doll",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4112719,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Bobunemimimmi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122405836,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790763627528,
+    "duration": 86204,
+    "left": {
+      "bet_amount": 4097582,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Mudman ngbc",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1547588,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yashiro nanakase",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122405837,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790764011525,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 116261,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Capsule monster",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 51476,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Dante 4",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2228
+    },
+    "date": 1790764237726,
+    "duration": 170001,
+    "left": {
+      "bet_amount": 46923,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Forecaster blackmore",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 154937,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "G-laurence",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 2228,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
