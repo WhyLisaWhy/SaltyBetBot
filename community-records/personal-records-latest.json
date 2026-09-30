@@ -449611,5 +449611,113 @@
     "sum": 122459624,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1496
+    },
+    "date": 1790741085525,
+    "duration": 200197,
+    "left": {
+      "bet_amount": 2317479,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Weiss_pw EX3",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1818875,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Feraligatr",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "sum": 122437354,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14644
+    },
+    "date": 1790741281727,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 2084739,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Evil donald",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2216283,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Master mechanical mizuchi",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 122438528,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6377
+    },
+    "date": 1790741441726,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1065647,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Luka",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3601589,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Bristol-d",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 122423884,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32123
+    },
+    "date": 1790741637924,
+    "duration": 142196,
+    "left": {
+      "bet_amount": 884491,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dq3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3115552,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kill bill jhonny_mo",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122425768,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
