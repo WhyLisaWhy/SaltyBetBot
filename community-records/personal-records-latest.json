@@ -457641,5 +457641,113 @@
     "sum": 122212052,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11548
+    },
+    "date": 1790801327328,
+    "duration": 142199,
+    "left": {
+      "bet_amount": 1333298,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "General grievous",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3248551,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Final fight cody",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 122221309,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27895
+    },
+    "date": 1790801521540,
+    "duration": 134213,
+    "left": {
+      "bet_amount": 1042862,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Charlie EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4561018,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "A-ko",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 122209761,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13082
+    },
+    "date": 1790801687526,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1134067,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lion magnus",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2895751,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Jubei yamada special",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122181866,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25210
+    },
+    "date": 1790801947728,
+    "duration": 206198,
+    "left": {
+      "bet_amount": 1800878,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Godzilla-tower",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3149896,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rydia of mist",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122186967,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
