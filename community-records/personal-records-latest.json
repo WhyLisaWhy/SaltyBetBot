@@ -457049,5 +457049,165 @@
     "sum": 122197237,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15585
+    },
+    "date": 1790797660328,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 2312118,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Takuma",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1220417,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mega tails",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 122197238,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19883
+    },
+    "date": 1790797846526,
+    "duration": 125992,
+    "left": {
+      "bet_amount": 1439848,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Structure list",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3117293,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Preposterous cirno",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122181653,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1790797966726,
+    "duration": 66203,
+    "left": {
+      "bet_amount": 2499122,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Psychotic ryu",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2321723,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Tenshi baiken",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 122224114,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29001
+    },
+    "date": 1790798146726,
+    "duration": 125996,
+    "left": {
+      "bet_amount": 1301916,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Orochi iori 02um",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3291039,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Hamburglar",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 122224114,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18067
+    },
+    "date": 1790798296927,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 1191325,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Raidou",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3834520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Prosciutto",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 122195113,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 918
+    },
+    "date": 1790798450925,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1225963,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Leon kennedy",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5002579,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Panda genma",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 122252397,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
