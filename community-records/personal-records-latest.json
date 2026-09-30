@@ -449962,5 +449962,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790743799725,
+    "duration": 210197,
+    "left": {
+      "bet_amount": 200084,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Licht",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 132648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Merkava",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2570
+    },
+    "date": 1790743975726,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 297612,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shazzer EX3",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 114321,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jaguar junichi",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 2570,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3549
+    },
+    "date": 1790744245921,
+    "duration": 215995,
+    "left": {
+      "bet_amount": 144904,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Captain ginyu",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 262615,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Blanka mvc",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 3549,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9828
+    },
+    "date": 1790744452126,
+    "duration": 149998,
+    "left": {
+      "bet_amount": 131399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Marco EX",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 372203,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Juri han qyc",
+      "normal_bettors": 24,
+      "win_streak": 7
+    },
+    "sum": 9828,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
