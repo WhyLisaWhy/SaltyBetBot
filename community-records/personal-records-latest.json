@@ -458073,5 +458073,113 @@
     "sum": 122059512,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19542
+    },
+    "date": 1790804065526,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1541920,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Omni-psych chipp",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10540956,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Dhalsim EX9",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 122059511,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14535
+    },
+    "date": 1790804245544,
+    "duration": 120016,
+    "left": {
+      "bet_amount": 2696127,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ryu 98",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2985828,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Dr. robotnik",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 122062365,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18684
+    },
+    "date": 1790804411728,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1484844,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Selvaria bles",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6145544,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Testament gg1",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122047830,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790804585949,
+    "duration": 120221,
+    "left": {
+      "bet_amount": 2876544,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Crocodile",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1950523,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mothra",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122029146,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
