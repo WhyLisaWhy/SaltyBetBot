@@ -452581,5 +452581,140 @@
     "sum": 122410019,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10439
+    },
+    "date": 1790761697725,
+    "duration": 160195,
+    "left": {
+      "bet_amount": 1077342,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gh-golden silver",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4963987,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Ryoko(mugen)",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 122445055,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15762
+    },
+    "date": 1790761899921,
+    "duration": 146190,
+    "left": {
+      "bet_amount": 1458684,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kamek",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3228461,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Lf2 - louis",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 122447316,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30365
+    },
+    "date": 1790762124145,
+    "duration": 160215,
+    "left": {
+      "bet_amount": 2822130,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Dante pxz",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1678738,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Caviar?",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 122431554,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18756
+    },
+    "date": 1790762284126,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1367620,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2975971,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Mokou ulil",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122449425,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 756
+    },
+    "date": 1790762444324,
+    "duration": 93995,
+    "left": {
+      "bet_amount": 4539530,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Mazinger-zero",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1356286,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Saber_extra",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 122430669,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
