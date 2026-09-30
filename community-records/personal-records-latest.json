@@ -450610,5 +450610,113 @@
     "sum": 122385270,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14860
+    },
+    "date": 1790749259925,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 840473,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jobman EX7",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4831959,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Opirus element",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122361225,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1113
+    },
+    "date": 1790749413931,
+    "duration": 104009,
+    "left": {
+      "bet_amount": 4535934,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Levin",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1066352,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ermac",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 122363802,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790749564128,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 655329,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Rob lucci ex",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6715270,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Nero chaos",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 122362689,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790749730325,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 1750286,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Udonge_a",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2621109,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Eustass kid",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 122362690,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
