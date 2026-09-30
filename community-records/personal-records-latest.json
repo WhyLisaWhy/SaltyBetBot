@@ -452959,5 +452959,86 @@
     "sum": 2228,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2894
+    },
+    "date": 1790764433927,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 136054,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Zankuro EX2",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 118062,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Daimon 71113",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 2894,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790764598124,
+    "duration": 104196,
+    "left": {
+      "bet_amount": 124852,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Pogo",
+      "normal_bettors": 12,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 186619,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Zill",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2579
+    },
+    "date": 1790764824326,
+    "duration": 166196,
+    "left": {
+      "bet_amount": 264945,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dianus",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Majin boo EX3",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "sum": 2579,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
