@@ -453040,5 +453040,136 @@
     "sum": 2579,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3804
+    },
+    "date": 1790765068525,
+    "duration": 190198,
+    "left": {
+      "bet_amount": 189317,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Marilyn sue dae jie",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 227187,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Pokey the penguin",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 3804,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790765368735,
+    "duration": 240209,
+    "left": {
+      "bet_amount": 360120,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Albus",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 113169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tabunne",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2036
+    },
+    "date": 1790765660938,
+    "duration": 232211,
+    "left": {
+      "bet_amount": 99271,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Phantomsheet",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 422144,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Sakuya (shining blade)",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 2036,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1790765845129,
+    "duration": 120206,
+    "left": {
+      "bet_amount": 503347,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Capsule monster",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103367,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "G-laurence",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 2036,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1790766061324,
+    "duration": 160194,
+    "left": {
+      "bet_amount": 526408,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Daimon 71113",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Zill",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 2036,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
