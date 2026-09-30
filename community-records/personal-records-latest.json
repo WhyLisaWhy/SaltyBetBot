@@ -455429,5 +455429,113 @@
     "sum": 122175010,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31557
+    },
+    "date": 1790785106326,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 1721964,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Reicubas",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2177911,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Orochi ball",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 122151436,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27131
+    },
+    "date": 1790785390726,
+    "duration": 224197,
+    "left": {
+      "bet_amount": 2939735,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Cheerful kohaku",
+      "normal_bettors": 25,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1032057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Omega rugal cvs",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 122176031,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1021
+    },
+    "date": 1790785540727,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 1172100,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ultimate cap",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5385152,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Shazzer EX3",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 122148900,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16294
+    },
+    "date": 1790785726929,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 13220237,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Order-ky",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2812368,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yunalesca",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 122149123,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
