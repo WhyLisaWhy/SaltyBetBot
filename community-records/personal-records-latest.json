@@ -449719,5 +449719,113 @@
     "sum": 122425768,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18772
+    },
+    "date": 1790741832139,
+    "duration": 134214,
+    "left": {
+      "bet_amount": 3991065,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Nakoruru EX3",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1271158,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "God demitri",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 122393645,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35607
+    },
+    "date": 1790741988131,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 2690186,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Ms.valliere",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3393421,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Abore",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 122374873,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2469
+    },
+    "date": 1790742115722,
+    "duration": 67392,
+    "left": {
+      "bet_amount": 4469084,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Katakura kojuro_ch",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 695226,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Swalot",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122339266,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790742492732,
+    "duration": 110208,
+    "left": {
+      "bet_amount": 52526,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cathey",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 120557,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Captain ginyu",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
