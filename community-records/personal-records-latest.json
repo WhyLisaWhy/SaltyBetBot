@@ -458478,5 +458478,113 @@
     "sum": 121944549,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23921
+    },
+    "date": 1790806739536,
+    "duration": 134006,
+    "left": {
+      "bet_amount": 996399,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Pasity",
+      "normal_bettors": 12,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4256917,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dark arcueid mk2",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 121944550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790806919725,
+    "duration": 120196,
+    "left": {
+      "bet_amount": 6368536,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Nanaya_s",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shen woo-kofm",
+      "normal_bettors": 10,
+      "win_streak": -7
+    },
+    "sum": 121950118,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23588
+    },
+    "date": 1790807145929,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 2934125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Maria",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1706221,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Demitri maximoff",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 121950119,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11104
+    },
+    "date": 1790807360125,
+    "duration": 154194,
+    "left": {
+      "bet_amount": 5554828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Gilgamesh ccc",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1569376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Barbarccia",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 121926531,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
