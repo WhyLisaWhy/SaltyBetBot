@@ -454025,5 +454025,113 @@
     "sum": 122227805,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21107
+    },
+    "date": 1790776311329,
+    "duration": 250195,
+    "left": {
+      "bet_amount": 4025324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Albion",
+      "normal_bettors": 27,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1242366,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Black goku",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 122204628,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31868
+    },
+    "date": 1790776417530,
+    "duration": 50003,
+    "left": {
+      "bet_amount": 1451540,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Violet",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2982925,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Kutsuna yui ex",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 122211109,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10411
+    },
+    "date": 1790776521527,
+    "duration": 44003,
+    "left": {
+      "bet_amount": 5006697,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Rugal b. EX",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 962244,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jet-stingray",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 122226453,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790776781726,
+    "duration": 204201,
+    "left": {
+      "bet_amount": 3782512,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Eri_hasumi",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 945493,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Hoshi kage",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 122228450,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
