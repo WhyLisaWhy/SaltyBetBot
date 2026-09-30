@@ -449044,5 +449044,113 @@
     "sum": 122332841,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26465
+    },
+    "date": 1790737504768,
+    "duration": 164242,
+    "left": {
+      "bet_amount": 3250160,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Saber",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 951110,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Dodoria ex",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122344182,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790737670727,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 3314111,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sheana",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1014707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mastr Hand",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122317717,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18317
+    },
+    "date": 1790737836930,
+    "duration": 112204,
+    "left": {
+      "bet_amount": 685491,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Gohan zeta",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4571630,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Super sonic EX3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122317716,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20676
+    },
+    "date": 1790738011127,
+    "duration": 114203,
+    "left": {
+      "bet_amount": 2103479,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Zan-b EX",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1407428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Athena945",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 122320452,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
