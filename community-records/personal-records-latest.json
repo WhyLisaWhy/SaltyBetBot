@@ -448531,5 +448531,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 719
+    },
+    "date": 1790734306125,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1048749,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nina EX",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2738276,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Goku mythos",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 122374404,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21290
+    },
+    "date": 1790734450123,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 2332117,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Yashiro nanakase EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1375869,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "K9999",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 122374680,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
