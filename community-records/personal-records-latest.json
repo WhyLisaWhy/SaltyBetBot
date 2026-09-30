@@ -457371,5 +457371,140 @@
     "sum": 122231358,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29525
+    },
+    "date": 1790799517927,
+    "duration": 174198,
+    "left": {
+      "bet_amount": 1014578,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kenzo",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5074878,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Shadow diavolo",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 122232515,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790799713927,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1518195,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zelda-cdi",
+      "normal_bettors": 8,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5661149,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Lion sora",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 122238384,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36651
+    },
+    "date": 1790799914128,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1505340,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Balrog svc chaos",
+      "normal_bettors": 12,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2964631,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Nanaya_reaver",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "sum": 122238385,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26651
+    },
+    "date": 1790800080325,
+    "duration": 105994,
+    "left": {
+      "bet_amount": 2684152,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ironfist ryu",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2113889,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Rockula",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 122201734,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790800216528,
+    "duration": 76200,
+    "left": {
+      "bet_amount": 1134470,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Iron-man",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3738026,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Kolin",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 122175083,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
