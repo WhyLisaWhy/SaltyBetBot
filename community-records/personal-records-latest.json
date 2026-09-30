@@ -458181,5 +458181,140 @@
     "sum": 122029146,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23820
+    },
+    "date": 1790804781929,
+    "duration": 130004,
+    "left": {
+      "bet_amount": 1935235,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Sittara",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2239572,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Giant baba",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 122029145,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19811
+    },
+    "date": 1790804956126,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 4360966,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "No.6 ikazuchi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2447652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "The master",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122005325,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22364
+    },
+    "date": 1790805148328,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 1674449,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Parace",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4696871,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Shocking shocker",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 122040339,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17277
+    },
+    "date": 1790805388526,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 3502276,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hururu",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2242548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Juggernaut mvc2",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 122017975,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16955
+    },
+    "date": 1790805552727,
+    "duration": 104187,
+    "left": {
+      "bet_amount": 4540991,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Meu(you-ki)",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1799614,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Extreme vegeta",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 122000698,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
