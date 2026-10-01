@@ -461205,5 +461205,167 @@
     "sum": 121614359,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790829225526,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 1081274,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Amber-k",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2768060,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Yuuki terumi",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 121619427,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22641
+    },
+    "date": 1790829391525,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 1145968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Andromeda shun",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3371460,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "Mike EX2",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 121619430,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 482
+    },
+    "date": 1790829551727,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 3879542,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Lenneth vp",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 975747,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chaka EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 121627075,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4169
+    },
+    "date": 1790829731928,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 2937242,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Lynn baker",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1212645,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Okuyasu nijimura",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 121626593,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34180
+    },
+    "date": 1790829906127,
+    "duration": 114199,
+    "left": {
+      "bet_amount": 1654113,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Misaka sisters",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2941451,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jin bros",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 121628312,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13053
+    },
+    "date": 1790830056128,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 6093688,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Sf2 guile",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1521244,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rayquaza",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 121594132,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
