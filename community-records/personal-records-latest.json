@@ -461934,5 +461934,113 @@
     "sum": 121554018,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790833773129,
+    "duration": 116003,
+    "left": {
+      "bet_amount": 3259133,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Cyborg t-8p",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1901414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Yatenkou",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 121532032,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34024
+    },
+    "date": 1790833937332,
+    "duration": 104206,
+    "left": {
+      "bet_amount": 4192060,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Gameboy",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1075698,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lil' chirno",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 121532031,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790834149526,
+    "duration": 146197,
+    "left": {
+      "bet_amount": 1341773,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Tallman",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4621842,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Wing gundam",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 121540692,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790834347530,
+    "duration": 144001,
+    "left": {
+      "bet_amount": 1931395,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Soy milk",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2435109,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Rock volnutt",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 121540693,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
