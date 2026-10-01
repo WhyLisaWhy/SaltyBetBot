@@ -465901,5 +465901,140 @@
     "sum": 121822148,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790864377530,
+    "duration": 146003,
+    "left": {
+      "bet_amount": 1678019,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Judge dredd",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6652210,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Nami",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 121792540,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25034
+    },
+    "date": 1790864565726,
+    "duration": 133997,
+    "left": {
+      "bet_amount": 1414889,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nagamine nozomi",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2682179,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Misaka mikoto EX2",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 121792541,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26777
+    },
+    "date": 1790864781927,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 2481049,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Mask the griffon EX3",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1681128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cf-len",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 121805625,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14552
+    },
+    "date": 1790864906126,
+    "duration": 70200,
+    "left": {
+      "bet_amount": 1583653,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kung lao mk2",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2100568,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Dejiko",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 121778848,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9615
+    },
+    "date": 1790865086133,
+    "duration": 114008,
+    "left": {
+      "bet_amount": 1465830,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Butt",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2151160,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "R-series",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 121789744,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
