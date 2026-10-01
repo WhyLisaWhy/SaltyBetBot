@@ -468709,5 +468709,32 @@
     "sum": 2287,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3049
+    },
+    "date": 1790883967727,
+    "duration": 340799,
+    "left": {
+      "bet_amount": 494887,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Ayame_ai",
+      "normal_bettors": 19,
+      "win_streak": 13
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 168925,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Frank west",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 3049,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
