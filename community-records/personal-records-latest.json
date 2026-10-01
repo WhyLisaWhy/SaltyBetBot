@@ -462177,5 +462177,86 @@
     "sum": 121547428,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790835441526,
+    "duration": 97200,
+    "left": {
+      "bet_amount": 5372329,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Shadowman cfas",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1377719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cyrax umk3",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 121564254,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790835926924,
+    "duration": 216196,
+    "left": {
+      "bet_amount": 87409,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Robo-akatsuki",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86127,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ultraseven",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3096
+    },
+    "date": 1790836100927,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 164819,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kurosaki ichigo",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 78927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "M. bison hd",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 3096,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
