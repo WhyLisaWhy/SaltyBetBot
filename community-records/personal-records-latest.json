@@ -468250,5 +468250,86 @@
     "sum": 121638047,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17479
+    },
+    "date": 1790879445528,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 4386193,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Pullum purna",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1672545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rumia",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121620458,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790879719728,
+    "duration": 220200,
+    "left": {
+      "bet_amount": 1560976,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Megaman EX2",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1990997,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Abareimu",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 121602979,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6199
+    },
+    "date": 1790879848528,
+    "duration": 72603,
+    "left": {
+      "bet_amount": 1273888,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Watering can",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6067230,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Death dhl",
+      "normal_bettors": 28,
+      "win_streak": 19
+    },
+    "sum": 121602981,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
