@@ -459234,5 +459234,86 @@
     "sum": 11724,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790812117927,
+    "duration": 220199,
+    "left": {
+      "bet_amount": 159268,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Tengu man",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 324250,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Gajet",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790812378129,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 437688,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Slug wanzer",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Zero tifa",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790812598337,
+    "duration": 160206,
+    "left": {
+      "bet_amount": 376106,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Ru",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 253868,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Pocket janemba",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
