@@ -462771,5 +462771,167 @@
     "sum": 121608201,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39831
+    },
+    "date": 1790842682124,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 883076,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Marona",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2386569,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Daimon 98",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 121633509,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5312
+    },
+    "date": 1790842826325,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 6900617,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Breloom",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096248,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jetgoshi",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 121593678,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33827
+    },
+    "date": 1790843012529,
+    "duration": 126202,
+    "left": {
+      "bet_amount": 4185554,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Daimon",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1198093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "G-hamster",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 121594522,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30580
+    },
+    "date": 1790843176527,
+    "duration": 103983,
+    "left": {
+      "bet_amount": 4377688,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Beautiful kuando",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 988140,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mongul",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "sum": 121560695,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14388
+    },
+    "date": 1790843372726,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1324975,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aoi matsubara",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3478575,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Iron fist",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "sum": 121567550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38889
+    },
+    "date": 1790843498926,
+    "duration": 70165,
+    "left": {
+      "bet_amount": 1711753,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Godmars",
+      "normal_bettors": 15,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2574049,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Raiden 512e1",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 121553162,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
