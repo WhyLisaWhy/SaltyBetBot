@@ -459504,5 +459504,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20750
+    },
+    "date": 1790818689125,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 1860872,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Extra usapi-",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2494471,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Neco-arc",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121874789,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16512
+    },
+    "date": 1790818883131,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 3732514,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Kotiya sanae",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1247125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Bern and lambda",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 121890141,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31674
+    },
+    "date": 1790819039327,
+    "duration": 96005,
+    "left": {
+      "bet_amount": 4379196,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Alba meira",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1480514,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Wong fei hung",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 121895634,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19714
+    },
+    "date": 1790819225523,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 4062249,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Lio convoy",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1365923,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Tony won",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 121906266,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
