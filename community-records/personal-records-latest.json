@@ -467980,5 +467980,113 @@
     "sum": 121615608,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10045
+    },
+    "date": 1790877832327,
+    "duration": 170205,
+    "left": {
+      "bet_amount": 1066753,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ex-aid",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5093868,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Arrange sion",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 121691036,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31870
+    },
+    "date": 1790877982327,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 2492217,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Durian EX3",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1747548,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "The binding of isaac",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 121680991,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26355
+    },
+    "date": 1790878138525,
+    "duration": 96194,
+    "left": {
+      "bet_amount": 2129881,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Heitasupermode",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2309054,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Dr. fessenden",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 121725628,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790878292527,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 1779349,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Scorpion mythos",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 30958102,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Zeldia 0D",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 121699273,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
