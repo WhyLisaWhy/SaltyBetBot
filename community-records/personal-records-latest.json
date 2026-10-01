@@ -469114,5 +469114,140 @@
     "sum": 121637633,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28311
+    },
+    "date": 1790887591973,
+    "duration": 100045,
+    "left": {
+      "bet_amount": 2003284,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Taki EX3",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2445453,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "E.soldat",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 121619633,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27272
+    },
+    "date": 1790887862125,
+    "duration": 209997,
+    "left": {
+      "bet_amount": 1423744,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Urmnaf bort hyuga",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1998299,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 121591322,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36997
+    },
+    "date": 1790888022325,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 4226786,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dis astranagant",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1401985,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Knightman mvc",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 121564050,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790888172528,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 4016420,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Imouto EX3",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1219927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Miyukaka",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 121576216,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13591
+    },
+    "date": 1790888308526,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 1497414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Boring kagekiyo",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3451574,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Sandman",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 121576217,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
