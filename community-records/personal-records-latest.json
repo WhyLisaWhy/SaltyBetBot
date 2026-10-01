@@ -468466,5 +468466,59 @@
     "sum": 8632,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15286
+    },
+    "date": 1790881697325,
+    "duration": 274197,
+    "left": {
+      "bet_amount": 197977,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hachune miku",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 266676,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Charlotte pots",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 15286,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34401
+    },
+    "date": 1790881957566,
+    "duration": 200240,
+    "left": {
+      "bet_amount": 205260,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Valkenhayn r. hellsing",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 223589,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Amakusa",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 34401,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
