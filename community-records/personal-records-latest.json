@@ -467305,5 +467305,167 @@
     "sum": 121674047,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28155
+    },
+    "date": 1790873130531,
+    "duration": 110008,
+    "left": {
+      "bet_amount": 4134782,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Ushio kai ni",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 996346,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Conan edogawa",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121645131,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24471
+    },
+    "date": 1790873270725,
+    "duration": 86161,
+    "left": {
+      "bet_amount": 1016020,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zerozuchi",
+      "normal_bettors": 9,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4678197,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Ertot",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 121651870,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1209
+    },
+    "date": 1790873384727,
+    "duration": 54001,
+    "left": {
+      "bet_amount": 6787566,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Master moriya",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1555105,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "R-mai",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 121657158,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22716
+    },
+    "date": 1790873610928,
+    "duration": 166200,
+    "left": {
+      "bet_amount": 4412890,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ran yakumo",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1192735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Majin boo EX3",
+      "normal_bettors": 7,
+      "win_streak": -8
+    },
+    "sum": 121657435,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25097
+    },
+    "date": 1790873771128,
+    "duration": 96209,
+    "left": {
+      "bet_amount": 2493871,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Italian toki",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2306274,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hsien-ko",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 121663544,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24042
+    },
+    "date": 1790873925126,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 4859736,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mango's fox",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1185590,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "sum": 121690391,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
