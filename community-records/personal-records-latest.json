@@ -460908,5 +460908,113 @@
     "sum": 121694640,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2734
+    },
+    "date": 1790827502125,
+    "duration": 103992,
+    "left": {
+      "bet_amount": 1628609,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Goku z2 EX3",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3703784,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Imr-765-s_kisaragi",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 121672001,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26205
+    },
+    "date": 1790827658331,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 2552878,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Card hero",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1467624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ryu_a",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 121669267,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3908
+    },
+    "date": 1790827792328,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 2362529,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "International karateka",
+      "normal_bettors": 23,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1989108,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Khameleon mk2",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 121684179,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 46659
+    },
+    "date": 1790827938528,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 1562256,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Pairon",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2263793,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Sasquatch 71113",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 121687464,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
