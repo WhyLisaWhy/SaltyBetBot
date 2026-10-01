@@ -464337,5 +464337,140 @@
     "sum": 121313092,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790852712327,
+    "duration": 150191,
+    "left": {
+      "bet_amount": 943010,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kubo suiki",
+      "normal_bettors": 4,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5787834,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Junko",
+      "normal_bettors": 25,
+      "win_streak": 43
+    },
+    "sum": 121299542,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23627
+    },
+    "date": 1790852888327,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 2661214,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ace",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1330568,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Juggernaut mvc2",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 121299543,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32983
+    },
+    "date": 1790853028526,
+    "duration": 85986,
+    "left": {
+      "bet_amount": 6002015,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Tora-san",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1405101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Space zero",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 121345974,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11961
+    },
+    "date": 1790853132548,
+    "duration": 50015,
+    "left": {
+      "bet_amount": 2639088,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Boss white len",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1145823,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ryu & ken",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 121353654,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3271
+    },
+    "date": 1790853308726,
+    "duration": 115996,
+    "left": {
+      "bet_amount": 1273812,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Manticore",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3373177,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Fa-",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 121358824,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
