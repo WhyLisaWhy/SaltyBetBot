@@ -468736,5 +468736,113 @@
     "sum": 3049,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40588
+    },
+    "date": 1790885378326,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 2036200,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Dally",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1410768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Phone(redux)",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 121608364,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22519
+    },
+    "date": 1790885528327,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 931315,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kumao +q",
+      "normal_bettors": 3,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4812061,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Evil ryu sf3",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 121665308,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10863
+    },
+    "date": 1790885664527,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 1514933,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Laststarman",
+      "normal_bettors": 8,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2965587,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Sekkimaru",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 121669646,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11382
+    },
+    "date": 1790885764527,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 976480,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kamen rider duke",
+      "normal_bettors": 3,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3738660,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Regice orochi",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 121675175,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
