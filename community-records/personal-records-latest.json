@@ -468628,5 +468628,86 @@
     "sum": 2802,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3462
+    },
+    "date": 1790883154529,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 139752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Amakusa",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 335303,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ginyu (son goku)",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 3462,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790883340725,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 166486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ogre",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 348762,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Ayame_ai",
+      "normal_bettors": 30,
+      "win_streak": 12
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2287
+    },
+    "date": 1790883570925,
+    "duration": 170195,
+    "left": {
+      "bet_amount": 692722,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Frank west",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 231291,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Amakusa",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 2287,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
