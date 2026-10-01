@@ -464742,5 +464742,140 @@
     "sum": 121311918,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27890
+    },
+    "date": 1790855232327,
+    "duration": 106197,
+    "left": {
+      "bet_amount": 1418788,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Relius clover",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3501390,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Violet",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121355486,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27763
+    },
+    "date": 1790855402528,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 4341740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Edgelord ravenous",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1564888,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Susano'o",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121327596,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18404
+    },
+    "date": 1790855552527,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 5071003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Butthead sagat",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1041679,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dongdong",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "sum": 121299833,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 47510
+    },
+    "date": 1790855852740,
+    "duration": 240213,
+    "left": {
+      "bet_amount": 997753,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ivy valentine",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3088559,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Salamandra_fe",
+      "normal_bettors": 21,
+      "win_streak": -6
+    },
+    "sum": 121387871,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40973
+    },
+    "date": 1790856022928,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1335537,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "A cheerful traveler",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3148606,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Ryuhi SD",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 121528255,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
