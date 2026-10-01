@@ -463932,5 +463932,113 @@
     "sum": 121298166,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25183
+    },
+    "date": 1790850098130,
+    "duration": 109989,
+    "left": {
+      "bet_amount": 1457728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ume_age19",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4033054,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Hei meiling",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 121280461,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7880
+    },
+    "date": 1790850428526,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 1642974,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Deathtanz-mantisk",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2225298,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Namazu",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 121289507,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13623
+    },
+    "date": 1790850598530,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 3420311,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Tewi?",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1212493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Infiltration's decapre",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121295305,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1043
+    },
+    "date": 1790850718721,
+    "duration": 63995,
+    "left": {
+      "bet_amount": 1439228,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ness",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8933273,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Another clone ash",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 121300116,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
