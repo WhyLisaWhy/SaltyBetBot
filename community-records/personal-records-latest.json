@@ -469411,5 +469411,113 @@
     "sum": 121590766,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21141
+    },
+    "date": 1790889591526,
+    "duration": 212162,
+    "left": {
+      "bet_amount": 2453282,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Rubette EX2",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2486983,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Evil guy",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 121600962,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19800
+    },
+    "date": 1790889755728,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1768088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sayo chan",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3620060,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tyrant EX",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 121621641,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790889925924,
+    "duration": 110196,
+    "left": {
+      "bet_amount": 1347003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Super gyaos",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5286198,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Captain atlantis",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "sum": 121601841,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41000
+    },
+    "date": 1790890165927,
+    "duration": 180002,
+    "left": {
+      "bet_amount": 1262988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sik scorpion",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2956460,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Honoka",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 121601840,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
