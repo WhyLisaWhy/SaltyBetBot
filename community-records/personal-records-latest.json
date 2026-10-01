@@ -461367,5 +461367,140 @@
     "sum": 121594132,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790830204326,
+    "duration": 92199,
+    "left": {
+      "bet_amount": 5070094,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Bomber man",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1666897,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Wangchang",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 121597384,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20365
+    },
+    "date": 1790830362327,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 4045336,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Hata no kokoro ulil",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1140412,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kirin",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 121597385,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15644
+    },
+    "date": 1790830552528,
+    "duration": 136002,
+    "left": {
+      "bet_amount": 1360644,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ertot",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3435581,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Garmraid",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 121668358,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20554
+    },
+    "date": 1790830688727,
+    "duration": 82195,
+    "left": {
+      "bet_amount": 1954060,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "G-gonzales",
+      "normal_bettors": 13,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2149002,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sonic vanessa",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 121652714,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32617
+    },
+    "date": 1790830912931,
+    "duration": 164204,
+    "left": {
+      "bet_amount": 1335024,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ghetsis head",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3963743,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Benimaru(mkii)",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 121675084,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
