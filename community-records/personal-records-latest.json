@@ -469951,5 +469951,140 @@
     "sum": 121666774,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10725
+    },
+    "date": 1790893126329,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 6103325,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Homura & friends",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1341330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ryu-hou",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121663013,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20925
+    },
+    "date": 1790893250529,
+    "duration": 64200,
+    "left": {
+      "bet_amount": 3800854,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Byuu",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 974994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ryo 98",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 121665366,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36174
+    },
+    "date": 1790893420528,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 2176300,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Kagelogan EX7",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1717088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bemular",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121644441,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 990
+    },
+    "date": 1790893562736,
+    "duration": 80188,
+    "left": {
+      "bet_amount": 1988633,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Arcadboy",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1530378,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Miyuki",
+      "normal_bettors": 13,
+      "win_streak": 7
+    },
+    "sum": 121608267,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26144
+    },
+    "date": 1790893722726,
+    "duration": 100006,
+    "left": {
+      "bet_amount": 1653231,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Comrade athena",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2158723,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Goddman batman",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 121609029,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
