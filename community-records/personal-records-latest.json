@@ -467602,5 +467602,113 @@
     "sum": 121633851,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39896
+    },
+    "date": 1790874881928,
+    "duration": 160208,
+    "left": {
+      "bet_amount": 7606901,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Vanilla h",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1013649,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tamara",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 121613689,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24382
+    },
+    "date": 1790875452328,
+    "duration": 59998,
+    "left": {
+      "bet_amount": 1207050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Destrud nero",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4364851,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Master johann",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 121618978,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30893
+    },
+    "date": 1790875668525,
+    "duration": 156197,
+    "left": {
+      "bet_amount": 1139241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Team reimisen",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1943537,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Ako tamaki",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 121705401,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1804
+    },
+    "date": 1790875818726,
+    "duration": 84197,
+    "left": {
+      "bet_amount": 1098134,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Ickybod clay te",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3552260,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Ryogi_exvs",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 121674508,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
