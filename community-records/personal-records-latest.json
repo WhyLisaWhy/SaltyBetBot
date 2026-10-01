@@ -468520,5 +468520,113 @@
     "sum": 34401,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790882301926,
+    "duration": 282399,
+    "left": {
+      "bet_amount": 269368,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Jet jaguar",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 330966,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ginyu (son goku)",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2806
+    },
+    "date": 1790882554131,
+    "duration": 200205,
+    "left": {
+      "bet_amount": 58690,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ogre",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 601736,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Archer",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 2806,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790882730127,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 289338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Metal sonic",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 356675,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ayame_ai",
+      "normal_bettors": 24,
+      "win_streak": 11
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2802
+    },
+    "date": 1790882954326,
+    "duration": 159998,
+    "left": {
+      "bet_amount": 590803,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Frank west",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 139809,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hachune miku",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 2802,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
