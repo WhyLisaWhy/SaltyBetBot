@@ -462609,5 +462609,32 @@
     "sum": 2261,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22892
+    },
+    "date": 1790841719525,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 5021962,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Nightmare the jujin lv3",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1376917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Acirno_3.5",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 121565807,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
