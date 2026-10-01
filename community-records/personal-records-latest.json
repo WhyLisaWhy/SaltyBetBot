@@ -462582,5 +462582,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2261
+    },
+    "date": 1790838973726,
+    "duration": 292602,
+    "left": {
+      "bet_amount": 651795,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Ultraseven",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 266592,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Yuki ex EX3",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 2261,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
