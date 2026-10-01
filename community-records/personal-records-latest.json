@@ -463203,5 +463203,140 @@
     "sum": 121417699,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6549
+    },
+    "date": 1790845440327,
+    "duration": 113998,
+    "left": {
+      "bet_amount": 4694458,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Wolverine 71113 i",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1116197,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Takiyasya",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "sum": 121445532,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20542
+    },
+    "date": 1790845610524,
+    "duration": 113995,
+    "left": {
+      "bet_amount": 1093093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ren-kun",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1606974,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Arietta",
+      "normal_bettors": 12,
+      "win_streak": 5
+    },
+    "sum": 121447087,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16825
+    },
+    "date": 1790845846728,
+    "duration": 176201,
+    "left": {
+      "bet_amount": 1981725,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Yamazaki 71113",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1381914,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yugo ogami",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 121426545,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35558
+    },
+    "date": 1790846012928,
+    "duration": 112201,
+    "left": {
+      "bet_amount": 1174114,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rick",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2170578,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Manbou bbb",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 121409720,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20473
+    },
+    "date": 1790846142926,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 1821535,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Isabeau",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2577739,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Thau machine",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 121374162,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
