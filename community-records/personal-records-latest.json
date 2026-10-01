@@ -462042,5 +462042,140 @@
     "sum": 121540693,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5551
+    },
+    "date": 1790834523728,
+    "duration": 115985,
+    "left": {
+      "bet_amount": 1092485,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Elirin",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2881746,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Rainbow dash",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "sum": 121540692,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25441
+    },
+    "date": 1790834679925,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 1909177,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "May star",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2026512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Maria EX2",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121542793,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20053
+    },
+    "date": 1790834849927,
+    "duration": 109991,
+    "left": {
+      "bet_amount": 5156570,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Akuma",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358453,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Andy bogard rb",
+      "normal_bettors": 8,
+      "win_streak": -8
+    },
+    "sum": 121569443,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27278
+    },
+    "date": 1790835090148,
+    "duration": 180017,
+    "left": {
+      "bet_amount": 969964,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hong krizalid",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2717606,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Evil ken",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 121574706,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18687
+    },
+    "date": 1790835290326,
+    "duration": 139992,
+    "left": {
+      "bet_amount": 1695239,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Allen",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1864128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Rock EX",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 121547428,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
