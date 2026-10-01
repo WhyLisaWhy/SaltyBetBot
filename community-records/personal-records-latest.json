@@ -463473,5 +463473,113 @@
     "sum": 121339920,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11802
+    },
+    "date": 1790847303930,
+    "duration": 126004,
+    "left": {
+      "bet_amount": 1081631,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucy diclonius",
+      "normal_bettors": 4,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5900182,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Kaguya.luna",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 121345300,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790847494129,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 3841910,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Haiji EX8",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1300982,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Chartette",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 121347460,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10762
+    },
+    "date": 1790847700326,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 4385612,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Diablo",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 926761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pein nzc",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 121347461,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19630
+    },
+    "date": 1790847824328,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 2499246,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Blanka svc chaos",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1674416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Dhaos PS",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121336699,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
