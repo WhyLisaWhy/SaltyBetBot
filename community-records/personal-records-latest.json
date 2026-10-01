@@ -465496,5 +465496,86 @@
     "sum": 2205,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2785
+    },
+    "date": 1790860844725,
+    "duration": 209996,
+    "left": {
+      "bet_amount": 376561,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Dr. nucleus",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 253466,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "M-gato EX7",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "sum": 2785,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790861050925,
+    "duration": 146002,
+    "left": {
+      "bet_amount": 258989,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Orochi akiha",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 279319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Black witch eva",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3212
+    },
+    "date": 1790861355125,
+    "duration": 250200,
+    "left": {
+      "bet_amount": 166121,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Evil ryu sf3",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 489884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Zabi",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 3212,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
