@@ -461799,5 +461799,140 @@
     "sum": 121612414,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16926
+    },
+    "date": 1790832826330,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 1723921,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Asuka EX2",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2773094,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Mizuka nagamori",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 121615744,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13569
+    },
+    "date": 1790833026527,
+    "duration": 139994,
+    "left": {
+      "bet_amount": 1244653,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Urban champion",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3408805,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Zeruel",
+      "normal_bettors": 22,
+      "win_streak": -5
+    },
+    "sum": 121598818,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5873
+    },
+    "date": 1790833160728,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 4518516,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Kazuya akatsuki +q",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1312757,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hamusu ix",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 121585249,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32936
+    },
+    "date": 1790833392925,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 3613539,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mizuki",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 948434,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ashimiya_yu",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 121586954,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21986
+    },
+    "date": 1790833596928,
+    "duration": 144001,
+    "left": {
+      "bet_amount": 1757076,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Yamisaka kureha",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2174454,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kucheat",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 121554018,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
