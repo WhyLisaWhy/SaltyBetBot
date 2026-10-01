@@ -460611,5 +460611,167 @@
     "sum": 121729134,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790825770726,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 2169666,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Beryl benito",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2681046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "M.bison mk2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 121736066,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31407
+    },
+    "date": 1790825920929,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 1914021,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Double-a",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1988073,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Koryuoh",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 121736068,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45976
+    },
+    "date": 1790826040926,
+    "duration": 65998,
+    "left": {
+      "bet_amount": 2204233,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Soldier ms",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1983177,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Kratos",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 121765835,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32080
+    },
+    "date": 1790826221147,
+    "duration": 120015,
+    "left": {
+      "bet_amount": 2785692,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Mulan",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1578230,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Tokisada shirou amakusa",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121719859,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26076
+    },
+    "date": 1790826391329,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 3283729,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Arcueid_brunestud",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1482629,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Spinal ki2",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 121687779,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7910
+    },
+    "date": 1790826521329,
+    "duration": 70004,
+    "left": {
+      "bet_amount": 963544,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kagura mutsuki",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5114103,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Gaisei",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 121699460,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
