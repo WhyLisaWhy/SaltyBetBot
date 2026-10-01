@@ -469519,5 +469519,140 @@
     "sum": 121601840,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12373
+    },
+    "date": 1790890376124,
+    "duration": 154000,
+    "left": {
+      "bet_amount": 3135824,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Puppetmon",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1468108,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jack frost",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121619116,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790890592329,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 3327674,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Duo lon pp",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2974044,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Jago ki2",
+      "normal_bettors": 15,
+      "win_streak": -11
+    },
+    "sum": 121624886,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4038
+    },
+    "date": 1790890816527,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 827230,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Made multi",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3805386,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Elpizo",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 121624887,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33905
+    },
+    "date": 1790890942526,
+    "duration": 70003,
+    "left": {
+      "bet_amount": 1950725,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Kamitsurugi",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2746473,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Ken svc chaos",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 121643373,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25630
+    },
+    "date": 1790891148728,
+    "duration": 145996,
+    "left": {
+      "bet_amount": 2500884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Super3 goku EX",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2562618,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Darkmatter",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 121609468,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
