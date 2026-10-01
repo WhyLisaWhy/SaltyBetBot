@@ -460476,5 +460476,140 @@
     "sum": 121689697,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2887
+    },
+    "date": 1790824837926,
+    "duration": 159995,
+    "left": {
+      "bet_amount": 1209693,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Burner man",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5698605,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Ananzi",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "sum": 121709971,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24051
+    },
+    "date": 1790824994128,
+    "duration": 95989,
+    "left": {
+      "bet_amount": 5664968,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Magneto_cota",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1221161,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Saisyu kusanagi",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 121710584,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17295
+    },
+    "date": 1790825218333,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 2487023,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pill",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1677842,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "1st gundam",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 121715747,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6425
+    },
+    "date": 1790825384327,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 4525136,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Keine kamishirasawa(keln)",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1268572,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Neo Sonic",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121727335,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19973
+    },
+    "date": 1790825560527,
+    "duration": 115991,
+    "left": {
+      "bet_amount": 1253543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nu 13",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3592134,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Felix the cat EX3",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 121729134,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
