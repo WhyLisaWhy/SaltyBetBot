@@ -464472,5 +464472,140 @@
     "sum": 121358824,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30769
+    },
+    "date": 1790853492930,
+    "duration": 123994,
+    "left": {
+      "bet_amount": 1434924,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Brogal",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2605443,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Special edition rock",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 121355553,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25855
+    },
+    "date": 1790853683126,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 1464799,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "True lotus master",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2780637,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Elion",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 121324784,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 55462
+    },
+    "date": 1790853835130,
+    "duration": 95959,
+    "left": {
+      "bet_amount": 1455743,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Rusty",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2177235,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Franco bash rb2",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 121373014,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20686
+    },
+    "date": 1790854029327,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 2149230,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Seven",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1552955,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Another igniz EX2",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 121317552,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18714
+    },
+    "date": 1790854139333,
+    "duration": 50003,
+    "left": {
+      "bet_amount": 1289394,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "God alosson",
+      "normal_bettors": 6,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8000167,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Kutsuna yui ex",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 121332357,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
