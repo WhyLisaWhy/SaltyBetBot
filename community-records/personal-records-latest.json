@@ -465577,5 +465577,86 @@
     "sum": 3212,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12505
+    },
+    "date": 1790861547331,
+    "duration": 132004,
+    "left": {
+      "bet_amount": 437388,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Bobby drake",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 677799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "M-gato EX7",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "sum": 12505,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31345
+    },
+    "date": 1790861797525,
+    "duration": 190198,
+    "left": {
+      "bet_amount": 910894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Orochi akiha",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 528389,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Evil ryu sf3",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 31345,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790861936125,
+    "duration": 78394,
+    "left": {
+      "bet_amount": 727755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Bobby drake",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 759586,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Evil ryu sf3",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
