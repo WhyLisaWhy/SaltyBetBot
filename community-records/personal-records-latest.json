@@ -465147,5 +465147,111 @@
     "sum": 121663433,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15706
+    },
+    "date": 1790857930528,
+    "duration": 154200,
+    "left": {
+      "bet_amount": 1194426,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tatami",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7177616,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Tora-san",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 121667866,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22023
+    },
+    "date": 1790858116527,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 3025829,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Bruce banner",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1585088,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sceptile",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121670474,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29205
+    },
+    "date": 1790858310730,
+    "duration": 139994,
+    "left": {
+      "bet_amount": 1415085,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shen woo-kofm",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4091401,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Maxim kischine",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 121711939,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1790858422128,
+    "duration": 51401,
+    "left": {
+      "bet_amount": 38473,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Juggernaut msh",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 490693,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mr. providence",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 11030,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
