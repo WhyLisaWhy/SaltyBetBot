@@ -467062,5 +467062,113 @@
     "sum": 121690625,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3805
+    },
+    "date": 1790871567325,
+    "duration": 170202,
+    "left": {
+      "bet_amount": 5545417,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Lord beerus",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1125512,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "!!!",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121668360,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24265
+    },
+    "date": 1790871707327,
+    "duration": 86005,
+    "left": {
+      "bet_amount": 1397551,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Pietro",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4284455,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Farah oersted",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121669132,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7893
+    },
+    "date": 1790871873525,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 5929891,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Proto bn3",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1410786,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Supreme gogeta",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 121644867,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12620
+    },
+    "date": 1790872127727,
+    "duration": 200156,
+    "left": {
+      "bet_amount": 2432325,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Space zero",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1375856,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Namazu",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 121646743,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
