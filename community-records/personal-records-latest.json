@@ -459747,5 +459747,140 @@
     "sum": 121865434,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2262
+    },
+    "date": 1790820292325,
+    "duration": 82002,
+    "left": {
+      "bet_amount": 1591515,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Xemnas",
+      "normal_bettors": 12,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4506990,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Imr-765-s_kisaragi",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 121874552,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28328
+    },
+    "date": 1790820496524,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 3867907,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Hisui",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1405739,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ultraman dyna",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 121872290,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26283
+    },
+    "date": 1790820652726,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 2109839,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Destoroyah ex",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2034123,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Orie valadier",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 121843962,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21405
+    },
+    "date": 1790820782725,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 1261295,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Alien metron",
+      "normal_bettors": 15,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3370988,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Tachibana ukyo",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 121817679,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25545
+    },
+    "date": 1790820952941,
+    "duration": 110214,
+    "left": {
+      "bet_amount": 1497565,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Akashima",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3339694,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Gyakutai-ojisan",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 121825638,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
