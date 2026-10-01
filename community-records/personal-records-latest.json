@@ -464877,5 +464877,140 @@
     "sum": 121528255,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790856166930,
+    "duration": 90004,
+    "left": {
+      "bet_amount": 6064656,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Joker paru",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1582907,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Medjed",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 121621976,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2168
+    },
+    "date": 1790856307129,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 4123713,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Omega red mvc2",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1429853,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Vegeta ssb",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 121621977,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25353
+    },
+    "date": 1790856499328,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 1898343,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Venom MMV",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1641303,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dr. robotnik",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 121622729,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41783
+    },
+    "date": 1790856663323,
+    "duration": 103995,
+    "left": {
+      "bet_amount": 4872419,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ger",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1270884,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "The grim reaper",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 121651607,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13251
+    },
+    "date": 1790856879528,
+    "duration": 155992,
+    "left": {
+      "bet_amount": 3358541,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Boss gustab m.",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1183922,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "A-jedah",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121609824,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
