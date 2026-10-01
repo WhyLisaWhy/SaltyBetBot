@@ -468331,5 +468331,140 @@
     "sum": 121602981,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790880280324,
+    "duration": 164198,
+    "left": {
+      "bet_amount": 51526,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ogre",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127544,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Rinrin",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790880610528,
+    "duration": 270198,
+    "left": {
+      "bet_amount": 83785,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Older hihumi",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133652,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Archer",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790880856726,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 158581,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Eri_hasumi",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 117148,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Metal sonic",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3621
+    },
+    "date": 1790881136928,
+    "duration": 224202,
+    "left": {
+      "bet_amount": 198568,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Juggy",
+      "normal_bettors": 31,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 139872,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ayame_ai",
+      "normal_bettors": 11,
+      "win_streak": 10
+    },
+    "sum": 3621,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8632
+    },
+    "date": 1790881367126,
+    "duration": 164202,
+    "left": {
+      "bet_amount": 169968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hoshi kage",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 211867,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Frank west",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 8632,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
