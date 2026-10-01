@@ -462636,5 +462636,140 @@
     "sum": 121565807,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34581
+    },
+    "date": 1790841859525,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 3466005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Svc athena sfg",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "General zod",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 121572056,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14702
+    },
+    "date": 1790842029724,
+    "duration": 114199,
+    "left": {
+      "bet_amount": 1406734,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "O. warrior",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1770257,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Jill valentine",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 121586114,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25568
+    },
+    "date": 1790842215726,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2259303,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Ottoh",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1544687,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider gaim",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121571412,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790842371925,
+    "duration": 99825,
+    "left": {
+      "bet_amount": 5724374,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Gelonimon",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1176351,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "D4kirby_r",
+      "normal_bettors": 5,
+      "win_streak": -5
+    },
+    "sum": 121608200,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24010
+    },
+    "date": 1790842526167,
+    "duration": 100240,
+    "left": {
+      "bet_amount": 1948478,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Katura hageteru",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1824590,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Masked rider ryuki(emanon)",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 121608201,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
