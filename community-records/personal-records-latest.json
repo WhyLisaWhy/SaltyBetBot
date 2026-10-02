@@ -476809,5 +476809,140 @@
     "sum": 121770402,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3282
+    },
+    "date": 1790941680743,
+    "duration": 88215,
+    "left": {
+      "bet_amount": 1797207,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Hinkamen",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6307379,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Slightly less unlucky glauber",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 121771136,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790941818725,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 1339189,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Medjed",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3957197,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "B.dosa",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 121772071,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11566
+    },
+    "date": 1790942103132,
+    "duration": 224195,
+    "left": {
+      "bet_amount": 1043922,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Foxy the pirate",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4004989,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Aladdin EX3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 121772072,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790942229125,
+    "duration": 65999,
+    "left": {
+      "bet_amount": 5549601,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Jeff howard",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 990156,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Darkrai",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 121760506,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21755
+    },
+    "date": 1790942389328,
+    "duration": 100196,
+    "left": {
+      "bet_amount": 1171111,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kenny",
+      "normal_bettors": 7,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2840278,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "New rubber soul",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 121760507,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
