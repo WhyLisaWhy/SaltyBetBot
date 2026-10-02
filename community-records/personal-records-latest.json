@@ -472300,5 +472300,140 @@
     "sum": 121600658,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25140
+    },
+    "date": 1790909170926,
+    "duration": 124197,
+    "left": {
+      "bet_amount": 3749592,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Ares",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1507232,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Rapid ayaka",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 121600661,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 45302
+    },
+    "date": 1790909316928,
+    "duration": 85987,
+    "left": {
+      "bet_amount": 1228908,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Otona suzu",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3427980,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Konoha mvc",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 121575521,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20879
+    },
+    "date": 1790909517125,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 2472208,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Lilith jjba",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1436846,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mizuka nagamori",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 121530219,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790909697334,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 1612902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Suiseiseki",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2750571,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ox",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "sum": 121509340,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16945
+    },
+    "date": 1790909887521,
+    "duration": 134195,
+    "left": {
+      "bet_amount": 3560445,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Lizardman",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2059504,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "A Bison",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 121509341,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
