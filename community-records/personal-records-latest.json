@@ -474973,5 +474973,113 @@
     "sum": 121823571,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12087
+    },
+    "date": 1790930205527,
+    "duration": 212001,
+    "left": {
+      "bet_amount": 1060406,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Reimu hm",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6256568,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Aqua mp",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 121823572,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 317
+    },
+    "date": 1790930339728,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1012856,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The noid",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7968234,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kazama",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 121811485,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5891
+    },
+    "date": 1790930495926,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 4679867,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Medusa",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1308404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Reimu-q",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 121811526,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6987
+    },
+    "date": 1790930685968,
+    "duration": 130042,
+    "left": {
+      "bet_amount": 1271784,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Big the cat",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3305915,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Extreme bardock",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 121805635,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
