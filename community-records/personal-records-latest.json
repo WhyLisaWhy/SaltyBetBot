@@ -471814,5 +471814,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2815
+    },
+    "date": 1790905566925,
+    "duration": 221003,
+    "left": {
+      "bet_amount": 175752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Syouzan matsuo",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 579709,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Dooj mustachio",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 2815,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22631
+    },
+    "date": 1790906266526,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 1234304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sorluska EX2",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3035034,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Chelsea tone",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 121794677,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1827
+    },
+    "date": 1790906436727,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 1416936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Roast_uncle",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2696065,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Furude rika",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 121772046,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18270
+    },
+    "date": 1790906552939,
+    "duration": 60214,
+    "left": {
+      "bet_amount": 3595324,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Namikiyo",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358677,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hugo sf3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 121773006,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
