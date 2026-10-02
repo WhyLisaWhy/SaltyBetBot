@@ -481534,5 +481534,140 @@
     "sum": 121713289,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31147
+    },
+    "date": 1790979441927,
+    "duration": 94202,
+    "left": {
+      "bet_amount": 2393981,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ghost rider",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6626441,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Raphael EX",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 121721626,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8670
+    },
+    "date": 1790979607923,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 4908271,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Link (kid)",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2776232,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Scream",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 121732827,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790979812131,
+    "duration": 150203,
+    "left": {
+      "bet_amount": 1764797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Axel 'hawk' stone",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6564032,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "More evil ryu sf3",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 121737723,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16098
+    },
+    "date": 1790979938126,
+    "duration": 66002,
+    "left": {
+      "bet_amount": 2150791,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "A Bison",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2098311,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Venus de milo",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 121737724,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790980088327,
+    "duration": 95987,
+    "left": {
+      "bet_amount": 3735657,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Eremes_guile",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1312473,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Wan-fu",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 121721626,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
