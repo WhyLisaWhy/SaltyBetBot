@@ -481831,5 +481831,140 @@
     "sum": 121703567,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39597
+    },
+    "date": 1790981165142,
+    "duration": 90015,
+    "left": {
+      "bet_amount": 3283022,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Ado",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1718610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Vanilla gouken",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 121704305,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31163
+    },
+    "date": 1790981371325,
+    "duration": 142203,
+    "left": {
+      "bet_amount": 2885983,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Ash crimson xiii",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1485368,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Lambdadelta",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 121664708,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24546
+    },
+    "date": 1790981521528,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 2131607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Grebam EX",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2659811,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Mario ssbb",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 121724012,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790981711522,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 7649937,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Koishi_b EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1190128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mr2.bon kure",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121743504,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4129
+    },
+    "date": 1790981875730,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 2783049,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Hamon kyo",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1090294,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mini zeroko",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 121743503,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
