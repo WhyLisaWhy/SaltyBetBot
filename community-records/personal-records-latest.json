@@ -480940,5 +480940,113 @@
     "sum": 2087,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5064
+    },
+    "date": 1790970483126,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 461596,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Ray mcdogall",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 201992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Takuma945 EX3",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 5064,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7256
+    },
+    "date": 1790970729324,
+    "duration": 190195,
+    "left": {
+      "bet_amount": 165358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Akari kamigishi EX3",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 711256,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Chako",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 7256,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790970973525,
+    "duration": 190120,
+    "left": {
+      "bet_amount": 603178,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Young joseph",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 398742,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "00 bigbear",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2573
+    },
+    "date": 1790971133724,
+    "duration": 104198,
+    "left": {
+      "bet_amount": 543306,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Ray mcdogall",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 307811,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Akari kamigishi EX3",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 2573,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
