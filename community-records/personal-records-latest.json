@@ -480616,5 +480616,59 @@
     "sum": 121816456,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27192
+    },
+    "date": 1790967883327,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 4434573,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Joker_tohno",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2066586,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Applejack m",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 121789756,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2813
+    },
+    "date": 1790968076727,
+    "duration": 133406,
+    "left": {
+      "bet_amount": 3111481,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Dr. baldhead",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1552166,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Andy bogard ff1",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 121762564,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
