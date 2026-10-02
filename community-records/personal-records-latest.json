@@ -475378,5 +475378,140 @@
     "sum": 121769040,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4089
+    },
+    "date": 1790932653526,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 1191382,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Furude rika",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3547703,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Son goku EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 121747264,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32688
+    },
+    "date": 1790932783728,
+    "duration": 70201,
+    "left": {
+      "bet_amount": 2134764,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Kurorim",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2544070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jet",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 121743175,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17564
+    },
+    "date": 1790932959728,
+    "duration": 116003,
+    "left": {
+      "bet_amount": 924740,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Happy.valentine",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5195694,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Tohru adachi",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 121781543,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24459
+    },
+    "date": 1790933143943,
+    "duration": 130019,
+    "left": {
+      "bet_amount": 1544456,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pulse-k",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2165092,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Iceman cota",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 121763979,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22413
+    },
+    "date": 1790933310126,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 1230967,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kyaga-hell",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3014519,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Millia",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 121739520,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
