@@ -477619,5 +477619,113 @@
     "sum": 121853248,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790947261138,
+    "duration": 130214,
+    "left": {
+      "bet_amount": 43430,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Waaaaaaaaaah",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125221,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Shizuka",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2082
+    },
+    "date": 1790947487328,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 41565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nimuge president",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 174067,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Custom ssfiv abel",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 2082,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2574
+    },
+    "date": 1790947691526,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 48913,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hoppy",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206477,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Batman Normal",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 2574,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3177
+    },
+    "date": 1790947933729,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 214328,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Mizukami nanase",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Max pq",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 3177,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
