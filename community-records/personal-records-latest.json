@@ -472057,5 +472057,113 @@
     "sum": 121685593,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36984
+    },
+    "date": 1790907529526,
+    "duration": 139994,
+    "left": {
+      "bet_amount": 1238850,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Keel",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2928134,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ger",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 121701617,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21840
+    },
+    "date": 1790907683728,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 3114052,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Yuri_sv",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3151505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Cassius bright",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 121664633,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2942
+    },
+    "date": 1790907863952,
+    "duration": 110228,
+    "left": {
+      "bet_amount": 8864664,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Magneto_cota",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1443632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chie satonaka",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 121642793,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43816
+    },
+    "date": 1790908023924,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 5043892,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Zenia valov",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1532661,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kongara",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 121643272,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
