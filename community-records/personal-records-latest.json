@@ -481075,5 +481075,59 @@
     "sum": 4024,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46172
+    },
+    "date": 1790976467525,
+    "duration": 193990,
+    "left": {
+      "bet_amount": 1960054,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 6,
+      "name": "Cure black",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1491843,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Naitou ex",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 121769757,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5894
+    },
+    "date": 1790976637726,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 1350547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dongon",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4692253,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Justice",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 121723585,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
