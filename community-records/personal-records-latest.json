@@ -471517,5 +471517,113 @@
     "sum": 7066,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9993
+    },
+    "date": 1790903172323,
+    "duration": 160197,
+    "left": {
+      "bet_amount": 289376,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shiranui mai",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 72386,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hatchiyack",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 9993,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790903372326,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 163037,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Sineba",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 219002,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Xaphan",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2696
+    },
+    "date": 1790903498526,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 208486,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dooj mustachio",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 253661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Down",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 2696,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5935
+    },
+    "date": 1790903678525,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 404495,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "White rbdm-kof",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 90496,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dlanor a. knox",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 5935,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
