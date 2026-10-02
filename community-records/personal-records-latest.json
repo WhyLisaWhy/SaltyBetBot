@@ -474946,5 +474946,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790929929328,
+    "duration": 130003,
+    "left": {
+      "bet_amount": 1163724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dsp's dan",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3715186,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Chichi",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121823571,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
