@@ -477727,5 +477727,113 @@
     "sum": 3177,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790948127726,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 119833,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Jill valentine",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 216442,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Birdie",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4314
+    },
+    "date": 1790948373929,
+    "duration": 190000,
+    "left": {
+      "bet_amount": 307406,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Lililen",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 47200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Signum",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 4314,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4968
+    },
+    "date": 1790948580127,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 255345,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Gohan z2",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128796,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jackie chan",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "sum": 4968,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7427
+    },
+    "date": 1790948748329,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 349890,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shin vega",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 94025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dk",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 7427,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
