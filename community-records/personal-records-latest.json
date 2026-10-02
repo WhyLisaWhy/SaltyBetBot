@@ -480211,5 +480211,113 @@
     "sum": 121856055,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40456
+    },
+    "date": 1790965199328,
+    "duration": 114204,
+    "left": {
+      "bet_amount": 1709816,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Alien baltan 6th",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2251143,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "M-lancer",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 121861799,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17429
+    },
+    "date": 1790965449333,
+    "duration": 190005,
+    "left": {
+      "bet_amount": 1636037,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Petshop",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4384355,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Sogiita gunha",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 121891985,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22827
+    },
+    "date": 1790965735728,
+    "duration": 226197,
+    "left": {
+      "bet_amount": 3428874,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Nests' clone kyo army",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1439031,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Syuren kano",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 121938200,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1599
+    },
+    "date": 1790965895723,
+    "duration": 99989,
+    "left": {
+      "bet_amount": 3257717,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Giant mech hisui",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1904965,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Alice smt",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 121915373,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
