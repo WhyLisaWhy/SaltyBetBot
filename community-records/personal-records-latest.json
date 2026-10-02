@@ -473326,5 +473326,140 @@
     "sum": 121673885,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26988
+    },
+    "date": 1790915672133,
+    "duration": 180186,
+    "left": {
+      "bet_amount": 3386162,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Morgiana EX2",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1274231,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Knyacki",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 121652066,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34035
+    },
+    "date": 1790915856324,
+    "duration": 124089,
+    "left": {
+      "bet_amount": 1466041,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "F.o.e._meso",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3790438,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Krookodile",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 121662142,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18309
+    },
+    "date": 1790915986325,
+    "duration": 63995,
+    "left": {
+      "bet_amount": 7935508,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Primeus",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1235873,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chaos hiryu",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 121748143,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3116
+    },
+    "date": 1790916178527,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 3192063,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Veku",
+      "normal_bettors": 25,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1541275,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Lisa",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 121750988,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29020
+    },
+    "date": 1790916278529,
+    "duration": 76006,
+    "left": {
+      "bet_amount": 1699506,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "K-core",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2691259,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "0.5 a presses",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 121747872,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
