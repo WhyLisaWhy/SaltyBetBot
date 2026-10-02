@@ -471409,5 +471409,113 @@
     "sum": 121761099,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37295
+    },
+    "date": 1790901890925,
+    "duration": 175800,
+    "left": {
+      "bet_amount": 3057343,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Panzerkampfwagen iv",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1800112,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rufuu ix",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 121769318,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790902405731,
+    "duration": 246206,
+    "left": {
+      "bet_amount": 118056,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Asagi EX3",
+      "normal_bettors": 25,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 56327,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Lady",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2280
+    },
+    "date": 1790902721928,
+    "duration": 256203,
+    "left": {
+      "bet_amount": 72951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Belial",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157911,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Drdoom",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 2280,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7066
+    },
+    "date": 1790902952124,
+    "duration": 176196,
+    "left": {
+      "bet_amount": 96402,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Swalot",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225666,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Syouzan matsuo",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 7066,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
