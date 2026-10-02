@@ -478834,5 +478834,86 @@
     "sum": 121805046,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18853
+    },
+    "date": 1790956306327,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 1847952,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Maximum maxime",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2209028,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Mildred avallone",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 121787171,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38268
+    },
+    "date": 1790956510522,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 2272288,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Hawkeye sd",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1437991,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Regalo",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 121768318,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3043
+    },
+    "date": 1790956666526,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 3098647,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Ox",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1002869,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hel'lauren",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 121730050,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
