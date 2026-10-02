@@ -471706,5 +471706,113 @@
     "sum": 12224,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15017
+    },
+    "date": 1790904633328,
+    "duration": 134002,
+    "left": {
+      "bet_amount": 56509,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Xaphan",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 687063,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dooj mustachio",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 15017,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16226
+    },
+    "date": 1790904855528,
+    "duration": 166202,
+    "left": {
+      "bet_amount": 665235,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "White rbdm-kof",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 198517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Tomitake jirou",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 16226,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20953
+    },
+    "date": 1790905075732,
+    "duration": 156206,
+    "left": {
+      "bet_amount": 769831,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Asagi EX3",
+      "normal_bettors": 27,
+      "win_streak": 12
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 90837,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Syouzan matsuo",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 20953,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790905285927,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 513789,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Dooj mustachio",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 420277,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "White rbdm-kof",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
