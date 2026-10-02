@@ -474784,5 +474784,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2353
+    },
+    "date": 1790926338526,
+    "duration": 115985,
+    "left": {
+      "bet_amount": 69840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Koneko EX",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 565933,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Rbff master geese",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 2353,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2643
+    },
+    "date": 1790926758934,
+    "duration": 350409,
+    "left": {
+      "bet_amount": 223696,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Magic nanaya+ huunsaiki ex",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 448275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Linne",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 2643,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3955
+    },
+    "date": 1790927115129,
+    "duration": 300202,
+    "left": {
+      "bet_amount": 561545,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Sailor moon kof",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 243689,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Einsatz",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 3955,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
