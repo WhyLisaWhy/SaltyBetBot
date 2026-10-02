@@ -474001,5 +474001,113 @@
     "sum": 121789210,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24044
+    },
+    "date": 1790920229728,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1851047,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Silver surfer",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2248779,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Poppy",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 121767935,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28950
+    },
+    "date": 1790920463931,
+    "duration": 174204,
+    "left": {
+      "bet_amount": 1407965,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Marisa,k",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3759917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Zz_gundam",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "sum": 121743891,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15667
+    },
+    "date": 1790920633977,
+    "duration": 110052,
+    "left": {
+      "bet_amount": 2043691,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Thanos",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2092729,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Briaaaaaaaaaaaaaaaaan ex",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 121754649,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42850
+    },
+    "date": 1790920820126,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 2613576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Beatrice",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2827479,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Shiina noriko",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 121738982,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
