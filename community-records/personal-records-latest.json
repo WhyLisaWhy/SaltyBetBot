@@ -473596,5 +473596,113 @@
     "sum": 121729529,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21329
+    },
+    "date": 1790917415525,
+    "duration": 182199,
+    "left": {
+      "bet_amount": 3205233,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mvc2 ciel",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1783441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ako tamaki",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 121729530,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790917611523,
+    "duration": 141996,
+    "left": {
+      "bet_amount": 1407542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rosemary",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5161999,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Necorsair",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 121767410,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790917785725,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 3573780,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Natsuki",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1065492,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zinc",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 121767411,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24863
+    },
+    "date": 1790917935925,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 1771791,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tenjou-sin",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3349537,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Gradriel",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 121767412,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
