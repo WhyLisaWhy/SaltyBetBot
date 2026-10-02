@@ -481129,5 +481129,113 @@
     "sum": 121723585,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33411
+    },
+    "date": 1790976807924,
+    "duration": 114198,
+    "left": {
+      "bet_amount": 3349206,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Le policier",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1609322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Android 18 EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 121717691,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25958
+    },
+    "date": 1790977014122,
+    "duration": 150196,
+    "left": {
+      "bet_amount": 2075544,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Gin ichimaru",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1815728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Alt(hana-ai)",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121684280,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790977218128,
+    "duration": 150003,
+    "left": {
+      "bet_amount": 1826518,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Pielle",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2074545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kamaitachi nwa",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 121658322,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790977414325,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 5139144,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ho seong",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1202733,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yoko EX",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 121658321,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
