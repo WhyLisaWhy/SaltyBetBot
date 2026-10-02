@@ -477511,5 +477511,113 @@
     "sum": 121809329,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12764
+    },
+    "date": 1790946390529,
+    "duration": 166202,
+    "left": {
+      "bet_amount": 3479960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Tsunade EX3",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1341404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Nacht_jaeger1.29",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 121775994,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38239
+    },
+    "date": 1790946524540,
+    "duration": 80014,
+    "left": {
+      "bet_amount": 1504263,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Black widow",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2918545,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Pulse-k",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 121780897,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790946676725,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 3614809,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Monk EX3",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1234054,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mgr",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 121853249,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790946864125,
+    "duration": 127399,
+    "left": {
+      "bet_amount": 2831037,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Luise",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1249882,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Carl johnson",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 121853248,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
