@@ -479698,5 +479698,113 @@
     "sum": 121851973,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16477
+    },
+    "date": 1790961674533,
+    "duration": 136206,
+    "left": {
+      "bet_amount": 1157941,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Athena EX3",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3291957,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Unber",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 121893281,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1577
+    },
+    "date": 1790961854527,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 8627025,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Ah owatta........!",
+      "normal_bettors": 27,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1162350,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Genyew",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 121876804,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790962050724,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 3460831,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "New mechagodzilla",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1473002,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Myon gitsune",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 121877017,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30679
+    },
+    "date": 1790962254931,
+    "duration": 144205,
+    "left": {
+      "bet_amount": 1156109,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Scorpion EX3",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6075977,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "VanillaIce",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 121877016,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
