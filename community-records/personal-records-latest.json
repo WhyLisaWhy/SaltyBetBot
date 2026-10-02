@@ -471625,5 +471625,86 @@
     "sum": 5935,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7244
+    },
+    "date": 1790903898737,
+    "duration": 166011,
+    "left": {
+      "bet_amount": 71600,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 485080,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Tomitake jirou",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 7244,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8298
+    },
+    "date": 1790904179125,
+    "duration": 226196,
+    "left": {
+      "bet_amount": 414637,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Asagi EX3",
+      "normal_bettors": 20,
+      "win_streak": 11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 200059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Belial",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 8298,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12224
+    },
+    "date": 1790904439141,
+    "duration": 206013,
+    "left": {
+      "bet_amount": 549487,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Syouzan matsuo",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hatchiyack",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 12224,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
