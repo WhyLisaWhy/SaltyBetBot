@@ -472624,5 +472624,113 @@
     "sum": 121503682,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19528
+    },
+    "date": 1790911140531,
+    "duration": 86155,
+    "left": {
+      "bet_amount": 2190205,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Ryo fu",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1567144,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Aegis gundam",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 121490249,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3263
+    },
+    "date": 1790911314525,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 3605882,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Nanaya_reaver",
+      "normal_bettors": 22,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260562,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Bs terriermon",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 121517205,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15890
+    },
+    "date": 1790911474734,
+    "duration": 104005,
+    "left": {
+      "bet_amount": 4159938,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Killa and ren",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1267988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Neo amakusa",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 121513942,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18442
+    },
+    "date": 1790911664929,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 1386846,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Goro",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2725310,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Makoto EX3",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 121518767,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
