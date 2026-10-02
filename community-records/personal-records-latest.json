@@ -478024,5 +478024,59 @@
     "sum": 21404,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19224
+    },
+    "date": 1790951232329,
+    "duration": 154202,
+    "left": {
+      "bet_amount": 1499692,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kunio kun",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2438492,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Goketuji",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 121893253,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20982
+    },
+    "date": 1790951382339,
+    "duration": 93918,
+    "left": {
+      "bet_amount": 1278562,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Byakki s3",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2781039,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Touko matsudaira",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 121874029,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
