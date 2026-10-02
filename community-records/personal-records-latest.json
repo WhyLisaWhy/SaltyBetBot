@@ -480319,5 +480319,140 @@
     "sum": 121915373,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24467
+    },
+    "date": 1790966065926,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 2761307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Flygon",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2916856,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Reas",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 121916308,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790966256122,
+    "duration": 130194,
+    "left": {
+      "bet_amount": 2762010,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Perfect cell",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3231163,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Li xiangfei",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 121891841,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22415
+    },
+    "date": 1790966406123,
+    "duration": 99987,
+    "left": {
+      "bet_amount": 1752120,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Akuma cvs2",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3443196,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Karma_0.85",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 121891840,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29413
+    },
+    "date": 1790966586334,
+    "duration": 120208,
+    "left": {
+      "bet_amount": 1469424,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Johann-fs",
+      "normal_bettors": 7,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4318801,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Maximune",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 121903173,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33837
+    },
+    "date": 1790966746325,
+    "duration": 99986,
+    "left": {
+      "bet_amount": 2711360,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Belmont trusdale",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2034145,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Makoto nanaya",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 121913113,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
