@@ -481048,5 +481048,32 @@
     "sum": 2573,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4024
+    },
+    "date": 1790971464128,
+    "duration": 274399,
+    "left": {
+      "bet_amount": 479343,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Young joseph",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 411860,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Ray mcdogall",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 4024,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
