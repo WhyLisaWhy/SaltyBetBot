@@ -478078,5 +478078,113 @@
     "sum": 121874029,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20706
+    },
+    "date": 1790951814727,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 1074860,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nukesaku EX2",
+      "normal_bettors": 8,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2569097,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Lf2 - archmage",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 121883604,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29567
+    },
+    "date": 1790951974932,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 4354851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Another igniz scarlet",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1144629,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Master krauser",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 121892198,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29489
+    },
+    "date": 1790952154933,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 1765897,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Silhouette",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 891099,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ryumaou",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121899917,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29350
+    },
+    "date": 1790952329130,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 3490562,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Pop",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1111629,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ex snow",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 121870428,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
