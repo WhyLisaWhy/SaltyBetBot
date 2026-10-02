@@ -474271,5 +474271,140 @@
     "sum": 121745103,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25635
+    },
+    "date": 1790922101126,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 2601122,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hugo svc chaos",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1823092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Neco-arc chaos ac",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 121733217,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790922291327,
+    "duration": 124197,
+    "left": {
+      "bet_amount": 5160961,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Snes riesz",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1056226,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kamek EX3",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 121751009,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18867
+    },
+    "date": 1790922437325,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 1112997,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tf2 - sniper",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6095941,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Abyss form 1",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 121751010,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23440
+    },
+    "date": 1790922577526,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 2896319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "778v",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1424748,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Dinozord EX",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 121754445,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39030
+    },
+    "date": 1790922747725,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 6361767,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Shanghai_ai",
+      "normal_bettors": 25,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1002299,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bowser smrpg",
+      "normal_bettors": 7,
+      "win_streak": -7
+    },
+    "sum": 121801325,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
