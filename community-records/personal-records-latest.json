@@ -481399,5 +481399,140 @@
     "sum": 121665530,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22542
+    },
+    "date": 1790978575146,
+    "duration": 74023,
+    "left": {
+      "bet_amount": 3214211,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Balrog EX4",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2771588,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Fu shun",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 121642306,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29001
+    },
+    "date": 1790978745324,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 4332158,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Silversamurai",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2348127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Insect",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 121668238,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18206
+    },
+    "date": 1790978917324,
+    "duration": 115994,
+    "left": {
+      "bet_amount": 4482363,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Wing.0",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353831,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Raphael 0d",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "sum": 121639237,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23721
+    },
+    "date": 1790979091525,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 2052880,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mouri alice",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6003217,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Millia",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 121644714,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15512
+    },
+    "date": 1790979287725,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 4469404,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Sakuya.s.brando",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2410372,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Yurung",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 121713289,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
