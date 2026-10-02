@@ -477835,5 +477835,86 @@
     "sum": 7427,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790948964525,
+    "duration": 156199,
+    "left": {
+      "bet_amount": 256230,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shizuka",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225826,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Custom ssfiv abel",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2908
+    },
+    "date": 1790949170527,
+    "duration": 145997,
+    "left": {
+      "bet_amount": 483556,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Batman Normal",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 109007,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Max pq",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 2908,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790949454928,
+    "duration": 230199,
+    "left": {
+      "bet_amount": 365442,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Jill valentine",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 238310,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Lililen",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
