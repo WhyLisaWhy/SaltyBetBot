@@ -480832,5 +480832,113 @@
     "sum": 4797,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790969762725,
+    "duration": 176204,
+    "left": {
+      "bet_amount": 482583,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Hirasaka hatsune-if",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 239683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Akari kamigishi EX3",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790969936730,
+    "duration": 114005,
+    "left": {
+      "bet_amount": 94153,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Serio",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 516656,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Chako",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1832
+    },
+    "date": 1790970132925,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 82895,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sion_wrestling",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 595642,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Young joseph",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 1832,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2087
+    },
+    "date": 1790970282965,
+    "duration": 96040,
+    "left": {
+      "bet_amount": 310574,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "00 bigbear",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 445917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Timothy hawk",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 2087,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
