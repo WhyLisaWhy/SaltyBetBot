@@ -473461,5 +473461,140 @@
     "sum": 121747872,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15442
+    },
+    "date": 1790916442730,
+    "duration": 104204,
+    "left": {
+      "bet_amount": 2982421,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Takenaka hanbei",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1839119,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Tantanmen",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 121766003,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 769
+    },
+    "date": 1790916602727,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 2154233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rinnosuke morichika",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2785703,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "J.p.polnareff",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 121775477,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25472
+    },
+    "date": 1790916838925,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 3401523,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Piccolo EX3",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 955726,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Terry bogard",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 121776072,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21071
+    },
+    "date": 1790917023129,
+    "duration": 130005,
+    "left": {
+      "bet_amount": 3196670,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Gaogaigar",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1397754,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "The root pack",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 121750600,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790917173326,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 1467176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Abel ssf4",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4902677,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Imit ultraman",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 121729529,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
