@@ -474406,5 +474406,113 @@
     "sum": 121801325,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31506
+    },
+    "date": 1790922893727,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 1215241,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "S.sinclair",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2482773,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Jazu",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 121807437,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17199
+    },
+    "date": 1790923087928,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1484865,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Durian",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2779566,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Vritra",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 121870179,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1578
+    },
+    "date": 1790923208122,
+    "duration": 64195,
+    "left": {
+      "bet_amount": 3594019,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ox",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1537212,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Goryujin",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 121852980,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22251
+    },
+    "date": 1790923374127,
+    "duration": 109990,
+    "left": {
+      "bet_amount": 3273642,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Umbreon",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1195504,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Donkeykongjr EX",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 121853655,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
