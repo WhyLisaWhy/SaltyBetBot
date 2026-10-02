@@ -480076,5 +480076,140 @@
     "sum": 121846314,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 322
+    },
+    "date": 1790964378528,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 2913595,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Super sayajin 4",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1081928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Banjo & kazooie ex",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "sum": 121851160,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28246
+    },
+    "date": 1790964584726,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 4390319,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Dongdong'",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1400913,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Garou terry",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 121851280,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4795
+    },
+    "date": 1790964734929,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 4614610,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Black glass",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1739559,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rain mk2",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 121823034,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33715
+    },
+    "date": 1790964914929,
+    "duration": 126003,
+    "left": {
+      "bet_amount": 2878067,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gentarou and foze",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3074915,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Violent gunter",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 121824840,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3038
+    },
+    "date": 1790965025126,
+    "duration": 56000,
+    "left": {
+      "bet_amount": 4482400,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Pi_annie",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2367863,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ken master",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 121856055,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
