@@ -476350,5 +476350,140 @@
     "sum": 121633282,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23131
+    },
+    "date": 1790938888528,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1413799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Seiji_moribe",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5275452,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Bai-hu EX",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 121665823,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36276
+    },
+    "date": 1790939104729,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 1493976,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kenshin",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3854556,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Saizo ryo",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 121671995,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24838
+    },
+    "date": 1790939338927,
+    "duration": 174198,
+    "left": {
+      "bet_amount": 2304865,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "2b",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1609707,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Hanzou hattori",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 121763371,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9473
+    },
+    "date": 1790939468938,
+    "duration": 70011,
+    "left": {
+      "bet_amount": 1447635,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mageko",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5188771,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Magaki-kofm",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 121780533,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5111
+    },
+    "date": 1790939635127,
+    "duration": 106198,
+    "left": {
+      "bet_amount": 3774598,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Luke skywalker EX3",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1210601,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kanami",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 121783172,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
