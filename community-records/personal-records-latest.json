@@ -474919,5 +474919,32 @@
     "sum": 1922,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790927932937,
+    "duration": 191216,
+    "left": {
+      "bet_amount": 401675,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Rbff master geese",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 301532,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Einsatz",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
