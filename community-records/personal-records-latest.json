@@ -471139,5 +471139,140 @@
     "sum": 121760281,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4843
+    },
+    "date": 1790900241927,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 2102948,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hornet man",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1332973,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Galacta knight",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 121767604,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790900382127,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 6581098,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Power kung fu man",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1100446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vanilla ice",
+      "normal_bettors": 10,
+      "win_streak": 0
+    },
+    "sum": 121762761,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30777
+    },
+    "date": 1790900578327,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 2718041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kamen rider double",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1306206,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Mercenary tao",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 121762762,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27886
+    },
+    "date": 1790900692327,
+    "duration": 59981,
+    "left": {
+      "bet_amount": 4748305,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Index(maid) ver1.16",
+      "normal_bettors": 10,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3027944,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Yuka",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 121825331,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18415
+    },
+    "date": 1790900878524,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 2792758,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Ootani reimu",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1355384,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "K9999",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 121797445,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
