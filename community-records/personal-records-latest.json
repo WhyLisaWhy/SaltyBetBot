@@ -474865,5 +474865,59 @@
     "sum": 3955,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790927285334,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 133275,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hulk",
+      "normal_bettors": 7,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 554950,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 21,
+      "name": "Rbff master geese",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1922
+    },
+    "date": 1790927681530,
+    "duration": 336201,
+    "left": {
+      "bet_amount": 215738,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Linne",
+      "normal_bettors": 16,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 435383,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Einsatz",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 1922,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
