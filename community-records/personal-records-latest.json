@@ -479941,5 +479941,140 @@
     "sum": 121910247,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10354
+    },
+    "date": 1790963361728,
+    "duration": 199998,
+    "left": {
+      "bet_amount": 1055726,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "The italian stallion",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3856816,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Pocket Sakura",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 121884896,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23158
+    },
+    "date": 1790963507930,
+    "duration": 85991,
+    "left": {
+      "bet_amount": 1111700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6375207,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 17,
+      "name": "Omega god ryu",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 121887723,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1476
+    },
+    "date": 1790963852139,
+    "duration": 134013,
+    "left": {
+      "bet_amount": 3372297,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Real zeroko",
+      "normal_bettors": 25,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1059033,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Lucy",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 121891747,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 43957
+    },
+    "date": 1790964022324,
+    "duration": 103995,
+    "left": {
+      "bet_amount": 1330739,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Mizuki rashoujin",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1581592,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Sorluska",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 121890271,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21348
+    },
+    "date": 1790964172527,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 5453117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Krizalid-kofm-kbr",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1242547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sol",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 121846314,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
