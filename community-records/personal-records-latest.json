@@ -474514,5 +474514,86 @@
     "sum": 121853655,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10545
+    },
+    "date": 1790923617328,
+    "duration": 189001,
+    "left": {
+      "bet_amount": 5950609,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "M_utsuho",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1235858,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Psychic psycho",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 121831404,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790924080730,
+    "duration": 196204,
+    "left": {
+      "bet_amount": 102258,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Evil karin",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 51767,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Hulk",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790924344924,
+    "duration": 210196,
+    "left": {
+      "bet_amount": 112198,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Omega rugal 98",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 122288,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Hitosyura ex",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
