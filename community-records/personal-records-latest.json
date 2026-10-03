@@ -492226,5 +492226,140 @@
     "sum": 122784483,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25275
+    },
+    "date": 1791056858928,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 2525324,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "P-silver",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3308312,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ryoko(mugen)",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 122764490,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16622
+    },
+    "date": 1791057055129,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 1851737,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Younger link",
+      "normal_bettors": 8,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2348962,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "King koopa",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 122797274,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791057225329,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 940902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "K9999",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4731480,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sonozaki_mion",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 122780652,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 45594
+    },
+    "date": 1791057415328,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 2986414,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366965,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Vice xiii",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 122780653,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17919
+    },
+    "date": 1791057585530,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 1045703,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ken",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3369570,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Poppy",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 122801209,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
