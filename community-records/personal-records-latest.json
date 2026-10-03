@@ -490525,5 +490525,140 @@
     "sum": 122748638,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2889
+    },
+    "date": 1791046212528,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 1036643,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rouge the bat",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4597835,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Fang 0d",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122748640,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6214
+    },
+    "date": 1791046372727,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 701386,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Blossom jp",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4570899,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Tokisada shirou amakusa",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "sum": 122749291,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1186
+    },
+    "date": 1791046542729,
+    "duration": 114007,
+    "left": {
+      "bet_amount": 1515707,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Full kusya",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1709642,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 122750244,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 588
+    },
+    "date": 1791046738943,
+    "duration": 140221,
+    "left": {
+      "bet_amount": 1378576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Keine kamishirasawa(keln)",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2639502,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Riru",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 122749058,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31144
+    },
+    "date": 1791046909128,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 764055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Dan smith, the tyrant",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3552853,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Servant emiya",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 122750184,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
