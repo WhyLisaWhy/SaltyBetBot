@@ -492928,5 +492928,113 @@
     "sum": 122939749,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15444
+    },
+    "date": 1791061386529,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 1322852,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 9,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4124686,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Rin_b",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 122940018,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1526
+    },
+    "date": 1791061532728,
+    "duration": 86203,
+    "left": {
+      "bet_amount": 1223362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Doraemon EX3",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3506097,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Old robo-ky",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 122924574,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36352
+    },
+    "date": 1791061716927,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 1181789,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Orochi ball",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3203907,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Clarice_di_lanza",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 122925107,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13594
+    },
+    "date": 1791061857328,
+    "duration": 80399,
+    "left": {
+      "bet_amount": 2433696,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Ik borodin",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1412075,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Samurai",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 122888755,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
