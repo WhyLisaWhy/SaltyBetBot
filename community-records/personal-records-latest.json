@@ -489823,5 +489823,113 @@
     "sum": 122771314,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19754
+    },
+    "date": 1791039807328,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 990011,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kongou",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4533733,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Gilgamesh ccc",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 122777429,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22701
+    },
+    "date": 1791039943530,
+    "duration": 70003,
+    "left": {
+      "bet_amount": 5871519,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Nmori_yagami",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1337505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mukai-kofm",
+      "normal_bettors": 9,
+      "win_streak": -11
+    },
+    "sum": 122757675,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9313
+    },
+    "date": 1791040133725,
+    "duration": 130195,
+    "left": {
+      "bet_amount": 7236542,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Ultron is",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1219274,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Borer",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122762827,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14801
+    },
+    "date": 1791040271527,
+    "duration": 83800,
+    "left": {
+      "bet_amount": 2715519,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Giano",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1620182,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Eas",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 122753514,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
