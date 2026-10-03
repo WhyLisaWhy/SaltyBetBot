@@ -488689,5 +488689,113 @@
     "sum": 122460746,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24639
+    },
+    "date": 1791032675730,
+    "duration": 214198,
+    "left": {
+      "bet_amount": 1630116,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Devilbat-schilt",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2135205,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Theskiver",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 122464196,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 969
+    },
+    "date": 1791032871926,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1870710,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Miyako",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4326242,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Karina toyota",
+      "normal_bettors": 19,
+      "win_streak": 6
+    },
+    "sum": 122495989,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22803
+    },
+    "date": 1791033065926,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 1801182,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Shin eddie",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1983516,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Terraria warrior",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 122496408,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20909
+    },
+    "date": 1791033222137,
+    "duration": 100009,
+    "left": {
+      "bet_amount": 1493000,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shigure",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2373831,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Hel'lauren",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 122473605,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
