@@ -484315,5 +484315,113 @@
     "sum": 121923477,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9171
+    },
+    "date": 1791002213325,
+    "duration": 125992,
+    "left": {
+      "bet_amount": 1227169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cap.com",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5073508,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Jo'on & shion yorigami",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 121940020,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791002357524,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 1289321,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jonathan crane",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1332391,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Mr.ganon",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 121942235,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25799
+    },
+    "date": 1791002583734,
+    "duration": 164210,
+    "left": {
+      "bet_amount": 1030335,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yashiro EX6",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2245210,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Nanoha takamachi EX3",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 121942237,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7890
+    },
+    "date": 1791002723724,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 1026826,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gargoyle2",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3410494,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Miss tron",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 121916438,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
