@@ -482425,5 +482425,86 @@
     "sum": 121807439,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790984936125,
+    "duration": 140206,
+    "left": {
+      "bet_amount": 2561017,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Dark cornian",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4691707,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Mahvel ken",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 121769928,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26873
+    },
+    "date": 1790985066124,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 1774498,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Spera",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3924762,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Justice",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 121769930,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25837
+    },
+    "date": 1790985292327,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 3102833,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "The savage pumpkin",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1433019,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Super mario EX3",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 121781998,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
