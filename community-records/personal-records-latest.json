@@ -483289,5 +483289,140 @@
     "sum": 121865793,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790990336122,
+    "duration": 65995,
+    "left": {
+      "bet_amount": 1202467,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Hu-ama EX3",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 20362966,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Maxima EX3",
+      "normal_bettors": 27,
+      "win_streak": -7
+    },
+    "sum": 121900414,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18303
+    },
+    "date": 1790990510332,
+    "duration": 116210,
+    "left": {
+      "bet_amount": 1395666,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kyo rotd",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6580941,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Sion tatari",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 121900413,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32375
+    },
+    "date": 1790990690322,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 6465262,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Sonozaki_mion",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1340830,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shredder 2097",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 121882110,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790990820525,
+    "duration": 69949,
+    "left": {
+      "bet_amount": 1869704,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Cpt. falcon",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3890663,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Lancer EX2",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 121849735,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30462
+    },
+    "date": 1790991084726,
+    "duration": 200195,
+    "left": {
+      "bet_amount": 2819246,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Liquid snake",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1909788,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mark sein",
+      "normal_bettors": 15,
+      "win_streak": -9
+    },
+    "sum": 121849736,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
