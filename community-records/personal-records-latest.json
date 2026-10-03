@@ -490822,5 +490822,140 @@
     "sum": 122679414,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33912
+    },
+    "date": 1791048029928,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 1020838,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Zagan",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2883257,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "H-duolon",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122679415,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23370
+    },
+    "date": 1791048190129,
+    "duration": 104203,
+    "left": {
+      "bet_amount": 1988402,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Gundam exia",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1654197,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Balrog EX4",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 122691283,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1155
+    },
+    "date": 1791048326125,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 1175994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "R-mai",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5979125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Aoi_amatu",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 122710500,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7551
+    },
+    "date": 1791048520328,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 3752893,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Parace",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1039608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rin natsume",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 122710728,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791048746527,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 1693080,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Reika murasame EX",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3732403,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Yumel",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 122712816,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
