@@ -493036,5 +493036,86 @@
     "sum": 122888755,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791062293326,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 103279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Serika EX2",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63922,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Nash",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3996
+    },
+    "date": 1791062487525,
+    "duration": 130194,
+    "left": {
+      "bet_amount": 154230,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kamen rider accel",
+      "normal_bettors": 33,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93121,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shinnosuke_kagami(shao)",
+      "normal_bettors": 18,
+      "win_streak": -8
+    },
+    "sum": 3996,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6348
+    },
+    "date": 1791062747725,
+    "duration": 200197,
+    "left": {
+      "bet_amount": 52853,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chin taimei",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 223939,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Spiral",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 6348,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
