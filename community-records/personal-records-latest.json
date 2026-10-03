@@ -490309,5 +490309,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791044325727,
+    "duration": 277001,
+    "left": {
+      "bet_amount": 255637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chan",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 572840,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Leona ex",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
