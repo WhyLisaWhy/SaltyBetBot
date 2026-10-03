@@ -491092,5 +491092,113 @@
     "sum": 122764569,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25611
+    },
+    "date": 1791049697343,
+    "duration": 110216,
+    "left": {
+      "bet_amount": 3865162,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sentinel",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2112394,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Keine kamishirasawa(keln)",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 122768895,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791049883325,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 1254829,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Diamondeye",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7557620,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Xtreme 2 zero",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 122815196,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2134
+    },
+    "date": 1791050059528,
+    "duration": 116002,
+    "left": {
+      "bet_amount": 2502757,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Zero suicide",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2585258,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Gradriel",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 122815197,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2051
+    },
+    "date": 1791050329730,
+    "duration": 210202,
+    "left": {
+      "bet_amount": 2560037,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Saya",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2490744,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Emperor",
+      "normal_bettors": 21,
+      "win_streak": 0
+    },
+    "sum": 122813063,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
