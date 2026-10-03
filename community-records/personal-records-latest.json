@@ -485638,5 +485638,113 @@
     "sum": 122310106,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19792
+    },
+    "date": 1791010215734,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 3527008,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Evil ryu svc chaos",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286523,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Save us anpanman!",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 122318507,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3548
+    },
+    "date": 1791010361928,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 1285152,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Watatsuki no yorihime",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2872968,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Baltan",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122298715,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7959
+    },
+    "date": 1791010531926,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 5589766,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Cajun gambit EX7",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1838517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ky kiske #reload",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 122300301,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19543
+    },
+    "date": 1791010722126,
+    "duration": 129992,
+    "left": {
+      "bet_amount": 2600517,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chen-mao",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4965710,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Butthead",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 122302916,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
