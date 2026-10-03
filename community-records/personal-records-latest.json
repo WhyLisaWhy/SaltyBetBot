@@ -483424,5 +483424,86 @@
     "sum": 121849736,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3143
+    },
+    "date": 1790991300925,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 1855542,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "The flash (new-52)",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2329919,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Medamaoyaji",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 121893999,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2868
+    },
+    "date": 1790991466924,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 2208011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Broly lssj3 ex",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6233342,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "M.bison mvc2",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 121897939,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9456
+    },
+    "date": 1790991641128,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 2465003,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Eternal little girl",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2239553,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Roxas",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 121898955,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
