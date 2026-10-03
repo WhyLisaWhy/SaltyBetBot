@@ -486340,5 +486340,140 @@
     "sum": 122247242,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26564
+    },
+    "date": 1791014683327,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1744758,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Kunio kun",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2015363,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Musiking",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 122259604,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6861
+    },
+    "date": 1791014817325,
+    "duration": 73998,
+    "left": {
+      "bet_amount": 2098327,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Gallon EX2",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1828889,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Katakura kojuro_ch",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 122289828,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22928
+    },
+    "date": 1791015017525,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1268120,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Killer plaster",
+      "normal_bettors": 14,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2038658,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Forione",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122282967,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11620
+    },
+    "date": 1791015235725,
+    "duration": 162199,
+    "left": {
+      "bet_amount": 4288286,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pocket Dan",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1806374,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Tien z2",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "sum": 122297071,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22414
+    },
+    "date": 1791015369926,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 1337174,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Kamen rider orga",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2359202,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Smoke?",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 122301953,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
