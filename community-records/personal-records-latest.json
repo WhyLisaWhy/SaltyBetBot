@@ -484018,5 +484018,113 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3406
+    },
+    "date": 1790995718369,
+    "duration": 100244,
+    "left": {
+      "bet_amount": 395390,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Unown 28",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 223055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Shana dbfc",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 3406,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5312
+    },
+    "date": 1790995852324,
+    "duration": 73997,
+    "left": {
+      "bet_amount": 513362,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Chuckle nourish",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 168685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Akane",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 5312,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7040
+    },
+    "date": 1790996068523,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 97145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Real gilgamesh",
+      "normal_bettors": 11,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 676323,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 25,
+      "name": "Unown 28",
+      "normal_bettors": 38,
+      "win_streak": 6
+    },
+    "sum": 7040,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8041
+    },
+    "date": 1790996213526,
+    "duration": 78995,
+    "left": {
+      "bet_amount": 251098,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Chuckle nourish",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 900682,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Unown 28",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "sum": 8041,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
