@@ -489256,5 +489256,140 @@
     "sum": 122634281,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21474
+    },
+    "date": 1791036266529,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1105341,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yukkuri",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2810507,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Suparfcmeirin ver.1.15",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 122634466,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37416
+    },
+    "date": 1791036402727,
+    "duration": 75991,
+    "left": {
+      "bet_amount": 2056977,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Cagney carnation",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2393668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kawashima-san EX2",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122642848,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6912
+    },
+    "date": 1791036602927,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 6355809,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Alex_a",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423270,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mongori EX",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 122685611,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791036768923,
+    "duration": 105994,
+    "left": {
+      "bet_amount": 1792812,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Haggar",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7942773,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "King 95",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "sum": 122687158,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32735
+    },
+    "date": 1791036957131,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 1612731,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dante M",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2047244,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Alsion 3rd",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 122687159,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
