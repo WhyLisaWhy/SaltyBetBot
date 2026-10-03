@@ -491821,5 +491821,140 @@
     "sum": 122846549,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34353
+    },
+    "date": 1791054270928,
+    "duration": 210178,
+    "left": {
+      "bet_amount": 3492732,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shocking shocker",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1847973,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Darkness-of-red",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 122826797,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22347
+    },
+    "date": 1791054481133,
+    "duration": 150203,
+    "left": {
+      "bet_amount": 2382795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Heidern as",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2239882,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Erika wagner",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 122792444,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4102
+    },
+    "date": 1791054661142,
+    "duration": 126015,
+    "left": {
+      "bet_amount": 1775304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Condor heads",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2998175,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Ex-zetton",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 122770097,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18055
+    },
+    "date": 1791054801327,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 2684742,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Athena asamiya-kofm",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1440497,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yusha",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 122772523,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5896
+    },
+    "date": 1791054985527,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 944605,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rin natsume",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3650101,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Holy strider",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 122805757,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
