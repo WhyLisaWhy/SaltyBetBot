@@ -482803,5 +482803,167 @@
     "sum": 121769528,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1790987425925,
+    "duration": 92003,
+    "left": {
+      "bet_amount": 15077815,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 13,
+      "name": "Anonym-guard",
+      "normal_bettors": 22,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 923913,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Harpagos",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "sum": 121799112,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4544
+    },
+    "date": 1790987666124,
+    "duration": 186201,
+    "left": {
+      "bet_amount": 9188263,
+      "ignored_bettors": 17,
+      "illuminati_bettors": 13,
+      "name": "Allen",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 744761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sakata gintoki",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 121799113,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1790987836321,
+    "duration": 106196,
+    "left": {
+      "bet_amount": 2367938,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 7,
+      "name": "Kazuma EX",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3106237,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "El stinger",
+      "normal_bettors": 17,
+      "win_streak": 7
+    },
+    "sum": 121794569,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25489
+    },
+    "date": 1790988010326,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 5145901,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 11,
+      "name": "Gelonimon",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1803714,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Slash-beast",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 121794570,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22407
+    },
+    "date": 1790988106523,
+    "duration": 40195,
+    "left": {
+      "bet_amount": 4728518,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ada wong",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1795699,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Golgo13",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 121803461,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22767
+    },
+    "date": 1790988270523,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 2011368,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kosanjou",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3799654,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Baseball pooh",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 121811931,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
