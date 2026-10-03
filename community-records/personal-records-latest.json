@@ -493414,5 +493414,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791065968726,
+    "duration": 440800,
+    "left": {
+      "bet_amount": 445242,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Kamen rider accel",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 710637,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Armor Guts",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791066860926,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 2635886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ken IV",
+      "normal_bettors": 12,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3619436,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Geese EX3",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122877679,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
