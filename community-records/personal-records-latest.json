@@ -483694,5 +483694,140 @@
     "sum": 121889247,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6544
+    },
+    "date": 1790992906926,
+    "duration": 72801,
+    "left": {
+      "bet_amount": 1601958,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dr. fessenden",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2253730,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Hamon kyo",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 121840950,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790993408527,
+    "duration": 234201,
+    "left": {
+      "bet_amount": 159071,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Ost",
+      "normal_bettors": 29,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 83652,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Goku el dios excelente",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790993548533,
+    "duration": 84012,
+    "left": {
+      "bet_amount": 98622,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Boss syndrome goenitz",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 227997,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Chuckle nourish",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2216
+    },
+    "date": 1790993724729,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 106758,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Bloo-ax",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 220949,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Frostman hell",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 2216,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1790993890926,
+    "duration": 106144,
+    "left": {
+      "bet_amount": 210606,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Akane",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 185393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Kung fu man neo",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
