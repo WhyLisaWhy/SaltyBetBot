@@ -483964,5 +483964,59 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1902
+    },
+    "date": 1790995021724,
+    "duration": 276191,
+    "left": {
+      "bet_amount": 131465,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Bloo-ax",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 378960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Akane",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 1902,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1790995562126,
+    "duration": 494399,
+    "left": {
+      "bet_amount": 264546,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "R-akatsuki",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 219389,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Real gilgamesh",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
