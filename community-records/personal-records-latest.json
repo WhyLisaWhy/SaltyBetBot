@@ -489931,5 +489931,113 @@
     "sum": 122753514,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791040748122,
+    "duration": 204191,
+    "left": {
+      "bet_amount": 135575,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "S.clara",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 42522,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kyoko",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2031
+    },
+    "date": 1791041134527,
+    "duration": 330406,
+    "left": {
+      "bet_amount": 90324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Skeleton",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116231,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Hanny bbb",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 2031,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791041394725,
+    "duration": 204195,
+    "left": {
+      "bet_amount": 57954,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nash shadow",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 237314,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "R. lilith",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791041556723,
+    "duration": 101995,
+    "left": {
+      "bet_amount": 161624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mora EX3",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 184132,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Chan",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
