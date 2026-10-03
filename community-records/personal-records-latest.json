@@ -486880,5 +486880,86 @@
     "sum": 2099,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791018408325,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 45984,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ruby rose",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 226344,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Seravy",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1863
+    },
+    "date": 1791018628530,
+    "duration": 164203,
+    "left": {
+      "bet_amount": 89188,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rera EX3",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 203376,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Lumine",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 1863,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791018808526,
+    "duration": 124000,
+    "left": {
+      "bet_amount": 284719,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Momo-len_ver1.39",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 60750,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kobun 43.5",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
