@@ -490228,5 +490228,86 @@
     "sum": 7014,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8376
+    },
+    "date": 1791043402328,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 100892,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Chun-li svc chaos",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 451157,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Syuzo matsuoka",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 8376,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10215
+    },
+    "date": 1791043674532,
+    "duration": 212206,
+    "left": {
+      "bet_amount": 545779,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "S.clara",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 83089,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Chan",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 10215,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791043988733,
+    "duration": 254210,
+    "left": {
+      "bet_amount": 213141,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Leona ex",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 437589,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Syuzo matsuoka",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
