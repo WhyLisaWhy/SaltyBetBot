@@ -488122,5 +488122,113 @@
     "sum": 122385698,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26152
+    },
+    "date": 1791028930729,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 1459856,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shimakaze atm",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4087652,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Mag-fuckin'-neto",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 122518544,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9552
+    },
+    "date": 1791029104926,
+    "duration": 120194,
+    "left": {
+      "bet_amount": 2496426,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Amazo",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1482333,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Saiki kof",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 122527825,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21656
+    },
+    "date": 1791029270930,
+    "duration": 110006,
+    "left": {
+      "bet_amount": 1718047,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kyoko_typea EX3",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1912108,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Hatsune miku mmd t",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 122533476,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20814
+    },
+    "date": 1791029427126,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 5981550,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Sanae kochiya",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1144516,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Galford",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 122552717,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
