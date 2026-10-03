@@ -492361,5 +492361,140 @@
     "sum": 122801209,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791057741726,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1652236,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Pocket Gouki",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4128431,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Night_gaunt",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122806741,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20476
+    },
+    "date": 1791058005929,
+    "duration": 210203,
+    "left": {
+      "bet_amount": 1271010,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chibi elque",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3399045,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "D4 uesugi kensin",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 122806740,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23715
+    },
+    "date": 1791058202127,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2454976,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Ange EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5944628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Bloodia",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122860631,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25971
+    },
+    "date": 1791058376122,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 3247721,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Priecia",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1221127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kirikou EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122836916,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14090
+    },
+    "date": 1791058502326,
+    "duration": 69995,
+    "left": {
+      "bet_amount": 2975237,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Kimala the bouncer",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1688457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Terry bogard EX2",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 122846604,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
