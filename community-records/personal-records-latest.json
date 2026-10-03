@@ -487231,5 +487231,86 @@
     "sum": 14734,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23009
+    },
+    "date": 1791022951924,
+    "duration": 102197,
+    "left": {
+      "bet_amount": 1963373,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sparq",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1627028,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Mudman_n",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 122418239,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791023095925,
+    "duration": 83997,
+    "left": {
+      "bet_amount": 1182161,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shinnosuke_kagami(shao)",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4047464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Billy karn",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 122445618,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28264
+    },
+    "date": 1791023236149,
+    "duration": 80023,
+    "left": {
+      "bet_amount": 3785109,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Litchi faye ling",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1288539,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nakoruru",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122445619,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
