@@ -485017,5 +485017,140 @@
     "sum": 121853379,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 49735
+    },
+    "date": 1791006490726,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 953580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jago ki2",
+      "normal_bettors": 5,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6685157,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Prinny squad",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "sum": 121867571,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791006686926,
+    "duration": 135996,
+    "left": {
+      "bet_amount": 887032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gig",
+      "normal_bettors": 5,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9904212,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Aioria de leo",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "sum": 121874613,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40384
+    },
+    "date": 1791006885127,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 2711929,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "New age king",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1412117,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Abobo 0D",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 121874614,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18540
+    },
+    "date": 1791007041327,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 997982,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ruili kong",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7937981,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Onslaught 2",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 121895334,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30981
+    },
+    "date": 1791007175332,
+    "duration": 64004,
+    "left": {
+      "bet_amount": 1534608,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Evil talon",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5506316,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Z.e.r.o of n.e.s.t.s",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 121897660,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
