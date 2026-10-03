@@ -487744,5 +487744,140 @@
     "sum": 122468100,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1211
+    },
+    "date": 1791026356731,
+    "duration": 100204,
+    "left": {
+      "bet_amount": 1233594,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "New mechagodzilla",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3120128,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Apocalypse ex",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122447368,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27424
+    },
+    "date": 1791026546726,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 2665586,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Shin",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1059453,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Athena fake",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 122446157,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791026696925,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 1782677,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Etna",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4671212,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Dark link mythos",
+      "normal_bettors": 19,
+      "win_streak": -9
+    },
+    "sum": 122418733,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17454
+    },
+    "date": 1791026863124,
+    "duration": 112192,
+    "left": {
+      "bet_amount": 2100788,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Bushou",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1874064,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Aoko 7thmoonstyle",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 122418734,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5319
+    },
+    "date": 1791027047326,
+    "duration": 124198,
+    "left": {
+      "bet_amount": 912426,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Holy strider",
+      "normal_bettors": 5,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5073949,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Predator warrior",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 122401280,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
