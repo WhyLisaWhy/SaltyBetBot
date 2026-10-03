@@ -487096,5 +487096,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791020265728,
+    "duration": 170003,
+    "left": {
+      "bet_amount": 250313,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Momo-len_ver1.39",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 292235,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Save us anpanman!",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3349
+    },
+    "date": 1791020517926,
+    "duration": 196202,
+    "left": {
+      "bet_amount": 311345,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mai_k",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 159241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Anji",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 3349,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5044
+    },
+    "date": 1791020742128,
+    "duration": 164203,
+    "left": {
+      "bet_amount": 263036,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Doraemon scwu",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 438778,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Lumine",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 5044,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
