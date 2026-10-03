@@ -493468,5 +493468,86 @@
     "sum": 122877679,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19227
+    },
+    "date": 1791067221330,
+    "duration": 296201,
+    "left": {
+      "bet_amount": 1509097,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Piplup's 7th evolution",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4279557,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Peach smrpg",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 122877680,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29067
+    },
+    "date": 1791067391328,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 5433378,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "GodzillaEX",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1249036,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Felden crais",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 122884430,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791067515526,
+    "duration": 69990,
+    "left": {
+      "bet_amount": 1272323,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Setiawan",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2699836,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Deluxe may",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 122855363,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
