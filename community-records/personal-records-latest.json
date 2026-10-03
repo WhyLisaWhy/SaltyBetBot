@@ -485908,5 +485908,113 @@
     "sum": 122304414,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21721
+    },
+    "date": 1791011843126,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 2694226,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Weregarurumon",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2353418,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Dangerous jiisan",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 122283082,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5245
+    },
+    "date": 1791012009126,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 4976453,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Heidern_ex",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2388902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gouf",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122261361,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791012233328,
+    "duration": 164000,
+    "left": {
+      "bet_amount": 10596638,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "M.bison mk2",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1642954,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "R_ed",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122263877,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1832
+    },
+    "date": 1791012473532,
+    "duration": 179993,
+    "left": {
+      "bet_amount": 1466367,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Underdog",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4735496,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Tenko-abab",
+      "normal_bettors": 29,
+      "win_streak": -5
+    },
+    "sum": 122263876,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
