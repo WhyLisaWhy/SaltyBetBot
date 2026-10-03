@@ -487474,5 +487474,140 @@
     "sum": 122444918,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14377
+    },
+    "date": 1791024633327,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 2545540,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Shiden",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1323058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shantotto",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "sum": 122429519,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791024773327,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 2212976,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Ein",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2172991,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Godzillen",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 122415142,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791024933526,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 1175487,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Baraki",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4647739,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Aoko aozaki",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "sum": 122415141,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17894
+    },
+    "date": 1791025103729,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 1300786,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Donald",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2453944,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Magic nanaya+ huunsaiki",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122415142,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28661
+    },
+    "date": 1791025259731,
+    "duration": 96006,
+    "left": {
+      "bet_amount": 1240743,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Adler-a",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2185808,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Toriel",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 122424559,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
