@@ -484126,5 +484126,32 @@
     "sum": 8041,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17326
+    },
+    "date": 1791000956327,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1325668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Default mugen character",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4015540,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Akame",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 121844677,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
