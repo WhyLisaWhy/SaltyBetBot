@@ -491956,5 +491956,140 @@
     "sum": 122805757,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 594
+    },
+    "date": 1791055151565,
+    "duration": 110039,
+    "left": {
+      "bet_amount": 3184977,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Hayao 12p color",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2857234,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Baikinman",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "sum": 122807281,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25623
+    },
+    "date": 1791055287726,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 2105545,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Yatteyaru-death",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1905547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Light yagami",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122806687,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29728
+    },
+    "date": 1791055427930,
+    "duration": 86203,
+    "left": {
+      "bet_amount": 4059847,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Celesteela",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1339620,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Stoneaxe",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 122829598,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29002
+    },
+    "date": 1791055641927,
+    "duration": 154002,
+    "left": {
+      "bet_amount": 1425530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mimi(mimic)",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4611485,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Beatrice",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 122839336,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34773
+    },
+    "date": 1791055832127,
+    "duration": 133996,
+    "left": {
+      "bet_amount": 7669747,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shiva",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1041903,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aoi_amatu",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 122848246,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
