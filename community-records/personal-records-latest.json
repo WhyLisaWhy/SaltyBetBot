@@ -493360,5 +493360,59 @@
     "sum": 1748,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7573
+    },
+    "date": 1791065161525,
+    "duration": 233999,
+    "left": {
+      "bet_amount": 461103,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Kamen rider accel",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 325095,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Spiral",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 7573,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791065467934,
+    "duration": 250205,
+    "left": {
+      "bet_amount": 232655,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Cyber akuma",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 780533,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Armor Guts",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
