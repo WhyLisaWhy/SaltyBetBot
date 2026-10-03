@@ -486772,5 +486772,113 @@
     "sum": 122443958,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35246
+    },
+    "date": 1791017401550,
+    "duration": 130224,
+    "left": {
+      "bet_amount": 1163664,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Skullman",
+      "normal_bettors": 5,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5398361,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Mahvel ken",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122443959,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7664
+    },
+    "date": 1791017603731,
+    "duration": 146202,
+    "left": {
+      "bet_amount": 1513344,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "M-koa",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2136531,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Onmyouji",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 122408713,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791018003927,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 43014,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kamishiro_aya",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119989,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Tabuu sumin",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2099
+    },
+    "date": 1791018148127,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 145779,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Doraemon scwu",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63066,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fortissimo",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 2099,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
