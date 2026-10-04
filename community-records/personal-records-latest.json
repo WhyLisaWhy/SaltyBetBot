@@ -502212,5 +502212,140 @@
     "sum": 122698544,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23546
+    },
+    "date": 1791129764728,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 1472482,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider kabuto",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2778452,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Hawkgirl",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 122685907,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35017
+    },
+    "date": 1791129918926,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 2852258,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "H-m-geese",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2036830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hyper meca tau",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 122729638,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41424
+    },
+    "date": 1791130088926,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 5197737,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1245517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tyssa willing",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 122754341,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1245
+    },
+    "date": 1791130221728,
+    "duration": 70595,
+    "left": {
+      "bet_amount": 3260997,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Black frost",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1937495,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Rugal bernstein",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 122712917,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791130575329,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 127194,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "General",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 75872,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Stain",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
