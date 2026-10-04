@@ -501321,5 +501321,140 @@
     "sum": 122451583,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21257
+    },
+    "date": 1791123583921,
+    "duration": 204191,
+    "left": {
+      "bet_amount": 3608047,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Keine kamishirasawa(keln)",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1131797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Assasincross",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122468635,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1645
+    },
+    "date": 1791123759927,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1330141,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Maori",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2712154,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Curfue",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 122447378,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30505
+    },
+    "date": 1791123950129,
+    "duration": 130176,
+    "left": {
+      "bet_amount": 1923082,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Q*bert",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1956128,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Toki-pw",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 122445733,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791124138327,
+    "duration": 128199,
+    "left": {
+      "bet_amount": 3275408,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Teen vampire",
+      "normal_bettors": 22,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1338240,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Taz",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "sum": 122476278,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791124270327,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 3536978,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Avgn",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1942054,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Zaku EX3",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 122476277,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
