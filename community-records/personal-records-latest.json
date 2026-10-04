@@ -500889,5 +500889,140 @@
     "sum": 122412099,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34994
+    },
+    "date": 1791120855728,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 4007522,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Jage",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1060381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "C_krizalid",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 122459158,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32436
+    },
+    "date": 1791121095725,
+    "duration": 179998,
+    "left": {
+      "bet_amount": 3851403,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "New kiwami",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1246114,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Astranalent ex",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 122468338,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13061
+    },
+    "date": 1791121295926,
+    "duration": 143997,
+    "left": {
+      "bet_amount": 1028344,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Umaru doma",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3172010,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Peijin-san",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 122435902,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20820
+    },
+    "date": 1791121466128,
+    "duration": 114002,
+    "left": {
+      "bet_amount": 2661608,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Ironpatriot",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1554389,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Arctic_avenger",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 122422841,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791121598353,
+    "duration": 72222,
+    "left": {
+      "bet_amount": 7371214,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Touko matsudaira",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 913953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kabuto EX3",
+      "normal_bettors": 5,
+      "win_streak": -14
+    },
+    "sum": 122402021,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
