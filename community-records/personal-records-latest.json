@@ -499593,5 +499593,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1727
+    },
+    "date": 1791109097727,
+    "duration": 205601,
+    "left": {
+      "bet_amount": 931642,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Shadow sumou",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 84036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yuno gasai",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 1727,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
