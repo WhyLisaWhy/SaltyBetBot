@@ -500619,5 +500619,113 @@
     "sum": 122444587,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18834
+    },
+    "date": 1791119118325,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 3130158,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Uesugi kensin EX G",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1585327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aya syameimaru",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122481109,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1152
+    },
+    "date": 1791119288328,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 3068232,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Other candy",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1372382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Dark chun-li",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 122462275,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26423
+    },
+    "date": 1791119478525,
+    "duration": 129989,
+    "left": {
+      "bet_amount": 4560232,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Wanda maximoff",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1405246,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "G. done",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 122462791,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 43630
+    },
+    "date": 1791119642725,
+    "duration": 104196,
+    "left": {
+      "bet_amount": 1830113,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Reiji arisu",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1823532,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Pairon",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 122436368,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
