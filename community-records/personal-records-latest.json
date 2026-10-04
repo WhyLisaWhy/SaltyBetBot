@@ -494521,5 +494521,138 @@
     "sum": 122760916,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1346
+    },
+    "date": 1791073960537,
+    "duration": 104008,
+    "left": {
+      "bet_amount": 5788088,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Masked rider 2nd",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1245202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "The blob",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122760915,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791074136728,
+    "duration": 115989,
+    "left": {
+      "bet_amount": 3084200,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Sonans",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 782486,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Michelle heart sr.",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 122761205,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1791074312926,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 2721185,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rei ayanami",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2302353,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Shredder",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122761205,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15187
+    },
+    "date": 1791074452928,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 6913447,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Game master",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208290,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rozwel",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122761205,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40009
+    },
+    "date": 1791074583128,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 2554891,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Blob",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1523410,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Necrosis",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 122763853,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
