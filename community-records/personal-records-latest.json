@@ -502563,5 +502563,113 @@
     "sum": 5879,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6848
+    },
+    "date": 1791132452934,
+    "duration": 150215,
+    "left": {
+      "bet_amount": 257379,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lf2 - firzen",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 420842,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Jack-hamma ex",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 6848,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10970
+    },
+    "date": 1791132675126,
+    "duration": 162200,
+    "left": {
+      "bet_amount": 159133,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sittara",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 587441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Joseph joestar EX3",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 10970,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791132889325,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 85488,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aokiji kuzan",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 824623,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 26,
+      "name": "Rethi",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1711
+    },
+    "date": 1791133059326,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 154982,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "General",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 828210,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Jack-hamma ex",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 1711,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
