@@ -495842,5 +495842,113 @@
     "sum": 122675238,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11147
+    },
+    "date": 1791082305129,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 2956150,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Asura's wrath",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4176491,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "The grandmapocalypse",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 122683704,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32135
+    },
+    "date": 1791082481327,
+    "duration": 115993,
+    "left": {
+      "bet_amount": 1040504,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ootani reimu",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3264778,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Heiho",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122691573,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8397
+    },
+    "date": 1791082699526,
+    "duration": 160197,
+    "left": {
+      "bet_amount": 38015223,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Guldin EX2",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1216894,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Nyarukami nyuu",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 122789382,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30791
+    },
+    "date": 1791082849730,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 9018339,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Testament(ac)",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1128205,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mc'chris",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 122789651,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
