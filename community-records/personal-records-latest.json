@@ -505695,5 +505695,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2116
+    },
+    "date": 1791154137927,
+    "duration": 106006,
+    "left": {
+      "bet_amount": 649404,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Taokaka",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 99823,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "01-nameless",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 2116,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2441
+    },
+    "date": 1791154388125,
+    "duration": 184202,
+    "left": {
+      "bet_amount": 792567,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Gatocyu",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 117205,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Phone(redux)",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 2441,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791154768528,
+    "duration": 314405,
+    "left": {
+      "bet_amount": 405517,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Rei chibi",
+      "normal_bettors": 35,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 417721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kaio helmo",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
