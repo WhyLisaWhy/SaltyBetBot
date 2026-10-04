@@ -501942,5 +501942,140 @@
     "sum": 122678748,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 48016
+    },
+    "date": 1791127971326,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 1260356,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Iggy ex",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3127599,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Mvc2 cyclops",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 122654204,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791128171525,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 2309595,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kagami",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2333424,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Fygar",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 122606188,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791128371726,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 1448485,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Leon",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2853944,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Genso no makoto",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "sum": 122606189,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 517
+    },
+    "date": 1791128597934,
+    "duration": 166206,
+    "left": {
+      "bet_amount": 3245967,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Gulcasa",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1037479,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Momomeno",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122606190,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20952
+    },
+    "date": 1791128741939,
+    "duration": 84012,
+    "left": {
+      "bet_amount": 2464733,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Gehorsam",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1784681,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Acguy",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 122605673,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
