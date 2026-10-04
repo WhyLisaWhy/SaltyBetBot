@@ -495950,5 +495950,140 @@
     "sum": 122789651,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25820
+    },
+    "date": 1791082975725,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1727341,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Yashiro EX6",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2291626,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Epyon",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122793490,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1813
+    },
+    "date": 1791083109931,
+    "duration": 80196,
+    "left": {
+      "bet_amount": 1517266,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tongpoo",
+      "normal_bettors": 10,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4583504,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "The root pack",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122767670,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40320
+    },
+    "date": 1791083255924,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 2217545,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "K_saber",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1900784,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Rawr",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 122768270,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6927
+    },
+    "date": 1791083406125,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 7608825,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Johann EX3",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1065859,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lihua",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122727950,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12780
+    },
+    "date": 1791083522127,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 976391,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tylor",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5893012,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Mvc2 dan",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "sum": 122728920,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
