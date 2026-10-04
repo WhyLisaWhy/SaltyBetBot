@@ -505398,5 +505398,86 @@
     "sum": 122997824,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19176
+    },
+    "date": 1791151259330,
+    "duration": 115802,
+    "left": {
+      "bet_amount": 2199731,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Hogyoku aizen",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3017709,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Rouga(coh)",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 123004080,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791151850126,
+    "duration": 322200,
+    "left": {
+      "bet_amount": 88446,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rei chibi",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107902,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mai tokiha ex",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791152020324,
+    "duration": 116195,
+    "left": {
+      "bet_amount": 197802,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Zen kasen ibaraki",
+      "normal_bettors": 34,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63056,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Shin 2",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
