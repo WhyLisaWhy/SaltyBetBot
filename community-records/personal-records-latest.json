@@ -496679,5 +496679,140 @@
     "sum": 122740429,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791089112526,
+    "duration": 68002,
+    "left": {
+      "bet_amount": 6284436,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kyosuke",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1035044,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hon-fu",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 122740430,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31381
+    },
+    "date": 1791089304725,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 863582,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ryu EX3",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2756719,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Petshop",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 122740431,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27117
+    },
+    "date": 1791089484931,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 2492968,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Gecko moriah",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1344676,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Azazel",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 122709050,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27739
+    },
+    "date": 1791089660925,
+    "duration": 113961,
+    "left": {
+      "bet_amount": 2483040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Optimus prime 31",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1143304,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Fujin",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 122681933,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3868
+    },
+    "date": 1791089847127,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 2398817,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Crocodile mvc",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358371,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Rindou",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 122694565,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
