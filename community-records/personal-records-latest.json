@@ -504183,5 +504183,113 @@
     "sum": 122440379,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1102
+    },
+    "date": 1791143321524,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 3717428,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hakolen-sbs EX3",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2503345,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Basilisx",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122404381,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35805
+    },
+    "date": 1791143475727,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 1522502,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Aimi",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3018728,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Makao and joma",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 122405123,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22881
+    },
+    "date": 1791143615730,
+    "duration": 80006,
+    "left": {
+      "bet_amount": 3385122,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Alder(seraph)",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1934697,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Unlaughmaker",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 122474484,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791143815923,
+    "duration": 140195,
+    "left": {
+      "bet_amount": 1440536,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Pocket sol badguy",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 46885395,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Hinata",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 122451603,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
