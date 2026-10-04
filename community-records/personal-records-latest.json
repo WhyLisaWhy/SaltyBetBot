@@ -501186,5 +501186,140 @@
     "sum": 122445975,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15037
+    },
+    "date": 1791122653125,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 4064544,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Copy x",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1721900,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Donald",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122446165,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12492
+    },
+    "date": 1791122849327,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 1010136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Line moon",
+      "normal_bettors": 6,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3344671,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Tora shou",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122431128,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23895
+    },
+    "date": 1791122989326,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 6706263,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mango sentinel",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1142411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rashou mon",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 122434887,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39425
+    },
+    "date": 1791123149527,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 4511329,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Eve silvan",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1458881,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Another igniz EX2",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 122438944,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19852
+    },
+    "date": 1791123319726,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 2150319,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Final dio",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1863992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Bubbles DG",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122451583,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
