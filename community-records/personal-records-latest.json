@@ -505776,5 +505776,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3141
+    },
+    "date": 1791154978726,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 591357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Taokaka",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 326050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Phone(redux)",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 3141,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4864
+    },
+    "date": 1791155348326,
+    "duration": 309603,
+    "left": {
+      "bet_amount": 366610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rei chibi",
+      "normal_bettors": 15,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 629803,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Taokaka",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "sum": 4864,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
