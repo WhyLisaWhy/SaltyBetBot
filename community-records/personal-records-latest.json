@@ -495275,5 +495275,113 @@
     "sum": 122662145,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791078624328,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 1521449,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dq5-hero",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2642958,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Anna frozen",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 122665749,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25505
+    },
+    "date": 1791078794529,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 1997134,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Shishimaru EX",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2369621,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Rera ex",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 122665748,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12285
+    },
+    "date": 1791078918531,
+    "duration": 64003,
+    "left": {
+      "bet_amount": 4983306,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Basilisk-s[0.98] EX3",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1252908,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Desperado+",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "sum": 122687015,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18177
+    },
+    "date": 1791079068727,
+    "duration": 90188,
+    "left": {
+      "bet_amount": 1335105,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Youko",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3555122,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Omega rugal 95-kofm",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 122690097,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
