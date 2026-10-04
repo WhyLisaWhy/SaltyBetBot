@@ -501699,5 +501699,140 @@
     "sum": 122575381,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791126307926,
+    "duration": 134002,
+    "left": {
+      "bet_amount": 1883449,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jackie Drunken Fist",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2412768,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Colonel sanders",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 122529019,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33224
+    },
+    "date": 1791126450131,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 1213257,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dynamo",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2747924,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Precure",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "sum": 122529021,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27123
+    },
+    "date": 1791126654327,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 2255931,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Harry EX3",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1173344,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Trishula,doragon of the ice barrier",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 122602265,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26445
+    },
+    "date": 1791126850522,
+    "duration": 140191,
+    "left": {
+      "bet_amount": 4535531,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Byakuren UliL",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1183336,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dou zou man",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 122575142,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15595
+    },
+    "date": 1791126994527,
+    "duration": 83997,
+    "left": {
+      "bet_amount": 2718114,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Eve prototype",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1837321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "God vega",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122674286,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
