@@ -497435,5 +497435,113 @@
     "sum": 122649999,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791093940325,
+    "duration": 102001,
+    "left": {
+      "bet_amount": 4494455,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Hotaru",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1322304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Manjimaru EX3",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 122650403,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23338
+    },
+    "date": 1791094132545,
+    "duration": 134015,
+    "left": {
+      "bet_amount": 1311215,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Samchay ex",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2914164,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Ono kohaku",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 122650404,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791094300732,
+    "duration": 108208,
+    "left": {
+      "bet_amount": 3763464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ukyo tachibana EX3",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1333035,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Juri",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "sum": 122660822,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26907
+    },
+    "date": 1791094492727,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 3223092,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ultraman gaia_a",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1539056,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Aqua",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122660823,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
