@@ -499404,5 +499404,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791107374925,
+    "duration": 206195,
+    "left": {
+      "bet_amount": 165424,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Yuno gasai",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236313,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Guy mk ii",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3744
+    },
+    "date": 1791107605127,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 73245,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Unber",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 400283,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Yuri",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 3744,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4423
+    },
+    "date": 1791107799331,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 194728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Shadow sumou",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 309925,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ai anesan",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 4423,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791108085525,
+    "duration": 226197,
+    "left": {
+      "bet_amount": 476952,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Layla",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119052,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Histoire",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
