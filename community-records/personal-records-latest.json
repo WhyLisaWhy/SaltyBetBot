@@ -499107,5 +499107,86 @@
     "sum": 122473270,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10486
+    },
+    "date": 1791104714725,
+    "duration": 156003,
+    "left": {
+      "bet_amount": 2823629,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider gaim",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1611849,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Bugzzy sdx",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122496468,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12172
+    },
+    "date": 1791104884927,
+    "duration": 109990,
+    "left": {
+      "bet_amount": 1266541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Masked rider 1st",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5913121,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Burning futo",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 122485982,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22476
+    },
+    "date": 1791105101125,
+    "duration": 160074,
+    "left": {
+      "bet_amount": 3394359,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "King kong",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1351692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Red frame",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122488584,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
