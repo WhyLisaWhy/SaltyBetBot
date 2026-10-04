@@ -47,79 +47,67 @@ pub fn between_inclusive(min: u32, max: u32) -> u32 {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fmt::{Debug, Error, Formatter};
-    use std::cmp::Ordering;
-    use std::collections::BTreeMap;
-
-    #[derive(PartialOrd, PartialEq)]
-    struct OrdWrap<A>(A);
-
-    impl<A: Debug> Debug for OrdWrap<A> {
-        fn fmt(&self, f: &mut Formatter) -> Result<(), Error> {
-            self.0.fmt(f)
-        }
-    }
-
-    impl<A: PartialOrd> Ord for OrdWrap<A> {
-        fn cmp(&self, other: &Self) -> Ordering {
-            self.partial_cmp(other).unwrap()
-        }
-    }
-
-    impl<A: PartialEq> Eq for OrdWrap<A> {}
-
-    fn test_distribution<F>(name: &str, min: f64, max: f64, mut f: F)
-         where //A: ::std::fmt::Display + PartialOrd + PartialEq,
-               F: FnMut() -> f64 {
-        let mut counts = BTreeMap::new();
-
-        for _ in 0..1000000 {
-            *counts.entry(OrdWrap(f())).or_insert(0) += 1;
-        }
-
-        const NUMBER_OF_BUCKETS: f64 = 20.0;
-
-        let step = (max - min) / NUMBER_OF_BUCKETS;
-
-        let mut threshold = min + step;
-        let mut sum = 0;
-
-        println!("{}:", name);
-
-        for (key, value) in counts {
-            let key = key.0;
-
-            assert!(key >= min && key < max, "{} is out of bounds ({} - {})", key, min, max);
-
-            while key > threshold {
-                println!("  {} - {}:\n    {}", threshold - step, threshold, sum);
-                threshold += step;
-                sum = 0;
-            }
-
-            // TODO is this the right spot for this ?
-            sum += value;
-        }
-
-        while threshold <= max {
-            println!("  {} - {}:\n    {}", threshold - step, threshold, 0);
-            threshold += step;
-        }
-    }
-
-
-    /*#[test]
-    fn test_bool() {
-        test_distribution("bool", || bool());
-    }
-
-    #[test]
-    fn test_percentage() {
-        test_distribution("percentage", || percentage());
-    }*/
+    use rand::{SeedableRng, rngs::StdRng};
 
     #[test]
     fn test_gaussian() {
-        test_distribution("gaussian", -6.0, 6.0, || gaussian());
+        // Exercise the production wrapper without imposing a bounded support
+        // on a normal distribution. Distribution checks below use a fixed RNG.
+        for _ in 0..1024 {
+            let value = gaussian();
+            assert!(value.is_finite(), "non-finite Gaussian sample: {}", value);
+        }
+    }
+
+    #[test]
+    fn test_standard_normal_distribution() {
+        const SAMPLES: usize = 1_000_000;
+        // This seed includes a legitimate sample above +6 with the locked rand
+        // version, reproducing the old test's invalid hard-bound assertion.
+        let mut rng = StdRng::seed_from_u64(755);
+        // Standard-normal CDF values; the outer buckets include all tails.
+        let cdf = [
+            (-3.0, 0.0013498980316301),
+            (-2.0, 0.0227501319481792),
+            (-1.0, 0.1586552539314571),
+            (0.0, 0.5),
+            (1.0, 0.8413447460685429),
+            (2.0, 0.9772498680518208),
+            (3.0, 0.9986501019683699),
+        ];
+        let mut counts = [0usize; 7];
+        let mut sum = 0.0;
+        let mut sum_squares = 0.0;
+
+        for _ in 0..SAMPLES {
+            let value: f64 = rng.sample(StandardNormal);
+            assert!(value.is_finite(), "non-finite Gaussian sample: {}", value);
+            sum += value;
+            sum_squares += value * value;
+            for (count, &(threshold, _)) in counts.iter_mut().zip(cdf.iter()) {
+                if value <= threshold {
+                    *count += 1;
+                }
+            }
+        }
+
+        let n = SAMPLES as f64;
+        let mean = sum / n;
+        let variance = (sum_squares - sum * mean) / (n - 1.0);
+        // Six standard errors for N(0, 1): mean SE = 1/sqrt(n),
+        // unbiased sample variance SE = sqrt(2/(n - 1)).
+        assert!(mean.abs() < 6.0 / n.sqrt(), "mean: {}", mean);
+        assert!((variance - 1.0).abs() < 6.0 * (2.0 / (n - 1.0)).sqrt(),
+                "variance: {}", variance);
+
+        // Check shape and both tails, beyond just the first two moments.
+        // Each cumulative count has binomial SE = sqrt(n*p*(1-p)).
+        for (&count, &(threshold, probability)) in counts.iter().zip(cdf.iter()) {
+            let expected = n * probability;
+            let tolerance = 6.0 * (n * probability * (1.0 - probability)).sqrt();
+            assert!((count as f64 - expected).abs() < tolerance,
+                    "CDF at {}: got {}, expected {} +/- {}",
+                    threshold, count, expected, tolerance);
+        }
     }
 }
