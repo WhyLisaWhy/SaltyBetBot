@@ -505317,5 +505317,86 @@
     "sum": 123047350,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25134
+    },
+    "date": 1791150687326,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 1449407,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Thouther",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4170089,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Stewie griffin",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 123047351,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24393
+    },
+    "date": 1791150873325,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 4560322,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Stake",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1383727,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sachiel type-l",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 123022217,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20268
+    },
+    "date": 1791151083529,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 1765040,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Baki-hanma",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5698278,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Yosuke hanamura",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 122997824,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
