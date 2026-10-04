@@ -499269,5 +499269,140 @@
     "sum": 2349,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3288
+    },
+    "date": 1791106231928,
+    "duration": 150003,
+    "left": {
+      "bet_amount": 222131,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shadow sumou",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 48640,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gully",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 3288,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3998
+    },
+    "date": 1791106508325,
+    "duration": 216131,
+    "left": {
+      "bet_amount": 208881,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ai anesan",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 90211,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Chicken",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 3998,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5693
+    },
+    "date": 1791106702336,
+    "duration": 134015,
+    "left": {
+      "bet_amount": 305450,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Layla",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76202,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Gign_counter",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 5693,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7088
+    },
+    "date": 1791106932521,
+    "duration": 173994,
+    "left": {
+      "bet_amount": 356626,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Max thunder",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 115029,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Histoire",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 7088,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791107112720,
+    "duration": 119989,
+    "left": {
+      "bet_amount": 125002,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Emerl the gizoid",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 191246,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Godzilla-tower",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
