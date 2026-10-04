@@ -496571,5 +496571,113 @@
     "sum": 122756324,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791088524126,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1121366,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kusanagi EX3",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3713957,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ttro",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 122756325,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20589
+    },
+    "date": 1791088654325,
+    "duration": 74198,
+    "left": {
+      "bet_amount": 907463,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "King of zero",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2980271,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Michael_roa_valdamjong",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 122756326,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20953
+    },
+    "date": 1791088814331,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 4747668,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Slamgief",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067638,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Soushihan k.s.k 12p color",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122735737,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791088990525,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 1103625,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Goku ssj2",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2810476,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dogma",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 122740429,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
