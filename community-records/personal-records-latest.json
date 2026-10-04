@@ -502725,5 +502725,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10143
+    },
+    "date": 1791134312329,
+    "duration": 86005,
+    "left": {
+      "bet_amount": 5243490,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Masked rider decade",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1219822,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Otonashi",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 122717231,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37430
+    },
+    "date": 1791134482527,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 4069349,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Dio S",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1469677,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kunoichi nwa",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 122719587,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791134582528,
+    "duration": 56002,
+    "left": {
+      "bet_amount": 1130431,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Power lyzer",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6057667,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Master marco",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122732982,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791134758731,
+    "duration": 116205,
+    "left": {
+      "bet_amount": 2248820,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Kisei de dekinaiko",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3802347,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ukyo tachibana EX3",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 122732983,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791134942928,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 2006607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Pullum purna",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2668519,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Snow knight",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 122732984,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
