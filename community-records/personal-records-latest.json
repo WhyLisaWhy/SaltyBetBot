@@ -505938,5 +505938,140 @@
     "sum": 122990482,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28450
+    },
+    "date": 1791156862126,
+    "duration": 180201,
+    "left": {
+      "bet_amount": 3414321,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Kokesz",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1470328,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Takiyasya",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 122989303,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12132
+    },
+    "date": 1791157002325,
+    "duration": 70200,
+    "left": {
+      "bet_amount": 3180836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Vegeta ssbe",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1182899,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Sayuri hexe",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122960853,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791157148326,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 3273425,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Shermie as",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1812813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Nadja applefield",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 122948721,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791157288527,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 1627170,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mai S",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4997892,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Haohmaru 98",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 122948720,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18972
+    },
+    "date": 1791157428527,
+    "duration": 80004,
+    "left": {
+      "bet_amount": 2740111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Akebi",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6189382,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Element -a-",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122948721,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
