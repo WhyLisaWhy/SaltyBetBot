@@ -501834,5 +501834,113 @@
     "sum": 122674286,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29612
+    },
+    "date": 1791127184729,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 2166999,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Cielo",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1881671,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Nazrin deluxe",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122658691,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19508
+    },
+    "date": 1791127360927,
+    "duration": 110204,
+    "left": {
+      "bet_amount": 1176658,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider duke",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7826160,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Black witch eva",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 122629079,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34249
+    },
+    "date": 1791127581125,
+    "duration": 166196,
+    "left": {
+      "bet_amount": 2345067,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Whispy woods",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3247266,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ooze-o",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 122632005,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24544
+    },
+    "date": 1791127811326,
+    "duration": 174195,
+    "left": {
+      "bet_amount": 3443080,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Chibi feilin",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1043701,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rip_saber",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 122678748,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
