@@ -494278,5 +494278,113 @@
     "sum": 122723032,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791072365325,
+    "duration": 101999,
+    "left": {
+      "bet_amount": 17592988,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Rokusho",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 971144,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Roxy",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "sum": 122705410,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791072519531,
+    "duration": 100205,
+    "left": {
+      "bet_amount": 10468637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Shoebill",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2381467,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Toro inoue",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122705411,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39961
+    },
+    "date": 1791072749726,
+    "duration": 170200,
+    "left": {
+      "bet_amount": 3402498,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Magic nanaya+ huunsaiki",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1319208,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Koishi komeiji",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 122705410,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1965
+    },
+    "date": 1791072893727,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1047355,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sakura haruno shippuden",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4485855,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kanae mkt",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 122720724,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
