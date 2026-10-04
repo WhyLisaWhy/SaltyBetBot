@@ -504750,5 +504750,113 @@
     "sum": 122758688,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3342
+    },
+    "date": 1791146952325,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 4432021,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Duralminn",
+      "normal_bettors": 33,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2999501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Umvc_suika",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 122775522,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40080
+    },
+    "date": 1791147166528,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 1169096,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Syobo-n",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6366755,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Tyrant J",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 122777783,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44615
+    },
+    "date": 1791147266525,
+    "duration": 39998,
+    "left": {
+      "bet_amount": 3251808,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Light yagami",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4402832,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Destiny.dio",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 122988819,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19449
+    },
+    "date": 1791147516725,
+    "duration": 194199,
+    "left": {
+      "bet_amount": 2035974,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Eleicia",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3101092,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "A-green",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 122944204,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
