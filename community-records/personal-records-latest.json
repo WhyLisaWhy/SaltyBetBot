@@ -498245,5 +498245,113 @@
     "sum": 122438881,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26462
+    },
+    "date": 1791099256525,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 2934241,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Makao and joma",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1619882,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Goro",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 122414791,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30919
+    },
+    "date": 1791099480735,
+    "duration": 170209,
+    "left": {
+      "bet_amount": 1739846,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ksitigarbha ikkyu",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2461479,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Billy 2 moons",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 122461954,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791099652927,
+    "duration": 112180,
+    "left": {
+      "bet_amount": 5858203,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Master sakura",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1307306,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shenlong",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122431035,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30322
+    },
+    "date": 1791099806924,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 1272244,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sephiroth AK",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2692824,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Daisy dw",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 122431036,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
