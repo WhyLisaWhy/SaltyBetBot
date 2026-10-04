@@ -499188,5 +499188,86 @@
     "sum": 122488584,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28503
+    },
+    "date": 1791105249326,
+    "duration": 88199,
+    "left": {
+      "bet_amount": 4294211,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Jazu",
+      "normal_bettors": 27,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1387529,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Silver the hedgehog",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "sum": 122497476,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791105651532,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 120809,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Unber",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63052,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Milan flare",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2349
+    },
+    "date": 1791106027927,
+    "duration": 316403,
+    "left": {
+      "bet_amount": 160605,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Yuri",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 65109,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Peter griffin",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 2349,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
