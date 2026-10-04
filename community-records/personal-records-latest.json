@@ -502347,5 +502347,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2464
+    },
+    "date": 1791130735526,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 57761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Liu-kang",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 214403,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Mirage",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 2464,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791130895730,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 183130,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dragon gundam",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145182,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Lf2 - firzen",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3485
+    },
+    "date": 1791131141926,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 107497,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yagumo_ex",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 257994,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Jack-hamma ex",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 3485,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4918
+    },
+    "date": 1791131361923,
+    "duration": 165991,
+    "left": {
+      "bet_amount": 316825,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Chloe heartfield",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 101280,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sittara",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 4918,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
