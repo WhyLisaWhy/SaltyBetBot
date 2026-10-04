@@ -503778,5 +503778,113 @@
     "sum": 122643132,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27911
+    },
+    "date": 1791140737534,
+    "duration": 170208,
+    "left": {
+      "bet_amount": 4320689,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Power girl",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1581649,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ripper roo",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 122647085,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6064
+    },
+    "date": 1791140991724,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 1135804,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eddie mvc",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4113119,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Xbl balrog",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 122619174,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1597
+    },
+    "date": 1791141117728,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 1295195,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Syo hayate EX",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4488903,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Kaede kasiwagi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122613110,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21267
+    },
+    "date": 1791141297942,
+    "duration": 120216,
+    "left": {
+      "bet_amount": 1492141,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "F91",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3232033,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Celesty",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 122613571,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
