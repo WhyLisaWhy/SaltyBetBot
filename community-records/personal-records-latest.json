@@ -505587,5 +505587,113 @@
     "sum": 2269,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791153191126,
+    "duration": 204201,
+    "left": {
+      "bet_amount": 482287,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Gatocyu",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 100350,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Maori",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1872
+    },
+    "date": 1791153411325,
+    "duration": 159987,
+    "left": {
+      "bet_amount": 359894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Devo the cursed",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 276752,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Phone(redux)",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 1872,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791153691526,
+    "duration": 219977,
+    "left": {
+      "bet_amount": 146954,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Rei chibi",
+      "normal_bettors": 18,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 521450,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Zen kasen ibaraki",
+      "normal_bettors": 30,
+      "win_streak": 11
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791153967725,
+    "duration": 210000,
+    "left": {
+      "bet_amount": 540021,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kaio helmo",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 197652,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Eddie DD",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
