@@ -496301,5 +496301,113 @@
     "sum": 6327,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791085819931,
+    "duration": 166004,
+    "left": {
+      "bet_amount": 93845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Iari",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 542877,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "May(ac)",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1818
+    },
+    "date": 1791086066125,
+    "duration": 185986,
+    "left": {
+      "bet_amount": 103702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Fragrant310",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 654457,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Redking",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "sum": 1818,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791086240335,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 274274,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Myon gitsune",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 266712,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kousonsyou",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3135
+    },
+    "date": 1791086430525,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 325396,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Raiya_mikazuchi",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 325919,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Lolicard",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 3135,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
