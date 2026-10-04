@@ -495572,5 +495572,113 @@
     "sum": 122715797,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29558
+    },
+    "date": 1791080541726,
+    "duration": 199991,
+    "left": {
+      "bet_amount": 1179553,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Juggernaut",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3972362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Ghost rider",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122685582,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30510
+    },
+    "date": 1791080741927,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 2116747,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Skeletor dx",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3063863,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Alisa qyc",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122782691,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 780
+    },
+    "date": 1791080892125,
+    "duration": 94198,
+    "left": {
+      "bet_amount": 5098249,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ryu hayabusa x",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1261496,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "White",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 122826225,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30133
+    },
+    "date": 1791081092325,
+    "duration": 144177,
+    "left": {
+      "bet_amount": 6272328,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Fire",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1335573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "!",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 122826418,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
