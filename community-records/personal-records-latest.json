@@ -502077,5 +502077,140 @@
     "sum": 122605673,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32152
+    },
+    "date": 1791128904130,
+    "duration": 102201,
+    "left": {
+      "bet_amount": 1019045,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cyberbot_atlas",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4361418,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Teoc reisen",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 122620717,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36988
+    },
+    "date": 1791129154336,
+    "duration": 190210,
+    "left": {
+      "bet_amount": 1301990,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Apocalypse EX2",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4226377,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Gaira EX2",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "sum": 122588565,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35993
+    },
+    "date": 1791129298324,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 1579265,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Skelegon",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2579124,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Vergil",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 122705315,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28508
+    },
+    "date": 1791129464526,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1795528,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Mery",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2289817,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Ultraseven_a",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 122727052,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12637
+    },
+    "date": 1791129598725,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 3665983,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ninja_kun",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3652199,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Miko-q",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122698544,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
