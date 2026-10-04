@@ -503346,5 +503346,86 @@
     "sum": 122670279,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18484
+    },
+    "date": 1791138113332,
+    "duration": 180206,
+    "left": {
+      "bet_amount": 1297151,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tony won",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4465925,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Yashiro EX2",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 122682800,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9981
+    },
+    "date": 1791138313526,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 2945056,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Zazie muhaba dynamite",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2048196,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Teddie",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "sum": 122664316,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38852
+    },
+    "date": 1791138477726,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 2080946,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Claus",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5413872,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mega robo-len",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122654335,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
