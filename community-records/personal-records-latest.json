@@ -500484,5 +500484,140 @@
     "sum": 122285432,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34085
+    },
+    "date": 1791118225523,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 4322512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ultron is",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189411,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jobman EX7",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122285433,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 516
+    },
+    "date": 1791118371727,
+    "duration": 86192,
+    "left": {
+      "bet_amount": 1046122,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ky(ac)",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6849559,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 122405853,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19504
+    },
+    "date": 1791118585724,
+    "duration": 153997,
+    "left": {
+      "bet_amount": 1521866,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Raymoo",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2914335,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Axl",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 122405932,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6027
+    },
+    "date": 1791118757928,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 3603982,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Smasher",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1063974,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cerulean boss-type",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 122442810,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19789
+    },
+    "date": 1791118908126,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1323716,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Goeniko",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2479502,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Crybow",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 122444587,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
