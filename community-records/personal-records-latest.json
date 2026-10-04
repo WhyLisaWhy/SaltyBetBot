@@ -502455,5 +502455,113 @@
     "sum": 4918,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791131572142,
+    "duration": 150010,
+    "left": {
+      "bet_amount": 241628,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Joseph joestar EX3",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 227293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gogyou setsuna",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2999
+    },
+    "date": 1791131812327,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 165711,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 364347,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Aokiji kuzan",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 2999,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4352
+    },
+    "date": 1791132058520,
+    "duration": 189989,
+    "left": {
+      "bet_amount": 405342,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Rethi",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 143689,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Takuma",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 4352,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5879
+    },
+    "date": 1791132248728,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 538568,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "General",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89677,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Liu-kang",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 5879,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
