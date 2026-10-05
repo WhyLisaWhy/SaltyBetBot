@@ -515575,5 +515575,140 @@
     "sum": 123460269,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35166
+    },
+    "date": 1791226978524,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 995080,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Little nemo",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4801869,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Speed pq",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 123425025,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14705
+    },
+    "date": 1791227164730,
+    "duration": 132004,
+    "left": {
+      "bet_amount": 1098203,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sannomiya_shiho",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4514082,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Alt(hana-ai)",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 123432260,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791227408934,
+    "duration": 190205,
+    "left": {
+      "bet_amount": 1220720,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pacman",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6190802,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Soujiro EX3",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 123435826,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3002
+    },
+    "date": 1791227565127,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1365062,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider garren",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2736418,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Arabian moon",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 123435827,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20931
+    },
+    "date": 1791227695326,
+    "duration": 76198,
+    "left": {
+      "bet_amount": 2316834,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Amber-k",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 883116,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Orochi fire chris",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 123437323,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
