@@ -508503,5 +508503,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2717
+    },
+    "date": 1791173853324,
+    "duration": 300202,
+    "left": {
+      "bet_amount": 227692,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Tengu man",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 58294,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Lilith aensland",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 2717,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3405
+    },
+    "date": 1791174011525,
+    "duration": 97998,
+    "left": {
+      "bet_amount": 265446,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Vice CVS",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55660,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Tayuya",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 3405,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791174305733,
+    "duration": 242208,
+    "left": {
+      "bet_amount": 313334,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kiyoshi",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 56088,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Necro",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1827
+    },
+    "date": 1791174485926,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 59665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Guile_a",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 368556,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Electra 2097",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 1827,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2122
+    },
+    "date": 1791174806125,
+    "duration": 256198,
+    "left": {
+      "bet_amount": 199594,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Foxy the pirate",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270314,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "G project",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 2122,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
