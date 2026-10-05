@@ -508719,5 +508719,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791175716940,
+    "duration": 234214,
+    "left": {
+      "bet_amount": 315104,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Vice CVS",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 174328,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kiyoshi",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791175882926,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 246992,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Electra 2097",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 416615,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "G project",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4149
+    },
+    "date": 1791176073130,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 476814,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Claudia",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 152088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Yugo ogami",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 4149,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5461
+    },
+    "date": 1791176313327,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 553806,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Shinsaku maekawa",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 181884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Vice CVS",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 5461,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
