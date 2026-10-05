@@ -508341,5 +508341,86 @@
     "sum": 123181665,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20475
+    },
+    "date": 1791172222125,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 4036030,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Uranus",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3159779,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Gaogaigar: the king of braves",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123196619,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5682
+    },
+    "date": 1791172472397,
+    "duration": 196271,
+    "left": {
+      "bet_amount": 2332589,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kusanagi-sp",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6316495,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Misaka mikoto",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "sum": 123176144,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29165
+    },
+    "date": 1791172632528,
+    "duration": 106204,
+    "left": {
+      "bet_amount": 6087349,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dooj mustachio",
+      "normal_bettors": 29,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1615458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lightning bd",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 123170462,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
