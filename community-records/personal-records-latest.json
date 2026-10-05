@@ -511822,5 +511822,86 @@
     "sum": 32644,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791199169125,
+    "duration": 194201,
+    "left": {
+      "bet_amount": 270347,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The binding of isaac",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1281117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Zazie muhaba dynamite",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1877
+    },
+    "date": 1791199345325,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 810283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Duck king xi",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 835544,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Varnage",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 1877,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791199599330,
+    "duration": 194004,
+    "left": {
+      "bet_amount": 99004,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Vergil2",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1737224,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Baki-hanma ex",
+      "normal_bettors": 28,
+      "win_streak": 11
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
