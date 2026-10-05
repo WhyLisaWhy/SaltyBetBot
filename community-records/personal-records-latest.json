@@ -517436,5 +517436,167 @@
     "sum": 123438293,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791239534325,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1073748,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yusha",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2601241,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Snakeeyes",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 123447736,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43162
+    },
+    "date": 1791239674525,
+    "duration": 79991,
+    "left": {
+      "bet_amount": 4966404,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Zenia valov",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1303416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cursor",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123447739,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13676
+    },
+    "date": 1791239818527,
+    "duration": 84004,
+    "left": {
+      "bet_amount": 1339796,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kamui tenrou",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3476399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Tekkamann-lance",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 123404577,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47918
+    },
+    "date": 1791240084925,
+    "duration": 206201,
+    "left": {
+      "bet_amount": 1263330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Marstorius",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2870577,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Kanon di jajajajaja",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 123409828,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21477
+    },
+    "date": 1791240268925,
+    "duration": 124000,
+    "left": {
+      "bet_amount": 3100989,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Mictlan EX",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1233319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shun'ei",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 123361910,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4450
+    },
+    "date": 1791240405127,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1131781,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Anna kyoyama",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3907976,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rugal b.",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 123370394,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
