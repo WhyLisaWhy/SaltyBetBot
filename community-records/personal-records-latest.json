@@ -507423,5 +507423,167 @@
     "sum": 123032886,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24030
+    },
+    "date": 1791166601925,
+    "duration": 160196,
+    "left": {
+      "bet_amount": 7421016,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Johann EX3",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1424217,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sorluska",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 123035517,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791166812126,
+    "duration": 154200,
+    "left": {
+      "bet_amount": 2761526,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mashiro",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2726745,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Shanghai doll",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 123011487,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791166958124,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 4836806,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Saizo ryo",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2009017,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Natsuka fuou",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 123011486,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 488
+    },
+    "date": 1791167118325,
+    "duration": 100194,
+    "left": {
+      "bet_amount": 4172781,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Adelheid xiii",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1676025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Komepo",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 123011485,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791167260323,
+    "duration": 85997,
+    "left": {
+      "bet_amount": 7189937,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Lelouch EX",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1384055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Supergirl",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "sum": 123010997,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28624
+    },
+    "date": 1791167384530,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 2040008,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Megalon",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2678279,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Turf EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 123010998,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
