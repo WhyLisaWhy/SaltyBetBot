@@ -511257,5 +511257,113 @@
     "sum": 123256443,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 826
+    },
+    "date": 1791194727527,
+    "duration": 209993,
+    "left": {
+      "bet_amount": 1341669,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Retsu ff",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2734525,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Nintendo switch",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 123313121,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12207
+    },
+    "date": 1791194917727,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 1748084,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Archer f/sn",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2718519,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Hisui",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 123312295,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19739
+    },
+    "date": 1791195103927,
+    "duration": 126195,
+    "left": {
+      "bet_amount": 1320622,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Black cat",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2875134,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Laguna",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 123300088,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 945
+    },
+    "date": 1791195288131,
+    "duration": 130204,
+    "left": {
+      "bet_amount": 1877969,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Goku kid",
+      "normal_bettors": 8,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6962269,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Seth SF4",
+      "normal_bettors": 23,
+      "win_streak": 0
+    },
+    "sum": 123342430,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
