@@ -510015,5 +510015,167 @@
     "sum": 123132496,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25898
+    },
+    "date": 1791186319125,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 2981571,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Vulcano rosso",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1045573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ex apollo",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 123132497,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19553
+    },
+    "date": 1791186545329,
+    "duration": 162200,
+    "left": {
+      "bet_amount": 3838465,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kamen rider gaim",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2357268,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kisuke urahara",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 123106599,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30239
+    },
+    "date": 1791186725544,
+    "duration": 120216,
+    "left": {
+      "bet_amount": 2639988,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Last fencer",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2331811,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Uzuki shimamura",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123118546,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791186895527,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 2365741,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Bulleta pots",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1634996,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Rain mk2",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 123152344,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3697
+    },
+    "date": 1791187079724,
+    "duration": 124196,
+    "left": {
+      "bet_amount": 2147293,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Robo-sol",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1305004,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Laurence blood rb2",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 123152345,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13912
+    },
+    "date": 1791187309927,
+    "duration": 170173,
+    "left": {
+      "bet_amount": 1219229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mint",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5927497,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Regin",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "sum": 123154588,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
