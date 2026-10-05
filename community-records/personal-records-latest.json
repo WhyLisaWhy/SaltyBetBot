@@ -511579,5 +511579,113 @@
     "sum": 6745,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6745
+    },
+    "date": 1791197201529,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 301706,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Namikiyo",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 673275,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Thanos",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 6745,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9738
+    },
+    "date": 1791197451724,
+    "duration": 196195,
+    "left": {
+      "bet_amount": 940767,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Roppen heimer EX FF",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 495477,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dougster",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 9738,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791197601928,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1049591,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "The binding of isaac",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 178453,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dachon",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 14815,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14816
+    },
+    "date": 1791197781926,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 975117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Zazie muhaba dynamite",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 661230,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mr.karate EX2",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 14816,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
