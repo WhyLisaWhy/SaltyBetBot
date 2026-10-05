@@ -516115,5 +516115,113 @@
     "sum": 123448795,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2907
+    },
+    "date": 1791230759528,
+    "duration": 129960,
+    "left": {
+      "bet_amount": 2686636,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Shun - andromeda",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1346180,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Misty",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 123461912,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35143
+    },
+    "date": 1791230879725,
+    "duration": 59997,
+    "left": {
+      "bet_amount": 9991098,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Justice gg1 ex",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905860,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rozwel j",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 123463368,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791231141936,
+    "duration": 202211,
+    "left": {
+      "bet_amount": 2821685,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Sunstreaker",
+      "normal_bettors": 25,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2784362,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Eas",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 123466544,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22675
+    },
+    "date": 1791231340129,
+    "duration": 138202,
+    "left": {
+      "bet_amount": 1943909,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Es",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1881832,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "The savage pumpkin",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 123466546,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
