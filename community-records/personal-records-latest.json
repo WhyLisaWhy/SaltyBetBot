@@ -506802,5 +506802,113 @@
     "sum": 122935575,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791162576726,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 1032752,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mayura",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1902797,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Lilly",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 122921746,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7784
+    },
+    "date": 1791162710724,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1358737,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tyoukesin EX3",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4497092,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sabu EX3",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 122921746,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23480
+    },
+    "date": 1791162910925,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 2474560,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "The vampire savior",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1689802,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Omega rugal 95",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 122921748,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29526
+    },
+    "date": 1791163091126,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 2959091,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "K.m.mioh",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1478315,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Yacopu",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 122900616,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
