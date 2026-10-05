@@ -509610,5 +509610,167 @@
     "sum": 123151600,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791183705126,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 3970152,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Asagi asagiri",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1214762,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yagumo og",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123183716,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31725
+    },
+    "date": 1791183905127,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1313737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Lilith",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1643942,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Duck king xi",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123183720,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30196
+    },
+    "date": 1791184115326,
+    "duration": 155996,
+    "left": {
+      "bet_amount": 2358334,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Catherine kyohbashi mvc",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1503743,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lucia fernandez",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 123222483,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18240
+    },
+    "date": 1791184285526,
+    "duration": 113998,
+    "left": {
+      "bet_amount": 5531871,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shinra",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1369969,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ranma saotome EX2",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 123192287,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791184465724,
+    "duration": 124199,
+    "left": {
+      "bet_amount": 2445770,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Mokou EX",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1671798,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Doxue misaka",
+      "normal_bettors": 14,
+      "win_streak": 5
+    },
+    "sum": 123196790,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23436
+    },
+    "date": 1791184615733,
+    "duration": 90005,
+    "left": {
+      "bet_amount": 1199495,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Yui_kutuna",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2680112,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Uncle saizo",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 123196792,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
