@@ -512254,5 +512254,140 @@
     "sum": 123471644,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791203716563,
+    "duration": 126030,
+    "left": {
+      "bet_amount": 824416,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Faust",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7136574,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Bernkastel",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "sum": 123429916,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16386
+    },
+    "date": 1791203866725,
+    "duration": 89984,
+    "left": {
+      "bet_amount": 795239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Number muncher",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2696456,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "G project",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 123429917,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30471
+    },
+    "date": 1791204002928,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 8322136,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Colossus mvc2 ex",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Magic dunker EX",
+      "normal_bettors": 5,
+      "win_streak": -10
+    },
+    "sum": 123434721,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40461
+    },
+    "date": 1791204202926,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 2714646,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Do you believe it?",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 906005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Faust",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 123438554,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24703
+    },
+    "date": 1791204343127,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 1222254,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "M-lancer",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1954769,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Angry ninja",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 123398093,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
