@@ -506235,5 +506235,140 @@
     "sum": 122930632,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791158675523,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 4093669,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Shiiko yuzuki",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1565168,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Fenice",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 122943807,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 420
+    },
+    "date": 1791158835727,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 1879159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Robert 98",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4938257,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Takuan osho",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 122943810,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17750
+    },
+    "date": 1791158999925,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 1356358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Billy",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3663391,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Kyoko_sakura EX",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 122943970,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26052
+    },
+    "date": 1791159190003,
+    "duration": 134077,
+    "left": {
+      "bet_amount": 1461694,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Daimaoh",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3018779,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Sol-b-pw",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 122926220,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24305
+    },
+    "date": 1791159396125,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 2039805,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nega ryo",
+      "normal_bettors": 6,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2734099,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Spy-dama EX",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122938727,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
