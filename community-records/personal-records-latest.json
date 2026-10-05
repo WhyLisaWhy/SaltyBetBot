@@ -514360,5 +514360,113 @@
     "sum": 123373200,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3951
+    },
+    "date": 1791217142922,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1420721,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Smoker",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2895463,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kaioh-retsu",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123377666,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10501
+    },
+    "date": 1791217269123,
+    "duration": 64196,
+    "left": {
+      "bet_amount": 5507221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Koumakan sakuya",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1180790,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Megu asuhara",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 123373715,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9171
+    },
+    "date": 1791217529327,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 1062371,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Celesteela",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2369295,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Maggyo IX",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 123375963,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16779
+    },
+    "date": 1791217679326,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 4083282,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Sailor mercury crystal",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208348,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rosa - deep crimson vixen",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 123380060,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
