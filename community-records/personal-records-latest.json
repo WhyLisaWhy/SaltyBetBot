@@ -517814,5 +517814,113 @@
     "sum": 2181,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3045
+    },
+    "date": 1791242438725,
+    "duration": 196191,
+    "left": {
+      "bet_amount": 289562,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Firestorm",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50802,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ninja megazord",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 3045,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3574
+    },
+    "date": 1791242584725,
+    "duration": 91999,
+    "left": {
+      "bet_amount": 165280,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Glacius",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 241401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Warmachine MVC",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "sum": 3574,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8684
+    },
+    "date": 1791242770925,
+    "duration": 131997,
+    "left": {
+      "bet_amount": 93464,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Sun wu kong",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 357790,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Puri*princess plus",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 8684,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791242939124,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 188023,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Devil jin",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 319257,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shizumaru ex",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
