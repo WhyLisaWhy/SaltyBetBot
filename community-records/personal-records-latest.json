@@ -508827,5 +508827,59 @@
     "sum": 5461,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7238
+    },
+    "date": 1791176557528,
+    "duration": 190205,
+    "left": {
+      "bet_amount": 504478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Electra 2097",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 481603,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Claudia",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 7238,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791176882121,
+    "duration": 268595,
+    "left": {
+      "bet_amount": 547683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Shinsaku maekawa",
+      "normal_bettors": 24,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 724413,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Claudia",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
