@@ -511984,5 +511984,86 @@
     "sum": 30784,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20683
+    },
+    "date": 1791202129331,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 1359832,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider amazon alpha",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1791516,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Lee & ryoko",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 123407201,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28862
+    },
+    "date": 1791202293533,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 1629698,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Thwomp",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1245994,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Kousonsyou",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123434042,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25187
+    },
+    "date": 1791202409525,
+    "duration": 55975,
+    "left": {
+      "bet_amount": 854083,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Zankuro",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2074722,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Tesse 7",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 123405180,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
