@@ -507153,5 +507153,140 @@
     "sum": 122924661,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21799
+    },
+    "date": 1791164930530,
+    "duration": 145998,
+    "left": {
+      "bet_amount": 1574619,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Klonoa",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3719968,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Archetype earth_r",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 122946496,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30503
+    },
+    "date": 1791165054726,
+    "duration": 63993,
+    "left": {
+      "bet_amount": 4117793,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Zenon",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1342885,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cyborg_t-8p",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 122924697,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1669
+    },
+    "date": 1791165260927,
+    "duration": 146198,
+    "left": {
+      "bet_amount": 3203959,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2918384,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Daiyousei_hsts",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122934572,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12649
+    },
+    "date": 1791165414927,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 1504937,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Komepo",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4784821,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Eyedol",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122932903,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20800
+    },
+    "date": 1791165551127,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 1838878,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Michael sobut",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2579569,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Deluxe tetsu yatogi",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 122936871,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
