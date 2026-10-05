@@ -509772,5 +509772,140 @@
     "sum": 123196792,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1220
+    },
+    "date": 1791184785926,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 1657527,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 2,
+      "name": "Alena",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2022917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kagami",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 123173356,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6446
+    },
+    "date": 1791184982126,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 2760155,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Gustoff EX3",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1493220,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryo 98",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 123174844,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29853
+    },
+    "date": 1791185142128,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1227157,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alisa qyc",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2739040,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Mekazawa-sama",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 123168398,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29009
+    },
+    "date": 1791185312328,
+    "duration": 116196,
+    "left": {
+      "bet_amount": 3134653,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Takaragiko",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1483495,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cyber smoke umk3",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 123181629,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 51732
+    },
+    "date": 1791185468526,
+    "duration": 96202,
+    "left": {
+      "bet_amount": 2466807,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Zeeky h. bomb",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286272,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kat",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 123195232,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
