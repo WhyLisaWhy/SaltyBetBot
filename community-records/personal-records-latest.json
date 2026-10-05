@@ -508908,5 +508908,140 @@
     "sum": 123205617,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9943
+    },
+    "date": 1791179143526,
+    "duration": 72197,
+    "left": {
+      "bet_amount": 4976121,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ran horigein",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1278565,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eddie",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 123174637,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1590
+    },
+    "date": 1791179343728,
+    "duration": 146092,
+    "left": {
+      "bet_amount": 1701784,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Keion chan",
+      "normal_bettors": 11,
+      "win_streak": -17
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8537512,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Rera",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 123177187,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4296
+    },
+    "date": 1791179523728,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1539724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fiorenza",
+      "normal_bettors": 9,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9080213,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 15,
+      "name": "Garlic jr",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 123177504,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9071
+    },
+    "date": 1791179687928,
+    "duration": 99967,
+    "left": {
+      "bet_amount": 2716339,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider duke",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3094787,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "New arhan",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 123178233,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791179864137,
+    "duration": 120209,
+    "left": {
+      "bet_amount": 1206811,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Tung fu rue special",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3742834,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Mr.ganon",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 123188534,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
