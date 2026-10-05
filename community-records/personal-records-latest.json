@@ -511365,5 +511365,113 @@
     "sum": 123342430,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12340
+    },
+    "date": 1791195458128,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1900945,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Chrysalis",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1297370,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Shaq",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123342685,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40798
+    },
+    "date": 1791195638330,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 2395375,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Judith_odea_akof",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3539782,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dex-starr",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 123351053,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24496
+    },
+    "date": 1791195848534,
+    "duration": 150206,
+    "left": {
+      "bet_amount": 3380587,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Victor chase",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1656338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Perfecti ex",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123378347,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791196094726,
+    "duration": 186199,
+    "left": {
+      "bet_amount": 3070270,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "The world-dio",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2127729,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Tron bonne",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "sum": 123353851,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
