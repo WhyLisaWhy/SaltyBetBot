@@ -516761,5 +516761,140 @@
     "sum": 123482924,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26695
+    },
+    "date": 1791235136924,
+    "duration": 155997,
+    "left": {
+      "bet_amount": 2702822,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Gecko moriah",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1326755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Reisen udongein inaba",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 123455849,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9427
+    },
+    "date": 1791235281128,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 9984817,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yami_miko EX",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1144476,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Reaper",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 123509159,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22003
+    },
+    "date": 1791235441329,
+    "duration": 104204,
+    "left": {
+      "bet_amount": 2580876,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Gradriel",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172424,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kakyoin noriaki EX3",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 123510239,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12394
+    },
+    "date": 1791235561349,
+    "duration": 64017,
+    "left": {
+      "bet_amount": 1025521,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Oboren",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 12650786,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Neco-arc",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 123557783,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791235705323,
+    "duration": 87976,
+    "left": {
+      "bet_amount": 2428617,
+      "ignored_bettors": 17,
+      "illuminati_bettors": 11,
+      "name": "Lobo",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1205299,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sylphie",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 123558787,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
