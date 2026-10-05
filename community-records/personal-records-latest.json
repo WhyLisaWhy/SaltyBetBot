@@ -515467,5 +515467,113 @@
     "sum": 123446830,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22246
+    },
+    "date": 1791226378128,
+    "duration": 166002,
+    "left": {
+      "bet_amount": 5283700,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Stupid little drill tank",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 939634,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Aboras",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 123463198,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34122
+    },
+    "date": 1791226548328,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 2393320,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Mycale",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1129225,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Xiayu",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "sum": 123440952,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11524
+    },
+    "date": 1791226708525,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 943713,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hakureimu",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3147936,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "William birkin",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 123456826,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35244
+    },
+    "date": 1791226842526,
+    "duration": 79953,
+    "left": {
+      "bet_amount": 998042,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shadow geist ex",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2093301,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Neo Sonic",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 123460269,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
