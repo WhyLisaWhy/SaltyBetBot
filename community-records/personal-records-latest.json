@@ -517598,5 +517598,113 @@
     "sum": 123370394,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24826
+    },
+    "date": 1791240515124,
+    "duration": 55998,
+    "left": {
+      "bet_amount": 8128794,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Raiya_mikazuchi",
+      "normal_bettors": 38,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1043293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gene",
+      "normal_bettors": 7,
+      "win_streak": -9
+    },
+    "sum": 123365944,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32396
+    },
+    "date": 1791240675326,
+    "duration": 106202,
+    "left": {
+      "bet_amount": 1436387,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Satsujinki EX3",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6087733,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Silversamurai",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 123341118,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40877
+    },
+    "date": 1791240851325,
+    "duration": 116002,
+    "left": {
+      "bet_amount": 1111991,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Charlotte s",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5413568,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Rei chibi",
+      "normal_bettors": 35,
+      "win_streak": 10
+    },
+    "sum": 123348722,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27180
+    },
+    "date": 1791241032927,
+    "duration": 127402,
+    "left": {
+      "bet_amount": 4005889,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Rugal.b",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1263515,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ninja nwa",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 123307845,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
