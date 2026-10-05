@@ -515035,5 +515035,86 @@
     "sum": 5537,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36758
+    },
+    "date": 1791223527927,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 3133719,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Shingo",
+      "normal_bettors": 25,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1369959,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Yang adam",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 123396274,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38727
+    },
+    "date": 1791223714128,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 1172485,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Goro",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1729431,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Dark kahn",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 123478160,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18048
+    },
+    "date": 1791223984329,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 5161775,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kouyalen",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1043896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Majin boo EX3",
+      "normal_bettors": 7,
+      "win_streak": -9
+    },
+    "sum": 123439433,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
