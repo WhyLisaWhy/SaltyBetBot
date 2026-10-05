@@ -517706,5 +517706,113 @@
     "sum": 123307845,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791241525925,
+    "duration": 224200,
+    "left": {
+      "bet_amount": 44967,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Carl clover",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138155,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Adon sfa",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791241802126,
+    "duration": 216201,
+    "left": {
+      "bet_amount": 87411,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yuri mkv",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 114575,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "The mask jc",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791241924322,
+    "duration": 66196,
+    "left": {
+      "bet_amount": 181025,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Shanoa",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74299,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The lad",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2181
+    },
+    "date": 1791242182531,
+    "duration": 200176,
+    "left": {
+      "bet_amount": 220316,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Devilch",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 88055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Freezer 4ta forma",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 2181,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
