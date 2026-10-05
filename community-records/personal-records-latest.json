@@ -517058,5 +517058,86 @@
     "sum": 123518607,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791236950327,
+    "duration": 146003,
+    "left": {
+      "bet_amount": 3162997,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Liza",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 996208,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "R_ed",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123475705,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35873
+    },
+    "date": 1791237214735,
+    "duration": 210208,
+    "left": {
+      "bet_amount": 1294486,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Black rock shooter",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2883874,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Polon",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 123475706,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22980
+    },
+    "date": 1791237410727,
+    "duration": 135998,
+    "left": {
+      "bet_amount": 1394511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kill bill jhonny_mo",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3017623,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Dakki",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 123439833,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
