@@ -509232,5 +509232,140 @@
     "sum": 123154003,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32060
+    },
+    "date": 1791181231129,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 3975561,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Cycloid sigma y",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1743625,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Potemkin",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 123168837,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25414
+    },
+    "date": 1791181465320,
+    "duration": 180192,
+    "left": {
+      "bet_amount": 2220647,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 3,
+      "name": "Feli",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2045853,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Weregarurumon",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123182786,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791181627526,
+    "duration": 106197,
+    "left": {
+      "bet_amount": 6678544,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Muscle mario",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1471151,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Phoenix_connexion",
+      "normal_bettors": 7,
+      "win_streak": -9
+    },
+    "sum": 123205935,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24482
+    },
+    "date": 1791181767528,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 3317822,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Shintaro",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1581984,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nelo angelo",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 123205936,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3101
+    },
+    "date": 1791181917728,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 1813701,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gameralen",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1921358,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "King cvs",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123181454,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
