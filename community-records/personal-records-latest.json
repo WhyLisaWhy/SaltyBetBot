@@ -513658,5 +513658,113 @@
     "sum": 123311182,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19308
+    },
+    "date": 1791212711526,
+    "duration": 166001,
+    "left": {
+      "bet_amount": 1163883,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Injya 1p",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3030025,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Terminator orochi",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123283197,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22774
+    },
+    "date": 1791212895732,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 2162318,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Jage",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1845523,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Mech ralf",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 123290567,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11184
+    },
+    "date": 1791213055928,
+    "duration": 104193,
+    "left": {
+      "bet_amount": 2028353,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Valgasu",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1549706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Heidi",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123309802,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14039
+    },
+    "date": 1791213221928,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 5994293,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Goro daimon",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Belmod",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 123318300,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
