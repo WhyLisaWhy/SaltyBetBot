@@ -514873,5 +514873,140 @@
     "sum": 2028,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2269
+    },
+    "date": 1791220717725,
+    "duration": 123982,
+    "left": {
+      "bet_amount": 416692,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 9,
+      "name": "Koryu",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50847,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuki yuna",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 2269,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2545
+    },
+    "date": 1791220933925,
+    "duration": 156181,
+    "left": {
+      "bet_amount": 111168,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 3,
+      "name": "P-silver",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 375284,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shiva",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 2545,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791221134128,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 681313,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Pororo",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131790,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Real general",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791221334324,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 305146,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Manifest yuki",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 464626,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Koryu",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3899
+    },
+    "date": 1791221470326,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 642655,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Shiva",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 271457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Real general",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 3899,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
