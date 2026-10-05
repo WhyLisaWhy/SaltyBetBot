@@ -516223,5 +516223,111 @@
     "sum": 123466546,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20085
+    },
+    "date": 1791231516326,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 3011865,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Raira",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 930661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kotaro kazama",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123443871,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1791231686327,
+    "duration": 115924,
+    "left": {
+      "bet_amount": 2036185,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Karin CVS",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2675318,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Biscuit-oliva",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123443871,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 45541
+    },
+    "date": 1791231870527,
+    "duration": 130185,
+    "left": {
+      "bet_amount": 1850696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Brunestud arcueid",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1415768,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Adam",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 123443871,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16413
+    },
+    "date": 1791232126737,
+    "duration": 196208,
+    "left": {
+      "bet_amount": 1123580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vh_mami EX",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4483620,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Alexander anderson",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 123378245,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
