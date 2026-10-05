@@ -509907,5 +509907,113 @@
     "sum": 123195232,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791185624525,
+    "duration": 101999,
+    "left": {
+      "bet_amount": 819549,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Strider hien",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8038591,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Gaia EX2",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123143500,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18626
+    },
+    "date": 1791185858731,
+    "duration": 180204,
+    "left": {
+      "bet_amount": 1486900,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Cf-len",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1770719,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Morgiana EX2",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 123143501,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22480
+    },
+    "date": 1791186018927,
+    "duration": 100186,
+    "left": {
+      "bet_amount": 994274,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Youko",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2910577,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Mami EX",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 123124875,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791186158926,
+    "duration": 85996,
+    "left": {
+      "bet_amount": 3265275,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Washizuka xi",
+      "normal_bettors": 26,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2400434,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nannanda anta",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 123132496,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
