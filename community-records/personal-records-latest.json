@@ -513226,5 +513226,140 @@
     "sum": 123387388,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19384
+    },
+    "date": 1791210061522,
+    "duration": 125991,
+    "left": {
+      "bet_amount": 1741046,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Blackheart",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1904220,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Syouzan matsuo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123395138,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19943
+    },
+    "date": 1791210241721,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 865422,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yuuki asuna",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2342484,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Gi gi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 123416106,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27253
+    },
+    "date": 1791210421721,
+    "duration": 123994,
+    "left": {
+      "bet_amount": 1344107,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "F.killerbee",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1844968,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Youmu konpaku EX",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123423412,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41938
+    },
+    "date": 1791210551926,
+    "duration": 73968,
+    "left": {
+      "bet_amount": 1172896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Licht",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2265146,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Mo-mo-dainamaitu EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 123396159,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5674
+    },
+    "date": 1791210677927,
+    "duration": 66000,
+    "left": {
+      "bet_amount": 974082,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The guy",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9033309,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Envia",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 123417480,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
