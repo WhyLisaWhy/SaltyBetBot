@@ -516464,5 +516464,140 @@
     "sum": 123335300,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16593
+    },
+    "date": 1791233197526,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 1648226,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Metalman mvc",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1204842,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Alyssa searrs",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 123302198,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31457
+    },
+    "date": 1791233383728,
+    "duration": 126195,
+    "left": {
+      "bet_amount": 1295932,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Custom ssfiv oni",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2508413,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Nxc morrigan",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 123285605,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6755
+    },
+    "date": 1791233553731,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 985720,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Colonel sanders",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2917216,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Heidern 98",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 123345051,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18622
+    },
+    "date": 1791233709926,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 985123,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Nyamo EX",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3326663,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Original vega",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 123338296,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17282
+    },
+    "date": 1791233894126,
+    "duration": 130195,
+    "left": {
+      "bet_amount": 2084792,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Helmet",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1958246,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sion tatari EX",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 123319674,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
