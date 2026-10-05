@@ -514630,5 +514630,86 @@
     "sum": 123384880,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791219016525,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 60296,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Omega zero svc chaos",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 115719,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Axl",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2347
+    },
+    "date": 1791219190527,
+    "duration": 119995,
+    "left": {
+      "bet_amount": 191899,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Manifest yuki",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 60069,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Master fuuma",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 2347,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3073
+    },
+    "date": 1791219410730,
+    "duration": 160204,
+    "left": {
+      "bet_amount": 56730,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "B-cirno",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 238346,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Koryu",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 3073,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
