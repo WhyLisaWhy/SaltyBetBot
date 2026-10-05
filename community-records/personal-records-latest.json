@@ -507585,5 +507585,140 @@
     "sum": 123010998,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 183
+    },
+    "date": 1791167538727,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 6660923,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Riru",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1402978,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mast",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123010998,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17976
+    },
+    "date": 1791167674728,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 4099104,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kim hoon EX",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1697413,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tear",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 122982191,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18566
+    },
+    "date": 1791167828934,
+    "duration": 94205,
+    "left": {
+      "bet_amount": 3410503,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Corrupted shinnok",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3655843,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Kohaku EX2",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122989603,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25099
+    },
+    "date": 1791167994926,
+    "duration": 106003,
+    "left": {
+      "bet_amount": 3940448,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Masked rider agito",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529708,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Zrygunte",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123006836,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16446
+    },
+    "date": 1791168135129,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 2191430,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Do you believe it?",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3284842,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 123016518,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
