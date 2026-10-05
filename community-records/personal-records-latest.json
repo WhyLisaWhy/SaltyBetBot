@@ -515008,5 +515008,32 @@
     "sum": 3899,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5537
+    },
+    "date": 1791221737725,
+    "duration": 207398,
+    "left": {
+      "bet_amount": 340541,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Manifest yuki",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 589768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Shiva",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 5537,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
