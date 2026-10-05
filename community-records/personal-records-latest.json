@@ -510312,5 +510312,113 @@
     "sum": 123142740,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33956
+    },
+    "date": 1791188406734,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 1294928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yukarin ex",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2185720,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Necoarc",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123144791,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19116
+    },
+    "date": 1791188536926,
+    "duration": 74197,
+    "left": {
+      "bet_amount": 1283184,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Aoi_amatu",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7200758,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Godmars",
+      "normal_bettors": 29,
+      "win_streak": 11
+    },
+    "sum": 123164601,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 881
+    },
+    "date": 1791188823135,
+    "duration": 230183,
+    "left": {
+      "bet_amount": 996762,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Team reimisen",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2601126,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kaguya houraisan EX3",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 123167999,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791188975126,
+    "duration": 97995,
+    "left": {
+      "bet_amount": 27700186,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Human bo",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 946966,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Uryuu",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "sum": 123170297,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
