@@ -510852,5 +510852,113 @@
     "sum": 123283428,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31167
+    },
+    "date": 1791191987528,
+    "duration": 74003,
+    "left": {
+      "bet_amount": 1641845,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Hotaru xi",
+      "normal_bettors": 21,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1544566,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Akari ichijo",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 123289826,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26729
+    },
+    "date": 1791192237727,
+    "duration": 194199,
+    "left": {
+      "bet_amount": 3241489,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Kotonoha katsura",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Komepo",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123258659,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17614
+    },
+    "date": 1791192353725,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 1755635,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Armgon",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1905428,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Umvc_hulk",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123231930,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16380
+    },
+    "date": 1791192497927,
+    "duration": 89989,
+    "left": {
+      "bet_amount": 1065503,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Butthead sagat",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4727802,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "King_ghidorah",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "sum": 123214316,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
