@@ -517301,5 +517301,140 @@
     "sum": 123432995,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791238651724,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 5817752,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Metool.exe",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1109672,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Hobgoblin 2009",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123444971,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25156
+    },
+    "date": 1791238901925,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 1303763,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sakura Kasugano",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2128026,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Evil Ryu SF4",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 123444972,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19032
+    },
+    "date": 1791239068127,
+    "duration": 110163,
+    "left": {
+      "bet_amount": 811817,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Injya",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3225389,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "The savage pumpkin",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 123419816,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21473
+    },
+    "date": 1791239202130,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 2075740,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Gaisei",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1339354,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kusanagi_ex",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 123424579,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26200
+    },
+    "date": 1791239372321,
+    "duration": 104195,
+    "left": {
+      "bet_amount": 2681186,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Lf2 - firzen",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 975782,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kaizuka bocky mogra",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 123438293,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
