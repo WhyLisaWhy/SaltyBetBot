@@ -512794,5 +512794,113 @@
     "sum": 123435239,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14427
+    },
+    "date": 1791207331333,
+    "duration": 120009,
+    "left": {
+      "bet_amount": 1304526,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hatsune miku mmd l",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4190243,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Masked rider 2nd",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 123460468,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26832
+    },
+    "date": 1791207527528,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 1810918,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "B.swordsman",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1546844,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Guy_cecil",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123464945,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2780
+    },
+    "date": 1791207743726,
+    "duration": 156197,
+    "left": {
+      "bet_amount": 1402980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mestre kame",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2717501,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Myon",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 123495823,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791207883925,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 994635,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The mask of ero",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7201465,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Awakened kyle dunamis",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 123497257,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
