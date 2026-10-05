@@ -515710,5 +515710,86 @@
     "sum": 123437323,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20830
+    },
+    "date": 1791227929326,
+    "duration": 179998,
+    "left": {
+      "bet_amount": 1377159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rosemary applefield",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2873872,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Clawbear",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123445230,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25634
+    },
+    "date": 1791228135528,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 2188028,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ryougi_shiki",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1801078,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Stg hero man",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123455140,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27439
+    },
+    "date": 1791228405726,
+    "duration": 206201,
+    "left": {
+      "bet_amount": 1358046,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mr. broly",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1955560,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Maximune",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 123429506,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
