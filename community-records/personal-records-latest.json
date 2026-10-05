@@ -507882,5 +507882,140 @@
     "sum": 123034963,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20160
+    },
+    "date": 1791169301927,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1432145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jean grey",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6413924,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Baki-hanma ex",
+      "normal_bettors": 29,
+      "win_streak": 9
+    },
+    "sum": 123014756,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18742
+    },
+    "date": 1791169478127,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 1762688,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Heidiorn",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7081999,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Birdy",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 123019244,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37079
+    },
+    "date": 1791169608128,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 2893934,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Ultraman agul",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2102917,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Syoutokutaisi",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123000502,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20576
+    },
+    "date": 1791169762327,
+    "duration": 94201,
+    "left": {
+      "bet_amount": 2404171,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rorschach",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3221302,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kamille",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122963423,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23943
+    },
+    "date": 1791169978526,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 3305042,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Yui emelia",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260305,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yuki morikawa",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 122990759,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
