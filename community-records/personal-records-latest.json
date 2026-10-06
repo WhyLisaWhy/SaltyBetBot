@@ -518651,5 +518651,113 @@
     "sum": 123154375,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24268
+    },
+    "date": 1791252324322,
+    "duration": 115994,
+    "left": {
+      "bet_amount": 899584,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tain-ren",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5530323,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Warlock",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 123165669,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20299
+    },
+    "date": 1791252574526,
+    "duration": 190198,
+    "left": {
+      "bet_amount": 2728534,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Ultimate aizen",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 994667,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Chris wayne",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 123169600,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25216
+    },
+    "date": 1791252728724,
+    "duration": 90109,
+    "left": {
+      "bet_amount": 2589635,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Chrysalis EX",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1091619,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Falco la pasione(nagiai)",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123149301,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16463
+    },
+    "date": 1791252868726,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 795873,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ingrid",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2954650,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Kaede ngbc",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 123124085,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
