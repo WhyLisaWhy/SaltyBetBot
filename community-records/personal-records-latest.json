@@ -521052,5 +521052,113 @@
     "sum": 3711,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4858
+    },
+    "date": 1791268364926,
+    "duration": 190201,
+    "left": {
+      "bet_amount": 461938,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Athena x",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 235740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Gavora",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 4858,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791268615125,
+    "duration": 190195,
+    "left": {
+      "bet_amount": 129890,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Scorpion EX3",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 427282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Muhammad avdol",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2020
+    },
+    "date": 1791268815328,
+    "duration": 146193,
+    "left": {
+      "bet_amount": 94838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Shishioh",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 422983,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ultimate armor x8",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "sum": 2020,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791268995329,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 342806,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kanaka",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 315005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Gavora",
+      "normal_bettors": 10,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
