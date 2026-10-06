@@ -521160,5 +521160,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2968
+    },
+    "date": 1791269225527,
+    "duration": 170200,
+    "left": {
+      "bet_amount": 434821,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Muhammad avdol",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 268845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Shishioh",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 2968,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4791
+    },
+    "date": 1791269615129,
+    "duration": 333602,
+    "left": {
+      "bet_amount": 318034,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kanaka",
+      "normal_bettors": 9,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 473235,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Muhammad avdol",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 4791,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
