@@ -528880,5 +528880,113 @@
     "sum": 122857159,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 929
+    },
+    "date": 1791324268523,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 9250130,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dragon",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1546062,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Illyasviel von einzbern",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 122902134,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26779
+    },
+    "date": 1791324518723,
+    "duration": 195995,
+    "left": {
+      "bet_amount": 1163501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Abigail",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4898305,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mech ralf",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 122902290,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791324678927,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 2667872,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kung lao",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2021311,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "La mascara",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "sum": 122875511,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28274
+    },
+    "date": 1791324883126,
+    "duration": 150195,
+    "left": {
+      "bet_amount": 4399847,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Victor chase",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2069214,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Geese 98",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 122875510,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
