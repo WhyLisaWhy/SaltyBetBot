@@ -527152,5 +527152,113 @@
     "sum": 5504,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7124
+    },
+    "date": 1791310788127,
+    "duration": 152197,
+    "left": {
+      "bet_amount": 77960,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rinnosuke_morichika",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 292372,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Binran",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 7124,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8979
+    },
+    "date": 1791310956128,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 410268,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Claire redfield",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 54441,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yuri mkv",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 8979,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10145
+    },
+    "date": 1791311182350,
+    "duration": 166014,
+    "left": {
+      "bet_amount": 60267,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Histoire",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 430410,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hotaru futaba",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 10145,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11533
+    },
+    "date": 1791311362523,
+    "duration": 124198,
+    "left": {
+      "bet_amount": 89482,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Usada hikaru",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 337193,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Kaede_hioh",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 11533,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
