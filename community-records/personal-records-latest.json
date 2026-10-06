@@ -520217,5 +520217,113 @@
     "sum": 122999429,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10266
+    },
+    "date": 1791262200127,
+    "duration": 106200,
+    "left": {
+      "bet_amount": 4094817,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Extreme dark akuma",
+      "normal_bettors": 34,
+      "win_streak": 19
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1213727,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ultimate kars",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 122963111,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31984
+    },
+    "date": 1791262404327,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 1732524,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Sakura haruno nzc",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2212936,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Alsa",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 122952845,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18342
+    },
+    "date": 1791262614331,
+    "duration": 150002,
+    "left": {
+      "bet_amount": 2184634,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ryu hell",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1114606,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Evil donald",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 122920861,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29833
+    },
+    "date": 1791262836529,
+    "duration": 162003,
+    "left": {
+      "bet_amount": 782010,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mysterious budo",
+      "normal_bettors": 7,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3648444,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "A-karasu",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 122930142,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
