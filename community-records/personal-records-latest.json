@@ -523833,5 +523833,140 @@
     "sum": 123017128,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16585
+    },
+    "date": 1791287203528,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 2600926,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Mc hisui",
+      "normal_bettors": 24,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ares",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 123013863,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6671
+    },
+    "date": 1791287399729,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 593708,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Abomination",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4455598,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Opera elmer",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 123019599,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5011
+    },
+    "date": 1791287510129,
+    "duration": 54400,
+    "left": {
+      "bet_amount": 634047,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Metool",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4914095,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Zazie muhaba",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 123012928,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791287926127,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 33471,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nick commando EX",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 105086,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Omega_rugal EX",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2037
+    },
+    "date": 1791288196330,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 120702,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Black-rock_shooter",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 66737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ky(ac)",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 2037,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
