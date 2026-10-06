@@ -521214,5 +521214,59 @@
     "sum": 4791,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13955
+    },
+    "date": 1791270788726,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 3256296,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Mahvel sean",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 788711,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Amoumi",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122930504,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15703
+    },
+    "date": 1791270928928,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 1212164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Morrigan EX",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2741383,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ecila",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122916549,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
