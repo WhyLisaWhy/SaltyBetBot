@@ -521808,5 +521808,86 @@
     "sum": 123059146,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25011
+    },
+    "date": 1791274789927,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 975686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chen-mao",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2767195,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Alex_a",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 123064245,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791275014125,
+    "duration": 164199,
+    "left": {
+      "bet_amount": 3007467,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Balrog IV",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 997527,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Marik",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 123039234,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791275220133,
+    "duration": 150008,
+    "left": {
+      "bet_amount": 1891688,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Wing gundam zero custom",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2980859,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Dr. toki",
+      "normal_bettors": 25,
+      "win_streak": 7
+    },
+    "sum": 123039233,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
