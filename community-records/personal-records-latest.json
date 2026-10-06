@@ -519083,5 +519083,113 @@
     "sum": 122997614,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 44127
+    },
+    "date": 1791255068526,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 977131,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Get in the robot you idiot",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2399817,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Gogeta mvc",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "sum": 123031601,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20718
+    },
+    "date": 1791255342726,
+    "duration": 230199,
+    "left": {
+      "bet_amount": 1841598,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Soga no tojiko",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286459,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Darth vader",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 122987474,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3101
+    },
+    "date": 1791255504924,
+    "duration": 100185,
+    "left": {
+      "bet_amount": 1156590,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sheldon",
+      "normal_bettors": 10,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5308346,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Cycloid sigma",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 123016663,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20361
+    },
+    "date": 1791255724924,
+    "duration": 159996,
+    "left": {
+      "bet_amount": 1554448,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Xena",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2270282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dou zou man",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 123017339,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
