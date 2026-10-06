@@ -524938,5 +524938,140 @@
     "sum": 123003238,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32719
+    },
+    "date": 1791296434731,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 7650588,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Order of ecclesia death",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 868835,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yang xiao long",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 123012495,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21456
+    },
+    "date": 1791296584930,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 1200052,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Axel",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3475046,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Tora-san",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 123016195,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25698
+    },
+    "date": 1791296724925,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 5951635,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Tetromino",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 727413,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eyelina",
+      "normal_bettors": 4,
+      "win_streak": -4
+    },
+    "sum": 122994739,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9348
+    },
+    "date": 1791296865128,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 1019703,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mandoraf-f",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2599953,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Sagume kishin",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 122997867,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29950
+    },
+    "date": 1791296975128,
+    "duration": 50002,
+    "left": {
+      "bet_amount": 2280422,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Roy fe",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1068367,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Corrupted shinnok",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 123001521,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
