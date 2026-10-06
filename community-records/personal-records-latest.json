@@ -518948,5 +518948,140 @@
     "sum": 123091049,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791254177726,
+    "duration": 131989,
+    "left": {
+      "bet_amount": 869211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Tristan",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2661954,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Moai",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 123091050,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26140
+    },
+    "date": 1791254311929,
+    "duration": 73951,
+    "left": {
+      "bet_amount": 1255313,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Archetype sun",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2015768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Tabuu sumin",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 123091051,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30988
+    },
+    "date": 1791254508127,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 2298134,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Konoha mvc",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1032173,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shocking shocker",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123064911,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36309
+    },
+    "date": 1791254678129,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 1095952,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Deuce",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2799712,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Tomoe mami",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 123033923,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32867
+    },
+    "date": 1791254858327,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 2043106,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Super better mario",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2146665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Yashaou",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 122997614,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
