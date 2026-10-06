@@ -526936,5 +526936,113 @@
     "sum": 122865058,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30594
+    },
+    "date": 1791308908722,
+    "duration": 174192,
+    "left": {
+      "bet_amount": 960281,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kano EX",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3311273,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Sho hayate 0d",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 122865332,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2372
+    },
+    "date": 1791309061526,
+    "duration": 96798,
+    "left": {
+      "bet_amount": 2707934,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Adelheid K",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1465230,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Salty Goku GT",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 122874124,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791309549126,
+    "duration": 220198,
+    "left": {
+      "bet_amount": 63946,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Alien_z-ton",
+      "normal_bettors": 21,
+      "win_streak": -11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 87418,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Histoire",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791309719325,
+    "duration": 114199,
+    "left": {
+      "bet_amount": 131446,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Hotaru futaba",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 79710,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tsugumi",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
