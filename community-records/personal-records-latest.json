@@ -523968,5 +523968,59 @@
     "sum": 2037,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5613
+    },
+    "date": 1791288546525,
+    "duration": 286194,
+    "left": {
+      "bet_amount": 133083,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Marie p4a",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89698,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Tatami",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 5613,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791288726733,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 51525,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chipp_arrange",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 214125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Guile hd",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
