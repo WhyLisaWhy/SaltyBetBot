@@ -526207,5 +526207,113 @@
     "sum": 122875115,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3313
+    },
+    "date": 1791304501135,
+    "duration": 80010,
+    "left": {
+      "bet_amount": 737896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Xigbar",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3530495,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kizaru head",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 122879639,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19737
+    },
+    "date": 1791304811326,
+    "duration": 250195,
+    "left": {
+      "bet_amount": 1032777,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Blossom DG",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3179520,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "B-cirno",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 122880331,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791304937532,
+    "duration": 66204,
+    "left": {
+      "bet_amount": 1590105,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Samwell han",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1382844,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Cheap hibiki",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 122860594,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2102
+    },
+    "date": 1791305067527,
+    "duration": 69996,
+    "left": {
+      "bet_amount": 881794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Down",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3935134,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Horaizon ver1.02",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 122860596,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
