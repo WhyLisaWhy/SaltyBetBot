@@ -525397,5 +525397,113 @@
     "sum": 122877576,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21438
+    },
+    "date": 1791299252926,
+    "duration": 154000,
+    "left": {
+      "bet_amount": 1027378,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Three mischievous fairies",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1920288,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Dark phoenix",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122891166,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28195
+    },
+    "date": 1791299403130,
+    "duration": 94206,
+    "left": {
+      "bet_amount": 2540626,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Arietta",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 920575,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bikeman",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 122869728,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791299589126,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1624307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Setiawan",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1299944,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - jack",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 122879833,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25704
+    },
+    "date": 1791299693329,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 1545016,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gohan ssj4",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170160,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ex-robert garcia",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 122879834,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
