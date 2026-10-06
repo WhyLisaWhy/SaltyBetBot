@@ -520784,5 +520784,84 @@
     "sum": 122918691,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1791265841330,
+    "duration": 90404,
+    "left": {
+      "bet_amount": 314249,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Anime tencho",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 52030,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Spiderman",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791266311326,
+    "duration": 206197,
+    "left": {
+      "bet_amount": 246898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Natsumi andou",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 591703,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Kanaka",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2196
+    },
+    "date": 1791266561527,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 611582,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Honoka",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 196731,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Cpt.falcon",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 2196,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
