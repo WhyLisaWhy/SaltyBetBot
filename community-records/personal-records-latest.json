@@ -518192,5 +518192,167 @@
     "sum": 123303668,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24328
+    },
+    "date": 1791249490126,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 1658055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Thalia",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1826830,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Ultraman dyna",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123307710,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15843
+    },
+    "date": 1791249644323,
+    "duration": 94197,
+    "left": {
+      "bet_amount": 3278373,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Rario",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 988819,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mr. bardock",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123283382,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9239
+    },
+    "date": 1791249774327,
+    "duration": 73998,
+    "left": {
+      "bet_amount": 2302047,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "A Bison",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1293021,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Griffon",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "sum": 123267539,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30728
+    },
+    "date": 1791249920525,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 2606278,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Uesugi kensin EX G",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1198169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ken mvc",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123272708,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34967
+    },
+    "date": 1791250074526,
+    "duration": 94006,
+    "left": {
+      "bet_amount": 1195388,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mishio",
+      "normal_bettors": 10,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2878401,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Roa motw",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 123241980,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32700
+    },
+    "date": 1791250224728,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 3102158,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ryu",
+      "normal_bettors": 15,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1884452,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Strider H",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "sum": 123207013,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
