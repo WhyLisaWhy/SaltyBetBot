@@ -524319,5 +524319,59 @@
     "sum": 4678,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21969
+    },
+    "date": 1791292381528,
+    "duration": 139930,
+    "left": {
+      "bet_amount": 871924,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mono freaks_n",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2058261,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Weiss daemon bride",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "sum": 123020044,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21341
+    },
+    "date": 1791292573729,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 1275812,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Cure blossom",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2516730,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shadow labrys",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122998075,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
