@@ -523698,5 +523698,140 @@
     "sum": 123023588,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38266
+    },
+    "date": 1791286372926,
+    "duration": 134186,
+    "left": {
+      "bet_amount": 1222973,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Urien EX4",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1815154,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Lililen",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123023589,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16060
+    },
+    "date": 1791286563127,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 1005766,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kagetsura s3",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2752184,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Makishi masao",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 122985323,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24719
+    },
+    "date": 1791286709127,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1746782,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "X-aestivalis",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1284198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Uminin",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 122991158,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12458
+    },
+    "date": 1791286833325,
+    "duration": 64201,
+    "left": {
+      "bet_amount": 3432165,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Miyako arrange abyss",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2225627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rekka",
+      "normal_bettors": 5,
+      "win_streak": -7
+    },
+    "sum": 123009078,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3265
+    },
+    "date": 1791287029326,
+    "duration": 139985,
+    "left": {
+      "bet_amount": 1021647,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Morfo",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2791090,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Bimmy Lee",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 123017128,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
