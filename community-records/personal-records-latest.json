@@ -521511,5 +521511,140 @@
     "sum": 123117730,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2345
+    },
+    "date": 1791272882324,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 738570,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Momomeno",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2826263,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Slender man",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 123089239,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 962
+    },
+    "date": 1791273006531,
+    "duration": 64003,
+    "left": {
+      "bet_amount": 652561,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Grand dad",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5253027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "To-to-",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123089852,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2997
+    },
+    "date": 1791273196727,
+    "duration": 124197,
+    "left": {
+      "bet_amount": 3473150,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Capsule monster",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1436918,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gen shougo",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123089972,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1005
+    },
+    "date": 1791273376725,
+    "duration": 117995,
+    "left": {
+      "bet_amount": 1137779,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rude spawn",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3573868,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Shadow labrys",
+      "normal_bettors": 29,
+      "win_streak": -4
+    },
+    "sum": 123091211,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22319
+    },
+    "date": 1791273512925,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 809898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cc iron ryuji",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4058537,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "The dazzler",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 123091531,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
