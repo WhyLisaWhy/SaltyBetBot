@@ -518030,5 +518030,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791244392127,
+    "duration": 336202,
+    "left": {
+      "bet_amount": 232379,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "The mask jc",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 291076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Devilch",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3479
+    },
+    "date": 1791244556325,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 175579,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Glacius",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 562508,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Shizumaru ex",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 3479,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
