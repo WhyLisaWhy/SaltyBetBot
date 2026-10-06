@@ -519326,5 +519326,140 @@
     "sum": 123109822,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37913
+    },
+    "date": 1791256695742,
+    "duration": 114016,
+    "left": {
+      "bet_amount": 2360824,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Subterranean rose",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1245866,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Boss archetype: earth",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 123080946,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33162
+    },
+    "date": 1791256825929,
+    "duration": 74199,
+    "left": {
+      "bet_amount": 2527922,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Shoto rockman x",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 772598,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Raoh-jp",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 123150667,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 43781
+    },
+    "date": 1791257001929,
+    "duration": 116003,
+    "left": {
+      "bet_amount": 1230736,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Battle dome",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3020585,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kasumi todo",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 123160671,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17384
+    },
+    "date": 1791257176123,
+    "duration": 113993,
+    "left": {
+      "bet_amount": 2764795,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Mvc2 sion",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1006987,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "W.nut",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 123116890,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39916
+    },
+    "date": 1791257302129,
+    "duration": 69996,
+    "left": {
+      "bet_amount": 3769614,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kudora",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1327416,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Nick commando EX",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123123182,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
