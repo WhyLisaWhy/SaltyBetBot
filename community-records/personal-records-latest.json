@@ -523131,5 +523131,140 @@
     "sum": 123004516,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791282852325,
+    "duration": 94197,
+    "left": {
+      "bet_amount": 3287554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1180906,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ganondorf mythos",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122987083,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791283018327,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 8393465,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Zantetsu",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1182374,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Mora EX2",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 122987082,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2528
+    },
+    "date": 1791283158525,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 4325849,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Guy mk ii",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1192192,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Myuu",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 122987083,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42189
+    },
+    "date": 1791283328728,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 760667,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "1st ultraman",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5023459,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Rbff master geese",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "sum": 122984555,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791283478727,
+    "duration": 85995,
+    "left": {
+      "bet_amount": 884150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Deidara",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7297231,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Boss zeroko",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "sum": 122990891,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
