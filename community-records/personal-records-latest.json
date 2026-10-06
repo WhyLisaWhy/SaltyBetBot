@@ -529420,5 +529420,140 @@
     "sum": 123007734,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791327793324,
+    "duration": 94199,
+    "left": {
+      "bet_amount": 1124937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shun",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 13268446,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Gran torino",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 122980050,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23067
+    },
+    "date": 1791327943525,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 5579091,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Rulue",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1840042,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ice climbers",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 122980049,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27647
+    },
+    "date": 1791328079527,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 5154951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Giant d!",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2055672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Violent gunter",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 122956982,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14550
+    },
+    "date": 1791328283724,
+    "duration": 140182,
+    "left": {
+      "bet_amount": 2381477,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Holy god earth svg",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2322674,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Es",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123025392,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26930
+    },
+    "date": 1791328423724,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 2768218,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Julius belmont",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1861665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Zoma",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123010842,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
