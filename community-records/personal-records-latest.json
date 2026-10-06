@@ -519785,5 +519785,140 @@
     "sum": 123155972,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33625
+    },
+    "date": 1791259469926,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 2510200,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Miko sd",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1075661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sagat f22",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "sum": 123113967,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27906
+    },
+    "date": 1791259616127,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 2037283,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Princess nausicaa",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1843253,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "The grandmapocalypse",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 123128186,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35862
+    },
+    "date": 1791259786125,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1857463,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Asura cvs2",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2321352,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ashura jmf",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 123100280,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791259982324,
+    "duration": 142197,
+    "left": {
+      "bet_amount": 1110718,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kamakura-kun",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3568236,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Jell",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 123064418,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2462
+    },
+    "date": 1791260126528,
+    "duration": 86202,
+    "left": {
+      "bet_amount": 1134157,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Justice gg1",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8707046,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Ryukotsuki",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 123064419,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
