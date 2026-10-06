@@ -518111,5 +518111,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1332
+    },
+    "date": 1791248977737,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 4095274,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Omega flowey",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1128632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Shinobu",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 123283150,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30058
+    },
+    "date": 1791249153930,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 1547927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Heihachi m",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2099446,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "C.commando",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 123281818,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17592
+    },
+    "date": 1791249319929,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 6109275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Alt eisen EX5",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1407646,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kairu a",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 123303668,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
