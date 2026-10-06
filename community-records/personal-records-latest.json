@@ -522861,5 +522861,113 @@
     "sum": 122870683,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24921
+    },
+    "date": 1791281184926,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 2593797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Eddie mvc",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1186698,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Yoko kurama",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 122874761,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21713
+    },
+    "date": 1791281361138,
+    "duration": 122212,
+    "left": {
+      "bet_amount": 1360234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Alexey zalazof",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1704506,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Mike EX2",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122928112,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25622
+    },
+    "date": 1791281525126,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1807171,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 2,
+      "name": "Akari kamigishi EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1185875,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Lf2 - jack",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 122906399,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791281717324,
+    "duration": 136187,
+    "left": {
+      "bet_amount": 5606301,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Birdie sfa",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 817332,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Poring",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "sum": 122880777,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
