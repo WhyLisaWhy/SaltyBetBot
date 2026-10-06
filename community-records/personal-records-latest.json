@@ -528151,5 +528151,86 @@
     "sum": 122826951,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38453
+    },
+    "date": 1791318950544,
+    "duration": 106214,
+    "left": {
+      "bet_amount": 1332651,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Skullomania",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2512597,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Fair akuma",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 122826950,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16843
+    },
+    "date": 1791319104524,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 3600543,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Magic nanaya+ huunsaiki",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1335830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ja-koh",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 122788497,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28209
+    },
+    "date": 1791319320724,
+    "duration": 156196,
+    "left": {
+      "bet_amount": 2307548,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nosferu",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1513368,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Killer crocodile",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122794717,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
