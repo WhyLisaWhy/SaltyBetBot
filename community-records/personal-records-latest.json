@@ -520863,5 +520863,59 @@
     "sum": 2196,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2900
+    },
+    "date": 1791266837727,
+    "duration": 216199,
+    "left": {
+      "bet_amount": 345506,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Thalia",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 721415,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Athena x",
+      "normal_bettors": 30,
+      "win_streak": -4
+    },
+    "sum": 2900,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791267091928,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 643119,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Heidern as",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 538243,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gavora",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
