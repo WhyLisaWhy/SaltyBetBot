@@ -522240,5 +522240,140 @@
     "sum": 123112055,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791277497928,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 2104274,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Karai",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1612416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Genso no makoto",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123103596,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24122
+    },
+    "date": 1791277634134,
+    "duration": 76002,
+    "left": {
+      "bet_amount": 693219,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Deluxe lin",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3340162,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Crawdo",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 123103595,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18048
+    },
+    "date": 1791277824330,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 1954846,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Hotaru Futaba J",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1350548,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Minis mahn",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 123108566,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43970
+    },
+    "date": 1791277960329,
+    "duration": 76003,
+    "left": {
+      "bet_amount": 1785724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aulbath",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1292348,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Prinny asagi dood",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123090518,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17704
+    },
+    "date": 1791278110526,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 1183737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kobun 43.5",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4101038,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Anti.guile.zangief",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 123046548,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
