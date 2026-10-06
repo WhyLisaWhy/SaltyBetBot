@@ -528232,5 +528232,113 @@
     "sum": 122794717,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791319580927,
+    "duration": 206199,
+    "left": {
+      "bet_amount": 4324990,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Yawarakasensha",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1863947,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "True power sol",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 122812994,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34439
+    },
+    "date": 1791319781126,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 2710354,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Actual zeroko",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1418503,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Naitou ex",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122812993,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23450
+    },
+    "date": 1791320047325,
+    "duration": 196199,
+    "left": {
+      "bet_amount": 1699030,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider double",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2985549,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Gyeron",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 122830791,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10454
+    },
+    "date": 1791320241525,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 2849712,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Satan",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1230219,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kris",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122807341,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
