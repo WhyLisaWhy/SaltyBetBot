@@ -525640,5 +525640,140 @@
     "sum": 122968141,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1159
+    },
+    "date": 1791300826128,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1315713,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "May lee",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1949978,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Sonic machine",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 122973568,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18396
+    },
+    "date": 1791300990328,
+    "duration": 103984,
+    "left": {
+      "bet_amount": 1987456,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Syoryuzan kohaku",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1549816,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hero m",
+      "normal_bettors": 14,
+      "win_streak": -10
+    },
+    "sum": 122974350,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12979
+    },
+    "date": 1791301146527,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 3832110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Lavia",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 794705,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mezu EX4",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122997664,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19033
+    },
+    "date": 1791301296530,
+    "duration": 94008,
+    "left": {
+      "bet_amount": 1134010,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Three mischievous fairies",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2070507,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Dante2",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 122984685,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791301526725,
+    "duration": 164195,
+    "left": {
+      "bet_amount": 999772,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Samus aran ax",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6823064,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kikugoro",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 122965652,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
