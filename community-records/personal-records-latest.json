@@ -536411,5 +536411,113 @@
     "sum": 1868,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791377383934,
+    "duration": 162008,
+    "left": {
+      "bet_amount": 199289,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kyo_99xi",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 105708,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Super mario maker",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2366
+    },
+    "date": 1791377568132,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 202544,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hokutomaru",
+      "normal_bettors": 19,
+      "win_streak": 13
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 88361,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Murakumo-abk",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 2366,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791377822325,
+    "duration": 194192,
+    "left": {
+      "bet_amount": 284220,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Black polnareff",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 69905,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kao",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7716
+    },
+    "date": 1791378022530,
+    "duration": 144205,
+    "left": {
+      "bet_amount": 146272,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chrysalis",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 259853,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Gideon",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 7716,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
