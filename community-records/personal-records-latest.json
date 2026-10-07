@@ -534143,5 +534143,167 @@
     "sum": 123012856,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6017
+    },
+    "date": 1791362087949,
+    "duration": 116021,
+    "left": {
+      "bet_amount": 3052221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Zangief-f.o",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1628669,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "New-spider-man",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 122973228,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18176
+    },
+    "date": 1791362218128,
+    "duration": 75996,
+    "left": {
+      "bet_amount": 1709302,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "F-4 phantom",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2001230,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Stronk guy",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122967211,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9349
+    },
+    "date": 1791362344124,
+    "duration": 65997,
+    "left": {
+      "bet_amount": 3937187,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Lilith aileron",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1884727,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Black rugal",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 122949035,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20958
+    },
+    "date": 1791362506328,
+    "duration": 102004,
+    "left": {
+      "bet_amount": 1386767,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Shadow geist ex",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2226823,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hattori-hanzo",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 122939686,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17394
+    },
+    "date": 1791362648328,
+    "duration": 84001,
+    "left": {
+      "bet_amount": 3263247,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Toki 2",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1567100,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Death-stuff",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122918728,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791362814529,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 2264805,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Inferno nightmare",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2329634,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Walkyrie",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 122927037,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
