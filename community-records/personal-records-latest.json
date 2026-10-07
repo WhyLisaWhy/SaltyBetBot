@@ -536276,5 +536276,140 @@
     "sum": 122797800,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791376231127,
+    "duration": 176197,
+    "left": {
+      "bet_amount": 104287,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Chrysalis",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 59697,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Ice EX3",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2425
+    },
+    "date": 1791376411330,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 63404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ryu SF4",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 141055,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Gideon",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 2425,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3497
+    },
+    "date": 1791376731530,
+    "duration": 260198,
+    "left": {
+      "bet_amount": 125392,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "A Bison",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 143439,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Junko sendo",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "sum": 3497,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791376905529,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 56510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Masked rider hibiki(emanon)",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 274069,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Forte.exe",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1868
+    },
+    "date": 1791377161727,
+    "duration": 200001,
+    "left": {
+      "bet_amount": 93881,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Angela EX3",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 314851,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mrheart",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 1868,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
