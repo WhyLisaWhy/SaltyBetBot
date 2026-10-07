@@ -533441,5 +533441,113 @@
     "sum": 2892,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791356509727,
+    "duration": 340401,
+    "left": {
+      "bet_amount": 66922,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sparkster",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 369729,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Dinotank",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791356819927,
+    "duration": 250201,
+    "left": {
+      "bet_amount": 207785,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Broli",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 275162,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Hulk",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791357020127,
+    "duration": 146185,
+    "left": {
+      "bet_amount": 111966,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Dies",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 471145,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Huriken",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791357220328,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 362649,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Dinotank",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 317782,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hulk",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
