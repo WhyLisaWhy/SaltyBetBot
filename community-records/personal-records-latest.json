@@ -538301,5 +538301,113 @@
     "sum": 122898551,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43890
+    },
+    "date": 1791390732530,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 1131324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Anna kyoyama",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4002711,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Drdoom",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 122859337,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32637
+    },
+    "date": 1791390998730,
+    "duration": 200206,
+    "left": {
+      "bet_amount": 1668073,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Yuzuriha",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2204363,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Watern",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 122815447,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36044
+    },
+    "date": 1791391158728,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 3345116,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Neva",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1012593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hina bardy",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122839784,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29843
+    },
+    "date": 1791391394927,
+    "duration": 170005,
+    "left": {
+      "bet_amount": 2799930,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Crazy mukuro",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1197644,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Dead geese",
+      "normal_bettors": 11,
+      "win_streak": -9
+    },
+    "sum": 122850579,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
