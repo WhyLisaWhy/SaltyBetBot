@@ -537140,5 +537140,140 @@
     "sum": 122879216,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30028
+    },
+    "date": 1791383560727,
+    "duration": 173998,
+    "left": {
+      "bet_amount": 1280637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sagat mvc",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4748822,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Airi",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 122893671,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20791
+    },
+    "date": 1791383686930,
+    "duration": 69910,
+    "left": {
+      "bet_amount": 3694729,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Aiwhen",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1588002,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jones ex",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 122863643,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27338
+    },
+    "date": 1791383853127,
+    "duration": 106196,
+    "left": {
+      "bet_amount": 1203351,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Evange",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2435830,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Big bomberder",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 122842852,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 653
+    },
+    "date": 1791384043326,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 4306450,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ravange",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1160832,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ubu",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 122815514,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26110
+    },
+    "date": 1791384303527,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 2648359,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Nightmare the jujin lv3",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1060108,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "New rubber soul",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 122814861,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
