@@ -540650,5 +540650,167 @@
     "sum": 123138693,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791409707324,
+    "duration": 89993,
+    "left": {
+      "bet_amount": 885800,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ryu sf3",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3142187,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Kongman",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "sum": 123143887,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26005
+    },
+    "date": 1791409877326,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 2013585,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Dark sakura",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 997960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Duke nukem",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123143886,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2368
+    },
+    "date": 1791410013525,
+    "duration": 73977,
+    "left": {
+      "bet_amount": 5776213,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Copy dizzy",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 880910,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gumball watterson",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 123117881,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29083
+    },
+    "date": 1791410153728,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 1063531,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zeeky h. bomb",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3955975,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Warachia ex",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 123118242,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791410283728,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 839818,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Judge",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5951704,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Wulong q",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 123089159,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791410421924,
+    "duration": 78198,
+    "left": {
+      "bet_amount": 921026,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Slayer",
+      "normal_bettors": 5,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7196824,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Spy-dama-man",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 123089160,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
