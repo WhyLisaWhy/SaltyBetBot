@@ -541541,5 +541541,140 @@
     "sum": 123048547,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 906
+    },
+    "date": 1791415217727,
+    "duration": 70189,
+    "left": {
+      "bet_amount": 1338088,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Iggy ex",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3600285,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Gn-pioneer",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 123064990,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8735
+    },
+    "date": 1791415351726,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 4515083,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider joker",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1762470,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kizaru head",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 123064084,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791415557926,
+    "duration": 146202,
+    "left": {
+      "bet_amount": 1967797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kirby sdx",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1818139,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Top man",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123067488,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35930
+    },
+    "date": 1791415728125,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 2064243,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Krizalid N",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1946458,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kenshin",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 123067487,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23270
+    },
+    "date": 1791415872124,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 1110644,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nina",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3354437,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Kamishiro_aya",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 123031557,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
