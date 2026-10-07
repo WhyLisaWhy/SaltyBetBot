@@ -536627,5 +536627,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791379125326,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 288131,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kyo_99xi",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 636295,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Hokutomaru",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2251
+    },
+    "date": 1791379440126,
+    "duration": 260797,
+    "left": {
+      "bet_amount": 430093,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gideon",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 594013,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Hokutomaru",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 2251,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
