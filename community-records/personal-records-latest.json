@@ -530498,5 +530498,167 @@
     "sum": 122916544,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791335895529,
+    "duration": 150005,
+    "left": {
+      "bet_amount": 879679,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rarity",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3941518,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Judas",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 122878210,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10124
+    },
+    "date": 1791336051724,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1595208,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kotaro kazama",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3091408,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Igdrasil munchausen",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 122878209,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30720
+    },
+    "date": 1791336267925,
+    "duration": 162200,
+    "left": {
+      "bet_amount": 2021318,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Knight",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1763137,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Evil thomas",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 122883417,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20014
+    },
+    "date": 1791336427926,
+    "duration": 106004,
+    "left": {
+      "bet_amount": 4103323,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Junichi",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1424164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Baki-hanma",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122852697,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17133
+    },
+    "date": 1791336598128,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 4784139,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Tokinomiya kamui EX3",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1213496,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bowser",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 122859610,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5328
+    },
+    "date": 1791336772325,
+    "duration": 120177,
+    "left": {
+      "bet_amount": 1411868,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Felix the cat",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4015179,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Sogne",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 122863941,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
