@@ -530660,5 +530660,113 @@
     "sum": 122863941,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33960
+    },
+    "date": 1791336948325,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 1681336,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eirin yagokoro",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4905537,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Aaaaaaaaaaaahhhhhh!!!",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 122858613,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10199
+    },
+    "date": 1791337078527,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 4412158,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Spacemouse deluxe",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1419889,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Matsumura karate",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 122870173,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5334
+    },
+    "date": 1791337214524,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 10505005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Super vegeta EX3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 911395,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Usopp",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "sum": 122873448,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23951
+    },
+    "date": 1791337362727,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 2815568,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Sirius",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1547072,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mvsn nose-blood",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122873911,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
