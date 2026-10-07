@@ -533387,5 +533387,59 @@
     "sum": 2793,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791355797126,
+    "duration": 280200,
+    "left": {
+      "bet_amount": 164255,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chris_gb",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 188290,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Dies",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2892
+    },
+    "date": 1791356107324,
+    "duration": 250199,
+    "left": {
+      "bet_amount": 241258,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 179446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Huriken",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 2892,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
