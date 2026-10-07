@@ -541406,5 +541406,140 @@
     "sum": 123153023,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30003
+    },
+    "date": 1791414375150,
+    "duration": 144223,
+    "left": {
+      "bet_amount": 2085996,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Santaurus",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1637501,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Chronos2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 123127733,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 48579
+    },
+    "date": 1791414501125,
+    "duration": 65999,
+    "left": {
+      "bet_amount": 6807127,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Bokosuka wars",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1950240,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Joe higashi arrange",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 123097730,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27975
+    },
+    "date": 1791414681331,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 1153267,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Speck",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2671818,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Achi cirno",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "sum": 123049151,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37046
+    },
+    "date": 1791414911326,
+    "duration": 175991,
+    "left": {
+      "bet_amount": 2081930,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Evil ken",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1565573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dark eternal champion",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 123021176,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31318
+    },
+    "date": 1791415087526,
+    "duration": 115994,
+    "left": {
+      "bet_amount": 3735473,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Omega_rugal EX",
+      "normal_bettors": 29,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1977662,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Singlove-drg",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 123048547,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
