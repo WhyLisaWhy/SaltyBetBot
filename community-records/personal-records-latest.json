@@ -539462,5 +539462,59 @@
     "sum": 3009,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4025
+    },
+    "date": 1791398820729,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 85827,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zappa",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 263555,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Gen shougo",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 4025,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791399307123,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 60201,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mexican typhoon",
+      "normal_bettors": 12,
+      "win_streak": -11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 298745,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ranma-kun",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
