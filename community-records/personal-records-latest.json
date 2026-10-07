@@ -531497,5 +531497,113 @@
     "sum": 123007094,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38334
+    },
+    "date": 1791342286527,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 1731642,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sagat f22",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1870043,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Satsuki vp EX3",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 123042353,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28258
+    },
+    "date": 1791342506733,
+    "duration": 160206,
+    "left": {
+      "bet_amount": 1398239,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Spy-dama EX",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1866332,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Kyo 98",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 123004019,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21896
+    },
+    "date": 1791342716928,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 1855490,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "More suave dude",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1584316,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zorororonoa",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 122975761,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791342953133,
+    "duration": 180207,
+    "left": {
+      "bet_amount": 1559827,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yoshi ssbb",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3576774,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mustapha",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 122953865,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
