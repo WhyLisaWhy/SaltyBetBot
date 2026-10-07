@@ -532469,5 +532469,113 @@
     "sum": 123005410,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6574
+    },
+    "date": 1791348425338,
+    "duration": 144212,
+    "left": {
+      "bet_amount": 4227400,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Muhi EX",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1881919,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Wtf mizuchi",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123010434,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12332
+    },
+    "date": 1791348595527,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 4983900,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Hayate EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2386610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Red frame",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 123013357,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30572
+    },
+    "date": 1791348797726,
+    "duration": 140187,
+    "left": {
+      "bet_amount": 2334863,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Weiss-ritter",
+      "normal_bettors": 22,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1877019,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "A'",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 123019248,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5266
+    },
+    "date": 1791349051927,
+    "duration": 194188,
+    "left": {
+      "bet_amount": 1353741,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sheik",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5361174,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Shadow vegeta",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 123043508,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
