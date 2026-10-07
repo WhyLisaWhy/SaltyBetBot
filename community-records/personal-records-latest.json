@@ -533738,5 +533738,86 @@
     "sum": 122914779,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42515
+    },
+    "date": 1791359497926,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 2280345,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Cyber blue",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1610485,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Iggy ex",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 122920195,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18012
+    },
+    "date": 1791359654127,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 2242251,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Cielo",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1461279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "S.sinclair EX",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 122978846,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791359834125,
+    "duration": 119996,
+    "left": {
+      "bet_amount": 1876184,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Felix ow",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2170859,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Paragus",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 122960834,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
