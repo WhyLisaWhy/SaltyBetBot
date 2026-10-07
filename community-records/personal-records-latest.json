@@ -531740,5 +531740,140 @@
     "sum": 122985564,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39682
+    },
+    "date": 1791343819728,
+    "duration": 95996,
+    "left": {
+      "bet_amount": 1717309,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Nakozuki ruruko",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4886210,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Axel-hell",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122990614,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19487
+    },
+    "date": 1791344039925,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 1449241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Metalgear rex",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2178325,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Neco chaos black g666",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 122950932,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20063
+    },
+    "date": 1791344224126,
+    "duration": 128200,
+    "left": {
+      "bet_amount": 1805129,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Mario ssbb",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1648554,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Yashiro EX6",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 122931445,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25514
+    },
+    "date": 1791344460324,
+    "duration": 176197,
+    "left": {
+      "bet_amount": 2190525,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Black goku",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1565071,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Matunaga yukari",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 122911382,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5077
+    },
+    "date": 1791344620326,
+    "duration": 100005,
+    "left": {
+      "bet_amount": 1367283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Harima",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4173487,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kuuga",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 122929402,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
