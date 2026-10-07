@@ -536681,5 +536681,32 @@
     "sum": 2251,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30704
+    },
+    "date": 1791380576526,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1132438,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cheddah gief",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2137356,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Sorluska EX2",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 122880888,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
