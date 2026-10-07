@@ -537275,5 +537275,113 @@
     "sum": 122814861,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 535
+    },
+    "date": 1791384497528,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 1266198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yuzuki yukari",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3296907,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shishioh",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 122788751,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24867
+    },
+    "date": 1791384653727,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1968910,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Radel rotd",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1476914,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Cassie cage",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 122788957,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6359
+    },
+    "date": 1791384747729,
+    "duration": 34001,
+    "left": {
+      "bet_amount": 7217598,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Sanada kojiroh s-style",
+      "normal_bettors": 24,
+      "win_streak": 28
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1131661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Watering can",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122764090,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791385009929,
+    "duration": 201998,
+    "left": {
+      "bet_amount": 3172564,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Noid",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1361355,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fly flea",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 122765087,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
