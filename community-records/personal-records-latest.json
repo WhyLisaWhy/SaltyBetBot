@@ -530444,5 +530444,59 @@
     "sum": 9582,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13034
+    },
+    "date": 1791334920944,
+    "duration": 332417,
+    "left": {
+      "bet_amount": 178205,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mary EX3",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 460749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 21,
+      "name": "Nono",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 13034,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38334
+    },
+    "date": 1791335691529,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 2972533,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Ae86",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1452581,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Pocket jiren",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 122916544,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
