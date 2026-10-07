@@ -539759,5 +539759,86 @@
     "sum": 6321,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25430
+    },
+    "date": 1791403704525,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 3084765,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Rosa_obsn",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1018156,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Leon kennedy",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 122883746,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20065
+    },
+    "date": 1791403938730,
+    "duration": 180203,
+    "left": {
+      "bet_amount": 1933813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Marisa kirisame",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1754406,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Akagi shigeru",
+      "normal_bettors": 17,
+      "win_streak": -9
+    },
+    "sum": 122958916,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26716
+    },
+    "date": 1791404120924,
+    "duration": 126184,
+    "left": {
+      "bet_amount": 1438591,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Thanoseid",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4017885,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Chun-lee dark bolt",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 122980783,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
