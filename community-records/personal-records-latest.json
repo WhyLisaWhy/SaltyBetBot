@@ -532766,5 +532766,86 @@
     "sum": 123097017,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28003
+    },
+    "date": 1791350528936,
+    "duration": 110010,
+    "left": {
+      "bet_amount": 1744019,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Son gohan EX3",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2578763,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Rusty",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 123079882,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18695
+    },
+    "date": 1791350689125,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 2363353,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Pasity",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2389039,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Bagira_ex",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123051879,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26557
+    },
+    "date": 1791350799126,
+    "duration": 50001,
+    "left": {
+      "bet_amount": 3738538,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Sylphie nxc",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1528878,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kinniku suguru",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123070629,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
