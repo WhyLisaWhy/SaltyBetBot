@@ -535223,5 +535223,140 @@
     "sum": 123024996,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3141
+    },
+    "date": 1791369139528,
+    "duration": 145995,
+    "left": {
+      "bet_amount": 1368694,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Caesar",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1768618,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Akuma shin",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "sum": 123024995,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23657
+    },
+    "date": 1791369301749,
+    "duration": 102223,
+    "left": {
+      "bet_amount": 3046492,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Super sonic EX3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1288018,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ruckus",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 123029045,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5677
+    },
+    "date": 1791369519926,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 4465020,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1190877,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black rouga",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 123038970,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25923
+    },
+    "date": 1791369683926,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 1442576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dynamite headdy",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2962478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Chowder and kimchi",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 123040483,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33242
+    },
+    "date": 1791369804127,
+    "duration": 64198,
+    "left": {
+      "bet_amount": 1011381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Butcher",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2670051,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Millia tnt",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 123014560,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
