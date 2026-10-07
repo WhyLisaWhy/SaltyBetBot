@@ -530390,5 +530390,59 @@
     "sum": 3472,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7032
+    },
+    "date": 1791334298326,
+    "duration": 200197,
+    "left": {
+      "bet_amount": 180410,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Akiha vermillion",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 490574,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Mary EX3",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 7032,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9582
+    },
+    "date": 1791334528528,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 346746,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Nono",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128353,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Snk zangief",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 9582,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
