@@ -533198,5 +533198,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791353919728,
+    "duration": 200203,
+    "left": {
+      "bet_amount": 126028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ex iori xiii",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 137429,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Dies",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2956
+    },
+    "date": 1791354159927,
+    "duration": 180200,
+    "left": {
+      "bet_amount": 243027,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 64324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kiyohime",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 2956,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3729
+    },
+    "date": 1791354420124,
+    "duration": 200198,
+    "left": {
+      "bet_amount": 313551,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Huriken",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 44301,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "W arcueid",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 3729,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4250
+    },
+    "date": 1791354690325,
+    "duration": 210198,
+    "left": {
+      "bet_amount": 314047,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kenny",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 70119,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sparkster",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 4250,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
