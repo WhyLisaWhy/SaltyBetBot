@@ -541136,5 +541136,86 @@
     "sum": 123032513,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19712
+    },
+    "date": 1791412517526,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 2227753,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Smug dudley",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2245454,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Informer",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 123034331,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13874
+    },
+    "date": 1791412687727,
+    "duration": 114198,
+    "left": {
+      "bet_amount": 1139799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Clone zero-kofm",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6670290,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Quick silver",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 123054026,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 850
+    },
+    "date": 1791412933928,
+    "duration": 186203,
+    "left": {
+      "bet_amount": 4852208,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Wonder woman revolutions",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2072576,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ky-pw",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 123056392,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
