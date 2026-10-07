@@ -541676,5 +541676,140 @@
     "sum": 123031557,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9330
+    },
+    "date": 1791416022331,
+    "duration": 94005,
+    "left": {
+      "bet_amount": 2651855,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Nanase",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2192905,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Condor heads",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 123008287,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19045
+    },
+    "date": 1791416238528,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 3712659,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Nanashi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 875684,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Neku sakuraba",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 122998957,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14895
+    },
+    "date": 1791416364525,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 3329045,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Anguirus",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1008243,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Akari kamigishi",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 123003427,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17842
+    },
+    "date": 1791416514726,
+    "duration": 96093,
+    "left": {
+      "bet_amount": 911073,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gliformoth EX3",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2804829,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Black tiger",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 123007919,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19498
+    },
+    "date": 1791416674728,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1525530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dlanor a. knox",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3751434,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Ettoman",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123013678,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
