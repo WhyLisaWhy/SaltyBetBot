@@ -534710,5 +534710,113 @@
     "sum": 122909023,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17170
+    },
+    "date": 1791365658770,
+    "duration": 136045,
+    "left": {
+      "bet_amount": 1636584,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jackal",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1705694,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Super gyaos",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 122928252,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12881
+    },
+    "date": 1791365832927,
+    "duration": 119996,
+    "left": {
+      "bet_amount": 1244209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Irori",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3100885,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Galford",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 122911082,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791365983125,
+    "duration": 94203,
+    "left": {
+      "bet_amount": 6882341,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Cloud mythos",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1321504,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Drill asamin",
+      "normal_bettors": 9,
+      "win_streak": 0
+    },
+    "sum": 122916230,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15858
+    },
+    "date": 1791366285337,
+    "duration": 236208,
+    "left": {
+      "bet_amount": 1313749,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Kawaiman",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2353016,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ange EX",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 122916231,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
