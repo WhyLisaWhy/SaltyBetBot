@@ -539273,5 +539273,86 @@
     "sum": 122915941,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27785
+    },
+    "date": 1791397227528,
+    "duration": 124002,
+    "left": {
+      "bet_amount": 2953759,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Akame",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1040851,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mami EX",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 122896200,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34700
+    },
+    "date": 1791397453725,
+    "duration": 166197,
+    "left": {
+      "bet_amount": 1466973,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Amakusa",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2236746,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Small ryu EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 122868415,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28451
+    },
+    "date": 1791397609926,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1292604,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rocket raccoon",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4668674,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Z.e.r.o of n.e.s.t.s",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 122890826,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
