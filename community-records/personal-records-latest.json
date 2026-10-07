@@ -533306,5 +533306,86 @@
     "sum": 4250,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791354896331,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 127716,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Vebel",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 241630,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Dinotank",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2365
+    },
+    "date": 1791355206725,
+    "duration": 240197,
+    "left": {
+      "bet_amount": 47620,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Quick silver",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 260926,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Broli",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 2365,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2793
+    },
+    "date": 1791355456942,
+    "duration": 194217,
+    "left": {
+      "bet_amount": 53463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hulk",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 273970,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Tabuu sumin",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 2793,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
