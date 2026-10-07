@@ -537032,5 +537032,113 @@
     "sum": 122829688,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791382876327,
+    "duration": 130161,
+    "left": {
+      "bet_amount": 2654109,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sayo chan",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1807709,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Cvs sagat",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 122863465,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22824
+    },
+    "date": 1791383030335,
+    "duration": 99958,
+    "left": {
+      "bet_amount": 1318358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Efreet",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4675252,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dongon",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122863467,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12599
+    },
+    "date": 1791383190529,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 2163768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dq5-son",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1614023,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Geese ex xi",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 122869872,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35940
+    },
+    "date": 1791383330729,
+    "duration": 74204,
+    "left": {
+      "bet_amount": 2835099,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Funky dantel",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1154648,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Geese Howard",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 122879216,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
