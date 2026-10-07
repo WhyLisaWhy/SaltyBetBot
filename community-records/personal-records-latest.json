@@ -534980,5 +534980,140 @@
     "sum": 122983681,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34217
+    },
+    "date": 1791367656326,
+    "duration": 234198,
+    "left": {
+      "bet_amount": 1346382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Luke cage",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2717733,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mia touma",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 122954000,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7961
+    },
+    "date": 1791367756527,
+    "duration": 43997,
+    "left": {
+      "bet_amount": 1115210,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Iea",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3692420,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Galivan",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 122970741,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7002
+    },
+    "date": 1791367906533,
+    "duration": 94003,
+    "left": {
+      "bet_amount": 2383787,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Griffon",
+      "normal_bettors": 9,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2851314,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "God jafar",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 122973141,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2269
+    },
+    "date": 1791368106726,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 3432196,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Yukarin ex",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1267716,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Reptile EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122978981,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12335
+    },
+    "date": 1791368286929,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 2587770,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Luise",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1244636,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryoko EX",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 122979819,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
