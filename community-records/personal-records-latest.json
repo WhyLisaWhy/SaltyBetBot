@@ -536519,5 +536519,113 @@
     "sum": 7716,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791378252726,
+    "duration": 174199,
+    "left": {
+      "bet_amount": 89488,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Junko sendo",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 256342,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Forte.exe",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2088
+    },
+    "date": 1791378502926,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 218282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Angela EX3",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270624,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Kyo_99xi",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "sum": 2088,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3760
+    },
+    "date": 1791378777129,
+    "duration": 218182,
+    "left": {
+      "bet_amount": 242545,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Hokutomaru",
+      "normal_bettors": 20,
+      "win_streak": 14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 311189,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kao",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 3760,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791378955325,
+    "duration": 126197,
+    "left": {
+      "bet_amount": 371985,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Gideon",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 451098,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Forte.exe",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
