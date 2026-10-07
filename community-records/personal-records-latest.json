@@ -532172,5 +532172,140 @@
     "sum": 122912687,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791346687929,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 2659866,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Reject no. 253",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2620859,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Sonic EX2",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 122937530,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36919
+    },
+    "date": 1791346834124,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 4072205,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shin akuma",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2323630,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Requiem giorno(amaai)",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 122937529,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14503
+    },
+    "date": 1791346974127,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1179407,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Joker-p",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7332654,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Kaneda kusanagi",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 122900610,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14485
+    },
+    "date": 1791347144327,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 3361615,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Zonuda",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1806915,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Matoi ryuko",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 122902939,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21828
+    },
+    "date": 1791347314527,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 1218013,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Silver the hedgehog",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4710826,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ouija silver",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 122888454,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
