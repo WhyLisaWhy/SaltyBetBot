@@ -531227,5 +531227,113 @@
     "sum": 122984157,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791340393125,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 4440137,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Cheap hibiki",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1733030,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Voltz",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 122984912,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29093
+    },
+    "date": 1791340539126,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 4120779,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Testament(ac)",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423283,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "S.o.g",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "sum": 122984911,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23394
+    },
+    "date": 1791340763334,
+    "duration": 164208,
+    "left": {
+      "bet_amount": 3502322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Feilong sfa",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1633778,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "If marguerite",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "sum": 122994890,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1007
+    },
+    "date": 1791340999527,
+    "duration": 176202,
+    "left": {
+      "bet_amount": 1857797,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Nanaya_s",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1653031,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Lion_gunta",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 123005731,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
