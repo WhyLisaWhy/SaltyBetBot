@@ -535115,5 +535115,113 @@
     "sum": 122979819,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9353
+    },
+    "date": 1791368406926,
+    "duration": 60003,
+    "left": {
+      "bet_amount": 870873,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chain combo yuyuko",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2649925,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Sion tatari EX",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 122985724,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32495
+    },
+    "date": 1791368553128,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1743980,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Ryoga hibiki",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1711900,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Weiss-ritter",
+      "normal_bettors": 11,
+      "win_streak": 7
+    },
+    "sum": 122988787,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14371
+    },
+    "date": 1791368715127,
+    "duration": 97972,
+    "left": {
+      "bet_amount": 1094086,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tenko",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4211307,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sula t-k",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123021275,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791368933328,
+    "duration": 159999,
+    "left": {
+      "bet_amount": 991916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Octohead",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3997998,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Luna papa",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 123024996,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
