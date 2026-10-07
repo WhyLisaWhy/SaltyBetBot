@@ -535925,5 +535925,140 @@
     "sum": 122922071,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33314
+    },
+    "date": 1791373591127,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 1364871,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Feilin",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2412303,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Chrome dome EX",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 122897456,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 104
+    },
+    "date": 1791373841332,
+    "duration": 196203,
+    "left": {
+      "bet_amount": 987880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chicken",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6129828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rouge the bat EX5",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 122864142,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22531
+    },
+    "date": 1791374037328,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 1504838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Moorhunn",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2813854,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Mr. mary",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122864159,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22966
+    },
+    "date": 1791374231528,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 1574809,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Seifuku akiha",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1409484,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Awakened torao",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 122876113,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1540
+    },
+    "date": 1791374441727,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 4361003,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Sharaku",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1002252,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ella",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 122896373,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
