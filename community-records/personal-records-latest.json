@@ -539354,5 +539354,113 @@
     "sum": 122890826,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26633
+    },
+    "date": 1791397737928,
+    "duration": 74003,
+    "left": {
+      "bet_amount": 1038020,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mercurius",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3229975,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "The binding of isaac",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122898656,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791398234337,
+    "duration": 230211,
+    "left": {
+      "bet_amount": 65036,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hon-fu rb2",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 120028,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Pikachu sumin",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2380
+    },
+    "date": 1791398454528,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 50726,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Big bear 0D",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 189718,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Arrange sion",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 2380,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3009
+    },
+    "date": 1791398610727,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 211071,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Goh-un",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 72269,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gikoneko",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 3009,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
