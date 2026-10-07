@@ -540002,5 +540002,86 @@
     "sum": 122978556,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24478
+    },
+    "date": 1791405451927,
+    "duration": 149930,
+    "left": {
+      "bet_amount": 3810828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Russkey kai",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1090258,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Karla",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 122969698,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17184
+    },
+    "date": 1791405602127,
+    "duration": 95996,
+    "left": {
+      "bet_amount": 1431877,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Akys",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1971038,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Masked rider agito",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 122976657,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37847
+    },
+    "date": 1791405762327,
+    "duration": 100191,
+    "left": {
+      "bet_amount": 1559209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Raiden EX",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2540443,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Real personal trooper type-2",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 122959473,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
