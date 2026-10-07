@@ -529879,5 +529879,140 @@
     "sum": 122873136,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791330407335,
+    "duration": 60010,
+    "left": {
+      "bet_amount": 2242985,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Retro suika",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2020767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Bucciarati",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 122876307,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2630
+    },
+    "date": 1791330577326,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 3967713,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Venom MMV",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1699650,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jhons lee EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 122876308,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17039
+    },
+    "date": 1791330673568,
+    "duration": 40042,
+    "left": {
+      "bet_amount": 1844663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kizaru head",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2105124,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Michael",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 122873678,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35376
+    },
+    "date": 1791330863726,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 1799471,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chuu",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2299647,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Black widow",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 122888489,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 329
+    },
+    "date": 1791331017725,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 1703506,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rare Sophitia",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4504340,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Green lantern lucario",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 122915752,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
