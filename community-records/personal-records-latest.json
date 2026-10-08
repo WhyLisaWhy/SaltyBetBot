@@ -548858,5 +548858,113 @@
     "sum": 2216,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3127
+    },
+    "date": 1791468051128,
+    "duration": 216158,
+    "left": {
+      "bet_amount": 338882,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "A'",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mr_shihan",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 3127,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4073
+    },
+    "date": 1791468245327,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 398071,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Celsius",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128741,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Viola",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 4073,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791468565522,
+    "duration": 254196,
+    "left": {
+      "bet_amount": 303094,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rise kujikawa",
+      "normal_bettors": 14,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267912,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Fa-",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3294
+    },
+    "date": 1791468917727,
+    "duration": 292202,
+    "left": {
+      "bet_amount": 255233,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "A'",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 423102,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Viola",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 3294,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
