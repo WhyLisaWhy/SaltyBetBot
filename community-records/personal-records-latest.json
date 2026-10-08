@@ -542756,5 +542756,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791424026529,
+    "duration": 260202,
+    "left": {
+      "bet_amount": 252573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Bowser smrpg",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 351892,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Piccolo sb",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2658
+    },
+    "date": 1791424240729,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 337346,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Sonans",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 273490,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Cajun gambit EX7",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 2658,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
