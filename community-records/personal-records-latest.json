@@ -543161,5 +543161,113 @@
     "sum": 123359785,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14685
+    },
+    "date": 1791427897727,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 2989431,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Luthild",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 925507,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yuzuriha",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 123360216,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36033
+    },
+    "date": 1791428091926,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1112262,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Shadow2",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2189601,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Rhino eoh",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 123345531,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23990
+    },
+    "date": 1791428237929,
+    "duration": 95994,
+    "left": {
+      "bet_amount": 2898105,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Karma_0.85",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1027065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ringo aomori",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 123414240,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 846
+    },
+    "date": 1791428428124,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 748023,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tsu-",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5037225,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Grant-kofm",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 123422673,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
