@@ -548669,5 +548669,113 @@
     "sum": 3290,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3812
+    },
+    "date": 1791466297727,
+    "duration": 170204,
+    "left": {
+      "bet_amount": 84695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zan-b",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 227229,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Minecraft goku",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 3812,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791466507928,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 123593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gosunkugi hikaru",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 289038,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "A'",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2210
+    },
+    "date": 1791466818129,
+    "duration": 254201,
+    "left": {
+      "bet_amount": 95584,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Death machine mb-59",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 366103,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mr_shihan",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 2210,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2784
+    },
+    "date": 1791467054348,
+    "duration": 180220,
+    "left": {
+      "bet_amount": 457621,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Celsius",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Skater",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 2784,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
