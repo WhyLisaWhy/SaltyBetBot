@@ -543404,5 +543404,167 @@
     "sum": 123400313,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32653
+    },
+    "date": 1791429388731,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 4228028,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Nair",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 975952,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Black battler",
+      "normal_bettors": 8,
+      "win_streak": -12
+    },
+    "sum": 123406940,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10351
+    },
+    "date": 1791429554926,
+    "duration": 105987,
+    "left": {
+      "bet_amount": 1084522,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "The penguin",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2011435,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Axearmor",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123414420,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791429699130,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1473338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Akys",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3671635,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Nanbara_r",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 123404069,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29798
+    },
+    "date": 1791429849126,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 2137767,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Lf2 - woody",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064196,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Tyssa willing",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 123404070,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36146
+    },
+    "date": 1791429999327,
+    "duration": 94199,
+    "left": {
+      "bet_amount": 2389107,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Thud",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1041320,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Omanyte EX3",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123374272,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24402
+    },
+    "date": 1791430151327,
+    "duration": 89992,
+    "left": {
+      "bet_amount": 1233790,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Blubberman",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2790342,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "A'",
+      "normal_bettors": 22,
+      "win_streak": -6
+    },
+    "sum": 123338126,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
