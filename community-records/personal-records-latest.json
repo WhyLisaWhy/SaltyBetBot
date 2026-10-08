@@ -548561,5 +548561,113 @@
     "sum": 123218876,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27178
+    },
+    "date": 1791465222527,
+    "duration": 61798,
+    "left": {
+      "bet_amount": 1810651,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shin valdoll",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2544328,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Igdrasil munchausen",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 123177841,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791465671128,
+    "duration": 180000,
+    "left": {
+      "bet_amount": 107872,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kurusugawa ayaka",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 62147,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Cube",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2431
+    },
+    "date": 1791465867326,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 59316,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Black selena",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 165617,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Rise kujikawa",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 2431,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3290
+    },
+    "date": 1791466067526,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 36401,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Miyuki",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 226259,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Fa-",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 3290,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
