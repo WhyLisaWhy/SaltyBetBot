@@ -546347,5 +546347,113 @@
     "sum": 123588178,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28277
+    },
+    "date": 1791451167927,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 1121374,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ingrid EX3",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3237728,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Miyoshi karin",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 123589213,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30160
+    },
+    "date": 1791451303925,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 2398474,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Mess",
+      "normal_bettors": 20,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1463235,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mystic gohan",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 123560936,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35606
+    },
+    "date": 1791451464129,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 4317407,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Blue blood",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 841582,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Shunsui kyouraku",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 123530776,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33784
+    },
+    "date": 1791451854328,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 2211953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "No.6 inazuma",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1689648,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Ayumu kasuga EX",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 123495170,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
