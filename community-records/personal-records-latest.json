@@ -547616,5 +547616,167 @@
     "sum": 123308173,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791459116182,
+    "duration": 144254,
+    "left": {
+      "bet_amount": 3941497,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Asagi asagiri",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 626207,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Vertigo",
+      "normal_bettors": 4,
+      "win_streak": -4
+    },
+    "sum": 123311492,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36133
+    },
+    "date": 1791459262124,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 768477,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ex snow",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4436793,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Shin eddie",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 123311491,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25395
+    },
+    "date": 1791459382326,
+    "duration": 65999,
+    "left": {
+      "bet_amount": 2912114,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Chun li hd",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1098055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jackal",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 123317699,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1683
+    },
+    "date": 1791459652527,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 1709838,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Noembelu",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2488763,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shockwave",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "sum": 123327192,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34616
+    },
+    "date": 1791459826727,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 724324,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Uncle saizo",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4387347,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Robo-sol",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123325509,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791459952727,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 2370889,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Terminator orochi",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1819447,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Commander yammark",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123290893,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
