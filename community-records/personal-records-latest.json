@@ -544133,5 +544133,140 @@
     "sum": 123261475,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26114
+    },
+    "date": 1791434046536,
+    "duration": 94208,
+    "left": {
+      "bet_amount": 1054180,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Imouto EX3",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2666685,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Heat man",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 123226982,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7420
+    },
+    "date": 1791434156522,
+    "duration": 49996,
+    "left": {
+      "bet_amount": 3809907,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Vegalunker",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1049140,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kaori yanase",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 123200868,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3723
+    },
+    "date": 1791434286728,
+    "duration": 70201,
+    "left": {
+      "bet_amount": 855872,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Miku_tt",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4417654,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Franco bash rb2",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 123193448,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7289
+    },
+    "date": 1791434566928,
+    "duration": 224202,
+    "left": {
+      "bet_amount": 3042022,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Gray fullbuster",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1069128,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Faydal",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "sum": 123194169,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1462
+    },
+    "date": 1791434712925,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 3652561,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "She-hulk",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1593916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Bonobono",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 123214769,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
