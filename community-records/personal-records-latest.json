@@ -552746,5 +552746,113 @@
     "sum": 123281577,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28376
+    },
+    "date": 1791500612324,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 2505559,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shadow EX3",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3428954,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Miacis",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123259300,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20418
+    },
+    "date": 1791500862524,
+    "duration": 196199,
+    "left": {
+      "bet_amount": 629620,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Super soldier",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4606850,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Batman EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 123230924,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32566
+    },
+    "date": 1791501118727,
+    "duration": 196200,
+    "left": {
+      "bet_amount": 7086751,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Arcueid brunestud iqs",
+      "normal_bettors": 27,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1777556,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "D4 uesugi kensin",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 123210506,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3274
+    },
+    "date": 1791501272723,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 1460877,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Abare bishamon",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6797121,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Apocalypse ex",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 123177940,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
