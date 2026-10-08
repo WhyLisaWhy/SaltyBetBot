@@ -550100,5 +550100,140 @@
     "sum": 123424842,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 393
+    },
+    "date": 1791477104128,
+    "duration": 194199,
+    "left": {
+      "bet_amount": 2159140,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Deviljin",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1310512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Zarugafu",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123400149,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31384
+    },
+    "date": 1791477290326,
+    "duration": 126205,
+    "left": {
+      "bet_amount": 4238450,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Boss archetype: earth",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 963486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kula claire",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123400797,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13861
+    },
+    "date": 1791477420327,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 4466727,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Mango's fox",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 814391,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kyo xi",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 123407879,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9535
+    },
+    "date": 1791477616528,
+    "duration": 135993,
+    "left": {
+      "bet_amount": 6080955,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Enuma elish",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1142352,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chad EX7",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 123410399,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25432
+    },
+    "date": 1791477756728,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 908927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dead vega",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3150605,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Ryumaou",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 123400864,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
