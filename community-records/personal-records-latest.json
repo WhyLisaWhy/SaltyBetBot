@@ -544646,5 +544646,140 @@
     "sum": 123195152,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791437697327,
+    "duration": 94003,
+    "left": {
+      "bet_amount": 10677487,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Turkey",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1390063,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Koldan",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 123178822,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14003
+    },
+    "date": 1791437883525,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 667732,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Duck dodgers",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6476670,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 17,
+      "name": "Anonym-guard",
+      "normal_bettors": 28,
+      "win_streak": 9
+    },
+    "sum": 123178823,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2514
+    },
+    "date": 1791438013524,
+    "duration": 75982,
+    "left": {
+      "bet_amount": 885798,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Hyo amano",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4567899,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Zantetsu udou",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123180264,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21869
+    },
+    "date": 1791438153729,
+    "duration": 84205,
+    "left": {
+      "bet_amount": 2156936,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Shishio",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1037179,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Zankuro",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 123180752,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16984
+    },
+    "date": 1791438357940,
+    "duration": 140208,
+    "left": {
+      "bet_amount": 2795946,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Hakureimu",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1294642,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Matunaga yukari",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123158883,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
