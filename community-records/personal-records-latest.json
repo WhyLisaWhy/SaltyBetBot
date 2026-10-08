@@ -544916,5 +544916,140 @@
     "sum": 123141864,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 380
+    },
+    "date": 1791439394526,
+    "duration": 153998,
+    "left": {
+      "bet_amount": 1324623,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Hogyoku aizen",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1961907,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Ultraman gaia",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 123105937,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8461
+    },
+    "date": 1791439574732,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 1542127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Zwei EX6",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1936637,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Enuma elish",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 123105557,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19505
+    },
+    "date": 1791439730927,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1213413,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Jill ex",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2436398,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Thouther",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 123112266,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16682
+    },
+    "date": 1791439890929,
+    "duration": 99963,
+    "left": {
+      "bet_amount": 2141076,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Cb valimes",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1113375,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Seven",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123121904,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14703
+    },
+    "date": 1791440097161,
+    "duration": 152230,
+    "left": {
+      "bet_amount": 919946,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Achamo",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5247581,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Ss3youmu",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 123130512,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
