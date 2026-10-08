@@ -543269,5 +543269,140 @@
     "sum": 123422673,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791428582130,
+    "duration": 99985,
+    "left": {
+      "bet_amount": 2073253,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Pizza",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3002822,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rikku",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 123421827,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25104
+    },
+    "date": 1791428742328,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 1360948,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kingslime",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2000859,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Boon",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123421829,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23689
+    },
+    "date": 1791428928531,
+    "duration": 114203,
+    "left": {
+      "bet_amount": 2398819,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Magician type-0",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1098633,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kraken",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 123396725,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23952
+    },
+    "date": 1791429098525,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 1704816,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Fake okami",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1473057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mvc2 jedah",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123373036,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24736
+    },
+    "date": 1791429214729,
+    "duration": 60202,
+    "left": {
+      "bet_amount": 2852108,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Coffee azteca",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 770676,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Limited rock",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 123400313,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
