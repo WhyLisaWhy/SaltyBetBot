@@ -541973,5 +541973,113 @@
     "sum": 123082728,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19218
+    },
+    "date": 1791417775735,
+    "duration": 64005,
+    "left": {
+      "bet_amount": 3329465,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Xena",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 956278,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Xerxes",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123082727,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16168
+    },
+    "date": 1791417975925,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 1222593,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kite",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2658209,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Pocket Dan",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123088216,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791418141924,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 1106731,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zankuro EX2",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3196703,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Koakuma_hsts",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 123072048,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791418346128,
+    "duration": 143994,
+    "left": {
+      "bet_amount": 1519320,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Archetype:earth",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2952740,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Giant jackson",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 123072049,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
