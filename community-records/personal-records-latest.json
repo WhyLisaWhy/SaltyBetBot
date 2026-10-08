@@ -542351,5 +542351,140 @@
     "sum": 123241181,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25738
+    },
+    "date": 1791420365728,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 2959095,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Getter-3",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1294276,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Wakasagi-hime",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123259349,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26989
+    },
+    "date": 1791420529928,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 2606425,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Uesugi kensin EX",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1094297,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "God demitri",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123233611,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28685
+    },
+    "date": 1791420733126,
+    "duration": 143199,
+    "left": {
+      "bet_amount": 1100375,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Jack in dia",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2176055,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Reptile",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 123296347,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791421222328,
+    "duration": 212162,
+    "left": {
+      "bet_amount": 132301,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kam'lanaut",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71827,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kamen rider joker",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7140
+    },
+    "date": 1791421442531,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 165706,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Matsumura karate",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 162688,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Bowser smrpg",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "sum": 7140,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
