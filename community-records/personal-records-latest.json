@@ -542486,5 +542486,113 @@
     "sum": 7140,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791421622728,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 205347,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Piccolo sb",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 211419,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Robert garcia EX2",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3134
+    },
+    "date": 1791421942928,
+    "duration": 260207,
+    "left": {
+      "bet_amount": 91660,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Quietus-sakuraba neku",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 372362,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Insect",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 3134,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3900
+    },
+    "date": 1791422103124,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 62712,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hu-mizuchi",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 452189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Sonans",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 3900,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4437
+    },
+    "date": 1791422237126,
+    "duration": 79992,
+    "left": {
+      "bet_amount": 75149,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Destoroyah ex",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 462071,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Eddie(ex)",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 4437,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
