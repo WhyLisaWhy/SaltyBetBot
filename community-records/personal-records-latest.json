@@ -544268,5 +544268,140 @@
     "sum": 123214769,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791434845127,
+    "duration": 72201,
+    "left": {
+      "bet_amount": 918606,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jeremias",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11064328,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Duke the robot",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 123215407,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17379
+    },
+    "date": 1791435093328,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 3377730,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Eins EX6",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1239953,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Angelique",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 123215408,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30544
+    },
+    "date": 1791435293326,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 948974,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tear",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3685540,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Sonozaki_mion",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 123198029,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29177
+    },
+    "date": 1791435453526,
+    "duration": 103996,
+    "left": {
+      "bet_amount": 2029619,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Egg chamber",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1942717,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Gargoyle",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 123167485,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44506
+    },
+    "date": 1791435573741,
+    "duration": 60213,
+    "left": {
+      "bet_amount": 846269,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Bobby drake",
+      "normal_bettors": 6,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3061468,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Dio's evil incarnation",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 123195017,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
