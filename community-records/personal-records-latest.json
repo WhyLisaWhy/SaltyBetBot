@@ -549857,5 +549857,113 @@
     "sum": 123378901,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4535
+    },
+    "date": 1791475402724,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 3649535,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Kukulkan",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1369026,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Neco-misaka",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 123378900,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27443
+    },
+    "date": 1791475572926,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 994554,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Karla",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2862512,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Cure black",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "sum": 123380600,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8688
+    },
+    "date": 1791475747128,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 5339809,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Aztec toki",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1283939,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shadow mario",
+      "normal_bettors": 12,
+      "win_streak": -11
+    },
+    "sum": 123390045,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791475897127,
+    "duration": 94008,
+    "left": {
+      "bet_amount": 792723,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kyrito",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4519027,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Yamazaki cvs2",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 123392131,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
