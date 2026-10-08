@@ -545780,5 +545780,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1794
+    },
+    "date": 1791445725528,
+    "duration": 246205,
+    "left": {
+      "bet_amount": 411902,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ironpatriot",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151052,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Batman EX3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 1794,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6629
+    },
+    "date": 1791445929724,
+    "duration": 149998,
+    "left": {
+      "bet_amount": 277996,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Leonardo",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 292756,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 22,
+      "name": "Ms.game&watch",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 6629,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791446229950,
+    "duration": 240223,
+    "left": {
+      "bet_amount": 83264,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Pocket Morrigan",
+      "normal_bettors": 8,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 514338,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Airi",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
