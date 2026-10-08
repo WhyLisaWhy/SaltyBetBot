@@ -542918,5 +542918,140 @@
     "sum": 123276443,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40720
+    },
+    "date": 1791426078125,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 4660171,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Gouki-kofm",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 810935,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Task force despero",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 123280999,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30884
+    },
+    "date": 1791426274333,
+    "duration": 135899,
+    "left": {
+      "bet_amount": 1851595,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shin meep140",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2220424,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Deluxe lin",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123288024,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791426540526,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 520975,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Byakuren UliL",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4186630,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Kthanid",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 123324453,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25373
+    },
+    "date": 1791426674728,
+    "duration": 74187,
+    "left": {
+      "bet_amount": 5405529,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "D4 roll",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 834877,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yasha-hime",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 123324454,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791426804732,
+    "duration": 74003,
+    "left": {
+      "bet_amount": 768896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shaia hishizaki",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4973729,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "F-4 phantom",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 123328355,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
