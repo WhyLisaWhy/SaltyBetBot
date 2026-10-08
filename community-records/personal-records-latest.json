@@ -549533,5 +549533,140 @@
     "sum": 123146443,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6123
+    },
+    "date": 1791473459328,
+    "duration": 110207,
+    "left": {
+      "bet_amount": 934017,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tsunade EX3",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3183320,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Thorn",
+      "normal_bettors": 22,
+      "win_streak": -5
+    },
+    "sum": 123148688,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32309
+    },
+    "date": 1791473689529,
+    "duration": 176188,
+    "left": {
+      "bet_amount": 2865548,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Dormammu",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 881837,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Morrigan EX",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 123150482,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17809
+    },
+    "date": 1791473859530,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 3449634,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Masked rider agito",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 773001,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rock",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 123251761,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7196
+    },
+    "date": 1791473969729,
+    "duration": 54002,
+    "left": {
+      "bet_amount": 5713254,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Arcueid brunestud iqs",
+      "normal_bettors": 26,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 767917,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kraken",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 123233952,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23384
+    },
+    "date": 1791474145925,
+    "duration": 116195,
+    "left": {
+      "bet_amount": 2021549,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Youhei 1p",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1523160,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Lit ren",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "sum": 123234918,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
