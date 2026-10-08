@@ -549371,5 +549371,167 @@
     "sum": 123145652,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19341
+    },
+    "date": 1791472526530,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 1179320,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Silvermoon",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2391125,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Vebel",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 123145651,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7491
+    },
+    "date": 1791472702739,
+    "duration": 120212,
+    "left": {
+      "bet_amount": 4519294,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Yoshi",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1010165,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sai",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123126310,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25755
+    },
+    "date": 1791472848726,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 952165,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kung fu head",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3009081,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Juggernaut f",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 123127982,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37224
+    },
+    "date": 1791472982929,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 3320892,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Balrog svc chaos",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 936304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Robert 98",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 123136063,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791473121127,
+    "duration": 78190,
+    "left": {
+      "bet_amount": 6697529,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Super-Mario",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 872957,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kenny mccormick",
+      "normal_bettors": 7,
+      "win_streak": -14
+    },
+    "sum": 123146442,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8772
+    },
+    "date": 1791473293120,
+    "duration": 113994,
+    "left": {
+      "bet_amount": 3452606,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Cafelier",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 885726,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nu-13",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 123146443,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
