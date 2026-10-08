@@ -542594,5 +542594,113 @@
     "sum": 4437,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5152
+    },
+    "date": 1791422543326,
+    "duration": 249997,
+    "left": {
+      "bet_amount": 534632,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Cajun gambit EX7",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 49615,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Arcbeetle",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 5152,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5626
+    },
+    "date": 1791422683528,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 533692,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kliff",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 48671,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kouma kishima iqs",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 5626,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6134
+    },
+    "date": 1791422869729,
+    "duration": 120203,
+    "left": {
+      "bet_amount": 591213,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kamen rider joker",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 66229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bowser smrpg",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 6134,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791423143926,
+    "duration": 214200,
+    "left": {
+      "bet_amount": 175902,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Piccolo sb",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 176488,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Insect",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
