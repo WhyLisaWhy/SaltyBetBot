@@ -551558,5 +551558,59 @@
     "sum": 123120060,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17848
+    },
+    "date": 1791486605528,
+    "duration": 165991,
+    "left": {
+      "bet_amount": 2532209,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Ren-kun",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1068652,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Suzushina yuriko",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 123120061,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29752
+    },
+    "date": 1791486745126,
+    "duration": 75399,
+    "left": {
+      "bet_amount": 753497,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ratking",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5294466,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Blaze-rock",
+      "normal_bettors": 22,
+      "win_streak": 19
+    },
+    "sum": 123127541,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
