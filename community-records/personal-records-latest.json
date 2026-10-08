@@ -545483,5 +545483,86 @@
     "sum": 123394915,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35233
+    },
+    "date": 1791442749328,
+    "duration": 114199,
+    "left": {
+      "bet_amount": 2373936,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Deluxe kung fu man",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1986546,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Super mario EX3",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "sum": 123403935,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791443151525,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 134287,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Michelangelo",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 34252,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Gild tesoro",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1941
+    },
+    "date": 1791443505925,
+    "duration": 294183,
+    "left": {
+      "bet_amount": 110748,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Pocket Morrigan",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89800,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Annie murakami",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 1941,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
