@@ -548021,5 +548021,140 @@
     "sum": 123316949,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25726
+    },
+    "date": 1791461730130,
+    "duration": 110005,
+    "left": {
+      "bet_amount": 2704674,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Ow the edge",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1285021,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mess",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123323231,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25185
+    },
+    "date": 1791461920324,
+    "duration": 130159,
+    "left": {
+      "bet_amount": 1146792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "T.hawk sf2",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4334583,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Yoriko yasuzumi",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 123335339,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11781
+    },
+    "date": 1791462116525,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 816890,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Yuri pots",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3248992,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Vertigo",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 123341964,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16908
+    },
+    "date": 1791462306525,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 2227814,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Black magician girl",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1505180,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Super_zak",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 123330183,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35742
+    },
+    "date": 1791462550726,
+    "duration": 184199,
+    "left": {
+      "bet_amount": 1006360,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Underdog",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4532669,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Yamazaki 98",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 123341521,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
