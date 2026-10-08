@@ -542081,5 +542081,167 @@
     "sum": 123072049,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3608
+    },
+    "date": 1791418506340,
+    "duration": 100214,
+    "left": {
+      "bet_amount": 1364545,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vergil",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3631077,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Gate",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 123072048,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21316
+    },
+    "date": 1791418682329,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 3020455,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Mithra classic knight",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155542,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Octohead",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 123068440,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39713
+    },
+    "date": 1791418918528,
+    "duration": 175996,
+    "left": {
+      "bet_amount": 5400472,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Aoko aozaki",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1060510,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mahvel chun li",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "sum": 123047124,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1810
+    },
+    "date": 1791419092727,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 3972569,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "J.p.polnareff",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 989347,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Aldebaran de tauro",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 123242057,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 991
+    },
+    "date": 1791419238925,
+    "duration": 90196,
+    "left": {
+      "bet_amount": 6853408,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Barts",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Usn_counter",
+      "normal_bettors": 10,
+      "win_streak": -8
+    },
+    "sum": 123242508,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37403
+    },
+    "date": 1791419402937,
+    "duration": 104013,
+    "left": {
+      "bet_amount": 2702338,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Gian",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1506326,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "No.8",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123242678,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
