@@ -545861,5 +545861,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1801
+    },
+    "date": 1791446516128,
+    "duration": 224180,
+    "left": {
+      "bet_amount": 84064,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Batman EX3",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 537730,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Ms.game&watch",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 1801,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791447023930,
+    "duration": 451604,
+    "left": {
+      "bet_amount": 542764,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Airi",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 261498,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Batman EX3",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
