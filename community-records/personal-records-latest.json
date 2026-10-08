@@ -552611,5 +552611,140 @@
     "sum": 123344331,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40639
+    },
+    "date": 1791499739725,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 890578,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Cammy cxn",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7677385,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Double",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 123318287,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2678
+    },
+    "date": 1791499885723,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 1697819,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mysterious power",
+      "normal_bettors": 9,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7543371,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Alice buster",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123277648,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9139
+    },
+    "date": 1791500091926,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 3273880,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Sineba",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Starfy",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 123278251,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791500256123,
+    "duration": 104198,
+    "left": {
+      "bet_amount": 9683992,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Antlar",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 963944,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "God alosson",
+      "normal_bettors": 10,
+      "win_streak": -13
+    },
+    "sum": 123281576,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22277
+    },
+    "date": 1791500442123,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 697241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Uppercut",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3742446,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Rare god orochi",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 123281577,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
