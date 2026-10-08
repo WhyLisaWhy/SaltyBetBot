@@ -549101,5 +549101,140 @@
     "sum": 123129103,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33267
+    },
+    "date": 1791470799338,
+    "duration": 74212,
+    "left": {
+      "bet_amount": 2660242,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Kamen rider diend",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1937878,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lavia",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123124641,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25585
+    },
+    "date": 1791471035536,
+    "duration": 176207,
+    "left": {
+      "bet_amount": 1025777,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ashimiya_yu",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4182464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Gillius",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 123148576,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27940
+    },
+    "date": 1791471195528,
+    "duration": 95958,
+    "left": {
+      "bet_amount": 2595068,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Lenalee-mvc EX3",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1137358,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ella",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 123122991,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23143
+    },
+    "date": 1791471365727,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 3295708,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Shin EX",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 832979,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Nina",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 123185213,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24956
+    },
+    "date": 1791471595926,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 1426637,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Forte.exe",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2112786,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Charlce",
+      "normal_bettors": 25,
+      "win_streak": 8
+    },
+    "sum": 123162070,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
