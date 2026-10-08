@@ -542243,5 +542243,113 @@
     "sum": 123242678,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35823
+    },
+    "date": 1791419533127,
+    "duration": 69994,
+    "left": {
+      "bet_amount": 1536300,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "A-rachel",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2325045,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Yuen-joe",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123205275,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30797
+    },
+    "date": 1791419663131,
+    "duration": 74005,
+    "left": {
+      "bet_amount": 1192678,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Justicia",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3515145,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Shin vega",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 123258255,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31743
+    },
+    "date": 1791419933324,
+    "duration": 214196,
+    "left": {
+      "bet_amount": 2540101,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "G-akiha",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1111791,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kemular",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 123227458,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34417
+    },
+    "date": 1791420199527,
+    "duration": 204193,
+    "left": {
+      "bet_amount": 1465187,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Genesic gaogaigar",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2741334,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Mizuki takase",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123241181,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
