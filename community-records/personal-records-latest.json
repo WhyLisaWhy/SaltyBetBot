@@ -544781,5 +544781,140 @@
     "sum": 123158883,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24721
+    },
+    "date": 1791438634126,
+    "duration": 216197,
+    "left": {
+      "bet_amount": 1317736,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Battler",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2398873,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Alexander anderson",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123141899,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16693
+    },
+    "date": 1791438758163,
+    "duration": 64036,
+    "left": {
+      "bet_amount": 3160489,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Shin valdoll",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 745420,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Octorok",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 123117178,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791438886125,
+    "duration": 71992,
+    "left": {
+      "bet_amount": 7920853,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shizuha EX3",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1548863,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Yuugi",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 123100485,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25031
+    },
+    "date": 1791439034325,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 1296902,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Ettoman",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2185216,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Rufuu ix",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123100486,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35927
+    },
+    "date": 1791439180526,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1094564,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Omanyte EX3",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2173331,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Dormammu",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123141864,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
