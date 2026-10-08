@@ -543053,5 +543053,113 @@
     "sum": 123328355,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 49607
+    },
+    "date": 1791426994940,
+    "duration": 124014,
+    "left": {
+      "bet_amount": 1964258,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Foxy the pirate",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1779745,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kasumi EX3",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 123328354,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29224
+    },
+    "date": 1791427235158,
+    "duration": 180230,
+    "left": {
+      "bet_amount": 707374,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "A-kaigen",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3536053,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Chargeman len",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 123372194,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18208
+    },
+    "date": 1791427441341,
+    "duration": 146212,
+    "left": {
+      "bet_amount": 1431076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sounanda",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2590469,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Tokisada shirou amakusa",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123377993,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1307
+    },
+    "date": 1791427637329,
+    "duration": 142001,
+    "left": {
+      "bet_amount": 1293916,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dark Stimpy",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3927736,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Pokeathena",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123359785,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
