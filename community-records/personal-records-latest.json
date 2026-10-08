@@ -548318,5 +548318,113 @@
     "sum": 123295297,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1575
+    },
+    "date": 1791463713731,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 856841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Komepo",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4758262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Guile-xi remix",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 123270789,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23922
+    },
+    "date": 1791463889728,
+    "duration": 111992,
+    "left": {
+      "bet_amount": 4056218,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Kaguya.luna",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1047219,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jubei mitsuyoshi",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 123271073,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30121
+    },
+    "date": 1791464023934,
+    "duration": 73997,
+    "left": {
+      "bet_amount": 1321249,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sa-tan",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2862487,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Alfred airhawk rb2",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123247151,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18949
+    },
+    "date": 1791464274127,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 3551623,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Princess nausicaa",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 866649,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "E Ken",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123217030,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
