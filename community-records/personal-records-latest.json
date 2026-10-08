@@ -547778,5 +547778,113 @@
     "sum": 123290893,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20585
+    },
+    "date": 1791460178925,
+    "duration": 172160,
+    "left": {
+      "bet_amount": 1454107,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Goro",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2214554,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Nair",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123290894,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27535
+    },
+    "date": 1791460339128,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 647129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "R-haoumaru",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7501149,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Dantalion_alice",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 123304286,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16638
+    },
+    "date": 1791460473126,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 640194,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sion_alien",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5552132,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Yuugi mb",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 123306653,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7687
+    },
+    "date": 1791460749326,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 2644859,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Fyra noll",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170110,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jumbo ozaki",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 123308566,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
