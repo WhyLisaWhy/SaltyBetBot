@@ -545672,5 +545672,113 @@
     "sum": 1972,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3237
+    },
+    "date": 1791444678726,
+    "duration": 150003,
+    "left": {
+      "bet_amount": 242434,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Vergil EX3",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 197400,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Leonardo",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 3237,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7149
+    },
+    "date": 1791444830922,
+    "duration": 98189,
+    "left": {
+      "bet_amount": 418057,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ms.game&watch",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 101508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sub-zero umk3",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 7149,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8856
+    },
+    "date": 1791445155128,
+    "duration": 272199,
+    "left": {
+      "bet_amount": 341982,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Michelangelo",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 160329,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Pocket Morrigan",
+      "normal_bettors": 17,
+      "win_streak": 7
+    },
+    "sum": 8856,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791445415328,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 432651,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Airi",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 68193,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Gai",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
