@@ -552854,5 +552854,140 @@
     "sum": 123177940,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2045
+    },
+    "date": 1791501418926,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 1999397,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Mrheart",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1747864,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yabuki ogre",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 123174666,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16554
+    },
+    "date": 1791501583127,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 1132841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shaq fu EX3",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5417379,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Senator",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123172621,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1864
+    },
+    "date": 1791501743127,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 6972103,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Z-ton 2nd",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 869204,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hawk",
+      "normal_bettors": 8,
+      "win_streak": -8
+    },
+    "sum": 123176073,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791501973326,
+    "duration": 169995,
+    "left": {
+      "bet_amount": 755106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Thor",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4335830,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Mokou EX H",
+      "normal_bettors": 24,
+      "win_streak": 11
+    },
+    "sum": 123176306,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26653
+    },
+    "date": 1791502179527,
+    "duration": 146203,
+    "left": {
+      "bet_amount": 1290506,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Zhenhua lou",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5078390,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "The moon",
+      "normal_bettors": 24,
+      "win_streak": 11
+    },
+    "sum": 123176305,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
