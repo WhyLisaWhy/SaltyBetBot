@@ -546455,5 +546455,140 @@
     "sum": 123495170,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30069
+    },
+    "date": 1791452044557,
+    "duration": 124018,
+    "left": {
+      "bet_amount": 4143853,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Senator",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 939424,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Opera elmer",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123461386,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791452204727,
+    "duration": 104204,
+    "left": {
+      "bet_amount": 1480390,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Monk",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6857478,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Super adrimus",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 123431317,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17234
+    },
+    "date": 1791452344727,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 2267672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Swole shovel knight",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1271003,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Shana",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123431318,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18759
+    },
+    "date": 1791452534923,
+    "duration": 133988,
+    "left": {
+      "bet_amount": 2437307,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Orochi earth yashiro",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1326785,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Erika wagner",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 123440905,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38258
+    },
+    "date": 1791452717133,
+    "duration": 122207,
+    "left": {
+      "bet_amount": 1744186,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kilyousuke ex",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1809220,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Genma",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 123422146,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
