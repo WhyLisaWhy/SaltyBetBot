@@ -550667,5 +550667,113 @@
     "sum": 123319126,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2356
+    },
+    "date": 1791480704928,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 3003985,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Arcadboy",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 646541,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Alice carrol",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 123301898,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15406
+    },
+    "date": 1791480865135,
+    "duration": 100007,
+    "left": {
+      "bet_amount": 2174461,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Carl johnson",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2428709,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Dark link mythos",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 123299542,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29688
+    },
+    "date": 1791481035132,
+    "duration": 110007,
+    "left": {
+      "bet_amount": 3749056,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "The grandmapocalypse",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 706671,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hakurei omega",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 123313249,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22303
+    },
+    "date": 1791481295327,
+    "duration": 204001,
+    "left": {
+      "bet_amount": 959724,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yoshi ssbb",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6480658,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Rajaa miyako",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123318802,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
