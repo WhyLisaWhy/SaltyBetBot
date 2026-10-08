@@ -542810,5 +542810,113 @@
     "sum": 2658,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791424683727,
+    "duration": 382998,
+    "left": {
+      "bet_amount": 291625,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Piccolo sb",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 429508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sonans",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791425677927,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 779759,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ironman",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5459204,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Kunagi",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 123269212,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19475
+    },
+    "date": 1791425807926,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 1242558,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rhino eoh",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3326715,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Fei long ssf2x",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123269211,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24823
+    },
+    "date": 1791425938123,
+    "duration": 69996,
+    "left": {
+      "bet_amount": 1003277,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Genma saotome iqs",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5442375,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Invoker",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 123276443,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
