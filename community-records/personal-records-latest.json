@@ -546752,5 +546752,140 @@
     "sum": 123342113,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24436
+    },
+    "date": 1791453837926,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 1373349,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Hyo amano",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1934555,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Aizen",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 123342114,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791453984126,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 608601,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Pocket janemba",
+      "normal_bettors": 4,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5634107,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Skapon",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 123359245,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7356
+    },
+    "date": 1791454154329,
+    "duration": 116203,
+    "left": {
+      "bet_amount": 912138,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rayquaza",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5977692,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Kenshiro-hell",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123359244,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791454334328,
+    "duration": 126003,
+    "left": {
+      "bet_amount": 4270801,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Shinra",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 926046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Komachi",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 123351888,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791454468525,
+    "duration": 80194,
+    "left": {
+      "bet_amount": 5767056,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Todo EX",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Trevor B",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123351887,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
