@@ -550586,5 +550586,86 @@
     "sum": 123339281,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 316
+    },
+    "date": 1791480110524,
+    "duration": 96197,
+    "left": {
+      "bet_amount": 964845,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Shizupa",
+      "normal_bettors": 8,
+      "win_streak": -15
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9185791,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Mega lilde",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 123319093,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791480250524,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 1351986,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Spin youmu EX",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3502158,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Dantalion_alice",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 123319127,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17228
+    },
+    "date": 1791480454729,
+    "duration": 144003,
+    "left": {
+      "bet_amount": 3885159,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Akiha EX",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 942850,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rin",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 123319126,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
