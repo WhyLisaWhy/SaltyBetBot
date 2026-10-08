@@ -551612,5 +551612,113 @@
     "sum": 123127541,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791487156130,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 114507,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Broken",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 62700,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Efreet",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2388
+    },
+    "date": 1791487326129,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 162603,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yuki yuna",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 59926,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Jin bros",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 2388,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3256
+    },
+    "date": 1791487626329,
+    "duration": 246200,
+    "left": {
+      "bet_amount": 202279,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Anji",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 104101,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Shimakaze",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 3256,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4906
+    },
+    "date": 1791487986725,
+    "duration": 304187,
+    "left": {
+      "bet_amount": 306795,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kohaku EX2",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 77210,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Gardevoir dx",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "sum": 4906,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
