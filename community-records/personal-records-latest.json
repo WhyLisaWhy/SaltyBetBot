@@ -548993,5 +548993,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8786
+    },
+    "date": 1791470174728,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 3850228,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Tarochan",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1059111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jell",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123153546,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26856
+    },
+    "date": 1791470314927,
+    "duration": 86190,
+    "left": {
+      "bet_amount": 974496,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Assassin",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2564966,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Axel stone pots",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 123155958,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791470496926,
+    "duration": 127998,
+    "left": {
+      "bet_amount": 6374290,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Tensinhan",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 919466,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kakashi",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 123129102,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4462
+    },
+    "date": 1791470665128,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 900760,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Klonoa",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3693602,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Tuna",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 123129103,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
