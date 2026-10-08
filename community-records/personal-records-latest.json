@@ -543863,5 +543863,113 @@
     "sum": 123292817,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791432164927,
+    "duration": 92001,
+    "left": {
+      "bet_amount": 897208,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ten-sing",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7916064,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Guillotine gen",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 123263759,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24760
+    },
+    "date": 1791432369129,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 1846506,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kat",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2479559,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "C3po & r2d2",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 123263760,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 560
+    },
+    "date": 1791432585327,
+    "duration": 162201,
+    "left": {
+      "bet_amount": 1142827,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Mika returna",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3211681,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ex iori xiii",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "sum": 123239000,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30173
+    },
+    "date": 1791432779528,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 2521283,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Toatus",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 828419,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "C3po & r2d2",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123240573,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
