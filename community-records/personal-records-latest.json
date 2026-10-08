@@ -545051,5 +545051,140 @@
     "sum": 123130512,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13943
+    },
+    "date": 1791440257328,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 966047,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Asutorea",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2161958,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Boring sdk mukurou",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123133083,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18897
+    },
+    "date": 1791440427530,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 3116359,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Millia tnt",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 980767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Margaret",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 123139274,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25882
+    },
+    "date": 1791440577525,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 894478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "The blob",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3211675,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Boomy the cat",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123145186,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1877
+    },
+    "date": 1791440701726,
+    "duration": 70199,
+    "left": {
+      "bet_amount": 722308,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shizuha aki",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3665684,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Natsumi EX",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 123152337,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8556
+    },
+    "date": 1791440827728,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 1184183,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mary",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2639511,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Redking",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123152707,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
