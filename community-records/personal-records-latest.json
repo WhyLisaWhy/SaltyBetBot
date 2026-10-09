@@ -558360,5 +558360,113 @@
     "sum": 123566879,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26489
+    },
+    "date": 1791541982925,
+    "duration": 156180,
+    "left": {
+      "bet_amount": 2088706,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Burnie",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050265,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ex-aid",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 123543897,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25336
+    },
+    "date": 1791542186926,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 3899223,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Class re",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 674725,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rick strowd EX3",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 123595281,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25950
+    },
+    "date": 1791542453127,
+    "duration": 210000,
+    "left": {
+      "bet_amount": 2509917,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Nekonin ex",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 883905,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Baby bonnie hood",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 123569945,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24956
+    },
+    "date": 1791542659327,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1493973,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Julian solo poseidon",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1652724,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Shadow geist",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123578991,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
