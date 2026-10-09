@@ -560250,5 +560250,140 @@
     "sum": 123359783,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21549
+    },
+    "date": 1791554642725,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 2780763,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Air man ga taosenai",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 811897,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dark super sonic",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123348460,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22038
+    },
+    "date": 1791554766931,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 1006088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Super_zak",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2689030,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Jamm",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 123420358,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43883
+    },
+    "date": 1791554959126,
+    "duration": 132186,
+    "left": {
+      "bet_amount": 1080819,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gill sf3",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2529544,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Otona suzu",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 123428537,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2620
+    },
+    "date": 1791555093127,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1825155,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Younger link",
+      "normal_bettors": 16,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 799460,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Forecaster blackmore",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 123446968,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 412
+    },
+    "date": 1791555223326,
+    "duration": 74200,
+    "left": {
+      "bet_amount": 3447026,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Red arremer svc chaos",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1236481,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Comeleon",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 123444348,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
