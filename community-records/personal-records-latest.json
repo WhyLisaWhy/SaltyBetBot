@@ -564217,5 +564217,113 @@
     "sum": 223801,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41963
+    },
+    "date": 1791583302924,
+    "duration": 250199,
+    "left": {
+      "bet_amount": 278732,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Aioria de leo",
+      "normal_bettors": 21,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 218916,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Axe pq",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 167851,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31472
+    },
+    "date": 1791583563123,
+    "duration": 200202,
+    "left": {
+      "bet_amount": 380815,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sauri",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 139735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Shadow x",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 125888,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 48973
+    },
+    "date": 1791583819325,
+    "duration": 196199,
+    "left": {
+      "bet_amount": 193847,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kickboxer",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 369964,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Aioria de leo",
+      "normal_bettors": 25,
+      "win_streak": 10
+    },
+    "sum": 195892,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36730
+    },
+    "date": 1791584146126,
+    "duration": 266797,
+    "left": {
+      "bet_amount": 703615,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Shadow x",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 134305,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kickboxer",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 146919,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
