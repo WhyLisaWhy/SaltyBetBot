@@ -557820,5 +557820,140 @@
     "sum": 1864,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5402
+    },
+    "date": 1791536534526,
+    "duration": 300196,
+    "left": {
+      "bet_amount": 292064,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dark super sonic",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 92817,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bionicles",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 5402,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7088
+    },
+    "date": 1791536724727,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 314554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Nakoruru as",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 29632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mayura",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "sum": 7088,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7741
+    },
+    "date": 1791536924926,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 319241,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Namikiyo",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 25310,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tomoka minato",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 7741,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791537114928,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 134876,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "James",
+      "normal_bettors": 3,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 344103,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Most evil ryu",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2155
+    },
+    "date": 1791537309126,
+    "duration": 133991,
+    "left": {
+      "bet_amount": 43680,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mast",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 450355,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Angel hikaru",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 2155,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
