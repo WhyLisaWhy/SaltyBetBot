@@ -555770,5 +555770,140 @@
     "sum": 123472843,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22012
+    },
+    "date": 1791523027926,
+    "duration": 166201,
+    "left": {
+      "bet_amount": 1549928,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Oshima",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2251432,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Heavyarms",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 123470369,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10135
+    },
+    "date": 1791523187957,
+    "duration": 106029,
+    "left": {
+      "bet_amount": 2923997,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Nozomu (reimei)",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905584,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kim EX",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123448357,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19055
+    },
+    "date": 1791523318127,
+    "duration": 70205,
+    "left": {
+      "bet_amount": 1798830,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Terumi",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1973464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Robinmask",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123451486,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791523504126,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 735940,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pocket chunli",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7182206,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Yami_miko EX",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 123432431,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1640
+    },
+    "date": 1791523738359,
+    "duration": 180027,
+    "left": {
+      "bet_amount": 1926657,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Luffy",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1601073,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Royal guard",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123432432,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
