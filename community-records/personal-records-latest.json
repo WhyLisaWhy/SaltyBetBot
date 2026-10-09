@@ -558144,5 +558144,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13638
+    },
+    "date": 1791540575727,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1484056,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Dhalsim vp",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2209115,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "V. joe",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 123599411,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13342
+    },
+    "date": 1791540709928,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 2757224,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Xbl balrog",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1062963,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Alcott",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 123585773,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791540889927,
+    "duration": 123999,
+    "left": {
+      "bet_amount": 3669844,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Neferpitou",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 795310,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Gilgamesh f/sn",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 123590892,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2678
+    },
+    "date": 1791541126134,
+    "duration": 180206,
+    "left": {
+      "bet_amount": 2357705,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Rock volnutt",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1002382,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Khriz 02um",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123590891,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
