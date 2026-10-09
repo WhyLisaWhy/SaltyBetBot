@@ -563382,5 +563382,59 @@
     "sum": 123865889,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 562
+    },
+    "date": 1791576407728,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 3177540,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Ralsei",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2377915,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Actual zeroko",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "sum": 123872817,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791576571729,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 756843,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Charlotte pots",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7035456,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Omanyte",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 123872255,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
