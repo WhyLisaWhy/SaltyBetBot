@@ -558630,5 +558630,140 @@
     "sum": 123512684,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13372
+    },
+    "date": 1791543880325,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 971531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jyuzumaru",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2555059,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Marcia",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 123533767,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18435
+    },
+    "date": 1791544046530,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 2025373,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Warlock",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1098109,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sonic the hedgehog",
+      "normal_bettors": 8,
+      "win_streak": 8
+    },
+    "sum": 123538826,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791544240734,
+    "duration": 140164,
+    "left": {
+      "bet_amount": 1905615,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Anna ex",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1410612,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Varnage",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123520391,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3223
+    },
+    "date": 1791544380728,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 633144,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Structure list",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4632897,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "G-gonzales",
+      "normal_bettors": 18,
+      "win_streak": 9
+    },
+    "sum": 123520390,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28907
+    },
+    "date": 1791544526926,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1153062,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tennma kazusanosuke",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2616040,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Basilisk-s[0.98]",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 123520831,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
