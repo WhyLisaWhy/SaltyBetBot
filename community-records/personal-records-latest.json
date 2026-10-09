@@ -555527,5 +555527,113 @@
     "sum": 123404022,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25616
+    },
+    "date": 1791521354528,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 725752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Masked rider 1st",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4934799,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Goku black ssr",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 123404086,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33485
+    },
+    "date": 1791521514725,
+    "duration": 104194,
+    "left": {
+      "bet_amount": 3263668,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Grimace",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1226257,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Earthquake svc",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 123407834,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25583
+    },
+    "date": 1791521740929,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 3020556,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Yunalesca",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1563903,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Bloody flandre",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 123420288,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1020
+    },
+    "date": 1791521874927,
+    "duration": 74003,
+    "left": {
+      "bet_amount": 3549034,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Sheep the royal",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1742705,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Miduma",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123468905,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
