@@ -556094,5 +556094,140 @@
     "sum": 123434239,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12025
+    },
+    "date": 1791524985327,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 4572488,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Albert wesker ex",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1289964,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ex-kyo(jin-typea)",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 123498643,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24345
+    },
+    "date": 1791525191526,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 1124719,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Crea-f",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2537141,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Killa and ren",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123502027,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23331
+    },
+    "date": 1791525335724,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 2420005,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Final dio",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 964686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Save us anpanman!",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123512717,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31421
+    },
+    "date": 1791525541725,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 1429395,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shannon",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2235441,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Rajaa miyako",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 123521929,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23407
+    },
+    "date": 1791525735928,
+    "duration": 134003,
+    "left": {
+      "bet_amount": 1339819,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "G lancer",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2067284,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Heidi",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123490508,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
