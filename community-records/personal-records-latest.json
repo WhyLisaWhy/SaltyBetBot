@@ -561762,5 +561762,113 @@
     "sum": 123583856,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20740
+    },
+    "date": 1791566345939,
+    "duration": 214213,
+    "left": {
+      "bet_amount": 1170967,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Maximum maxime",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2127439,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Holy god earth svg",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123646413,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5850
+    },
+    "date": 1791566546127,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 3037518,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Shin vega",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Carl johnson",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 123657719,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791566686327,
+    "duration": 84135,
+    "left": {
+      "bet_amount": 1701602,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Rangle EX3",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3096324,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lamia",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123660016,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15889
+    },
+    "date": 1791566926538,
+    "duration": 180211,
+    "left": {
+      "bet_amount": 1013005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hob-goblin 2009",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3691675,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Evil q",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 123660018,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
