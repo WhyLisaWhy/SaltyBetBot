@@ -558063,5 +558063,86 @@
     "sum": 8922,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10394
+    },
+    "date": 1791538502127,
+    "duration": 176196,
+    "left": {
+      "bet_amount": 446497,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Demitri cvs",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 239583,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dark super sonic",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 10394,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28960
+    },
+    "date": 1791538762327,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 296245,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nakoruru as",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 442216,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Most evil ryu",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 28960,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791539034130,
+    "duration": 211803,
+    "left": {
+      "bet_amount": 494113,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dark super sonic",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1321077,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Nakoruru as",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
