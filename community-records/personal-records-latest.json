@@ -561168,5 +561168,32 @@
     "sum": 4879,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791561632925,
+    "duration": 194798,
+    "left": {
+      "bet_amount": 313196,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Anastasia",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 169079,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ky kisuke hnk",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
