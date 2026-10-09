@@ -562491,5 +562491,140 @@
     "sum": 123876912,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35833
+    },
+    "date": 1791570839324,
+    "duration": 81931,
+    "left": {
+      "bet_amount": 2198136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Musashi",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4248775,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Nexus fulgore",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 123896874,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26655
+    },
+    "date": 1791570973536,
+    "duration": 76207,
+    "left": {
+      "bet_amount": 1805887,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Igniz 2001",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5144962,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Shindo tamaki",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123915258,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27790
+    },
+    "date": 1791571139532,
+    "duration": 106008,
+    "left": {
+      "bet_amount": 2287506,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Hirasaka hatsune-if",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2606764,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sorluska EX2",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 123924566,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38893
+    },
+    "date": 1791571349726,
+    "duration": 156195,
+    "left": {
+      "bet_amount": 2370268,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Priecia",
+      "normal_bettors": 22,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2880041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Ruby heart mvc3",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 123955855,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32198
+    },
+    "date": 1791571493930,
+    "duration": 84203,
+    "left": {
+      "bet_amount": 5394757,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Matoi ryuko",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 931628,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Satsujinki EX3",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 123916962,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
