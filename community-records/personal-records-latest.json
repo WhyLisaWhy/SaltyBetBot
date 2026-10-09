@@ -563625,5 +563625,113 @@
     "sum": 123844197,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35912
+    },
+    "date": 1791578134927,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 3078625,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Mizuka tank",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 758559,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "March",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 123914909,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 47516
+    },
+    "date": 1791578345127,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 1716972,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Z-ton 2nd",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1793715,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "A_nayuki",
+      "normal_bettors": 21,
+      "win_streak": 6
+    },
+    "sum": 123923656,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7441
+    },
+    "date": 1791578491319,
+    "duration": 86194,
+    "left": {
+      "bet_amount": 5673915,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "O-kbk",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 987817,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Pocket chunli",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123967966,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28423
+    },
+    "date": 1791578701525,
+    "duration": 146138,
+    "left": {
+      "bet_amount": 3131284,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "The savage pumpkin",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1437800,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dom",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 123960525,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
