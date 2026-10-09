@@ -555122,5 +555122,140 @@
     "sum": 123346627,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10669
+    },
+    "date": 1791518610327,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 2084680,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Braun",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3262491,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Dorako marufoi",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 123389590,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10708
+    },
+    "date": 1791518970788,
+    "duration": 110262,
+    "left": {
+      "bet_amount": 1048343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Reicubas",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5372633,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Nameless-kofm",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 123378921,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791519126926,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1464248,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lilly",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4266749,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Marcia",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123381007,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25800
+    },
+    "date": 1791519330928,
+    "duration": 149964,
+    "left": {
+      "bet_amount": 1164892,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rock howard motw",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3839873,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Atomic r chelnov",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123381008,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791519461126,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 5306629,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Omake",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1271803,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Blankagirl",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 123388783,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
