@@ -560763,5 +560763,113 @@
     "sum": 123404066,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29871
+    },
+    "date": 1791558147129,
+    "duration": 113803,
+    "left": {
+      "bet_amount": 2393010,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Chidejika",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 616080,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Gorimaru jr",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 123439276,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791558497829,
+    "duration": 80102,
+    "left": {
+      "bet_amount": 103223,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Heaven ascension dio",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 47277,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Chougai",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791558769945,
+    "duration": 210216,
+    "left": {
+      "bet_amount": 146381,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Anastasia",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50172,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Another igniz EX2",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2076
+    },
+    "date": 1791558964127,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 77683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ingram prisken",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148831,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Miko-q",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 2076,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
