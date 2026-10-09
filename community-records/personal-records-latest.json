@@ -562788,5 +562788,140 @@
     "sum": 123881409,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27640
+    },
+    "date": 1791572606726,
+    "duration": 85986,
+    "left": {
+      "bet_amount": 950841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Blanka svc chaos",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2939374,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Raoh-pw",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 123881410,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35624
+    },
+    "date": 1791572746727,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 2726798,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kisume EX",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1205588,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Deathvoice-shogun",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123853770,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6436
+    },
+    "date": 1791572910927,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 5178249,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Psionic donald",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1944275,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Euphoria the everlasting",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123869318,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38800
+    },
+    "date": 1791573161135,
+    "duration": 194211,
+    "left": {
+      "bet_amount": 1985466,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Parsee",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2587454,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Tsunade kk",
+      "normal_bettors": 16,
+      "win_streak": 5
+    },
+    "sum": 123871732,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12097
+    },
+    "date": 1791573281126,
+    "duration": 63999,
+    "left": {
+      "bet_amount": 2826398,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Kash",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1783670,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Darkrai",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 123901066,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
