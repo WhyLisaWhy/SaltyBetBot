@@ -557739,5 +557739,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791535777930,
+    "duration": 200001,
+    "left": {
+      "bet_amount": 486064,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Riesbyfe motw",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 398054,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Satan(zayin)",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791535948127,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 218734,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Demitri cvs",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 44603,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "1st round rugal b",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1864
+    },
+    "date": 1791536174326,
+    "duration": 166195,
+    "left": {
+      "bet_amount": 169623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Terry 02",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 87524,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Dead vega",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 1864,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
