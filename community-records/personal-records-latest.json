@@ -563974,5 +563974,59 @@
     "sum": 34583,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 45200
+    },
+    "date": 1791580838927,
+    "duration": 336166,
+    "left": {
+      "bet_amount": 61439,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Custom prier",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1119744,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shadow x",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 45200,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47584
+    },
+    "date": 1791581115126,
+    "duration": 210001,
+    "left": {
+      "bet_amount": 41975,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jun asukai",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1202517,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Deltarune king",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "sum": 47584,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
