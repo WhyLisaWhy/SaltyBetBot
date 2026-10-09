@@ -553151,5 +553151,140 @@
     "sum": 123135260,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26600
+    },
+    "date": 1791503390525,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 2311182,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Hamburglar",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2185323,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Birdie EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 123134698,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791503552527,
+    "duration": 101995,
+    "left": {
+      "bet_amount": 1508496,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Andy bogard ff1",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2877026,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Yoko",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123108098,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27663
+    },
+    "date": 1791503696726,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 1662007,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider garren",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2275451,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Roast_uncle",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 123108097,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5211
+    },
+    "date": 1791503946926,
+    "duration": 194201,
+    "left": {
+      "bet_amount": 5461058,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Robo-ky",
+      "normal_bettors": 23,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1472712,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Inuyasha",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 123080434,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47563
+    },
+    "date": 1791504093125,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 2106243,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Taideo EX",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2123359,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Nayuki the runner",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 123075223,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
