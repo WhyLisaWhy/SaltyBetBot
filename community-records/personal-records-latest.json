@@ -560142,5 +560142,113 @@
     "sum": 123380187,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33217
+    },
+    "date": 1791553802128,
+    "duration": 212200,
+    "left": {
+      "bet_amount": 2344920,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Piccolo",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1360050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shantae",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 123381873,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791554078325,
+    "duration": 216197,
+    "left": {
+      "bet_amount": 5010956,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Karasu",
+      "normal_bettors": 22,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 901435,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Koopa troopa djhr",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "sum": 123348656,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20360
+    },
+    "date": 1791554212525,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 2298057,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "V2ab",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1266338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sho kamui",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123348662,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11323
+    },
+    "date": 1791554462728,
+    "duration": 196203,
+    "left": {
+      "bet_amount": 1965163,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Super queen beryl p",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189482,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nanoha takamachi",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 123359783,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
