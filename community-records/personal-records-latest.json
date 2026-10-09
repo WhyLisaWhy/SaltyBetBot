@@ -557336,5 +557336,167 @@
     "sum": 123634395,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791532987727,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 1176564,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Andy 98",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2216253,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Sazabi EX3",
+      "normal_bettors": 20,
+      "win_streak": -6
+    },
+    "sum": 123595149,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18919
+    },
+    "date": 1791533227924,
+    "duration": 180198,
+    "left": {
+      "bet_amount": 1393405,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "John-117",
+      "normal_bettors": 5,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2414706,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Raira",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 123595151,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11601
+    },
+    "date": 1791533388130,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 569648,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "The freezing august",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3921012,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "S.sinclair EX",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "sum": 123605984,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29402
+    },
+    "date": 1791533594129,
+    "duration": 145995,
+    "left": {
+      "bet_amount": 690225,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Card gunner",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2578171,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Johnny(coh)",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 123607665,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2547
+    },
+    "date": 1791533730327,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 625401,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sektor umk3",
+      "normal_bettors": 5,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5567454,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Valgar reinhart",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 123615448,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35088
+    },
+    "date": 1791533850326,
+    "duration": 65999,
+    "left": {
+      "bet_amount": 2641975,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Aya syameimaru",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172329,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Anna kyoyama",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123615734,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
