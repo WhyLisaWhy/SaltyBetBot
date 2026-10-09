@@ -556229,5 +556229,113 @@
     "sum": 123490508,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33922
+    },
+    "date": 1791525896125,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 1095785,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Apollo",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2314236,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Bubble slime",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 123526004,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 863
+    },
+    "date": 1791526028127,
+    "duration": 76002,
+    "left": {
+      "bet_amount": 840911,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lasher",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3339585,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Iori rotd",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123492082,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7346
+    },
+    "date": 1791526158326,
+    "duration": 76197,
+    "left": {
+      "bet_amount": 998337,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Silvermoon",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5490565,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Wong_dong_fei_hung",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 123492300,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16930
+    },
+    "date": 1791526342524,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 3331376,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kouyalen",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1048732,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pocket Sakura",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123493634,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
