@@ -559737,5 +559737,113 @@
     "sum": 123431328,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20527
+    },
+    "date": 1791551095929,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 763318,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Enrico pucci",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4906652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Kaguya.luna",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 123435615,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25046
+    },
+    "date": 1791551322126,
+    "duration": 166000,
+    "left": {
+      "bet_amount": 1249021,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Grebam EX",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2593935,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Yoko littner",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 123415088,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36640
+    },
+    "date": 1791551478328,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 2343498,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Guy_cecil",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172466,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Birdie EX3",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 123390042,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3646
+    },
+    "date": 1791551642528,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 2290249,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Charlie frost",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1007855,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Xigbar",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 123408092,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
