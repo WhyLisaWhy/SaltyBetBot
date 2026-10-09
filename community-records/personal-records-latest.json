@@ -562194,5 +562194,140 @@
     "sum": 123774250,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23601
+    },
+    "date": 1791569015930,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 901055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Centurion",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2552762,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Michael-reforexister",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 123750169,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22139
+    },
+    "date": 1791569206127,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 1210671,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "K. round",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2195136,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Eins EX6",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 123758424,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16689
+    },
+    "date": 1791569340327,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 682406,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gaogaigar: the king of braves",
+      "normal_bettors": 4,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7610944,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Izumi konata",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123797845,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791569540329,
+    "duration": 134003,
+    "left": {
+      "bet_amount": 1943021,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Frankenstein",
+      "normal_bettors": 12,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2921442,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shin godzillen",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 123799339,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16830
+    },
+    "date": 1791569726527,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 2040029,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Leus hunter",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3515224,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Undeadhero",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 123799341,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
