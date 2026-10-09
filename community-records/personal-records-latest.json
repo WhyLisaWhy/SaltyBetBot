@@ -555392,5 +555392,140 @@
     "sum": 123363335,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3402
+    },
+    "date": 1791520497928,
+    "duration": 74002,
+    "left": {
+      "bet_amount": 2585657,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Senga jaguar",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529615,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Captain kidd",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123344631,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39958
+    },
+    "date": 1791520633925,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 1726473,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Jackie Drunken Fist",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2422519,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Master barnes",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 123350369,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791520834128,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 6307301,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Skapon",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1022462,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Koichi hirose (act 3)",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 123405169,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1146
+    },
+    "date": 1791520978328,
+    "duration": 90194,
+    "left": {
+      "bet_amount": 3485559,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Terryman",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194052,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Terraria warrior",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 123405168,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 279
+    },
+    "date": 1791521144326,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 1089388,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gg-wind",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4769473,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hugo EX",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 123404022,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
