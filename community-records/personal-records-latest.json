@@ -561600,5 +561600,167 @@
     "sum": 123562279,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2443
+    },
+    "date": 1791565269126,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1189047,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gustoff EX3",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3415830,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Dark Slayer",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 123562280,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24000
+    },
+    "date": 1791565415327,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 659779,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mizuchi",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2400388,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Z.e.r.o of n.e.s.t.s",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 123563130,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23459
+    },
+    "date": 1791565555326,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 1957011,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Half orc",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1450487,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sorami",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "sum": 123539130,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27070
+    },
+    "date": 1791565755526,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 2937644,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Zangief_musclebomber",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1306650,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Melusine",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123570278,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39572
+    },
+    "date": 1791565925547,
+    "duration": 110019,
+    "left": {
+      "bet_amount": 1426790,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Crystal",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1349452,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Homer simpson",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 123543208,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17120
+    },
+    "date": 1791566069725,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 588107,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Poochy",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2211515,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Berserker f/sn",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "sum": 123583856,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
