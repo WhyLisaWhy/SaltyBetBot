@@ -553367,5 +553367,140 @@
     "sum": 123128781,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19340
+    },
+    "date": 1791504919727,
+    "duration": 212198,
+    "left": {
+      "bet_amount": 1850083,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Kibanohara ethica",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1822817,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "John-117",
+      "normal_bettors": 12,
+      "win_streak": 6
+    },
+    "sum": 123104372,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791505093729,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 6012111,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Dr. toki",
+      "normal_bettors": 26,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1271556,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The mask of ero",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 123085032,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29065
+    },
+    "date": 1791505343934,
+    "duration": 190008,
+    "left": {
+      "bet_amount": 820667,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Super buu z2",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3920062,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "Smoo",
+      "normal_bettors": 23,
+      "win_streak": -9
+    },
+    "sum": 123085033,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20193
+    },
+    "date": 1791505470128,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 921272,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tesse 7",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3919084,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Air man ga taosenai",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 123055968,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23842
+    },
+    "date": 1791505680330,
+    "duration": 150205,
+    "left": {
+      "bet_amount": 2303116,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "King godzilla",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1935772,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Small ryu EX3",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 123060691,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
