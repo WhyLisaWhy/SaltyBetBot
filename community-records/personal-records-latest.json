@@ -558252,5 +558252,113 @@
     "sum": 123590891,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14113
+    },
+    "date": 1791541272327,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 1559278,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Leese howard",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1554561,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Plastic man ex",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123597174,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20230
+    },
+    "date": 1791541422328,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 4255862,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Albert roseman",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 749528,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Nega joe",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123583061,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16357
+    },
+    "date": 1791541582525,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 3678342,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Jumping jackal",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 914193,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Andromeda shun",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 123562831,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22982
+    },
+    "date": 1791541766725,
+    "duration": 124195,
+    "left": {
+      "bet_amount": 2629309,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Mekazawa-sama",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 601096,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wyler xi ver",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 123566879,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
