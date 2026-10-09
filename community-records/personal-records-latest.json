@@ -560871,5 +560871,86 @@
     "sum": 2076,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3145
+    },
+    "date": 1791559184327,
+    "duration": 164203,
+    "left": {
+      "bet_amount": 164466,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "E Ken",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 92027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Umvc_sentinel",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 3145,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791559550720,
+    "duration": 306393,
+    "left": {
+      "bet_amount": 99994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Igniz",
+      "normal_bettors": 15,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206711,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Jagi sama",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2295
+    },
+    "date": 1791559714727,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 282638,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Sabretoothu",
+      "normal_bettors": 26,
+      "win_streak": 12
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 38059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Potemkin",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 2295,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
