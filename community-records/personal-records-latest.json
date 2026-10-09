@@ -559494,5 +559494,86 @@
     "sum": 123420184,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38721
+    },
+    "date": 1791549488727,
+    "duration": 190000,
+    "left": {
+      "bet_amount": 1064215,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shanghai_ai",
+      "normal_bettors": 10,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1942904,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Bobby drake",
+      "normal_bettors": 13,
+      "win_streak": 6
+    },
+    "sum": 123389751,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791549618925,
+    "duration": 69996,
+    "left": {
+      "bet_amount": 2743784,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Conan edogawa",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 744046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Houjuu nue",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 123457961,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9483
+    },
+    "date": 1791549790929,
+    "duration": 112002,
+    "left": {
+      "bet_amount": 805383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Aihara natsumi",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7882057,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Miyabi",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 123457960,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
