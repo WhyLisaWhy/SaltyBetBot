@@ -557066,5 +557066,140 @@
     "sum": 123516210,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32501
+    },
+    "date": 1791531200326,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1344914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Noel vermillion",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2804052,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Gen-an shiranui",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123537544,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38788
+    },
+    "date": 1791531410530,
+    "duration": 150203,
+    "left": {
+      "bet_amount": 964791,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Yui_kutuna EX",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2926519,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Giorno giovanna ge",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 123552954,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15654
+    },
+    "date": 1791531566728,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 746755,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pluto the sailor man",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4503593,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sa-x",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123666063,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34259
+    },
+    "date": 1791531740727,
+    "duration": 113998,
+    "left": {
+      "bet_amount": 2990729,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Taskmaster pots",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1417259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "General bush",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123668650,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34354
+    },
+    "date": 1791531870928,
+    "duration": 74202,
+    "left": {
+      "bet_amount": 770836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Axel",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2633952,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Phone(redux)",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 123684701,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
