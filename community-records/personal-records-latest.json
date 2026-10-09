@@ -563733,5 +563733,167 @@
     "sum": 123960525,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791578835534,
+    "duration": 80009,
+    "left": {
+      "bet_amount": 6222038,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kangaroo",
+      "normal_bettors": 25,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1076193,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ss6 fiona",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 123973459,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26473
+    },
+    "date": 1791579051729,
+    "duration": 156203,
+    "left": {
+      "bet_amount": 3352491,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Akiha vermillion",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1309137,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Scorpion EX3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123973460,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17504
+    },
+    "date": 1791579171731,
+    "duration": 60002,
+    "left": {
+      "bet_amount": 754231,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "S.sinclair EX",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3442615,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Order-sol",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 123946987,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23807
+    },
+    "date": 1791579361917,
+    "duration": 140192,
+    "left": {
+      "bet_amount": 4522532,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Class wo",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 794850,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Duna",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 123950803,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28371
+    },
+    "date": 1791579501926,
+    "duration": 79989,
+    "left": {
+      "bet_amount": 2991666,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Redking",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1041368,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Corpse",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 123926996,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23969
+    },
+    "date": 1791579662132,
+    "duration": 104005,
+    "left": {
+      "bet_amount": 1909097,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Zan-b",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1462048,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cap.com",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 123936779,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
