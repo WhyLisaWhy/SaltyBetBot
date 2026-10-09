@@ -564028,5 +564028,86 @@
     "sum": 47584,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 49182
+    },
+    "date": 1791581469527,
+    "duration": 300203,
+    "left": {
+      "bet_amount": 597321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Kickboxer",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 676927,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Zoicite",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 49182,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25170
+    },
+    "date": 1791581805727,
+    "duration": 266200,
+    "left": {
+      "bet_amount": 178444,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nariyuki",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1088903,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Dante pxz",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 100679,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 53551
+    },
+    "date": 1791582021930,
+    "duration": 156204,
+    "left": {
+      "bet_amount": 1271782,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Aioria de leo",
+      "normal_bettors": 27,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 59971,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dogma",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 75509,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
