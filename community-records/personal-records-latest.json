@@ -561195,5 +561195,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791563041324,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 1643071,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Caramelman no.2",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1510536,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shadow eiji",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 123449251,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32155
+    },
+    "date": 1791563201525,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1168858,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gojo-san",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2377485,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Yayoi",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123449250,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19065
+    },
+    "date": 1791563361528,
+    "duration": 95944,
+    "left": {
+      "bet_amount": 2057504,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Goku nex",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1057204,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mark sein",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 123417095,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1587
+    },
+    "date": 1791563471727,
+    "duration": 56201,
+    "left": {
+      "bet_amount": 2612646,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Kimberly browning",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 936038,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rugal gb",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 123398030,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
