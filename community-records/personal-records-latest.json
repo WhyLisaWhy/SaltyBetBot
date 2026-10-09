@@ -559197,5 +559197,140 @@
     "sum": 123397038,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 876
+    },
+    "date": 1791547341136,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 2286290,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Kazama",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2452947,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hiei",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123368223,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17127
+    },
+    "date": 1791547497129,
+    "duration": 95989,
+    "left": {
+      "bet_amount": 1702675,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Leo jmf",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1556186,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cola",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 123367347,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26775
+    },
+    "date": 1791547671330,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 2257350,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Foxy ex",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1082397,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Satsuki shindou",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 123382845,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2666
+    },
+    "date": 1791547877530,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 3519256,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Insane ikisan",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 777819,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Scorpion MK",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "sum": 123395534,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32239
+    },
+    "date": 1791548091727,
+    "duration": 154201,
+    "left": {
+      "bet_amount": 1088211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Satsujinki EX3",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2127010,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Megafurashi",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "sum": 123396123,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
