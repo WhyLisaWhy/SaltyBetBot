@@ -556796,5 +556796,140 @@
     "sum": 123476301,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23180
+    },
+    "date": 1791529366928,
+    "duration": 144202,
+    "left": {
+      "bet_amount": 2737000,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "King ghidorah",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 678551,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "A'",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123477002,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21553
+    },
+    "date": 1791529526927,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 3024709,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "King ghidorah",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1287774,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sanzou kongoumaru",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 123482701,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11561
+    },
+    "date": 1791529657126,
+    "duration": 74198,
+    "left": {
+      "bet_amount": 4513789,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Miss x",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 791416,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 123532492,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23024
+    },
+    "date": 1791529813129,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1101495,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ow the edge",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3091271,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Archetype earth_r",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123534514,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29747
+    },
+    "date": 1791529963326,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 1640050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Psylocke EX2",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1783434,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Mulchi fe",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 123542658,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
