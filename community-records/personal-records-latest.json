@@ -554933,5 +554933,86 @@
     "sum": 6463,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791516002326,
+    "duration": 192195,
+    "left": {
+      "bet_amount": 354830,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Card hero",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 205449,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Peppa pig",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2444
+    },
+    "date": 1791516206526,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 288735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Scarlet spider",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 410291,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Luke skywalker EX3",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 2444,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4154
+    },
+    "date": 1791516492725,
+    "duration": 226199,
+    "left": {
+      "bet_amount": 583512,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Ingrid_a",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 195007,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Jack frost",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 4154,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
