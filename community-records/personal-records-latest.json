@@ -557498,5 +557498,140 @@
     "sum": 123615734,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24183
+    },
+    "date": 1791534004531,
+    "duration": 84005,
+    "left": {
+      "bet_amount": 1038316,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shin ryu ex",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2723911,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Balrog f",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123631100,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33209
+    },
+    "date": 1791534200729,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 1494189,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Zoicite",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2072486,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Real veku",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123640238,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17779
+    },
+    "date": 1791534394926,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 1000330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Phoenix_connexion",
+      "normal_bettors": 3,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2721309,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Robo rocky",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 123607029,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3399
+    },
+    "date": 1791534520926,
+    "duration": 65998,
+    "left": {
+      "bet_amount": 5401319,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Duralminn",
+      "normal_bettors": 15,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 848592,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Xemnas",
+      "normal_bettors": 6,
+      "win_streak": -9
+    },
+    "sum": 123613522,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24334
+    },
+    "date": 1791534715125,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 2302549,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Mahoko",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1285805,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ran yakumo",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 123614056,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
