@@ -554528,5 +554528,140 @@
     "sum": 123378167,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31578
+    },
+    "date": 1791512401567,
+    "duration": 106043,
+    "left": {
+      "bet_amount": 1656334,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Gon the dinosaur",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1343431,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Alsion 3rd",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 123365971,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26452
+    },
+    "date": 1791512561724,
+    "duration": 100188,
+    "left": {
+      "bet_amount": 791326,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rei-kugo",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2386710,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Deluxe tetsu yatogi",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123391105,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19599
+    },
+    "date": 1791512711730,
+    "duration": 96004,
+    "left": {
+      "bet_amount": 577262,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Max thunder",
+      "normal_bettors": 4,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3036927,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Deadpool mvc3",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 123399780,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6298
+    },
+    "date": 1791512855929,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 713294,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6338972,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Veigue_lungberg",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 123380181,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35964
+    },
+    "date": 1791512968730,
+    "duration": 52803,
+    "left": {
+      "bet_amount": 1500056,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Light yagami",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4003718,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kuroyukihime",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 123380889,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
