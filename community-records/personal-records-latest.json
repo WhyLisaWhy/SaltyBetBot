@@ -561438,5 +561438,167 @@
     "sum": 123522643,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14664
+    },
+    "date": 1791564402325,
+    "duration": 53998,
+    "left": {
+      "bet_amount": 1766827,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kotonoha",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4482012,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mictlan",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 123522644,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 45602
+    },
+    "date": 1791564492529,
+    "duration": 34001,
+    "left": {
+      "bet_amount": 4488590,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Iwaminokami",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 834071,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Watern",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 123507980,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10283
+    },
+    "date": 1791564652533,
+    "duration": 104006,
+    "left": {
+      "bet_amount": 4300581,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Mousebane",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 721117,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Samus aran ax",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 123462378,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18857
+    },
+    "date": 1791564808728,
+    "duration": 95993,
+    "left": {
+      "bet_amount": 1282359,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Silver surfer EX",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4168547,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Marika yamagata",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 123452095,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33962
+    },
+    "date": 1791564994928,
+    "duration": 126202,
+    "left": {
+      "bet_amount": 2509255,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Michelangelo",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 782246,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Papyrus",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123457870,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791565128926,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 8892376,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Saber",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 875708,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Lanky kong",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 123562279,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
