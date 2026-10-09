@@ -556688,5 +556688,113 @@
     "sum": 123458202,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21350
+    },
+    "date": 1791528662325,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 3506747,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Titan the great",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 889800,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akumeme",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 123458203,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6636
+    },
+    "date": 1791528786321,
+    "duration": 63994,
+    "left": {
+      "bet_amount": 724724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Arcbeetle",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5230743,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Homura & friends",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 123436853,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22159
+    },
+    "date": 1791528962599,
+    "duration": 116075,
+    "left": {
+      "bet_amount": 1665854,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Kevinsd",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 935937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Robo-jam",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 123437772,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4546
+    },
+    "date": 1791529152729,
+    "duration": 130195,
+    "left": {
+      "bet_amount": 4441232,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shiki ryougi iqs",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 685243,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Masta gambit",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123476301,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
