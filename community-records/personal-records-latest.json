@@ -562032,5 +562032,167 @@
     "sum": 123727332,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1312
+    },
+    "date": 1791568103366,
+    "duration": 124041,
+    "left": {
+      "bet_amount": 899065,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Kung fu man v-ism",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2734107,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "KungFu Man",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "sum": 123754595,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23770
+    },
+    "date": 1791568253330,
+    "duration": 90009,
+    "left": {
+      "bet_amount": 2638831,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Metal slug rugal",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1491572,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mia touma",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123753283,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791568389526,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 979172,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Clonekyo xi",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2640064,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Mevella",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123766599,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33708
+    },
+    "date": 1791568565725,
+    "duration": 116164,
+    "left": {
+      "bet_amount": 6705138,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Order of ecclesia death",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1125242,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ooze-o",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 123766598,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14470
+    },
+    "date": 1791568699724,
+    "duration": 73994,
+    "left": {
+      "bet_amount": 766314,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Azure",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5467824,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Fair akuma",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123772227,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24081
+    },
+    "date": 1791568845929,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 2255703,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Shigen EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1499238,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Master kaede",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 123774250,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
