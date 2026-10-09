@@ -561087,5 +561087,86 @@
     "sum": 2090,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2552
+    },
+    "date": 1791560977720,
+    "duration": 150195,
+    "left": {
+      "bet_amount": 323815,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ky kisuke hnk",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112487,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Megafurashi",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 2552,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3432
+    },
+    "date": 1791561177929,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 359023,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Anastasia",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 152817,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Miko-q",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 3432,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4879
+    },
+    "date": 1791561378123,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 508708,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Sabretoothu",
+      "normal_bettors": 27,
+      "win_streak": 14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ky kisuke hnk",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 4879,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
