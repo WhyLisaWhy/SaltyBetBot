@@ -559845,5 +559845,140 @@
     "sum": 123408092,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21117
+    },
+    "date": 1791551832527,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 1289925,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yagami-ad",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1791880,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Piccolo EX3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 123409694,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 515
+    },
+    "date": 1791551988725,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 1122184,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Rajaa riesbyfe",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1905832,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Masked rider den-o",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 123388577,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4341
+    },
+    "date": 1791552172954,
+    "duration": 120203,
+    "left": {
+      "bet_amount": 628840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Speck",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2677166,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider kaixa",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 123388062,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21062
+    },
+    "date": 1791552358931,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 1052597,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Majin vegeta",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1877991,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kukulkan",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 123389081,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15888
+    },
+    "date": 1791552557127,
+    "duration": 137999,
+    "left": {
+      "bet_amount": 4072649,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jiraiya",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1388367,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Steve stalong",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 123368019,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
