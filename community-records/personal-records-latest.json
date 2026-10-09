@@ -561303,5 +561303,140 @@
     "sum": 123398030,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36264
+    },
+    "date": 1791563601725,
+    "duration": 69987,
+    "left": {
+      "bet_amount": 943430,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rick",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2533864,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Orochi lightning shermie",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 123402453,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6103
+    },
+    "date": 1791563751926,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 2000356,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "H_gate_0350",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1835301,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Cpt.falcon",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123366189,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42441
+    },
+    "date": 1791563901928,
+    "duration": 94007,
+    "left": {
+      "bet_amount": 3062309,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Zarugafu ex",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 885659,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - deep",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 123371772,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27285
+    },
+    "date": 1791564102120,
+    "duration": 143995,
+    "left": {
+      "bet_amount": 2459313,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Konoha",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 987338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lord yamcha",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 123511809,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791564288320,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 914061,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Silver horns",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6120513,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kurippudassu",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 123522643,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
