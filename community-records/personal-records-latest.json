@@ -564325,5 +564325,32 @@
     "sum": 146919,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9820
+    },
+    "date": 1791589487726,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 3638882,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Deathscythe",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 991654,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "God gundam EX",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "sum": 124090365,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
