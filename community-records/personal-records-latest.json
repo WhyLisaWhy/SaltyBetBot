@@ -563895,5 +563895,84 @@
     "sum": 123936779,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1791579812723,
+    "duration": 90598,
+    "left": {
+      "bet_amount": 141193,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ermac",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 709439,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Lian",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 31794,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31794
+    },
+    "date": 1791580268524,
+    "duration": 189998,
+    "left": {
+      "bet_amount": 926583,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Sauri",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 84041,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Benimaru",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 31794,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34583
+    },
+    "date": 1791580444726,
+    "duration": 122201,
+    "left": {
+      "bet_amount": 828284,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Custom hsfa berabow man",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 264899,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Trunks",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "sum": 34583,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
