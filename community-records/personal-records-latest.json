@@ -554744,5 +554744,113 @@
     "sum": 3880,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4992
+    },
+    "date": 1791514092925,
+    "duration": 194200,
+    "left": {
+      "bet_amount": 193120,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Belmont trusdale",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 67290,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Starmie",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 4992,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6688
+    },
+    "date": 1791514393127,
+    "duration": 244197,
+    "left": {
+      "bet_amount": 125065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Goku oozaru",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 191012,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Card hero",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 6688,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10919
+    },
+    "date": 1791514653330,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 103457,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cci kim",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 259188,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Peppa pig",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 10919,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791514895530,
+    "duration": 182203,
+    "left": {
+      "bet_amount": 211597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gouken",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 224932,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Scarlet spider",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
