@@ -562923,5 +562923,140 @@
     "sum": 123901066,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23979
+    },
+    "date": 1791573493395,
+    "duration": 156071,
+    "left": {
+      "bet_amount": 1135102,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "False valkyrie",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1812043,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Charles babbage",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 123908668,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19126
+    },
+    "date": 1791573707542,
+    "duration": 160017,
+    "left": {
+      "bet_amount": 3517908,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Miu_kurosaki",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 935768,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Irori",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 123923493,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24333
+    },
+    "date": 1791573853725,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 2292894,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Raidou",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1302252,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Barbarccia",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 123928554,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791574007924,
+    "duration": 94198,
+    "left": {
+      "bet_amount": 970724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yamamoto burai",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2942855,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Haohmaru 98",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 123942229,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791574163925,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 6166463,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Banshee",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1204701,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kyoko_sakura",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 123942230,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
