@@ -557633,5 +557633,111 @@
     "sum": 123614056,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30223
+    },
+    "date": 1791534845127,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 873124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Yugi(emanon)",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3323416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Tsubasa",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123627503,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791535027325,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 3257317,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Meld-ac",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 827792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Super hornet",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 123597280,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32593
+    },
+    "date": 1791535181529,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 835891,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Muhi",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2055610,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Ky(ac)",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123597279,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1791535311928,
+    "duration": 70403,
+    "left": {
+      "bet_amount": 173741,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Todo EX",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 20523,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Annie murakami",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
