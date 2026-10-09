@@ -560574,5 +560574,86 @@
     "sum": 123435292,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31915
+    },
+    "date": 1791556720532,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 3238637,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Konoha mvc",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 750985,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Victor von gerdenheim",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 123391474,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29396
+    },
+    "date": 1791556896522,
+    "duration": 119992,
+    "left": {
+      "bet_amount": 620039,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Anny hamilton",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2064599,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Alsion 3rd",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 123523498,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10130
+    },
+    "date": 1791557030729,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 2719123,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shin scrub prince goldrush",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 850544,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Judge",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 123494102,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
