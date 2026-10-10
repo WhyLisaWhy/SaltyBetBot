@@ -564784,5 +564784,140 @@
     "sum": 124174424,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32884
+    },
+    "date": 1791592568131,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 2392903,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kensou ex",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 993385,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Bomber man",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 124146079,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21759
+    },
+    "date": 1791592728128,
+    "duration": 100004,
+    "left": {
+      "bet_amount": 2122294,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Hotaru",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 944854,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Maria EX",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 124113195,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2614
+    },
+    "date": 1791592912335,
+    "duration": 114008,
+    "left": {
+      "bet_amount": 1602134,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Suiseiseki",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1264988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sharaku",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 124122784,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4400
+    },
+    "date": 1791593052529,
+    "duration": 84203,
+    "left": {
+      "bet_amount": 1085021,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Allen snider",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4775678,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Lina",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 124120170,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1441
+    },
+    "date": 1791593218526,
+    "duration": 109928,
+    "left": {
+      "bet_amount": 3870892,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Frankenstein",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1470831,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Stain",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 124121169,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
