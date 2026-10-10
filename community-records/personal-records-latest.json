@@ -574446,5 +574446,113 @@
     "sum": 124863455,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26022
+    },
+    "date": 1791667116326,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 3389471,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mashiro",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 990423,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Soushihan k.s.k 12p color",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 124820710,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1618
+    },
+    "date": 1791667290525,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 1921099,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Yu narukami",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1754122,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Gedoumiko",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 124794688,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25365
+    },
+    "date": 1791667478736,
+    "duration": 122209,
+    "left": {
+      "bet_amount": 1195033,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Magma-dragoon",
+      "normal_bettors": 7,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2925444,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Resonance",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 124793070,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791667616728,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 6507136,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Emeralda kasim",
+      "normal_bettors": 24,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 822156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gohan z2",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 124803343,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
