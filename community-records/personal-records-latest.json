@@ -573069,5 +573069,113 @@
     "sum": 124702763,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791652638928,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 6577519,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Makendo2",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1070564,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Saiyan Jerk SSJ4",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 124708321,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5060
+    },
+    "date": 1791652843126,
+    "duration": 145995,
+    "left": {
+      "bet_amount": 1058347,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Papillon",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2669849,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Rainbow dash",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 124708320,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32055
+    },
+    "date": 1791653039325,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 1149284,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cell is gonna blow!",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2264847,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "The red dragon",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 124703260,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35245
+    },
+    "date": 1791653233526,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 2069602,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Fear mace rosenkranz",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 963505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gh-golden silver",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 124671205,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
