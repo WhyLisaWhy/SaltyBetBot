@@ -566863,5 +566863,113 @@
     "sum": 124105851,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6394
+    },
+    "date": 1791606775130,
+    "duration": 80005,
+    "left": {
+      "bet_amount": 5914498,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Leviathan",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1963633,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Clip art",
+      "normal_bettors": 21,
+      "win_streak": 0
+    },
+    "sum": 124082515,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24930
+    },
+    "date": 1791606975325,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 1863237,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Daimaoh",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2036347,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Princess silver",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 124076121,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2315
+    },
+    "date": 1791607137526,
+    "duration": 106200,
+    "left": {
+      "bet_amount": 4277966,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Dark arcueid mk2",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 765366,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 124051191,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20929
+    },
+    "date": 1791607355731,
+    "duration": 164199,
+    "left": {
+      "bet_amount": 1982336,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Mithra classic knight",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1403053,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Marilyn sue dae jie",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 124051605,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
