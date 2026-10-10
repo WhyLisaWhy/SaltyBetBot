@@ -568076,5 +568076,113 @@
     "sum": 123896382,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791619561127,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 3335569,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Black rabite",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 970324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ken mvc",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 123896383,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 577
+    },
+    "date": 1791619763328,
+    "duration": 142202,
+    "left": {
+      "bet_amount": 1970305,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Buttercup",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2358379,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Megatron",
+      "normal_bettors": 20,
+      "win_streak": 14
+    },
+    "sum": 123896384,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791619887322,
+    "duration": 71993,
+    "left": {
+      "bet_amount": 781592,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Johnny bravo",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5447389,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Yukkuri z-ton 2",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 123895807,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19393
+    },
+    "date": 1791620095539,
+    "duration": 150140,
+    "left": {
+      "bet_amount": 799370,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rock howard motw",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4392493,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Meiya_striker",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 123895808,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
