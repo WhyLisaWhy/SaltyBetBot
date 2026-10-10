@@ -566971,5 +566971,111 @@
     "sum": 124051605,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1791607528923,
+    "duration": 107196,
+    "left": {
+      "bet_amount": 80236,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Raoh",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 386509,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Suika_ibuki",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 30136,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30136
+    },
+    "date": 1791608078124,
+    "duration": 282199,
+    "left": {
+      "bet_amount": 719411,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Akane",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 62684,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Steve",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 30136,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791608192361,
+    "duration": 64237,
+    "left": {
+      "bet_amount": 174339,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yaminavenom",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 576585,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "K9999-ex",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2018
+    },
+    "date": 1791608408325,
+    "duration": 155977,
+    "left": {
+      "bet_amount": 148963,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Igniz-ev",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 407213,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "S-super mario",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 2018,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
