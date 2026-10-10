@@ -570450,5 +570450,32 @@
     "sum": 7953,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791635831728,
+    "duration": 230205,
+    "left": {
+      "bet_amount": 282327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hamburglar",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 373695,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ai momoyama",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
