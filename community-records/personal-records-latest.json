@@ -569372,5 +569372,113 @@
     "sum": 123881130,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25147
+    },
+    "date": 1791627553328,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 1289394,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fair akuma",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1728781,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Cielo",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 123893096,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19550
+    },
+    "date": 1791627807528,
+    "duration": 194202,
+    "left": {
+      "bet_amount": 2637489,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Monika",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 850686,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Human paladin",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 123867949,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5317
+    },
+    "date": 1791628013726,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 682200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Teppouo",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3486913,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Rinfa",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 123848399,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31361
+    },
+    "date": 1791628183728,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1073613,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ken X",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2085629,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Steel",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 123849438,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
