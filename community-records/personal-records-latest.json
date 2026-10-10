@@ -564919,5 +564919,140 @@
     "sum": 124121169,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25106
+    },
+    "date": 1791593368725,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2028453,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Eleking",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1541102,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Nemesis",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 124119728,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22866
+    },
+    "date": 1791593514926,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 3198738,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Double_sword",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1036760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Brian battler",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 124094622,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26628
+    },
+    "date": 1791593658926,
+    "duration": 89984,
+    "left": {
+      "bet_amount": 1190724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The mountain",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2806980,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Neva",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 124071756,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42866
+    },
+    "date": 1791593895128,
+    "duration": 180209,
+    "left": {
+      "bet_amount": 2310675,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Yui hirasawa",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1389115,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "False echo",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 124045128,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2774
+    },
+    "date": 1791594039126,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 1005771,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kazami yuuka",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4118563,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Suiseiseki",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 124002262,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
