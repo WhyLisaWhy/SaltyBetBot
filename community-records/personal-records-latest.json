@@ -570126,5 +570126,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1635
+    },
+    "date": 1791632875527,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 587490,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Jade",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sephiroth AK",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 1635,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791633051526,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 83388,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Informer",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 282095,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Zagan",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791633377925,
+    "duration": 270197,
+    "left": {
+      "bet_amount": 354376,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Chibi kuroko",
+      "normal_bettors": 15,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55950,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Arale",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1794
+    },
+    "date": 1791633578125,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 210089,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ss6 ren",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 173707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jean valjean",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 1794,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
