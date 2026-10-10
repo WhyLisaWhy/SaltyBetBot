@@ -567347,5 +567347,59 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1690
+    },
+    "date": 1791610505923,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 1942673,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 22,
+      "name": "Seiteiou",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 98506,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Boss syndrome magaki",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 1690,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1776
+    },
+    "date": 1791610694124,
+    "duration": 147999,
+    "left": {
+      "bet_amount": 2266452,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "K9999-ex",
+      "normal_bettors": 34,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 193419,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Seiteiou",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 1776,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
