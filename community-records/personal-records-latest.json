@@ -569615,5 +569615,113 @@
     "sum": 123723225,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40320
+    },
+    "date": 1791629350720,
+    "duration": 154194,
+    "left": {
+      "bet_amount": 656181,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cat",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3080026,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Megamami",
+      "normal_bettors": 17,
+      "win_streak": 6
+    },
+    "sum": 123723226,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35033
+    },
+    "date": 1791629616928,
+    "duration": 206201,
+    "left": {
+      "bet_amount": 985777,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cornflakes sagat",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2178427,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Vanilla gouken",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 123901527,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14118
+    },
+    "date": 1791629777126,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 839031,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ruckus",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3911051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Cvs sakura",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 123976289,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12552
+    },
+    "date": 1791629991327,
+    "duration": 150196,
+    "left": {
+      "bet_amount": 2944648,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Mouri alice",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 969685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ogre akuma",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "sum": 123979307,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
