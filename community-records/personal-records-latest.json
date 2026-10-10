@@ -575418,5 +575418,140 @@
     "sum": 124589265,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22040
+    },
+    "date": 1791673481329,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1764441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vicviper(stg)",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1487497,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Pyron",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 124599256,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2551
+    },
+    "date": 1791673595532,
+    "duration": 60004,
+    "left": {
+      "bet_amount": 965998,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maccho",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7595133,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Rugal b. EX",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 124617608,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10103
+    },
+    "date": 1791673781726,
+    "duration": 126136,
+    "left": {
+      "bet_amount": 1473014,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Robert945",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2216926,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Bushou",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 124617933,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34320
+    },
+    "date": 1791673971727,
+    "duration": 135996,
+    "left": {
+      "bet_amount": 2856926,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Peppa pig",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 979161,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gaira EX2",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 124624616,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3099
+    },
+    "date": 1791674101927,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 2793046,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kazunoko's yun",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 812253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Miduma",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 124636239,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
