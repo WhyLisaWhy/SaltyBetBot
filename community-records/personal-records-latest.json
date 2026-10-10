@@ -564352,5 +564352,140 @@
     "sum": 124090365,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31829
+    },
+    "date": 1791589667725,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 949773,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Weather dopant",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3768759,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Mictlan EX",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 124126047,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38275
+    },
+    "date": 1791589843925,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 893404,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Zangief maskered",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2799762,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Chun-li sf3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 124134002,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19850
+    },
+    "date": 1791590054129,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 3243846,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Uesugi kensin EX",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 757414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Leo EX2",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 124249022,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24289
+    },
+    "date": 1791590218325,
+    "duration": 110192,
+    "left": {
+      "bet_amount": 1526390,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tessa",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2573623,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Rinfa",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 124253629,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17572
+    },
+    "date": 1791590408327,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 735543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "No.9",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3223398,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Joon deluxe",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 124229340,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
