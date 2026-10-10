@@ -567617,5 +567617,140 @@
     "sum": 124014321,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41541
+    },
+    "date": 1791616640724,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 2446177,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kage",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 895574,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Darun mister",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 124014872,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40499
+    },
+    "date": 1791616840928,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 1140528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Spelenker",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2001568,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Vita EX3",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 124029827,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29000
+    },
+    "date": 1791616977129,
+    "duration": 76148,
+    "left": {
+      "bet_amount": 7187599,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Primeus",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 978765,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wooden_doll",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 124052447,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36399
+    },
+    "date": 1791617137129,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 1452009,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Smoke?",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1795521,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Big volfogg",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 124056381,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23951
+    },
+    "date": 1791617337328,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 980648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Uzuki shimamura",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2744946,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Tora-san",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 124019982,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
