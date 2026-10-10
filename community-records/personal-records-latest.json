@@ -566485,5 +566485,113 @@
     "sum": 124160430,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23454
+    },
+    "date": 1791604115127,
+    "duration": 164182,
+    "left": {
+      "bet_amount": 751431,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Clark 98",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3237534,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Namek goku",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 124142814,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26054
+    },
+    "date": 1791604307327,
+    "duration": 132200,
+    "left": {
+      "bet_amount": 1205671,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Godzilla-tower",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1772319,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Evil kung fu man mkii",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 124148219,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3698
+    },
+    "date": 1791604517326,
+    "duration": 150003,
+    "left": {
+      "bet_amount": 743645,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pocket tylor",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2425351,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Predalien",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 124122165,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22306
+    },
+    "date": 1791604697530,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 2504920,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Vice xiii",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1517788,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Alsion 3rd",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 124118467,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
