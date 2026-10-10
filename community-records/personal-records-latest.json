@@ -564649,5 +564649,140 @@
     "sum": 124175429,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25104
+    },
+    "date": 1791591645326,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 2351582,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Yoshitora",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1541380,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kongou",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 124174846,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791591795536,
+    "duration": 94208,
+    "left": {
+      "bet_amount": 2907654,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Actual ryu.zip",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1042112,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Karin pots",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 124191127,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7627
+    },
+    "date": 1791591921527,
+    "duration": 63991,
+    "left": {
+      "bet_amount": 4665384,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Pikopiko",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1253459,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dr.doom",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 124191126,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18748
+    },
+    "date": 1791592137726,
+    "duration": 160187,
+    "left": {
+      "bet_amount": 1752502,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Kyaga-hell",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1749740,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kanako ohta",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 124193172,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28345
+    },
+    "date": 1791592377939,
+    "duration": 180212,
+    "left": {
+      "bet_amount": 1577816,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pikachu g&s",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2723437,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "The hero of time",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 124174424,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
