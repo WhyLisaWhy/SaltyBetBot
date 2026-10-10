@@ -568643,5 +568643,140 @@
     "sum": 123948151,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16556
+    },
+    "date": 1791623091726,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 975975,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Stone yashiro",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2495668,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kenshiro 64",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 123966077,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9967
+    },
+    "date": 1791623241926,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 905563,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Asura cvs2",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2608022,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Chipp",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 123949521,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20333
+    },
+    "date": 1791623426154,
+    "duration": 124232,
+    "left": {
+      "bet_amount": 2045851,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Edgelord ravenous",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1637092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "T-h-m-a",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123939554,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10610
+    },
+    "date": 1791623596128,
+    "duration": 109932,
+    "left": {
+      "bet_amount": 778549,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Naya tatca nanafe",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3085526,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Hojyo teppei",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123955665,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36597
+    },
+    "date": 1791623702326,
+    "duration": 49999,
+    "left": {
+      "bet_amount": 2798972,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Katima",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 835494,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pantherk",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123958333,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
