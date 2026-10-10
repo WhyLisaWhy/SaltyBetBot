@@ -573177,5 +573177,113 @@
     "sum": 124671205,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2386
+    },
+    "date": 1791653347928,
+    "duration": 58402,
+    "left": {
+      "bet_amount": 687718,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Ultraman 1st",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2868470,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Irori EX3",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 124687339,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791653719930,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 77232,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kirara",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 67682,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Cyclops_cota",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3280
+    },
+    "date": 1791653930128,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 79679,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Terry bogard-kofm",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85180,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Meep140 s-type",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 3280,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6648
+    },
+    "date": 1791654170128,
+    "duration": 180000,
+    "left": {
+      "bet_amount": 192349,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Rei EX",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 22620,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Relius clover",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "sum": 6648,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
