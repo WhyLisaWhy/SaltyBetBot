@@ -566350,5 +566350,140 @@
     "sum": 124105913,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11153
+    },
+    "date": 1791603160323,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 3256196,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Shadow fiend",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1054793,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Homura akemi",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 124188093,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24189
+    },
+    "date": 1791603324524,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 991648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Robo rock type-2",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3833640,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Hiryu",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 124191694,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791603500721,
+    "duration": 120195,
+    "left": {
+      "bet_amount": 3082886,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yuusuke",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 928498,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Another bomberman",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 124167505,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7076
+    },
+    "date": 1791603710728,
+    "duration": 156009,
+    "left": {
+      "bet_amount": 1419513,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Suiseiseki",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1819406,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Bristol-d",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 124167506,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17616
+    },
+    "date": 1791603890926,
+    "duration": 120006,
+    "left": {
+      "bet_amount": 2286581,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Resonance",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1010914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bass cross megaman.exe",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 124160430,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
