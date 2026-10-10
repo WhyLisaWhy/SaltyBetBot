@@ -575148,5 +575148,140 @@
     "sum": 124628930,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18660
+    },
+    "date": 1791671607927,
+    "duration": 65994,
+    "left": {
+      "bet_amount": 2687518,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Zankuro",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1312568,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Thouther",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124628929,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25351
+    },
+    "date": 1791671858128,
+    "duration": 196169,
+    "left": {
+      "bet_amount": 1277738,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Hakolen-sbs EX3",
+      "normal_bettors": 12,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2105467,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Krillin EX3",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 124637980,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26091
+    },
+    "date": 1791672008125,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 2028184,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Goku-hell",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1993457,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Momo-len_ver1.39",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124612629,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22560
+    },
+    "date": 1791672194327,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 1940885,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Johnny joestar",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1520832,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kunoichi nwa",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 124638832,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29904
+    },
+    "date": 1791672364527,
+    "duration": 115970,
+    "left": {
+      "bet_amount": 2099926,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Ss3youmu",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1121356,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Poison ivy",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 124616272,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
