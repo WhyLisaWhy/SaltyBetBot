@@ -566728,5 +566728,140 @@
     "sum": 124060032,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791605918536,
+    "duration": 84007,
+    "left": {
+      "bet_amount": 807118,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kobun 43.5",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2927868,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Satchi",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 124060800,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18970
+    },
+    "date": 1791606124727,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 1347083,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Yoriko-mvc EX3",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 986899,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Gale",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 124060801,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19232
+    },
+    "date": 1791606238727,
+    "duration": 54000,
+    "left": {
+      "bet_amount": 742289,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Natsuki subaru",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1959654,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "7th heaven ciel",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 124074506,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18146
+    },
+    "date": 1791606434927,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2607909,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Thomas the tanky engine",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2570291,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "King godzilla",
+      "normal_bettors": 23,
+      "win_streak": -6
+    },
+    "sum": 124123997,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23336
+    },
+    "date": 1791606635124,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1154417,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cecilia",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4317121,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "William birkin",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 124105851,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
