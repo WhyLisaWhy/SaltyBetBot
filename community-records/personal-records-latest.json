@@ -570477,5 +570477,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2717
+    },
+    "date": 1791636241921,
+    "duration": 355993,
+    "left": {
+      "bet_amount": 382469,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Undeadhero",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 844446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ai momoyama",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 2717,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16118
+    },
+    "date": 1791637010726,
+    "duration": 71999,
+    "left": {
+      "bet_amount": 3121017,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Momiji inubashiri",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 636175,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Spopovich by szowel",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "sum": 124287770,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3239
+    },
+    "date": 1791637138727,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 3611040,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Flan Scarlet",
+      "normal_bettors": 21,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 810150,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kishimax",
+      "normal_bettors": 3,
+      "win_streak": -2
+    },
+    "sum": 124291039,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
