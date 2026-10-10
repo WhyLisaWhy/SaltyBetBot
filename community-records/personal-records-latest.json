@@ -570882,5 +570882,140 @@
     "sum": 124341377,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33330
+    },
+    "date": 1791639282526,
+    "duration": 112200,
+    "left": {
+      "bet_amount": 1022996,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "D4 griffon",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5544141,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Lord magneto",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 124318870,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35824
+    },
+    "date": 1791639422521,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 1731902,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Alt eisen EX5",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1311981,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Pickle",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 124493803,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34065
+    },
+    "date": 1791639576725,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 1950365,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Gato ex",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1115212,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dirty fat",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 124539837,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29494
+    },
+    "date": 1791639696729,
+    "duration": 64002,
+    "left": {
+      "bet_amount": 957095,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Harman",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2398851,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Kikuchiyo",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 124505772,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20903
+    },
+    "date": 1791639977149,
+    "duration": 220182,
+    "left": {
+      "bet_amount": 3126976,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Polon",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1047014,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Goyan",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 124476278,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
