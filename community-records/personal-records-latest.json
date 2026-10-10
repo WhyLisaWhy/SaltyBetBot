@@ -571800,5 +571800,113 @@
     "sum": 124412456,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21741
+    },
+    "date": 1791644744729,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 6662918,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shiki nanaya",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 864573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Perfect cell EX3",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 124412457,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791644950926,
+    "duration": 145991,
+    "left": {
+      "bet_amount": 2791857,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lunasa",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 926483,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Char's z'gok",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 124415269,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21747
+    },
+    "date": 1791645091126,
+    "duration": 86202,
+    "left": {
+      "bet_amount": 844921,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kunoichi nwa",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2427530,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Daisy EX3",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 124415268,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2721
+    },
+    "date": 1791645301331,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 1739357,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kurorim-c",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1143055,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Robo-akatsuki",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 124393521,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
