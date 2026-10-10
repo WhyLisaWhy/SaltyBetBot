@@ -571179,5 +571179,113 @@
     "sum": 124460516,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1631
+    },
+    "date": 1791641069930,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 3551203,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Frankenstein",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1510792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sai EX2",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 124441468,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41766
+    },
+    "date": 1791641219929,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 849947,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Adler-a",
+      "normal_bettors": 4,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2454214,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nakoruru EX",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 124442162,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26739
+    },
+    "date": 1791641374126,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 2450708,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Pucca-toppo",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1311506,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Glacius",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 124400396,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34398
+    },
+    "date": 1791641524327,
+    "duration": 94201,
+    "left": {
+      "bet_amount": 1055797,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Sonans",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1855333,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Serious yuri sakazaki",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 124373657,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
