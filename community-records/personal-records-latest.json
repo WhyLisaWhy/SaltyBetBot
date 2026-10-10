@@ -573879,5 +573879,140 @@
     "sum": 124784524,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2682
+    },
+    "date": 1791663439528,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 6419029,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Yellow devil pb",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 964005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akiko EX",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 124797142,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17134
+    },
+    "date": 1791663585528,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 4378253,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Basilisk-s[0.98] EX3",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 903124,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Koneko EX",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124797545,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30666
+    },
+    "date": 1791663689728,
+    "duration": 50001,
+    "left": {
+      "bet_amount": 3207867,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Goketuji",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 967963,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Justicia",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 124801066,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31585
+    },
+    "date": 1791663911927,
+    "duration": 162200,
+    "left": {
+      "bet_amount": 1103180,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Genkai",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2098380,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Shielder",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 124770400,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 330
+    },
+    "date": 1791664049926,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 2209737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Pico goeniko",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1738635,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gate",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 124786759,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
