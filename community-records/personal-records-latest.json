@@ -573582,5 +573582,32 @@
     "sum": 2919,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791657270127,
+    "duration": 319800,
+    "left": {
+      "bet_amount": 294159,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Terry bogard-kofm",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 322769,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Toki",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
