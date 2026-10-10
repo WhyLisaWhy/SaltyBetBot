@@ -570342,5 +570342,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2959
+    },
+    "date": 1791634744927,
+    "duration": 216162,
+    "left": {
+      "bet_amount": 73325,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Informer",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 399424,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Chibi kuroko",
+      "normal_bettors": 16,
+      "win_streak": 11
+    },
+    "sum": 2959,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3499
+    },
+    "date": 1791635059329,
+    "duration": 260201,
+    "left": {
+      "bet_amount": 277340,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jean valjean",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 214475,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Hamburglar",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 3499,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791635279326,
+    "duration": 159998,
+    "left": {
+      "bet_amount": 250329,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Ai momoyama",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 323951,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Fatter tony",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 7951,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7953
+    },
+    "date": 1791635545526,
+    "duration": 210198,
+    "left": {
+      "bet_amount": 103612,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Undeadhero",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 631022,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Chibi kuroko",
+      "normal_bettors": 17,
+      "win_streak": 12
+    },
+    "sum": 7953,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
