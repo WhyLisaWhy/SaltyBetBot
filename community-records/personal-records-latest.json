@@ -567401,5 +567401,86 @@
     "sum": 1776,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22964
+    },
+    "date": 1791615317757,
+    "duration": 114017,
+    "left": {
+      "bet_amount": 3177891,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dark phoenix",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 756130,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chun-li",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "sum": 124053545,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21451
+    },
+    "date": 1791615483941,
+    "duration": 104208,
+    "left": {
+      "bet_amount": 3206155,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Kyoushirou senryou",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 972075,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Condor",
+      "normal_bettors": 10,
+      "win_streak": -11
+    },
+    "sum": 124030581,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 921
+    },
+    "date": 1791615649921,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 916457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dead kung fu man EX3",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3669019,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Sion tatari EX2",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 124037042,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
