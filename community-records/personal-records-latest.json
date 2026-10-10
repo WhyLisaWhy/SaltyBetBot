@@ -573501,5 +573501,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791656417927,
+    "duration": 214198,
+    "left": {
+      "bet_amount": 114914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Toki",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 178687,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Wolverine_cota",
+      "normal_bettors": 24,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791656564129,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 232543,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Terry bogard-kofm",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Dorothy-albright",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2919
+    },
+    "date": 1791656894329,
+    "duration": 270201,
+    "left": {
+      "bet_amount": 195880,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Joker_nanaya",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 273518,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Toki",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 2919,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
