@@ -569480,5 +569480,140 @@
     "sum": 123849438,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19005
+    },
+    "date": 1791628393927,
+    "duration": 154002,
+    "left": {
+      "bet_amount": 1292829,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sokaku mochizuki rb2",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3209646,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Raizen",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 123818077,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27416
+    },
+    "date": 1791628574128,
+    "duration": 124001,
+    "left": {
+      "bet_amount": 1926583,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Singlove-drg",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1432450,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Venomu",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 123799072,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19348
+    },
+    "date": 1791628724326,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 2910768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Mixertaitei",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 940942,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Brian battler",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123771656,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29083
+    },
+    "date": 1791629004526,
+    "duration": 220200,
+    "left": {
+      "bet_amount": 4454687,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Alter donald",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 941840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nemesis",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 123752308,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791629140529,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 2746475,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kaede kasiwagi",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1605904,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 123723225,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
