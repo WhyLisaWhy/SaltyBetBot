@@ -574878,5 +574878,113 @@
     "sum": 124715396,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4541
+    },
+    "date": 1791669764526,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 2028326,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2361923,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Black rouga",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 124697274,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17969
+    },
+    "date": 1791669984728,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 3136146,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Hata no kokoro ulil",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 830089,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Biped EX7",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124702551,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29646
+    },
+    "date": 1791670164725,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 883089,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "The unbeatable madara uchiha",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2877705,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Akuma",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 124707281,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17388
+    },
+    "date": 1791670350929,
+    "duration": 125995,
+    "left": {
+      "bet_amount": 3244447,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Yuri_sv",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 806752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rozwel j",
+      "normal_bettors": 6,
+      "win_streak": -6
+    },
+    "sum": 124677635,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
