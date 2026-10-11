@@ -582247,5 +582247,140 @@
     "sum": 124187504,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20147
+    },
+    "date": 1791723877331,
+    "duration": 170206,
+    "left": {
+      "bet_amount": 593472,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Goat_b",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2494572,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Ares",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 124169706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33189
+    },
+    "date": 1791724027526,
+    "duration": 86196,
+    "left": {
+      "bet_amount": 1087897,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "God bizarro",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1830815,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Mr. providence",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 124174461,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29576
+    },
+    "date": 1791724207523,
+    "duration": 125990,
+    "left": {
+      "bet_amount": 776617,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hisui",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1980367,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Balrog svc chaos",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 124141272,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33625
+    },
+    "date": 1791724351730,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 2152293,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Sim young gradation",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 871201,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bekkamu2",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124152700,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21751
+    },
+    "date": 1791724557927,
+    "duration": 150190,
+    "left": {
+      "bet_amount": 1757226,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mvc2 riesbyfe",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 975050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Wing.0",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 124119075,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
