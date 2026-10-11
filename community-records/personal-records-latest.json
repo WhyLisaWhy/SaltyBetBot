@@ -585001,5 +585001,140 @@
     "sum": 123858143,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791743713126,
+    "duration": 89988,
+    "left": {
+      "bet_amount": 822683,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Suika_ibuki",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2518545,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Yuuki terumi",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 123830386,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38883
+    },
+    "date": 1791743959328,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 2491366,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Fire sonic",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2138557,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "The end",
+      "normal_bettors": 4,
+      "win_streak": -9
+    },
+    "sum": 123830385,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37295
+    },
+    "date": 1791744089525,
+    "duration": 76193,
+    "left": {
+      "bet_amount": 2138243,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Light yagami",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 716426,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ss6 renfa EX2",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123863249,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17759
+    },
+    "date": 1791744215529,
+    "duration": 71999,
+    "left": {
+      "bet_amount": 1839607,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gameboy",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1740533,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Umvc_marisa",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 123825954,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30578
+    },
+    "date": 1791744375729,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1547520,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Hirasaka hina",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1325556,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ted broiler",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123842596,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
