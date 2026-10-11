@@ -585838,5 +585838,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2226
+    },
+    "date": 1791749948165,
+    "duration": 124037,
+    "left": {
+      "bet_amount": 42894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shuvait",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 587619,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Vulcano rosso",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 2226,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2388
+    },
+    "date": 1791750138327,
+    "duration": 134202,
+    "left": {
+      "bet_amount": 536718,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rock",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 137784,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Nanmushi",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 2388,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11532
+    },
+    "date": 1791750394528,
+    "duration": 200201,
+    "left": {
+      "bet_amount": 578077,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Ingrid_a",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 173593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Guy CVS",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 11532,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14928
+    },
+    "date": 1791750624729,
+    "duration": 170176,
+    "left": {
+      "bet_amount": 442370,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Moriya_yae",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 262792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Vulcano rosso",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 14928,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
