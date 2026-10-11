@@ -582490,5 +582490,113 @@
     "sum": 124101858,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8335
+    },
+    "date": 1791725483329,
+    "duration": 78800,
+    "left": {
+      "bet_amount": 760529,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Karla",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2392976,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Garmraid",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 124064846,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791725930930,
+    "duration": 175994,
+    "left": {
+      "bet_amount": 62115,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Tokinomiya kamui",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93852,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Saint-of-silver",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791726171126,
+    "duration": 169981,
+    "left": {
+      "bet_amount": 101717,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chie satonaka",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 105773,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kagura mutsuki",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791726341330,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 93127,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ness sumin",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149443,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
