@@ -581248,5 +581248,140 @@
     "sum": 124341276,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29258
+    },
+    "date": 1791717318128,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 1962853,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zhenhua lou",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3192358,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Mw-bernkastel",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 124350788,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14248
+    },
+    "date": 1791717486127,
+    "duration": 113998,
+    "left": {
+      "bet_amount": 857144,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tatsuo shiki",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2968816,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Pickle",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 124321530,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27017
+    },
+    "date": 1791717686329,
+    "duration": 129941,
+    "left": {
+      "bet_amount": 1518522,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mango's fox",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1166579,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Madalitso",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 124325624,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791717886526,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 3144378,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "S.clara",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1063164,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Felix ow",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 124298607,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2859
+    },
+    "date": 1791718072726,
+    "duration": 130177,
+    "left": {
+      "bet_amount": 2836028,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Farah oersted",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 919562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Astonishing Cyclops",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 124298610,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
