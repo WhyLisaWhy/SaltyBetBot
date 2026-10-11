@@ -586216,5 +586216,113 @@
     "sum": 123955307,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5694
+    },
+    "date": 1791753559128,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 843466,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mr. heart g",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2798762,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Gyan",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 123956711,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34379
+    },
+    "date": 1791753815329,
+    "duration": 196205,
+    "left": {
+      "bet_amount": 3017085,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "C-xion",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 997279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mr. broly",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 123958424,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17757
+    },
+    "date": 1791754029327,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 1211990,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Koneko",
+      "normal_bettors": 11,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5811178,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Satan",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 124058966,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29469
+    },
+    "date": 1791754151528,
+    "duration": 56001,
+    "left": {
+      "bet_amount": 1392567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mr. providence",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1682935,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Igniz 2001",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 124062659,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
