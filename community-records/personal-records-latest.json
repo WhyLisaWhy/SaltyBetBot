@@ -584056,5 +584056,113 @@
     "sum": 123893664,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20394
+    },
+    "date": 1791737334129,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 1086959,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Senna",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3808980,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Debonea",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 123873289,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28563
+    },
+    "date": 1791737504129,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 1473526,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Prier",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1872990,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Death-stuff",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 123879078,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24351
+    },
+    "date": 1791737674325,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 1049799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dd yin yin",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1839665,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Smoke?",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 123914694,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1487
+    },
+    "date": 1791737844526,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 816978,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Skeletor dx",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2698564,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Imit ultraman",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123890343,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
