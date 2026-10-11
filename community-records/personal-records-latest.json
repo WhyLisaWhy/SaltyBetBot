@@ -587053,5 +587053,140 @@
     "sum": 124024456,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37394
+    },
+    "date": 1791758963325,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1773834,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Shingo EX2",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1214342,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Athena asamiya-kofm",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 124025924,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13793
+    },
+    "date": 1791759133529,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 1716211,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Samus aran",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1413621,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Alien metron",
+      "normal_bettors": 12,
+      "win_streak": -12
+    },
+    "sum": 123988530,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20371
+    },
+    "date": 1791759269727,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 1902528,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Kamen rider kabuto",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2135867,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Chiel",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 123999801,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18503
+    },
+    "date": 1791759409729,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 10308336,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Riesbyfe stridberg",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1054700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nightmare krauser-kofm",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 123979430,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18070
+    },
+    "date": 1791759589928,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 2617792,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Vanessa-kofm",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1058069,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mittelt",
+      "normal_bettors": 10,
+      "win_streak": 5
+    },
+    "sum": 123981320,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
