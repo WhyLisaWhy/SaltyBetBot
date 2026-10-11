@@ -583165,5 +583165,113 @@
     "sum": 123984793,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28510
+    },
+    "date": 1791731989927,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 837625,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kamui tenrou",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2604960,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Orochi akuma",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 123997991,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7122
+    },
+    "date": 1791732155926,
+    "duration": 106207,
+    "left": {
+      "bet_amount": 1108464,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ruby rose",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3303282,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kamen rider amazon alpha",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 124083737,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31807
+    },
+    "date": 1791732400126,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 1280239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Alsion 3rd",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1657291,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Margaretha_solin",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 124086122,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33891
+    },
+    "date": 1791732526174,
+    "duration": 70054,
+    "left": {
+      "bet_amount": 1577523,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Soldier ms",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1723721,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kunagi-f.o",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 124054315,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
