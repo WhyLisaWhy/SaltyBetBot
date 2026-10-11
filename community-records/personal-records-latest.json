@@ -579414,5 +579414,111 @@
     "sum": 124384064,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1791703720131,
+    "duration": 84803,
+    "left": {
+      "bet_amount": 177378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Karma_0.85",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 24467,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kurorim-c",
+      "normal_bettors": 4,
+      "win_streak": 2
+    },
+    "sum": 2159,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2159
+    },
+    "date": 1791704219725,
+    "duration": 234197,
+    "left": {
+      "bet_amount": 184554,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Emperor fou-lu",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 488272,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Barasuisyo",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 2159,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791704576124,
+    "duration": 300352,
+    "left": {
+      "bet_amount": 76366,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kung fu rabbit",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 658610,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sevil nathe",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791704816325,
+    "duration": 180196,
+    "left": {
+      "bet_amount": 461942,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Michelangelo 0d",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 307742,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Requiem giorno(amaai)",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
