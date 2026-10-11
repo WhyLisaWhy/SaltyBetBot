@@ -575823,5 +575823,140 @@
     "sum": 124632646,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24451
+    },
+    "date": 1791676145528,
+    "duration": 155992,
+    "left": {
+      "bet_amount": 3241004,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1509214,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mageko EX",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 124676050,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 836
+    },
+    "date": 1791676329740,
+    "duration": 120180,
+    "left": {
+      "bet_amount": 2602995,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "01-nameless",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1317416,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Kyoudou senna",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 124651599,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24864
+    },
+    "date": 1791676435727,
+    "duration": 45951,
+    "left": {
+      "bet_amount": 2634168,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Prinny squad",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1011564,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alexander anderson",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 124650763,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12731
+    },
+    "date": 1791676629929,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 2923315,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Dizzy",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 845090,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maverick hunter x",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 124660222,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28001
+    },
+    "date": 1791676729927,
+    "duration": 44000,
+    "left": {
+      "bet_amount": 1531397,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Mirage",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1269924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Xerxes",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 124663887,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
