@@ -584461,5 +584461,140 @@
     "sum": 123862995,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16925
+    },
+    "date": 1791739918126,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 4049922,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 812891,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Omega rugal 98",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 123816633,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24329
+    },
+    "date": 1791740112351,
+    "duration": 134223,
+    "left": {
+      "bet_amount": 1360327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shadow lady",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3348835,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Cless",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "sum": 123820017,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1658
+    },
+    "date": 1791740302325,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1091080,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Senga jaguar",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2035452,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "White rbdm-kof",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 123795688,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10039
+    },
+    "date": 1791740444528,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 2705262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Chiduru",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 833443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Krauser 98",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 123796577,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1026
+    },
+    "date": 1791740574726,
+    "duration": 70193,
+    "left": {
+      "bet_amount": 1110954,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Orochi nagamori",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4203176,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Obstinate_tank",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 123799659,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
