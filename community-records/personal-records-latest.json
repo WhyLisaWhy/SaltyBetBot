@@ -582112,5 +582112,140 @@
     "sum": 124208519,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791722804525,
+    "duration": 150180,
+    "left": {
+      "bet_amount": 3361026,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Orochi",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194616,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ami",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 124188857,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1480
+    },
+    "date": 1791723000745,
+    "duration": 136216,
+    "left": {
+      "bet_amount": 1156811,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hashi EX3",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353074,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Bucciarati",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 124188856,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21021
+    },
+    "date": 1791723154727,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 1753488,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Gilgamesh ccc",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1108624,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hiryu EX2",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 124187376,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24509
+    },
+    "date": 1791723336927,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 1465301,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Mevella",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1285543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Smoke mk2",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 124166355,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17798
+    },
+    "date": 1791723521131,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 816926,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Blaze EX2",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2217389,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Morrigan nxc",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 124187504,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
