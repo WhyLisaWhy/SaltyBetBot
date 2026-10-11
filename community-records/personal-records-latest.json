@@ -582382,5 +582382,113 @@
     "sum": 124119075,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25210
+    },
+    "date": 1791724743929,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1709031,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Servant emiya",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1267553,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Aurum axe",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124130997,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4531
+    },
+    "date": 1791724934129,
+    "duration": 136002,
+    "left": {
+      "bet_amount": 931538,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Konoha",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2247715,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Copy dizzy",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 124105787,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5804
+    },
+    "date": 1791725184325,
+    "duration": 195976,
+    "left": {
+      "bet_amount": 727282,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucifer EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2700970,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Fusagiko",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 124107662,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37012
+    },
+    "date": 1791725344530,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 2004470,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Terry_ff3rb",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 896566,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Salamandra_fe",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 124101858,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
