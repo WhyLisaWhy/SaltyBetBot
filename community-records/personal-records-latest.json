@@ -576228,5 +576228,113 @@
     "sum": 124652820,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27258
+    },
+    "date": 1791678753726,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 856057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Miyakaka",
+      "normal_bettors": 15,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2696129,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Oshima",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 124626946,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 701
+    },
+    "date": 1791678909726,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 775576,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hogyoku aizen",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3889801,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shin godzillen",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 124599688,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25013
+    },
+    "date": 1791679067129,
+    "duration": 97402,
+    "left": {
+      "bet_amount": 2121154,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "D Chun-li",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2023939,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Alexander anderson",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 124598987,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791679540328,
+    "duration": 204202,
+    "left": {
+      "bet_amount": 41851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Captain agent",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112907,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Wario 64",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
