@@ -579171,5 +579171,113 @@
     "sum": 124472733,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44709
+    },
+    "date": 1791702346328,
+    "duration": 144203,
+    "left": {
+      "bet_amount": 758764,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eagle f22",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2216201,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "The joker EX3",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 124474100,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 43638
+    },
+    "date": 1791702472325,
+    "duration": 69996,
+    "left": {
+      "bet_amount": 1138085,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Neo amakusa",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2040362,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "The great khali",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 124429391,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29331
+    },
+    "date": 1791702602533,
+    "duration": 70007,
+    "left": {
+      "bet_amount": 2483100,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Riyoh_nagasaki EX6",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 837276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Malenko",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124385753,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20684
+    },
+    "date": 1791702742528,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 2722210,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Natsumi andou",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1008707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ramparudo",
+      "normal_bettors": 10,
+      "win_streak": -12
+    },
+    "sum": 124395528,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
