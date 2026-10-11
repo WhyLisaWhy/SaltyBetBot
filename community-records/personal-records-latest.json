@@ -586486,5 +586486,113 @@
     "sum": 124042891,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 51454
+    },
+    "date": 1791755322528,
+    "duration": 126195,
+    "left": {
+      "bet_amount": 2430904,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Destiny.dio",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3298942,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kouma kishima iqs",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 124056373,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25348
+    },
+    "date": 1791755508729,
+    "duration": 132202,
+    "left": {
+      "bet_amount": 3664491,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Insect",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1804284,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Manute",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 124004919,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15530
+    },
+    "date": 1791755632728,
+    "duration": 69993,
+    "left": {
+      "bet_amount": 7384559,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Guts",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 947050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "D-rugal EX3",
+      "normal_bettors": 4,
+      "win_streak": 2
+    },
+    "sum": 124017314,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20081
+    },
+    "date": 1791755902932,
+    "duration": 210205,
+    "left": {
+      "bet_amount": 1412413,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gotenks ssj EX",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4717036,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Diofield",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 124019302,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
