@@ -576525,5 +576525,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2930
+    },
+    "date": 1791681699927,
+    "duration": 282193,
+    "left": {
+      "bet_amount": 139372,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Wario 64",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 317468,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Vk-2",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 2930,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9467
+    },
+    "date": 1791681960125,
+    "duration": 206183,
+    "left": {
+      "bet_amount": 363425,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Lion",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 111399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The tick",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 9467,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12296
+    },
+    "date": 1791682164328,
+    "duration": 144203,
+    "left": {
+      "bet_amount": 368895,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Go badaa ba",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 178128,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "C.commando",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 12296,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
