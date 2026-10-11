@@ -582922,5 +582922,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7334
+    },
+    "date": 1791730352528,
+    "duration": 176198,
+    "left": {
+      "bet_amount": 777435,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hugo dc",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3474526,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Oira",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 124058062,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24932
+    },
+    "date": 1791730538528,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 1683167,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Blue blood",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Wild wolf rotd",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 124059700,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12160
+    },
+    "date": 1791730688727,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 1750944,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Super big bird",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064671,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Lord mortamor",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 124076790,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17535
+    },
+    "date": 1791730818928,
+    "duration": 76201,
+    "left": {
+      "bet_amount": 752749,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shadow geist ex",
+      "normal_bettors": 6,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7840106,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ghoston",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 124064630,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
