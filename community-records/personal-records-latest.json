@@ -578604,5 +578604,140 @@
     "sum": 124540260,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24900
+    },
+    "date": 1791698521336,
+    "duration": 146209,
+    "left": {
+      "bet_amount": 2147063,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sailor venus EX2",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1301143,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Karaage",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 124510989,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23390
+    },
+    "date": 1791698687328,
+    "duration": 112002,
+    "left": {
+      "bet_amount": 2571228,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Rugal CVS",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 911364,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Ironhide",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 124551306,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3010
+    },
+    "date": 1791698891527,
+    "duration": 143993,
+    "left": {
+      "bet_amount": 1505444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shiena bee",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1496863,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Frankenstein",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 124559522,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29932
+    },
+    "date": 1791699031730,
+    "duration": 80148,
+    "left": {
+      "bet_amount": 3945746,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Zorf giudecca",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 975021,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "K-bw v2",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 124562544,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19047
+    },
+    "date": 1791699287925,
+    "duration": 196200,
+    "left": {
+      "bet_amount": 1811025,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Komachi",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1163640,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Celesty",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 124569885,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
