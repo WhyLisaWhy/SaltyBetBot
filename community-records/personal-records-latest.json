@@ -587323,5 +587323,113 @@
     "sum": 123907090,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791760662720,
+    "duration": 125992,
+    "left": {
+      "bet_amount": 3611844,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hachune miku",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 787470,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Morfo",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 123879140,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17725
+    },
+    "date": 1791760790926,
+    "duration": 69981,
+    "left": {
+      "bet_amount": 1918478,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Shin akuma",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1467979,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rarity",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 123879141,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24148
+    },
+    "date": 1791761171131,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 3138287,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sinobu amou",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2834189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Meep140 s-type",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 123861416,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34215
+    },
+    "date": 1791761377329,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 860341,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Garuda",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4140304,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Nega peach",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 123887930,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
