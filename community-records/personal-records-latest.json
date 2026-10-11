@@ -585136,5 +585136,140 @@
     "sum": 123842596,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25435
+    },
+    "date": 1791744569928,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 3645128,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Disrupter",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 944784,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Toguro 100%",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 123868281,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36986
+    },
+    "date": 1791744755921,
+    "duration": 119995,
+    "left": {
+      "bet_amount": 1545183,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Lambdadelta",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1300493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Q-d",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123874828,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29350
+    },
+    "date": 1791744940126,
+    "duration": 123997,
+    "left": {
+      "bet_amount": 1982597,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Krizalid 99",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1282373,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sissy EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 123837842,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11197
+    },
+    "date": 1791745078326,
+    "duration": 82198,
+    "left": {
+      "bet_amount": 5130275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "S_youmu",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 929201,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lisa lisa",
+      "normal_bettors": 5,
+      "win_streak": -14
+    },
+    "sum": 123808492,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28698
+    },
+    "date": 1791745220327,
+    "duration": 89949,
+    "left": {
+      "bet_amount": 1938190,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Balrog sf2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1326402,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Schlussel",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 123810516,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
