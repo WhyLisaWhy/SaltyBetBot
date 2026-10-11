@@ -580060,5 +580060,113 @@
     "sum": 124358287,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18333
+    },
+    "date": 1791710254526,
+    "duration": 74201,
+    "left": {
+      "bet_amount": 2581132,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Earthquake svc chaos",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 807853,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sephiroth AK",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 124359694,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35034
+    },
+    "date": 1791710484727,
+    "duration": 170202,
+    "left": {
+      "bet_amount": 2835227,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Nui harime",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 853682,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Captain caveman",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 124341361,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26348
+    },
+    "date": 1791710630733,
+    "duration": 80008,
+    "left": {
+      "bet_amount": 1061467,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chiester410",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2440935,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Sf2 guile",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 124306327,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29122
+    },
+    "date": 1791710770927,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 3144803,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Snorlax EX2",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1156942,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mukai-kofm",
+      "normal_bettors": 9,
+      "win_streak": -12
+    },
+    "sum": 124279979,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
