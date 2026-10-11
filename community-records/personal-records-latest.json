@@ -579817,5 +579817,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1671
+    },
+    "date": 1791707876327,
+    "duration": 379998,
+    "left": {
+      "bet_amount": 195040,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cpt.falcon",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 877110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Jubilee ex",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 1671,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
