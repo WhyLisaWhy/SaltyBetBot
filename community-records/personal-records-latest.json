@@ -576606,5 +576606,86 @@
     "sum": 12296,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18042
+    },
+    "date": 1791682404552,
+    "duration": 180225,
+    "left": {
+      "bet_amount": 103396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Ironhide",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 399643,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shadow kirby mythos",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 18042,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22509
+    },
+    "date": 1791682694727,
+    "duration": 234202,
+    "left": {
+      "bet_amount": 485305,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Wario 64",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 83067,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Lion",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 22509,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26191
+    },
+    "date": 1791682874942,
+    "duration": 120213,
+    "left": {
+      "bet_amount": 315571,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Go badaa ba",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 319124,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Shadow kirby mythos",
+      "normal_bettors": 17,
+      "win_streak": 6
+    },
+    "sum": 26191,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
