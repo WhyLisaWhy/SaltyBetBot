@@ -585271,5 +585271,140 @@
     "sum": 123810516,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19530
+    },
+    "date": 1791745386527,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1435621,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Unber",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1861736,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Asha",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 123781818,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24551
+    },
+    "date": 1791745576727,
+    "duration": 136031,
+    "left": {
+      "bet_amount": 1210328,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kat",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3210119,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sorluska",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 123762288,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32148
+    },
+    "date": 1791745776931,
+    "duration": 144205,
+    "left": {
+      "bet_amount": 1287090,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cloud (3d)",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1609576,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Sub-zero CVW",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 123737737,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3412
+    },
+    "date": 1791746022926,
+    "duration": 185995,
+    "left": {
+      "bet_amount": 892664,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sannomiya_shiho",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4284147,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Singlove-drg",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 123705589,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31169
+    },
+    "date": 1791746207129,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 957239,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Rob lucci ex",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2006434,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Blackmore",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 123706300,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
