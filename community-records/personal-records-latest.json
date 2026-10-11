@@ -582679,5 +582679,113 @@
     "sum": 2439,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791727448126,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 39117,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Angus cf3",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 317071,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ash crimson-kofm",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1741
+    },
+    "date": 1791727598329,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 98894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mewtwo-y",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 256302,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Belmod",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 1741,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2409
+    },
+    "date": 1791727822526,
+    "duration": 160193,
+    "left": {
+      "bet_amount": 349146,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Saint-of-silver",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93397,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chie satonaka",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 2409,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3049
+    },
+    "date": 1791728068730,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 362036,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ness sumin",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 100446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Omega rugal cvs",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "sum": 3049,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
