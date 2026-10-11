@@ -582598,5 +582598,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3997
+    },
+    "date": 1791726755726,
+    "duration": 354398,
+    "left": {
+      "bet_amount": 197666,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Z kim",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50031,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Omega rugal cvs",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 3997,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791727031927,
+    "duration": 216199,
+    "left": {
+      "bet_amount": 183313,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ss6 renfa EX2",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 106015,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Astranalent ex",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2439
+    },
+    "date": 1791727262126,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 258914,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nao EX3",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 98186,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chiester410",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 2439,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
