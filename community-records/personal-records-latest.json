@@ -576687,5 +576687,32 @@
     "sum": 26191,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791683265324,
+    "duration": 334395,
+    "left": {
+      "bet_amount": 407338,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Wario 64",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 365177,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Shadow kirby mythos",
+      "normal_bettors": 13,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
