@@ -576714,5 +576714,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23879
+    },
+    "date": 1791686291527,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 2998180,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Orsted",
+      "normal_bettors": 22,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1015948,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ibuki-toranoo",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 124575523,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5298
+    },
+    "date": 1791686441728,
+    "duration": 89957,
+    "left": {
+      "bet_amount": 5077018,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Fake okami",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 869173,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eirin yagokoro",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 124551644,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38470
+    },
+    "date": 1791686647928,
+    "duration": 146202,
+    "left": {
+      "bet_amount": 1654517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Maleficent",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1549646,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Darkmatter",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 124552551,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11125
+    },
+    "date": 1791686791925,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 2691129,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Quetzalcoatl fuerza",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 854366,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kirikou",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 124514081,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26379
+    },
+    "date": 1791686938129,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 6399680,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Louise f.b.valliere",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1918285,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dekugame",
+      "normal_bettors": 9,
+      "win_streak": -9
+    },
+    "sum": 124502956,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
