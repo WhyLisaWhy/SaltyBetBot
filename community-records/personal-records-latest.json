@@ -587188,5 +587188,140 @@
     "sum": 123981320,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37411
+    },
+    "date": 1791759740127,
+    "duration": 96177,
+    "left": {
+      "bet_amount": 1369720,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mvc2 cable",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2194449,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Ciel EX3",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 123963250,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3308
+    },
+    "date": 1791759894127,
+    "duration": 93996,
+    "left": {
+      "bet_amount": 1130706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vayeate",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4066096,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Clarice di lanza",
+      "normal_bettors": 24,
+      "win_streak": 7
+    },
+    "sum": 123925839,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791760076329,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 1034233,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Ume_age18 EX",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4717237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Devil jin",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 123926759,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19668
+    },
+    "date": 1791760330529,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 2267851,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Recca",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1724065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Itoshiki nozomu",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 123926758,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27950
+    },
+    "date": 1791760480726,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 3148030,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Jun",
+      "normal_bettors": 15,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1970145,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Deathscythe ao",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 123907090,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
