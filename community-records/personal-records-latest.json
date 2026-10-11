@@ -585622,5 +585622,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791748136729,
+    "duration": 232203,
+    "left": {
+      "bet_amount": 84587,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yamamoto burai",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 118481,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Moriya_yae",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2643
+    },
+    "date": 1791748306928,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 103488,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Shuvait",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128099,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Kfm iwbtg",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 2643,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791748581128,
+    "duration": 214201,
+    "left": {
+      "bet_amount": 179684,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Vulcano rosso",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86106,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "T ninja",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2287
+    },
+    "date": 1791748729127,
+    "duration": 92002,
+    "left": {
+      "bet_amount": 237901,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Rock",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 91988,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kairu",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "sum": 2287,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
