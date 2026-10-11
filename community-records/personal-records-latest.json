@@ -578199,5 +578199,140 @@
     "sum": 124539791,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21758
+    },
+    "date": 1791695861125,
+    "duration": 194197,
+    "left": {
+      "bet_amount": 5055311,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Arthas",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1068708,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mvsn nosepass",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 124539109,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791696009323,
+    "duration": 92196,
+    "left": {
+      "bet_amount": 672836,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Siharai-san",
+      "normal_bettors": 5,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 149287403,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Jin kazama",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 124517351,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40107
+    },
+    "date": 1791696283526,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 886853,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Nonon jakuzure",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1846992,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hoppou seiki",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 124517350,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1075
+    },
+    "date": 1791696473526,
+    "duration": 135998,
+    "left": {
+      "bet_amount": 2118210,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Snakeeyes",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1151712,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yui hirasawa",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 124536199,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33088
+    },
+    "date": 1791696597727,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1635416,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Hsien-ko",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1252767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Syo hayate EX",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 124535124,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
