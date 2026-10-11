@@ -576444,5 +576444,86 @@
     "sum": 10492,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17011
+    },
+    "date": 1791680777329,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 72875,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "C.commando",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 324537,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ryu hell",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 17011,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791681115526,
+    "duration": 282200,
+    "left": {
+      "bet_amount": 206817,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ironhide",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 139178,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Jamian di corvus",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791681363727,
+    "duration": 196197,
+    "left": {
+      "bet_amount": 185889,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Asuka",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 207283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Shadow kirby mythos",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
