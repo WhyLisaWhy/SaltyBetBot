@@ -586756,5 +586756,140 @@
     "sum": 124019562,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1038
+    },
+    "date": 1791756999926,
+    "duration": 110191,
+    "left": {
+      "bet_amount": 3308415,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "John anderson",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2806963,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ravange",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 124019563,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18426
+    },
+    "date": 1791757139927,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 1605678,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Marz cvs",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1638418,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jubei yamada special",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 124018525,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11109
+    },
+    "date": 1791757320128,
+    "duration": 124200,
+    "left": {
+      "bet_amount": 5939609,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hei_f",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1596831,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Frostman hell",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 124000099,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28842
+    },
+    "date": 1791757546329,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 2620211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sharaku",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064035,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Baldi",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 124003081,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22842
+    },
+    "date": 1791757670333,
+    "duration": 63980,
+    "left": {
+      "bet_amount": 1472168,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kamen rider kabuto",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2289836,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mint",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 123974239,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
