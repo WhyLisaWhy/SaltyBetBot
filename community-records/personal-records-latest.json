@@ -583624,5 +583624,86 @@
     "sum": 124009106,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16903
+    },
+    "date": 1791734709921,
+    "duration": 75990,
+    "left": {
+      "bet_amount": 1603850,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Shana_k",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1489748,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Joe swanson",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 124006331,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1916
+    },
+    "date": 1791734900129,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 1121001,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Stevareno",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3967755,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Polon",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 124024325,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17163
+    },
+    "date": 1791735164328,
+    "duration": 204199,
+    "left": {
+      "bet_amount": 2190158,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Farah oersted",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092322,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lucifer EX3",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 124024867,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
