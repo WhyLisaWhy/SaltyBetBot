@@ -585946,5 +585946,59 @@
     "sum": 14928,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23507
+    },
+    "date": 1791750844927,
+    "duration": 164200,
+    "left": {
+      "bet_amount": 82259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nanmushi",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 667965,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ingrid_a",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 23507,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26304
+    },
+    "date": 1791751225532,
+    "duration": 320604,
+    "left": {
+      "bet_amount": 749834,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Moriya_yae",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 135032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ingrid_a",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 26304,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
