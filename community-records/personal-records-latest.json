@@ -579709,5 +579709,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791706713727,
+    "duration": 184205,
+    "left": {
+      "bet_amount": 98886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Annoying orange",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 306321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hiryu EX2",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791706903935,
+    "duration": 130209,
+    "left": {
+      "bet_amount": 358291,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Jubilee ex",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 252145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Byakuren hijiri",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2637
+    },
+    "date": 1791707246165,
+    "duration": 282239,
+    "left": {
+      "bet_amount": 279861,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kung fu rabbit",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 514214,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Cpt.falcon",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 2637,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791707440325,
+    "duration": 134204,
+    "left": {
+      "bet_amount": 65977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Annoying orange",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 845639,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Jubilee ex",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
