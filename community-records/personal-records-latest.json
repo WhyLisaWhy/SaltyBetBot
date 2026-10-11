@@ -580708,5 +580708,113 @@
     "sum": 124266512,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1980
+    },
+    "date": 1791713951347,
+    "duration": 70019,
+    "left": {
+      "bet_amount": 980820,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tourney pikachu",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3880865,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Valgar reinhart",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 124267927,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791714191526,
+    "duration": 185973,
+    "left": {
+      "bet_amount": 1003892,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lian",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4652770,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Weapon master",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 124268428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7618
+    },
+    "date": 1791714325738,
+    "duration": 70009,
+    "left": {
+      "bet_amount": 9563495,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Alissa",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 794562,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tsukiyomi kinako EX5",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 124268429,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 51767
+    },
+    "date": 1791714505926,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 1033203,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mvc2 sion",
+      "normal_bettors": 7,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2393286,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Fa-",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "sum": 124269062,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
