@@ -585730,5 +585730,113 @@
     "sum": 2287,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3163
+    },
+    "date": 1791748997527,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 125640,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nanmushi",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 275350,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Alvein",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 3163,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791749283726,
+    "duration": 232190,
+    "left": {
+      "bet_amount": 321351,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ingrid_a",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hotaru Futaba J",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2216
+    },
+    "date": 1791749493730,
+    "duration": 155998,
+    "left": {
+      "bet_amount": 360142,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Guy CVS",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 141920,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Lobo",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 2216,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791749768126,
+    "duration": 214115,
+    "left": {
+      "bet_amount": 179931,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Final fight cody",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 411022,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Moriya_yae",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
