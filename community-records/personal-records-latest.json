@@ -584164,5 +584164,140 @@
     "sum": 123890343,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791738040527,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1031699,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Margaretha_solin",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1827883,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Orochi ash",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 123888856,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21339
+    },
+    "date": 1791738204734,
+    "duration": 110008,
+    "left": {
+      "bet_amount": 1307703,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Morrigan EX",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442493,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yashiro EX6",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123888855,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17508
+    },
+    "date": 1791738374926,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 1120872,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Pocket arcueid",
+      "normal_bettors": 4,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3522353,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 123912016,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791738544927,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 1230342,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chopper",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2382705,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "New-spider-man",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 123917560,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3048
+    },
+    "date": 1791738725197,
+    "duration": 124068,
+    "left": {
+      "bet_amount": 1683263,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Forecaster blackmore",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1701753,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 11,
+      "win_streak": -9
+    },
+    "sum": 123917559,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
