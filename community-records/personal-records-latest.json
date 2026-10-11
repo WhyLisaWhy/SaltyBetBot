@@ -578739,5 +578739,140 @@
     "sum": 124569885,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5047
+    },
+    "date": 1791699468125,
+    "duration": 126197,
+    "left": {
+      "bet_amount": 1240125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Test a.i.",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2358361,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Ken master",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 124581996,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4567
+    },
+    "date": 1791699648131,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 2342864,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Quality shinobi",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1035270,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Warmachine MVC2",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 124576949,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24715
+    },
+    "date": 1791699782333,
+    "duration": 74207,
+    "left": {
+      "bet_amount": 3169931,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Demigod meep140",
+      "normal_bettors": 19,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 880860,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Diyaa man",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 124587239,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24774
+    },
+    "date": 1791699938329,
+    "duration": 96004,
+    "left": {
+      "bet_amount": 3235310,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Chinese terminator",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 754053,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hotaru xi",
+      "normal_bettors": 5,
+      "win_streak": 8
+    },
+    "sum": 124594054,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36621
+    },
+    "date": 1791700164527,
+    "duration": 160005,
+    "left": {
+      "bet_amount": 1342859,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "The territorial mammoth",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1846091,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Vanilla h",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 124599785,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
