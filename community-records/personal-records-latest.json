@@ -594235,5 +594235,113 @@
     "sum": 125528167,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22676
+    },
+    "date": 1791811162728,
+    "duration": 156199,
+    "left": {
+      "bet_amount": 1267078,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "King 13",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2490278,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Atomic r chelnov",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 125533513,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2934
+    },
+    "date": 1791811336928,
+    "duration": 114204,
+    "left": {
+      "bet_amount": 877546,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kotone",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2736831,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Yukina himeragi",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 125544947,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24478
+    },
+    "date": 1791811502927,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1167384,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Arai san",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1603785,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Zan-b",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 125542013,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5838
+    },
+    "date": 1791811733132,
+    "duration": 170207,
+    "left": {
+      "bet_amount": 1107386,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wally West",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2986225,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Arcade burnov",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "sum": 125517535,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
