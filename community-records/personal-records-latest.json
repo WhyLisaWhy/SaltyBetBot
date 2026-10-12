@@ -587863,5 +587863,113 @@
     "sum": 123830045,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20816
+    },
+    "date": 1791764271729,
+    "duration": 164204,
+    "left": {
+      "bet_amount": 2122481,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Scharlachrot",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1278726,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Doppo orochi EX3",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 123851505,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31384
+    },
+    "date": 1791764477727,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 1622582,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Char's zaku",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3061739,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Zenon",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 123885503,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29393
+    },
+    "date": 1791764627927,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 3008749,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Nashu EX7",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2770295,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Naruhodokun",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 123854119,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20304
+    },
+    "date": 1791764792129,
+    "duration": 104203,
+    "left": {
+      "bet_amount": 3448866,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Celestial mukai",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1033959,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bridget(ac)",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 123885707,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
