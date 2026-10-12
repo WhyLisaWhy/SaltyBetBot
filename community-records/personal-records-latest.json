@@ -589024,5 +589024,59 @@
     "sum": 192515,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 50633
+    },
+    "date": 1791773326526,
+    "duration": 380001,
+    "left": {
+      "bet_amount": 208798,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Zako-dan",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 458912,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Goku deus extreme",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 202530,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26621
+    },
+    "date": 1791774057328,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 1229432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zen mc",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2066363,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Tvc alex",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 125173355,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
