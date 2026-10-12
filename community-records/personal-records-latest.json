@@ -591427,5 +591427,113 @@
     "sum": 125073829,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1757
+    },
+    "date": 1791789653522,
+    "duration": 135994,
+    "left": {
+      "bet_amount": 3433698,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Shin aomizu",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 973297,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ika musume",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 125102820,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25904
+    },
+    "date": 1791789793728,
+    "duration": 86003,
+    "left": {
+      "bet_amount": 1702880,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Gardener",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172322,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Carlos tfa",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 125103318,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791789943926,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1134877,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Clonekyo xi",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3204789,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kyo rotd",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 125140132,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21536
+    },
+    "date": 1791790103924,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 609332,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cody EX",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3201086,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Orochi shermie",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 125140135,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
