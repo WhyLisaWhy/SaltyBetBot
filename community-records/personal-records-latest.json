@@ -593938,5 +593938,113 @@
     "sum": 125544406,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791809235127,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 1424470,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Daigo hotta",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1736709,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Alucard RAI",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 125545805,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31964
+    },
+    "date": 1791809485329,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 1329935,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Anubis polnareff",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1615688,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fiona belli",
+      "normal_bettors": 13,
+      "win_streak": -8
+    },
+    "sum": 125545807,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 674
+    },
+    "date": 1791809649530,
+    "duration": 110176,
+    "left": {
+      "bet_amount": 4471054,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Flash byakuren",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 863600,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Witch",
+      "normal_bettors": 5,
+      "win_streak": 3
+    },
+    "sum": 125513843,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3528
+    },
+    "date": 1791809829750,
+    "duration": 124223,
+    "left": {
+      "bet_amount": 1886087,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Kurorim-c",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1372307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "V. joe",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 125513974,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
