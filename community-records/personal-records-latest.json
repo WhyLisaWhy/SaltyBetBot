@@ -594802,5 +594802,86 @@
     "sum": 125581072,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41964
+    },
+    "date": 1791814685328,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 1295618,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Serio",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2231970,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Layban",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 125546961,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791815147931,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 90329,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Megaman fp",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 40202,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Waddledee",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2229
+    },
+    "date": 1791815384127,
+    "duration": 176196,
+    "left": {
+      "bet_amount": 135308,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ken tek",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 43513,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Kung lao mk2",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 2229,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
