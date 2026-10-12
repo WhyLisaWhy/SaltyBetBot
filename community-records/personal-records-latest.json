@@ -589510,5 +589510,113 @@
     "sum": 125213854,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32637
+    },
+    "date": 1791776987728,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 1322524,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wan-fu",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3545637,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Destroyer akatsuki",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 125199648,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30629
+    },
+    "date": 1791777197927,
+    "duration": 150182,
+    "left": {
+      "bet_amount": 1276973,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Jivatma",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3937931,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Vile EX3",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 125167011,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22844
+    },
+    "date": 1791777377928,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2307851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Marilyn sue dae jie",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2356341,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Cecil harvey",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 125136382,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36064
+    },
+    "date": 1791777518124,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 909783,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Huntress",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5665827,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Corrupted shinnok",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 125159478,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
