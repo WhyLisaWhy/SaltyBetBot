@@ -596638,5 +596638,113 @@
     "sum": 125414013,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18016
+    },
+    "date": 1791831108524,
+    "duration": 93994,
+    "left": {
+      "bet_amount": 1370635,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Anna kyoyama",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1671310,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "No.6 hibiki",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 125387916,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24511
+    },
+    "date": 1791831328725,
+    "duration": 159999,
+    "left": {
+      "bet_amount": 3850842,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "The dazzler",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1150595,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Majin vegeta EX3",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "sum": 125369900,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17760
+    },
+    "date": 1791831524928,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 917283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ibuki-toranoo",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1927261,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Tessa (tabasa)",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 125345389,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16702
+    },
+    "date": 1791831711129,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 1036152,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eve b.c",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1849008,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Yoriko-mvc EX3",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 125381995,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
