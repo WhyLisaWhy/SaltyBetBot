@@ -588754,5 +588754,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791770502527,
+    "duration": 200202,
+    "left": {
+      "bet_amount": 208734,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Pentagon & black hole",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148787,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Iria",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791770692725,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 257884,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tenchu rikimaru",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 181147,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2633
+    },
+    "date": 1791770896927,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 297396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Basilisx",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 222834,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Zero Cloud",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 2633,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6106
+    },
+    "date": 1791771107128,
+    "duration": 154203,
+    "left": {
+      "bet_amount": 80669,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Goku deus extreme",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 457000,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Freeman_n",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 6106,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
