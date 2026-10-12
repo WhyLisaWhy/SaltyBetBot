@@ -592453,5 +592453,86 @@
     "sum": 125134367,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32456
+    },
+    "date": 1791799619525,
+    "duration": 210193,
+    "left": {
+      "bet_amount": 1229211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fangore",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1963851,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Nanoha takamachi EX3",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 125148067,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17073
+    },
+    "date": 1791799749527,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 1194704,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Zangief_musclebomber",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2375862,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Animus EX3",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 125198587,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1056
+    },
+    "date": 1791799959727,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 653898,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Skeleton",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3995775,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kurippudassu",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 125181514,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
