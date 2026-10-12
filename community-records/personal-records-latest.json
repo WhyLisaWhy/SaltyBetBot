@@ -596341,5 +596341,140 @@
     "sum": 125346801,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38442
+    },
+    "date": 1791829020945,
+    "duration": 100019,
+    "left": {
+      "bet_amount": 885994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ryu sf3",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3525782,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Alena",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 125346800,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11812
+    },
+    "date": 1791829217127,
+    "duration": 130194,
+    "left": {
+      "bet_amount": 3551571,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Amiba EX",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1432760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Asutorea EX3",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 125308358,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34149
+    },
+    "date": 1791829467327,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 1613059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Arena",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1641193,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Kumoi ichirin",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 125313108,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29045
+    },
+    "date": 1791829677528,
+    "duration": 156174,
+    "left": {
+      "bet_amount": 965276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tuyoshi",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2341264,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Suwako",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 125345988,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8935
+    },
+    "date": 1791829877572,
+    "duration": 146047,
+    "left": {
+      "bet_amount": 2302567,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Big",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1598859,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kamakura-kun",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "sum": 125357817,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
