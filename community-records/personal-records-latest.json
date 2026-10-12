@@ -593830,5 +593830,113 @@
     "sum": 125508961,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19964
+    },
+    "date": 1791808528529,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 1532026,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yang K",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1867954,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Lion",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 125514570,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13485
+    },
+    "date": 1791808658726,
+    "duration": 69983,
+    "left": {
+      "bet_amount": 6589878,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Homu homu",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 707756,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "R-pepe",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "sum": 125538599,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25710
+    },
+    "date": 1791808798727,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 631987,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "F-k",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3700816,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Lycee fgo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 125540045,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6424
+    },
+    "date": 1791808998925,
+    "duration": 145993,
+    "left": {
+      "bet_amount": 570592,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Sakura Kasugano",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2613680,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Runa araki",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 125544406,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
