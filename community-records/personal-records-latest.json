@@ -589078,5 +589078,113 @@
     "sum": 125173355,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26476
+    },
+    "date": 1791774247523,
+    "duration": 129984,
+    "left": {
+      "bet_amount": 3217732,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sumo sw",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1248072,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Yuzuriha",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 125146734,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8981
+    },
+    "date": 1791774437728,
+    "duration": 130190,
+    "left": {
+      "bet_amount": 3012955,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Puppet master",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1230197,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tatsumaki",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 125213576,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 643
+    },
+    "date": 1791774607724,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 1608931,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "M.bison mk2",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3727462,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Luka",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 125217233,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24003
+    },
+    "date": 1791774773924,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 4341277,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Storm-owl",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 827853,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kiriko ns",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 125217511,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
