@@ -597826,5 +597826,86 @@
     "sum": 125504025,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6785
+    },
+    "date": 1791839026926,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 4061412,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Bomber hugo",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1914792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Regular ass rugal",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "sum": 125504025,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 425
+    },
+    "date": 1791839227000,
+    "duration": 144074,
+    "left": {
+      "bet_amount": 2548550,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Karnov ex",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1625233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Master hand",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 125507219,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18460
+    },
+    "date": 1791839400934,
+    "duration": 113804,
+    "left": {
+      "bet_amount": 2006998,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Reptile",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1335270,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rumia",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 125506794,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
