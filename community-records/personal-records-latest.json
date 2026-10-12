@@ -597502,5 +597502,167 @@
     "sum": 125508839,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19247
+    },
+    "date": 1791837143325,
+    "duration": 163996,
+    "left": {
+      "bet_amount": 862640,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pikachu g&s",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3085389,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Deathtanz-mantisk",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 125490476,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791837313556,
+    "duration": 114029,
+    "left": {
+      "bet_amount": 2974311,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Shin bison",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1555557,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ayatsuji tsukasa EX3",
+      "normal_bettors": 9,
+      "win_streak": 0
+    },
+    "sum": 125471229,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19794
+    },
+    "date": 1791837429536,
+    "duration": 56010,
+    "left": {
+      "bet_amount": 2282908,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Valvatorez",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1952787,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Belmod",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 125471230,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6453
+    },
+    "date": 1791837605729,
+    "duration": 122003,
+    "left": {
+      "bet_amount": 866833,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Vexen",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5440577,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Maxmilian",
+      "normal_bettors": 26,
+      "win_streak": 10
+    },
+    "sum": 125494138,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23676
+    },
+    "date": 1791837725932,
+    "duration": 56208,
+    "left": {
+      "bet_amount": 3364011,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Skolldir",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1498144,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Bebum ryo",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 125495165,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791837919929,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 2814569,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tios",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2383343,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Jax",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 125505636,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
