@@ -598582,5 +598582,140 @@
     "sum": 125458645,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8778
+    },
+    "date": 1791846148525,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 3702168,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Serena corsair",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2394125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kunoichi nwa",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 125457120,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37985
+    },
+    "date": 1791846258528,
+    "duration": 50000,
+    "left": {
+      "bet_amount": 5636523,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Armgon",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 943254,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Miranda",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 125462784,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29379
+    },
+    "date": 1791846464725,
+    "duration": 145995,
+    "left": {
+      "bet_amount": 1919752,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Naoto shirogane",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2091593,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Goombario",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 125424799,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32535
+    },
+    "date": 1791846594926,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 1404599,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eiji shirow",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4127995,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Krizalid-kofm-kbr",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 125395420,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16006
+    },
+    "date": 1791846738933,
+    "duration": 84007,
+    "left": {
+      "bet_amount": 1211907,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tsukikomori",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6848016,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Alexa",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 125406404,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
