@@ -595126,5 +595126,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791817501733,
+    "duration": 133969,
+    "left": {
+      "bet_amount": 331740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Michael jackson",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151062,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Noriko nijou",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4920
+    },
+    "date": 1791817701926,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 203383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Megaman fp",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 493189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Sandra",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 4920,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6929
+    },
+    "date": 1791817863930,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 338124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Axel hawk special",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 520786,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Noriko nijou",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "sum": 6929,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
