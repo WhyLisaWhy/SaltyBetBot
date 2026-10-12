@@ -588457,5 +588457,167 @@
     "sum": 123975355,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 386
+    },
+    "date": 1791767812534,
+    "duration": 104206,
+    "left": {
+      "bet_amount": 4073202,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Nightmare geese",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 860629,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Broly lssj4",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 123973085,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22567
+    },
+    "date": 1791767958525,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 3140605,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Super metroid",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1438307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aurum axe",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 123973167,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 987
+    },
+    "date": 1791768162725,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 944578,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Lf2 - firzen",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1784702,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Macheta",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 123983429,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30056
+    },
+    "date": 1791768302925,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 1598875,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Mythos zero",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 986260,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hydron",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 123982442,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14870
+    },
+    "date": 1791768522930,
+    "duration": 160006,
+    "left": {
+      "bet_amount": 723936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alien baltan 6th",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2252343,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Shun - andromeda",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 123952386,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12244
+    },
+    "date": 1791768719128,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 805823,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Scream",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2464900,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Meta knight sdx",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 123937516,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
