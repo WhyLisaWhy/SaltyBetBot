@@ -590968,5 +590968,140 @@
     "sum": 125270444,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791786727338,
+    "duration": 120206,
+    "left": {
+      "bet_amount": 2540549,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Eiji mk",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1070458,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mvsn nosex",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 125270950,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15242
+    },
+    "date": 1791786873325,
+    "duration": 85981,
+    "left": {
+      "bet_amount": 1389165,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Enuma elish",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1866617,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Serious yuri sakazaki",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 125270951,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 45352
+    },
+    "date": 1791787039528,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 586773,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "K. round",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2582269,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Motaro",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 125255709,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26206
+    },
+    "date": 1791787149524,
+    "duration": 49967,
+    "left": {
+      "bet_amount": 4199014,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Guldin",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 670230,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Raphael 0d",
+      "normal_bettors": 8,
+      "win_streak": -13
+    },
+    "sum": 125210357,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23429
+    },
+    "date": 1791787343727,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1158602,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Genma",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1790413,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Farmer strikes back",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 125214514,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
