@@ -592102,5 +592102,32 @@
     "sum": 3208,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791795674727,
+    "duration": 272601,
+    "left": {
+      "bet_amount": 391979,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Sabretoothu",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151716,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ikumi tatikawa",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
