@@ -595234,5 +595234,140 @@
     "sum": 17387,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38714
+    },
+    "date": 1791822035382,
+    "duration": 136046,
+    "left": {
+      "bet_amount": 1323930,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Mewtwo-y",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2792687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Alien baltan",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 125506557,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19055
+    },
+    "date": 1791822175530,
+    "duration": 79994,
+    "left": {
+      "bet_amount": 1129794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucky jordan",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3374564,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Anti.guile.zangief",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 125467843,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17736
+    },
+    "date": 1791822365728,
+    "duration": 126155,
+    "left": {
+      "bet_amount": 1095343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shocking shocker",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3506907,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Kamen rider joker",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 125474187,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1215
+    },
+    "date": 1791822525727,
+    "duration": 100006,
+    "left": {
+      "bet_amount": 4478240,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Magaki xi",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1112521,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "M.bison mk2",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 125479699,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791822689928,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1879736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Bonegolem",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1728958,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Alisa",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 125478484,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
