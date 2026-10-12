@@ -588673,5 +588673,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2929
+    },
+    "date": 1791769725928,
+    "duration": 170200,
+    "left": {
+      "bet_amount": 79213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Emperor fou-lu",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 135027,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Zankuro EX2",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "sum": 2929,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791770026126,
+    "duration": 240199,
+    "left": {
+      "bet_amount": 127292,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cyborg_d-9f",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 155117,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Italian kenshiro",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791770242326,
+    "duration": 155999,
+    "left": {
+      "bet_amount": 117553,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zako-dan",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236019,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Trish una",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
