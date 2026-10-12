@@ -589186,5 +589186,140 @@
     "sum": 125217511,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23322
+    },
+    "date": 1791774944126,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 2907611,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shana",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 967907,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chaos teaza",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 125193508,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33049
+    },
+    "date": 1791775164128,
+    "duration": 164002,
+    "left": {
+      "bet_amount": 2038929,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Genkai_shihan",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171900,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Deliza",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 125201210,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6812
+    },
+    "date": 1791775340327,
+    "duration": 119954,
+    "left": {
+      "bet_amount": 1546961,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Boring vigilante EX3",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2214545,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Vita EX3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 125219903,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11417
+    },
+    "date": 1791775494524,
+    "duration": 94196,
+    "left": {
+      "bet_amount": 3086626,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shigen",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 912537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuuki asuna",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 125213091,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32682
+    },
+    "date": 1791775730728,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 1540837,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Meld",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1672882,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Fubuki",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 125216454,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
