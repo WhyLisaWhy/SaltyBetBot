@@ -591832,5 +591832,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2207
+    },
+    "date": 1791793128326,
+    "duration": 256201,
+    "left": {
+      "bet_amount": 49951,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Umvc_gouki",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 248920,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rascalex",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 2207,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2646
+    },
+    "date": 1791793324527,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 221508,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ikumi tatikawa",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 97849,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nests-rugal",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 2646,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791793588725,
+    "duration": 204197,
+    "left": {
+      "bet_amount": 99719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tsukikomori",
+      "normal_bettors": 12,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 205007,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Violet",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
