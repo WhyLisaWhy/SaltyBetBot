@@ -588862,5 +588862,86 @@
     "sum": 6106,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38264
+    },
+    "date": 1791771519328,
+    "duration": 356200,
+    "left": {
+      "bet_amount": 248755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Mittelt",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270745,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Emperor fou-lu",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 38264,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 57325
+    },
+    "date": 1791771759524,
+    "duration": 186194,
+    "left": {
+      "bet_amount": 448779,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Cyborg_d-9f",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 120699,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Zako-dan",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 69067,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 53395
+    },
+    "date": 1791771933730,
+    "duration": 120206,
+    "left": {
+      "bet_amount": 208123,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Iria",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287051,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Tenchu rikimaru",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 213578,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
