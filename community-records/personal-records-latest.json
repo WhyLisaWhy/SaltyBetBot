@@ -593182,5 +593182,140 @@
     "sum": 125518294,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6349
+    },
+    "date": 1791804044934,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 785006,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mysterious budo",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2651118,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Suiseiseki",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 125575143,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26010
+    },
+    "date": 1791804211131,
+    "duration": 104194,
+    "left": {
+      "bet_amount": 942898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Applejack m",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3855395,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mr. broly",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 125568794,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15654
+    },
+    "date": 1791804347327,
+    "duration": 76200,
+    "left": {
+      "bet_amount": 2137977,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Jobman EX7",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 826382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Q-bee soul",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 125575113,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18423
+    },
+    "date": 1791804487330,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 611980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eleking",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4166591,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Slalingaru",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 125581120,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21229
+    },
+    "date": 1791804641534,
+    "duration": 100207,
+    "left": {
+      "bet_amount": 1192489,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Gi gi",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1852731,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Dhaos ND3",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 125583815,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
