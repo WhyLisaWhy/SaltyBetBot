@@ -595369,5 +595369,113 @@
     "sum": 125478484,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41414
+    },
+    "date": 1791822862128,
+    "duration": 112202,
+    "left": {
+      "bet_amount": 1741436,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Raphael",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2192545,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Heavy",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 125478483,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16328
+    },
+    "date": 1791823002120,
+    "duration": 85993,
+    "left": {
+      "bet_amount": 841182,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Wai",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3451997,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Tekkamann-lance",
+      "normal_bettors": 19,
+      "win_streak": 6
+    },
+    "sum": 125529414,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18977
+    },
+    "date": 1791823196328,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 1448147,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Kraft",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1551330,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mitsuji tanimati",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 125533375,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18753
+    },
+    "date": 1791823352525,
+    "duration": 100196,
+    "left": {
+      "bet_amount": 1158143,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Neco-arc chaos ac",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3019581,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Edit",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 125514398,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
