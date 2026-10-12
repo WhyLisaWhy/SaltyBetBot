@@ -592021,5 +592021,86 @@
     "sum": 2988,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791794921726,
+    "duration": 160204,
+    "left": {
+      "bet_amount": 230239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Tsukikomori",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 322101,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Alter wind",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2653
+    },
+    "date": 1791795125931,
+    "duration": 144207,
+    "left": {
+      "bet_amount": 66602,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 315911,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sabretoothu",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 2653,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3208
+    },
+    "date": 1791795342127,
+    "duration": 156200,
+    "left": {
+      "bet_amount": 333971,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Ikumi tatikawa",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133816,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Alter wind",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 3208,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
