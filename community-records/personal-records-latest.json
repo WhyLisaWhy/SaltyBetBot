@@ -587728,5 +587728,140 @@
     "sum": 123824316,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18092
+    },
+    "date": 1791763444932,
+    "duration": 104005,
+    "left": {
+      "bet_amount": 987886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The vampire savior",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3157353,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kagelogan EX7",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 123827329,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27066
+    },
+    "date": 1791763581128,
+    "duration": 79992,
+    "left": {
+      "bet_amount": 1241058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chintao",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4333288,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Slash-beast",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 123832958,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25727
+    },
+    "date": 1791763715127,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 3524874,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Yaridovich",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2454013,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Chinnen EX5",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 123840662,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19267
+    },
+    "date": 1791763901326,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 1468194,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Vega",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1852931,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Papillon",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 123814935,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35776
+    },
+    "date": 1791764047529,
+    "duration": 92197,
+    "left": {
+      "bet_amount": 1486179,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Marihana",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2441932,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Fio!",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 123830045,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
