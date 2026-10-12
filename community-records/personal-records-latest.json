@@ -588619,5 +588619,59 @@
     "sum": 123937516,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29401
+    },
+    "date": 1791768911929,
+    "duration": 138800,
+    "left": {
+      "bet_amount": 3945471,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Vivi_ornitier",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1159292,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cpt. falcon",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 123941500,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791769495725,
+    "duration": 316197,
+    "left": {
+      "bet_amount": 84953,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Mittelt",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76912,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Bsb ridley",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
