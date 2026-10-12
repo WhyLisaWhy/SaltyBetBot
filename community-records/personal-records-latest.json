@@ -592885,5 +592885,113 @@
     "sum": 125504010,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35407
+    },
+    "date": 1791802153523,
+    "duration": 110193,
+    "left": {
+      "bet_amount": 1256689,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shermie bc",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1798244,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Mei",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 125504011,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27946
+    },
+    "date": 1791802333527,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 1150387,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 2,
+      "name": "Ryofu",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2165924,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Joker EX3",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 125528278,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11465
+    },
+    "date": 1791802477728,
+    "duration": 83992,
+    "left": {
+      "bet_amount": 1755859,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Trigger ex",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 984665,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Simon belmont(fc)",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 125500332,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25459
+    },
+    "date": 1791802623726,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 3511553,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Yuka",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 644745,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Omnimon",
+      "normal_bettors": 4,
+      "win_streak": 2
+    },
+    "sum": 125488867,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
