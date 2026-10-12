@@ -592129,5 +592129,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22654
+    },
+    "date": 1791797339524,
+    "duration": 153998,
+    "left": {
+      "bet_amount": 1030761,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Unlaughmaker",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2012843,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Scarlet dragon",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 125122402,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
