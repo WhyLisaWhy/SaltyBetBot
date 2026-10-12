@@ -598042,5 +598042,113 @@
     "sum": 3150,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791840920328,
+    "duration": 95945,
+    "left": {
+      "bet_amount": 103067,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Shin valdoll",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 198630,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Dud",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4493
+    },
+    "date": 1791841104566,
+    "duration": 114233,
+    "left": {
+      "bet_amount": 272298,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kirino kousaka",
+      "normal_bettors": 35,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gaoh kyougoku hinowanokami",
+      "normal_bettors": 5,
+      "win_streak": -3
+    },
+    "sum": 4493,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5315
+    },
+    "date": 1791841336726,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 76985,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuen-joe",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 284136,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Hakolen-sbs EX3",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 5315,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791841500928,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 334968,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Lin EX",
+      "normal_bettors": 27,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fakir",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
