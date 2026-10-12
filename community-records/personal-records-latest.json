@@ -590374,5 +590374,59 @@
     "sum": 125249931,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39650
+    },
+    "date": 1791782575928,
+    "duration": 164004,
+    "left": {
+      "bet_amount": 1377067,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Durian EX3",
+      "normal_bettors": 16,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2182803,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - louisx",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 125252166,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2422
+    },
+    "date": 1791782812128,
+    "duration": 175999,
+    "left": {
+      "bet_amount": 2517589,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Chelsea tone",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 940400,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Brunestud arcueid",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 125212516,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
