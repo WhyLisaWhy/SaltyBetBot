@@ -591697,5 +591697,59 @@
     "sum": 125114584,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37384
+    },
+    "date": 1791791221725,
+    "duration": 70997,
+    "left": {
+      "bet_amount": 613251,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Valvatorez",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4356521,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Shiva",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "sum": 125115639,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791791735329,
+    "duration": 244204,
+    "left": {
+      "bet_amount": 36116,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Lucy",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 104024,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
