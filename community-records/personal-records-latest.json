@@ -596746,5 +596746,113 @@
     "sum": 125381995,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791831981327,
+    "duration": 206170,
+    "left": {
+      "bet_amount": 953673,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Drunken master",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5401706,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Goku ssj5 absalon",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 125391271,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36968
+    },
+    "date": 1791832161327,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 936156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "R. lilith",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2300246,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "El stinger",
+      "normal_bettors": 24,
+      "win_streak": 8
+    },
+    "sum": 125391277,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3700
+    },
+    "date": 1791832385530,
+    "duration": 169958,
+    "left": {
+      "bet_amount": 2297402,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Zeppeli ex",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1081755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sakagami tomoyo",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 125406085,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41617
+    },
+    "date": 1791832581728,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 762960,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Joker_nanaya",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2448260,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Absolute_white_len",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 125413917,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
