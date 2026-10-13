@@ -610138,5 +610138,140 @@
     "sum": 125810812,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8312
+    },
+    "date": 1791926906926,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 919769,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ayu tsukimiya",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5777007,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Jun",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 125810813,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35073
+    },
+    "date": 1791927087125,
+    "duration": 123997,
+    "left": {
+      "bet_amount": 2975488,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Phone(redux)",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2363220,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Angus cf3",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "sum": 125812135,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15648
+    },
+    "date": 1791927287328,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 1296040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cooler dbh",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2028759,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Cci shermie",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 125839667,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3730
+    },
+    "date": 1791927457545,
+    "duration": 114216,
+    "left": {
+      "bet_amount": 2699001,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Benimaru945",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 853880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hitomi karasuma",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 125863870,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791927700971,
+    "duration": 183443,
+    "left": {
+      "bet_amount": 3036169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lucifer 2",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1970089,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Meta-knight",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "sum": 125860140,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
