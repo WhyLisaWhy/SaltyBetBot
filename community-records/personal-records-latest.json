@@ -606277,5 +606277,113 @@
     "sum": 125827684,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19716
+    },
+    "date": 1791899438926,
+    "duration": 160000,
+    "left": {
+      "bet_amount": 4269854,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Johnny(coh)",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 865975,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ragna mau",
+      "normal_bettors": 9,
+      "win_streak": -12
+    },
+    "sum": 125812664,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8875
+    },
+    "date": 1791899649169,
+    "duration": 150034,
+    "left": {
+      "bet_amount": 2086884,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Lieselotte_achenbach",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1473917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sakuya (shining blade)",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 125792948,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24653
+    },
+    "date": 1791899859326,
+    "duration": 154199,
+    "left": {
+      "bet_amount": 1392265,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Lucina",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1708177,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Guile-xi remix",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 125799190,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6785
+    },
+    "date": 1791899995526,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 849382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mario smrpg",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4642940,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Shin akuma svc chaos",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 125774537,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
