@@ -609598,5 +609598,113 @@
     "sum": 125691646,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20328
+    },
+    "date": 1791923708526,
+    "duration": 76197,
+    "left": {
+      "bet_amount": 5510441,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kudora",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 941002,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cola",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 125676312,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32478
+    },
+    "date": 1791923888527,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 708051,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 2,
+      "name": "Nagaoka shiho",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2206553,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Aura 2nd revival",
+      "normal_bettors": 22,
+      "win_streak": -7
+    },
+    "sum": 125679771,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26593
+    },
+    "date": 1791923988730,
+    "duration": 46203,
+    "left": {
+      "bet_amount": 994950,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cursor",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2032036,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Death-stuff",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 125776546,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34848
+    },
+    "date": 1791924192732,
+    "duration": 144006,
+    "left": {
+      "bet_amount": 4856064,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Yami yugi",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 866419,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kyoko",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 125749953,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
