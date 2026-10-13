@@ -600121,5 +600121,140 @@
     "sum": 125658910,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32020
+    },
+    "date": 1791856044325,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 2066411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Momasusta",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2093986,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "You killed kenny!",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 125666073,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27849
+    },
+    "date": 1791856220531,
+    "duration": 110007,
+    "left": {
+      "bet_amount": 2482744,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nick commando EX",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2085186,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Tohru adachi",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 125697196,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44945
+    },
+    "date": 1791856384725,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 687592,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ron max",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3189492,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Hiryu",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 125669347,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3399
+    },
+    "date": 1791856532741,
+    "duration": 92013,
+    "left": {
+      "bet_amount": 155005138,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Arx-7",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1026132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Xmas slime",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "sum": 125678902,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17433
+    },
+    "date": 1791856690924,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 1130986,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Warlock 3",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2858511,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Goku-hell",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 125678925,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
