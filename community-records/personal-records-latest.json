@@ -604981,5 +604981,113 @@
     "sum": 125660463,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1738
+    },
+    "date": 1791891216528,
+    "duration": 166201,
+    "left": {
+      "bet_amount": 1382962,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Waifu misuzu EX7",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1567701,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Neva",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 125665505,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21580
+    },
+    "date": 1791891366527,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1072928,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Elirin",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2098406,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Oswald avery",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 125665505,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18169
+    },
+    "date": 1791891646727,
+    "duration": 216000,
+    "left": {
+      "bet_amount": 1476054,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Card gunner",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1354238,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Kaizuka bocky mogra",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 125708411,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791891792926,
+    "duration": 91940,
+    "left": {
+      "bet_amount": 2920621,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Ingrid EX3",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 829096,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sentry ex",
+      "normal_bettors": 9,
+      "win_streak": -12
+    },
+    "sum": 125724878,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
