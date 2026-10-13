@@ -610678,5 +610678,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36890
+    },
+    "date": 1791933948525,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 932637,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Nightmare geese",
+      "normal_bettors": 14,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1321249,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Aoko aozaki",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 125862367,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10971
+    },
+    "date": 1791934124726,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 3178754,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Anita msh",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1026027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Genma saotome iqs",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 125825477,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
