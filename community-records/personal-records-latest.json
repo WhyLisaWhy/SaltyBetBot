@@ -604414,5 +604414,86 @@
     "sum": 184835,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34657
+    },
+    "date": 1791885808127,
+    "duration": 156202,
+    "left": {
+      "bet_amount": 148918,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ukyo tachibana EX3",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 328386,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "P. chunli",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 138626,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38211
+    },
+    "date": 1791885962124,
+    "duration": 93994,
+    "left": {
+      "bet_amount": 392659,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Sahad",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 115869,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kim jae hoon",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 152843,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28658
+    },
+    "date": 1791886232330,
+    "duration": 214003,
+    "left": {
+      "bet_amount": 71478,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "P. chunli",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 562781,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Sahad",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 114632,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
