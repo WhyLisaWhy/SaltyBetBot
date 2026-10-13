@@ -604009,5 +604009,86 @@
     "sum": 125589612,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41606
+    },
+    "date": 1791882327328,
+    "duration": 66004,
+    "left": {
+      "bet_amount": 1712335,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Temjin arrange",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 789962,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dragon waifu",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 125597693,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17735
+    },
+    "date": 1791882471339,
+    "duration": 84009,
+    "left": {
+      "bet_amount": 980992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Battler",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1228722,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "The ferret",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 125556087,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1667
+    },
+    "date": 1791882627355,
+    "duration": 95826,
+    "left": {
+      "bet_amount": 578176,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Fubuki",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2158302,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Mizukami hokuto",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 125570045,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
