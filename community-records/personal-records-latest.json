@@ -599257,5 +599257,140 @@
     "sum": 125725405,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791850618127,
+    "duration": 112202,
+    "left": {
+      "bet_amount": 5365577,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kino's journey",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 748332,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Buggy",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "sum": 125725406,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791850746128,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 6199944,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Akebi",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 922783,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dead geese",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 125725407,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40794
+    },
+    "date": 1791850950326,
+    "duration": 150177,
+    "left": {
+      "bet_amount": 3742281,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Byakuren hijiri",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1375771,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bob sagat",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "sum": 125725408,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33850
+    },
+    "date": 1791851136530,
+    "duration": 124209,
+    "left": {
+      "bet_amount": 2590648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Isabeau",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2146954,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Eni blackdragon",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 125684614,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4095
+    },
+    "date": 1791851282525,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 4596082,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "New mechagodzilla",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2313193,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jean_pau",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 125650764,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
