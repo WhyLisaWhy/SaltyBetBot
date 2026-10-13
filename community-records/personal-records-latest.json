@@ -601930,5 +601930,140 @@
     "sum": 125712223,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6358
+    },
+    "date": 1791868600324,
+    "duration": 109994,
+    "left": {
+      "bet_amount": 3107916,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Mr golem",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 826264,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Etomo shuko",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 125707010,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2116
+    },
+    "date": 1791868810529,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 3377169,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Nanaya_s",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1231144,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kaede ngbc",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "sum": 125700652,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21889
+    },
+    "date": 1791868940728,
+    "duration": 76202,
+    "left": {
+      "bet_amount": 940532,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Arena",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3072234,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Blizzard EX3",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 125698536,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11410
+    },
+    "date": 1791869100731,
+    "duration": 106009,
+    "left": {
+      "bet_amount": 806003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Taiga ex",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4717292,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Sabretoothu",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 125705190,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4307
+    },
+    "date": 1791869270925,
+    "duration": 110195,
+    "left": {
+      "bet_amount": 4188211,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Merkava ex",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 805765,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mysterious power",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 125707135,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
