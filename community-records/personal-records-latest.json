@@ -607492,5 +607492,86 @@
     "sum": 13448,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16653
+    },
+    "date": 1791908252126,
+    "duration": 244204,
+    "left": {
+      "bet_amount": 469586,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Most evil ryu",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 212707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Arisa",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 16653,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23938
+    },
+    "date": 1791908428122,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 501444,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Small chibi-moon",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 222530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Akatsuki hm",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 23938,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791908783542,
+    "duration": 299210,
+    "left": {
+      "bet_amount": 723511,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Most evil ryu",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 239013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Akatsuki hm",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
