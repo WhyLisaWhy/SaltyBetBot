@@ -601282,5 +601282,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791864092933,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 258941,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ulquiorra cifer",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 167050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Nazuna_inuwaka",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791864377137,
+    "duration": 230203,
+    "left": {
+      "bet_amount": 185505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Virginia mkv",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 320683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Risotto nero",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2443
+    },
+    "date": 1791864623125,
+    "duration": 185998,
+    "left": {
+      "bet_amount": 208961,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Soma cruz",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 362936,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Prier",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 2443,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3841
+    },
+    "date": 1791864743329,
+    "duration": 59998,
+    "left": {
+      "bet_amount": 85925,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nazuna_inuwaka",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 446762,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Risotto nero",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 3841,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
