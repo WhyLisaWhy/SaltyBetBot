@@ -607195,5 +607195,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2525
+    },
+    "date": 1791905667926,
+    "duration": 173999,
+    "left": {
+      "bet_amount": 33633,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Twilight sparkle",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149019,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Most evil ryu",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 2525,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3086
+    },
+    "date": 1791905890126,
+    "duration": 159997,
+    "left": {
+      "bet_amount": 140677,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Class wo",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74072,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Riyoh_nagasaki EX6",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 3086,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4677
+    },
+    "date": 1791906200528,
+    "duration": 246195,
+    "left": {
+      "bet_amount": 202911,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Arisa",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50470,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kazane humuro",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 4677,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5815
+    },
+    "date": 1791906354527,
+    "duration": 98002,
+    "left": {
+      "bet_amount": 58836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ruputna",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 232882,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Don",
+      "normal_bettors": 22,
+      "win_streak": -6
+    },
+    "sum": 5815,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
