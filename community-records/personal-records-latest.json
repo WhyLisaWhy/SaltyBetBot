@@ -605710,5 +605710,140 @@
     "sum": 125688317,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38218
+    },
+    "date": 1791895583925,
+    "duration": 69984,
+    "left": {
+      "bet_amount": 1987643,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Q-d",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 868937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pyron",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 125698540,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6610
+    },
+    "date": 1791895743924,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 906512,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Pacman",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2614443,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Hikkoshi_baba",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 125782279,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11945
+    },
+    "date": 1791895938125,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1068740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nazrin",
+      "normal_bettors": 5,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2288873,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Pantherk",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 125784566,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13296
+    },
+    "date": 1791896104325,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 2992261,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Master juzo",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 824200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Anakaris",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 125790115,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791896298528,
+    "duration": 140190,
+    "left": {
+      "bet_amount": 860283,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zoma ga",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3051781,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Joachim",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 125776819,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
