@@ -599149,5 +599149,113 @@
     "sum": 125683903,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30343
+    },
+    "date": 1791849885528,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 3169889,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Juggernaut f",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2807601,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Storm_cota",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 125651800,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37063
+    },
+    "date": 1791850059617,
+    "duration": 114093,
+    "left": {
+      "bet_amount": 2244434,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Faud EX3",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1865820,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Marisa,k",
+      "normal_bettors": 22,
+      "win_streak": -6
+    },
+    "sum": 125621457,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43412
+    },
+    "date": 1791850275728,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 3022041,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Fio germi",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 886967,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ice climbers",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 125584394,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791850445928,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 6469491,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Luciege capella",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1738317,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hobgoblin 2009",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "sum": 125725405,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
