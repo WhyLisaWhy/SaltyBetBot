@@ -601012,5 +601012,59 @@
     "sum": 125629088,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791861722926,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 80976,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86300,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Temjin arrange",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2979
+    },
+    "date": 1791861983125,
+    "duration": 200196,
+    "left": {
+      "bet_amount": 138211,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Devo the cursed",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 83143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Soma cruz",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 2979,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
