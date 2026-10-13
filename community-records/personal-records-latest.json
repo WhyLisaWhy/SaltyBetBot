@@ -603199,5 +603199,140 @@
     "sum": 125535239,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5599
+    },
+    "date": 1791876942926,
+    "duration": 83978,
+    "left": {
+      "bet_amount": 2629179,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Jimmy",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 852349,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryofu",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "sum": 125533141,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34295
+    },
+    "date": 1791877093128,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 1112151,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "1st round rugal b",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1951697,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Jotaro kujo (part 4)",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 125534953,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791877221132,
+    "duration": 67999,
+    "left": {
+      "bet_amount": 764108,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Terraformer",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5562176,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Magical elf jinny",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 125554159,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8832
+    },
+    "date": 1791877449374,
+    "duration": 176029,
+    "left": {
+      "bet_amount": 2396765,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Human paladin",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1060365,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Samus mythos",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 125554160,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17615
+    },
+    "date": 1791877623529,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 1288785,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Michelangelo 0d",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1615885,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hiro-ex",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 125558054,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
