@@ -604090,5 +604090,113 @@
     "sum": 125570045,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791883021926,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 54899,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ukyo tachibana EX3",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 47981,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Hinata",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2868
+    },
+    "date": 1791883227926,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 58551,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shaoran lee",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 101688,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Duck king EX2",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 2868,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4475
+    },
+    "date": 1791883508337,
+    "duration": 224207,
+    "left": {
+      "bet_amount": 109669,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "P. chunli",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 69356,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dawn",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 4475,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7195
+    },
+    "date": 1791883820527,
+    "duration": 242199,
+    "left": {
+      "bet_amount": 89567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "General bush",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 115562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Team nicktoon",
+      "normal_bettors": 22,
+      "win_streak": -14
+    },
+    "sum": 7195,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
