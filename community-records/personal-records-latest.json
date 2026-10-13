@@ -609301,5 +609301,140 @@
     "sum": 125707541,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36374
+    },
+    "date": 1791921828926,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 1985039,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Dorako marufoi",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1693712,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Galford nrf",
+      "normal_bettors": 5,
+      "win_streak": -5
+    },
+    "sum": 125679266,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27711
+    },
+    "date": 1791921985125,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 818418,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ortega ex",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4402664,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "No.6 akatsuki",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 125709744,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24348
+    },
+    "date": 1791922109138,
+    "duration": 64013,
+    "left": {
+      "bet_amount": 3194758,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Yuna",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1692806,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "A-agito",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 125714864,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44261
+    },
+    "date": 1791922335332,
+    "duration": 166146,
+    "left": {
+      "bet_amount": 804701,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ron max",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3100801,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Akane satomura EX2",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 125727668,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9561
+    },
+    "date": 1791922521521,
+    "duration": 126195,
+    "left": {
+      "bet_amount": 1941265,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shiki vp",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1213209,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Samus mythos",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 125738993,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
