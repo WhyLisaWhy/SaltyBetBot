@@ -608896,5 +608896,140 @@
     "sum": 125734031,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 44234
+    },
+    "date": 1791919160726,
+    "duration": 135992,
+    "left": {
+      "bet_amount": 1045338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "O.zero-prominence",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2743279,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Akaitsuki",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 125734727,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28788
+    },
+    "date": 1791919310925,
+    "duration": 86006,
+    "left": {
+      "bet_amount": 1413734,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sa-x",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2072165,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Scarlet devil",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 125846098,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 735
+    },
+    "date": 1791919485127,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 2045725,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Gecko moria",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1509369,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pika",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 125817310,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791919681127,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 4922183,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Grak",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 777169,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Goku ssj3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 125817853,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791919813325,
+    "duration": 78000,
+    "left": {
+      "bet_amount": 554265,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kino",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6608492,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Pelican",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 125817852,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
