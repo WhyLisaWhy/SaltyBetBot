@@ -608086,5 +608086,86 @@
     "sum": 125735769,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19564
+    },
+    "date": 1791913842527,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 1136950,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nitori(emanon)",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2625524,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Psychociel",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "sum": 125746140,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2706
+    },
+    "date": 1791913992725,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 1152695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yuuka",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2058271,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Mimizuku_professor",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 125754550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2767
+    },
+    "date": 1791914146732,
+    "duration": 93972,
+    "left": {
+      "bet_amount": 2848023,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Shura",
+      "normal_bettors": 25,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 840536,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zero nightmare remake",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 125756064,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
