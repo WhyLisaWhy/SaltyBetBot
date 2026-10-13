@@ -601471,5 +601471,140 @@
     "sum": 125635600,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791866002326,
+    "duration": 81990,
+    "left": {
+      "bet_amount": 986112,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Joe",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5957976,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Mizoguchi!",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 125643169,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30441
+    },
+    "date": 1791866180524,
+    "duration": 120130,
+    "left": {
+      "bet_amount": 832536,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Darkgun",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2887461,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Slightly less unlucky glauber",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 125643170,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26802
+    },
+    "date": 1791866330534,
+    "duration": 90008,
+    "left": {
+      "bet_amount": 2497546,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "G-akiha",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1014968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tatsumaki",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 125745024,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29037
+    },
+    "date": 1791866496726,
+    "duration": 105991,
+    "left": {
+      "bet_amount": 1117896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akebi",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2854332,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Rulue",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "sum": 125755801,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791866618927,
+    "duration": 68198,
+    "left": {
+      "bet_amount": 1320001,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Joseph the b.b.",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5207303,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Cyborg t-8p",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 125767059,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
