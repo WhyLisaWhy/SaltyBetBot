@@ -608491,5 +608491,86 @@
     "sum": 125729379,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27042
+    },
+    "date": 1791916570735,
+    "duration": 140208,
+    "left": {
+      "bet_amount": 2102953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lihua",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1037993,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Fear mace rosenkranz",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 125730137,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30957
+    },
+    "date": 1791916716925,
+    "duration": 86196,
+    "left": {
+      "bet_amount": 1498585,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Neitan leopold",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1441226,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Violator",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 125703095,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20085
+    },
+    "date": 1791916920926,
+    "duration": 143999,
+    "left": {
+      "bet_amount": 1698624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Parsee",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1005151,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Rin_h",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 125672138,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
