@@ -610057,5 +610057,86 @@
     "sum": 125802795,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15609
+    },
+    "date": 1791926372527,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 6112545,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Bobunemimimmi",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 979840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cecilia",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 125802799,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24645
+    },
+    "date": 1791926592725,
+    "duration": 159998,
+    "left": {
+      "bet_amount": 4006606,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Roppen heimer EX FF",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 902345,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black joker",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 125805295,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791926742925,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1190214,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Goku sb1",
+      "normal_bettors": 9,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5115272,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Marshall d. teach",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 125810812,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
