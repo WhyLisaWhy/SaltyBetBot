@@ -606520,5 +606520,140 @@
     "sum": 125905308,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25506
+    },
+    "date": 1791901156327,
+    "duration": 153998,
+    "left": {
+      "bet_amount": 1210733,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Melusine",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2417599,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Lf2 - firen",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 125910571,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791901382529,
+    "duration": 165999,
+    "left": {
+      "bet_amount": 3080011,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Sion tatari EX",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 893524,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Julius belmont",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 125885065,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21411
+    },
+    "date": 1791901582728,
+    "duration": 140207,
+    "left": {
+      "bet_amount": 1118742,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Anubis",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3020255,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Pocket Ken",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 125885064,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31958
+    },
+    "date": 1791901776926,
+    "duration": 134196,
+    "left": {
+      "bet_amount": 894894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jonathon Morris",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2316139,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Chrysalis EX",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 125863653,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22943
+    },
+    "date": 1791901918932,
+    "duration": 86006,
+    "left": {
+      "bet_amount": 1542308,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Serika_os",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1113169,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Dark god rugal kofm",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "sum": 125831695,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
