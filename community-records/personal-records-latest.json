@@ -599581,5 +599581,140 @@
     "sum": 125596845,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43194
+    },
+    "date": 1791852653725,
+    "duration": 63998,
+    "left": {
+      "bet_amount": 6182627,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Kusanagi_ex",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 910576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "D4 griffon",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 125596849,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 538
+    },
+    "date": 1791852839926,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 4002109,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Sailor mercury EX2",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1345678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kisuke urahara",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 125553655,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12699
+    },
+    "date": 1791852973927,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 3238759,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "H-kain",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3129854,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Thundagar",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 125553836,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35053
+    },
+    "date": 1791853120124,
+    "duration": 90194,
+    "left": {
+      "bet_amount": 2414837,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Malenko",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1321039,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Elle",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 125566924,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3828
+    },
+    "date": 1791853300126,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1367710,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Miyako",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2889773,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Lyzer",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 125629345,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
