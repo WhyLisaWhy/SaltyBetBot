@@ -602632,5 +602632,140 @@
     "sum": 125521572,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19444
+    },
+    "date": 1791873141924,
+    "duration": 75968,
+    "left": {
+      "bet_amount": 4336327,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Killer whale",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023945,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Potemkin",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 125530730,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21303
+    },
+    "date": 1791873392126,
+    "duration": 194200,
+    "left": {
+      "bet_amount": 749358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nonon jakuzure",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4400942,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Regular ass krauser",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 125535301,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791873572332,
+    "duration": 114207,
+    "left": {
+      "bet_amount": 3742043,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "J.max",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 816733,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hyoga de cisne",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 125538911,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37713
+    },
+    "date": 1791873742521,
+    "duration": 110192,
+    "left": {
+      "bet_amount": 1485006,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Neco-misaka",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1233330,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Sagat f22",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 125538912,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26627
+    },
+    "date": 1791873882528,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 1372480,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Ryu kang",
+      "normal_bettors": 17,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1306661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Popuko",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 125569458,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
