@@ -610624,5 +610624,59 @@
     "sum": 2812,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791931018327,
+    "duration": 204180,
+    "left": {
+      "bet_amount": 161687,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "S_youmu",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 294711,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Shindo tamaki",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791931211925,
+    "duration": 137595,
+    "left": {
+      "bet_amount": 176191,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Real general",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 400048,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Shindo tamaki",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
