@@ -602497,5 +602497,140 @@
     "sum": 125568909,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9204
+    },
+    "date": 1791872371325,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 2159099,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Famed mimic gogo",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1167607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Metalslime",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 125570936,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791872531526,
+    "duration": 96140,
+    "left": {
+      "bet_amount": 1012670,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Akuma shogun",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2717578,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Ultraseven",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 125575893,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27831
+    },
+    "date": 1791872675527,
+    "duration": 79956,
+    "left": {
+      "bet_amount": 2116221,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Shirou yusa",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 913323,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tenma-sama",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 125575894,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26491
+    },
+    "date": 1791872865726,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1485008,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pocket arcueid",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1793588,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Golrio",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 125548063,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30765
+    },
+    "date": 1791873011925,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 749418,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cassie cage",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2487045,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Hel'lauren",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 125521572,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
