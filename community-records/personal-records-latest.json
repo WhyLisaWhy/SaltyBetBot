@@ -606034,5 +606034,113 @@
     "sum": 125715999,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27403
+    },
+    "date": 1791897711533,
+    "duration": 126003,
+    "left": {
+      "bet_amount": 1141838,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Altered Amiba",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1390627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Nazrin",
+      "normal_bettors": 9,
+      "win_streak": -8
+    },
+    "sum": 125716000,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22999
+    },
+    "date": 1791897905726,
+    "duration": 133997,
+    "left": {
+      "bet_amount": 1723778,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Akai maho",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 956075,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ecoco EX3",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 125688597,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18739
+    },
+    "date": 1791898057926,
+    "duration": 96202,
+    "left": {
+      "bet_amount": 1152216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Irori",
+      "normal_bettors": 11,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2042032,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Aioros de sagitario",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 125729090,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32149
+    },
+    "date": 1791898252124,
+    "duration": 130162,
+    "left": {
+      "bet_amount": 2218102,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064032,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mora_g",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 125710351,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
