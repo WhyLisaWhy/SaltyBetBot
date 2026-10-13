@@ -602065,5 +602065,140 @@
     "sum": 125707135,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17771
+    },
+    "date": 1791869487123,
+    "duration": 162200,
+    "left": {
+      "bet_amount": 1741521,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cinnamon",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2047075,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Hedorah",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 125707963,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17730
+    },
+    "date": 1791869627124,
+    "duration": 85992,
+    "left": {
+      "bet_amount": 748085,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shredder 2097",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2260010,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Liza",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 125722952,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24047
+    },
+    "date": 1791869807322,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 931440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Haggar ex",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2108255,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "More Evil Ryu",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 125728776,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791869997523,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 3300258,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kyaga-hell",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 825313,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Luke skywalker",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 125704729,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791870227724,
+    "duration": 176195,
+    "left": {
+      "bet_amount": 709275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Leo jmf",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2983012,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "The root pack",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 125704733,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
