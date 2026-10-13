@@ -599878,5 +599878,113 @@
     "sum": 125593946,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1275
+    },
+    "date": 1791854537126,
+    "duration": 195969,
+    "left": {
+      "bet_amount": 1202464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Freeza 100%",
+      "normal_bettors": 10,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3083871,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "New Joker",
+      "normal_bettors": 21,
+      "win_streak": 0
+    },
+    "sum": 125614120,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25348
+    },
+    "date": 1791854737327,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 1441053,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rozwel",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2651140,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Undeadsoldier",
+      "normal_bettors": 24,
+      "win_streak": -8
+    },
+    "sum": 125612845,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22102
+    },
+    "date": 1791854903525,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 1390171,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Nokia 3310",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2298018,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Kyo brunestud",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 125658673,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 45231
+    },
+    "date": 1791855057725,
+    "duration": 100196,
+    "left": {
+      "bet_amount": 1170193,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Deluxe kung fu man",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3536327,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Raoh sai",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 125671917,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
