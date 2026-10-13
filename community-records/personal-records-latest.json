@@ -601066,5 +601066,113 @@
     "sum": 2979,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791862215323,
+    "duration": 176196,
+    "left": {
+      "bet_amount": 83442,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Eirin yagokoro",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 187860,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Prier",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2233
+    },
+    "date": 1791862445532,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 100737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Orie valadier",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 199175,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Suigintou EX9",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 2233,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791862695730,
+    "duration": 196206,
+    "left": {
+      "bet_amount": 105866,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Iari",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225176,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ulquiorra cifer",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2274
+    },
+    "date": 1791862959928,
+    "duration": 204201,
+    "left": {
+      "bet_amount": 230687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nazuna_inuwaka",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 164976,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Susano'o",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "sum": 2274,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
