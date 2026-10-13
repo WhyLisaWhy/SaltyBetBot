@@ -607573,5 +607573,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12642
+    },
+    "date": 1791910756127,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 1018622,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Goenitz EX3",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4641802,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Homura & friends",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 125804962,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
