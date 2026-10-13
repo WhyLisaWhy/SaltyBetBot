@@ -603496,5 +603496,86 @@
     "sum": 125570769,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25927
+    },
+    "date": 1791878746329,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 763226,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pepe EX3",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2641664,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Diana kof",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 125570946,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24349
+    },
+    "date": 1791878950532,
+    "duration": 143998,
+    "left": {
+      "bet_amount": 2336810,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Yui emelia",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "B.jenet motw",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 125545019,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23815
+    },
+    "date": 1791879136727,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 1720896,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Mech hisui iqs",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1188702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Greek goku",
+      "normal_bettors": 8,
+      "win_streak": -6
+    },
+    "sum": 125520670,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
