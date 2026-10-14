@@ -616753,5 +616753,59 @@
     "sum": 2024,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2608
+    },
+    "date": 1791975894127,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 407880,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Gavora",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 100203,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "No.6 hibiki",
+      "normal_bettors": 9,
+      "win_streak": 3
+    },
+    "sum": 2608,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12955
+    },
+    "date": 1791976140326,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 175940,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Gedoumiko",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 398598,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Asagi EX3",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 12955,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
