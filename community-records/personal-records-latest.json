@@ -612406,5 +612406,113 @@
     "sum": 126025932,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 46215
+    },
+    "date": 1791945121545,
+    "duration": 156019,
+    "left": {
+      "bet_amount": 850740,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dr. doom mvc3",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3957381,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Blue mary 02um",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 126003007,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1479
+    },
+    "date": 1791945325727,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 1346564,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Uppercut",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1562737,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Mimizuku_professor",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 125956792,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791945523928,
+    "duration": 142200,
+    "left": {
+      "bet_amount": 5816866,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Tank",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 707811,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Patrick",
+      "normal_bettors": 8,
+      "win_streak": -14
+    },
+    "sum": 125958066,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29359
+    },
+    "date": 1791945782129,
+    "duration": 200198,
+    "left": {
+      "bet_amount": 2067795,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Seifuku akiha",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1002926,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Weregarurumon",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 125958065,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
