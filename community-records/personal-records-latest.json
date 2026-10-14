@@ -615781,5 +615781,140 @@
     "sum": 125861742,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2188
+    },
+    "date": 1791968688329,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 1265206,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Jotaro kujo",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2142687,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Alice-as EX",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "sum": 125860806,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18003
+    },
+    "date": 1791968858525,
+    "duration": 114195,
+    "left": {
+      "bet_amount": 1053553,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Star",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2018903,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Towa",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 125858618,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13492
+    },
+    "date": 1791969044729,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 2613285,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Suigintou EX9",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 699591,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dragon waifu",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 125867930,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791969218725,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 3347917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Human bo",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 715165,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ditto EX3",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 125854438,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12819
+    },
+    "date": 1791969358930,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 3407917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Class re",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 656728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Athena xiii",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "sum": 125854439,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
