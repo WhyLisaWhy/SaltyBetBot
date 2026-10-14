@@ -619804,5 +619804,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791997413327,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 124106,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Sumireko",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 142674,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Huriken",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3310
+    },
+    "date": 1791997659525,
+    "duration": 180200,
+    "left": {
+      "bet_amount": 339131,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Archetype sun",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 188767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 3310,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5135
+    },
+    "date": 1791997909726,
+    "duration": 196198,
+    "left": {
+      "bet_amount": 178902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Abore",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 345411,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Sumireko",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 5135,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7756
+    },
+    "date": 1791998121727,
+    "duration": 152001,
+    "left": {
+      "bet_amount": 157508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Archetype sun",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 620550,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 22,
+      "name": "Sumireko",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "sum": 7756,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
