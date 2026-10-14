@@ -617455,5 +617455,140 @@
     "sum": 125918397,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26910
+    },
+    "date": 1791981348531,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 1882313,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Shimakaze",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 982399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kat",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "sum": 126037707,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20187
+    },
+    "date": 1791981658727,
+    "duration": 250168,
+    "left": {
+      "bet_amount": 859546,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Death",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2350676,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Gaisei",
+      "normal_bettors": 18,
+      "win_streak": 7
+    },
+    "sum": 126051554,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791981804927,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 6210496,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Omega red",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 883628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Citizens-obesity",
+      "normal_bettors": 6,
+      "win_streak": 0
+    },
+    "sum": 126105495,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9280
+    },
+    "date": 1791981968928,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 587640,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Rb2bob",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2888852,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Umvc_suika",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 126105496,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38933
+    },
+    "date": 1791982115127,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1622146,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Red arremer",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 970864,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hoshikage",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 126107378,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
