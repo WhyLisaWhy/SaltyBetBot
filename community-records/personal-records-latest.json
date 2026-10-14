@@ -616537,5 +616537,113 @@
     "sum": 4539,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791973842526,
+    "duration": 100004,
+    "left": {
+      "bet_amount": 36362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Athena x",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 276655,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ken MVC3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1753
+    },
+    "date": 1791974092731,
+    "duration": 196124,
+    "left": {
+      "bet_amount": 267480,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Gedoumiko",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 81487,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zangiefhd",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 1753,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2284
+    },
+    "date": 1791974336929,
+    "duration": 180202,
+    "left": {
+      "bet_amount": 264086,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Asagi EX3",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89441,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yamazaki 98",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 2284,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3051
+    },
+    "date": 1791974607129,
+    "duration": 210203,
+    "left": {
+      "bet_amount": 248572,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Prosciutto",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 155741,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Astro",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 3051,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
