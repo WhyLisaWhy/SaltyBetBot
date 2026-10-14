@@ -618400,5 +618400,140 @@
     "sum": 126131126,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29846
+    },
+    "date": 1791987563330,
+    "duration": 150005,
+    "left": {
+      "bet_amount": 1156298,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kiyoko",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2017839,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Moe yumezora",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 126132602,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27581
+    },
+    "date": 1791987713539,
+    "duration": 90209,
+    "left": {
+      "bet_amount": 2812430,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "G-adelheid",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1534903,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lunatic kaguya",
+      "normal_bettors": 12,
+      "win_streak": -7
+    },
+    "sum": 126102756,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43645
+    },
+    "date": 1791987889726,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 941941,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Malenko",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2619855,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "On",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 126152402,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22217
+    },
+    "date": 1791988103729,
+    "duration": 154009,
+    "left": {
+      "bet_amount": 1795046,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Kubikiri basara EX",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423897,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Alter amiba",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 126108757,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25348
+    },
+    "date": 1791988233934,
+    "duration": 64004,
+    "left": {
+      "bet_amount": 1831767,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Orga itsuka",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1055706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ted broiler",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 126086540,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
