@@ -614998,5 +614998,113 @@
     "sum": 125896076,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791963249925,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 646032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mature",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4222189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Belial",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 125896075,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1791963456128,
+    "duration": 145965,
+    "left": {
+      "bet_amount": 13552655,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Mongori",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171844,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Black adam",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 125896076,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15844
+    },
+    "date": 1791963646327,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 725812,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tomoka minato",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2418001,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Poongko's seth",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 125896077,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6112
+    },
+    "date": 1791963836528,
+    "duration": 126202,
+    "left": {
+      "bet_amount": 599190,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nao yuuki",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3471798,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Naoto shirogane p4a",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 125900802,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
