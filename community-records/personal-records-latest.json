@@ -617590,5 +617590,113 @@
     "sum": 126107378,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17804
+    },
+    "date": 1791982315325,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 2857252,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Josuke higashikata",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 670625,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Agent nash",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 126169921,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2618
+    },
+    "date": 1791982479329,
+    "duration": 109993,
+    "left": {
+      "bet_amount": 644457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mercenary tao",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4003556,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Alter wind",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 126174074,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29042
+    },
+    "date": 1791982655546,
+    "duration": 116008,
+    "left": {
+      "bet_amount": 2286644,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Poppy",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 658362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nf-kyo",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 126174496,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13480
+    },
+    "date": 1791982785731,
+    "duration": 70205,
+    "left": {
+      "bet_amount": 3863336,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kainorge",
+      "normal_bettors": 22,
+      "win_streak": 18
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1200727,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mageinfa",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 126182753,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
