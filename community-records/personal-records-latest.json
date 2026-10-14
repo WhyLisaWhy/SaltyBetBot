@@ -610894,5 +610894,113 @@
     "sum": 125841710,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12790
+    },
+    "date": 1791935355725,
+    "duration": 63995,
+    "left": {
+      "bet_amount": 863003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Omega rugal 95",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4530681,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Orochi akiha",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 125842038,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18126
+    },
+    "date": 1791935535929,
+    "duration": 120194,
+    "left": {
+      "bet_amount": 1060648,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Kyuketsuki_satsuki",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1866038,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Pierre",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 125844468,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2256
+    },
+    "date": 1791935776124,
+    "duration": 184198,
+    "left": {
+      "bet_amount": 1143664,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Knuckle joe",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1674978,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bonus kun",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "sum": 125826342,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33626
+    },
+    "date": 1791935896127,
+    "duration": 64002,
+    "left": {
+      "bet_amount": 819678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rumia",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2577536,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "R.lightning",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 125827881,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
