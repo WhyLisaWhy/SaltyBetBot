@@ -616456,5 +616456,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2497
+    },
+    "date": 1791973185927,
+    "duration": 210198,
+    "left": {
+      "bet_amount": 120544,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Nui harime",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 60975,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Naitou ex",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "sum": 2497,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3735
+    },
+    "date": 1791973426128,
+    "duration": 180203,
+    "left": {
+      "bet_amount": 181322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Blodia-k",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 39791,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Terry EX3",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "sum": 3735,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4539
+    },
+    "date": 1791973682325,
+    "duration": 202178,
+    "left": {
+      "bet_amount": 165764,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Actual zeroko",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 80618,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "No.6 hibiki",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 4539,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
