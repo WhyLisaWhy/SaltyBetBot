@@ -615376,5 +615376,113 @@
     "sum": 125901992,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26388
+    },
+    "date": 1791965974127,
+    "duration": 149980,
+    "left": {
+      "bet_amount": 874253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rashou mon",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1753285,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Fire quacker",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 125882103,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29950
+    },
+    "date": 1791966154342,
+    "duration": 120214,
+    "left": {
+      "bet_amount": 1685929,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lian-d",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1455483,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Sol-b-pw",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 125855715,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2939
+    },
+    "date": 1791966390528,
+    "duration": 176193,
+    "left": {
+      "bet_amount": 938871,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Yuuka",
+      "normal_bettors": 17,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1712412,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kanon del geminis",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 125825765,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30400
+    },
+    "date": 1791966564728,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 2052081,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Mahvel chun li",
+      "normal_bettors": 19,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 746058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Reimu-q",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 125827374,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
