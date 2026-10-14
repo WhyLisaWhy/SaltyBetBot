@@ -617698,5 +617698,140 @@
     "sum": 126182753,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21557
+    },
+    "date": 1791983021935,
+    "duration": 170207,
+    "left": {
+      "bet_amount": 1603814,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Gozu",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1157304,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kite",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 126169273,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38042
+    },
+    "date": 1791983171928,
+    "duration": 95958,
+    "left": {
+      "bet_amount": 1656594,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Diggle",
+      "normal_bettors": 16,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1201583,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Asha",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 126198601,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20559
+    },
+    "date": 1791983356129,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 3313667,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Guldin",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 755531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Erika wagner",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 126160559,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1044
+    },
+    "date": 1791983476130,
+    "duration": 64004,
+    "left": {
+      "bet_amount": 765389,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mothra",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2917593,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Heat man",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 126165218,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791983676334,
+    "duration": 140207,
+    "left": {
+      "bet_amount": 4633346,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Divine poison",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 887606,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mech gouki",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 126164174,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
