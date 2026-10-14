@@ -618535,5 +618535,113 @@
     "sum": 126086540,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17142
+    },
+    "date": 1791988444122,
+    "duration": 134193,
+    "left": {
+      "bet_amount": 1719043,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Trishula,doragon of the ice barrier",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 892172,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Black joker",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 126100950,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3093
+    },
+    "date": 1791988614326,
+    "duration": 110206,
+    "left": {
+      "bet_amount": 779774,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Heiho",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1833228,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Chintao FF",
+      "normal_bettors": 16,
+      "win_streak": 7
+    },
+    "sum": 126083808,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36370
+    },
+    "date": 1791988814328,
+    "duration": 144003,
+    "left": {
+      "bet_amount": 859239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hatchiyack",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3245560,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Urmnaf bort hyuga",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 126080715,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27261
+    },
+    "date": 1791988956523,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 1857670,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Nagato yuki EX",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 934692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Syo hayate EX",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "sum": 126090237,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
