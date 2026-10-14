@@ -620479,5 +620479,113 @@
     "sum": 125940283,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18227
+    },
+    "date": 1792003708326,
+    "duration": 74200,
+    "left": {
+      "bet_amount": 1045947,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gomora ug",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2039001,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Hi_guma",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 125940784,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38522
+    },
+    "date": 1792003904529,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 729325,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "H_gate_0350",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2860863,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Fiona mayfield",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 125922557,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19890
+    },
+    "date": 1792004138535,
+    "duration": 174006,
+    "left": {
+      "bet_amount": 2543248,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Donkey kong",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1481858,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Gohan zeta",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 125884035,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21696
+    },
+    "date": 1792004404927,
+    "duration": 206196,
+    "left": {
+      "bet_amount": 1256941,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shana_k",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1994922,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Fordy-z",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 125864145,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
