@@ -620344,5 +620344,140 @@
     "sum": 125915141,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 974
+    },
+    "date": 1792002807525,
+    "duration": 105990,
+    "left": {
+      "bet_amount": 817191,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "King lion",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2216691,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Red angry bird",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 125929508,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7020
+    },
+    "date": 1792002937527,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 2737385,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Rock EX3",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 789813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Myuu",
+      "normal_bettors": 4,
+      "win_streak": -4
+    },
+    "sum": 125928534,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3899
+    },
+    "date": 1792003107729,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 881862,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sonic blast man",
+      "normal_bettors": 6,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2598825,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Batman Normal",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 125930555,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6875
+    },
+    "date": 1792003393925,
+    "duration": 230192,
+    "left": {
+      "bet_amount": 1847292,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Rubette",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 925142,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Trinitronity",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 125926656,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 503
+    },
+    "date": 1792003568126,
+    "duration": 113995,
+    "left": {
+      "bet_amount": 1964343,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Sorluska EX2",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1954410,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Hokutomaru",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 125940283,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
