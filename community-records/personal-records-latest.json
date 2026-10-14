@@ -622612,5 +622612,113 @@
     "sum": 125758244,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792017945731,
+    "duration": 164203,
+    "left": {
+      "bet_amount": 103354,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ubu",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50677,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kirby c",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2299
+    },
+    "date": 1792018205940,
+    "duration": 200214,
+    "left": {
+      "bet_amount": 196764,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Blanka mvc",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 51378,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Akito",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 2299,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2893
+    },
+    "date": 1792018552134,
+    "duration": 290207,
+    "left": {
+      "bet_amount": 152565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Teen vampire",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 143576,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Yoshi ssbb",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 2893,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5907
+    },
+    "date": 1792018778327,
+    "duration": 170196,
+    "left": {
+      "bet_amount": 203051,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Powergirl",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 188231,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Jackal",
+      "normal_bettors": 26,
+      "win_streak": -8
+    },
+    "sum": 5907,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
