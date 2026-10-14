@@ -622558,5 +622558,59 @@
     "sum": 125810247,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30805
+    },
+    "date": 1792017385126,
+    "duration": 173997,
+    "left": {
+      "bet_amount": 2461763,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Alice smt",
+      "normal_bettors": 16,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1468255,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Kyo cvs2",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 125789049,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31404
+    },
+    "date": 1792017513128,
+    "duration": 67803,
+    "left": {
+      "bet_amount": 1666814,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Master moriya",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1724004,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "H-m-geese",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 125758244,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
