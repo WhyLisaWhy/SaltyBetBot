@@ -615106,5 +615106,113 @@
     "sum": 125900802,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13938
+    },
+    "date": 1791964040733,
+    "duration": 144207,
+    "left": {
+      "bet_amount": 1199536,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fallen samael",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1856117,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Balrog sf2",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 125901856,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24385
+    },
+    "date": 1791964250729,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 1968921,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Mysterious heroine x",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1441575,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rb2bob",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 125910797,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24365
+    },
+    "date": 1791964390925,
+    "duration": 83996,
+    "left": {
+      "bet_amount": 975425,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "B.dosa",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1574779,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Sittara",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 125928433,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11468
+    },
+    "date": 1791964567131,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 3175507,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Index(maid) ver1.16",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1383202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mashiro",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 125943295,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
