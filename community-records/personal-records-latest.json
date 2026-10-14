@@ -614539,5 +614539,140 @@
     "sum": 125858590,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12648
+    },
+    "date": 1791960515731,
+    "duration": 76003,
+    "left": {
+      "bet_amount": 3869811,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Alien",
+      "normal_bettors": 26,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 661507,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eyelina",
+      "normal_bettors": 6,
+      "win_streak": -5
+    },
+    "sum": 125840951,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15943
+    },
+    "date": 1791960751925,
+    "duration": 175993,
+    "left": {
+      "bet_amount": 3051102,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "N-len",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 655330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Senna",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "sum": 125843107,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3487
+    },
+    "date": 1791960916127,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 700087,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aura 2nd revival",
+      "normal_bettors": 6,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3870422,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Flan Scarlet",
+      "normal_bettors": 26,
+      "win_streak": 12
+    },
+    "sum": 125827164,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20462
+    },
+    "date": 1791961156359,
+    "duration": 184232,
+    "left": {
+      "bet_amount": 3013686,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Tenko-abab",
+      "normal_bettors": 25,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 744827,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tiger EX",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 125827795,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24790
+    },
+    "date": 1791961286326,
+    "duration": 73986,
+    "left": {
+      "bet_amount": 1527619,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Devilbat-schilt",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1129475,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Fear mace rosenkranz",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 125832819,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
