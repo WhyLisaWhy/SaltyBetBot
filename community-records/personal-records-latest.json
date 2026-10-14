@@ -611866,5 +611866,140 @@
     "sum": 125994365,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29109
+    },
+    "date": 1791941660736,
+    "duration": 136007,
+    "left": {
+      "bet_amount": 908096,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Q-bee ex",
+      "normal_bettors": 11,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1857080,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Jubilee ex",
+      "normal_bettors": 17,
+      "win_streak": 6
+    },
+    "sum": 125974998,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1004
+    },
+    "date": 1791941820987,
+    "duration": 100260,
+    "left": {
+      "bet_amount": 2433105,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Tokinomiya kamui",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 762221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "K dash xiii",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 125945889,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3680
+    },
+    "date": 1791941981127,
+    "duration": 100183,
+    "left": {
+      "bet_amount": 725055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Agrias",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3610106,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Suigintou EX9",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 125946204,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35076
+    },
+    "date": 1791942181149,
+    "duration": 144024,
+    "left": {
+      "bet_amount": 1074090,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tuyoshi",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1326799,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Jamm",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 125946943,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18381
+    },
+    "date": 1791942327328,
+    "duration": 85992,
+    "left": {
+      "bet_amount": 964211,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chaos hiryu",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2577888,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Tokinomiya kamui",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 125911867,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
