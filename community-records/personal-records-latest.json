@@ -613351,5 +613351,140 @@
     "sum": 125904333,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7465
+    },
+    "date": 1791951264129,
+    "duration": 147803,
+    "left": {
+      "bet_amount": 1749470,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Evil guy",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2948039,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Ren idagawa",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 125904332,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791951650809,
+    "duration": 120082,
+    "left": {
+      "bet_amount": 107081,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mizoguchi!",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61583,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Demitri",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2429
+    },
+    "date": 1791951808927,
+    "duration": 101998,
+    "left": {
+      "bet_amount": 153942,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Super sonic EX3",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 46916,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Motokoaoyama",
+      "normal_bettors": 10,
+      "win_streak": -14
+    },
+    "sum": 2429,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3158
+    },
+    "date": 1791952007128,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 143569,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "C. chitosan",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85903,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kaptain k.rool",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 3158,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5007
+    },
+    "date": 1791952213330,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 257085,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Cartoon shang tsung",
+      "normal_bettors": 29,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55405,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Guy CVS",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 5007,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
