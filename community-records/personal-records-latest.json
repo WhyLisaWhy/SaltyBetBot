@@ -612163,5 +612163,113 @@
     "sum": 126078467,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1715
+    },
+    "date": 1791943448333,
+    "duration": 154203,
+    "left": {
+      "bet_amount": 2204498,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Yuri sakazaki-kofm",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 899728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Light the hedgehog",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 126087157,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19890
+    },
+    "date": 1791943644332,
+    "duration": 136007,
+    "left": {
+      "bet_amount": 1739056,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Holhorse asb",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1004969,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fluffy",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 126085442,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791943844527,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 732658,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mr2.bon kure",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5419840,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Cammy pots",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 126096807,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44967
+    },
+    "date": 1791944108728,
+    "duration": 204199,
+    "left": {
+      "bet_amount": 1803062,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Roa",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1001397,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "The joker EX3",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 126096808,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
