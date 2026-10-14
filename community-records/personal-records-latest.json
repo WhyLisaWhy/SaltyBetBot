@@ -618940,5 +618940,113 @@
     "sum": 126065699,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38444
+    },
+    "date": 1791991154322,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 1659184,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Shun - andromeda",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1247188,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "D4 reimu",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 126070097,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39048
+    },
+    "date": 1791991278331,
+    "duration": 64002,
+    "left": {
+      "bet_amount": 1402298,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Deluxe kung fu man",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1869962,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Amakusa ex",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 126119712,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17321
+    },
+    "date": 1791991524520,
+    "duration": 190191,
+    "left": {
+      "bet_amount": 1249968,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Subaru mikage",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3023871,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Blake belladonna",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 126080664,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 361
+    },
+    "date": 1791991750727,
+    "duration": 166198,
+    "left": {
+      "bet_amount": 2084101,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Cecilia",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 892492,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The world-dio EX3",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 126121994,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
