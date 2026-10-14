@@ -622720,5 +622720,113 @@
     "sum": 5907,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792019082552,
+    "duration": 244223,
+    "left": {
+      "bet_amount": 133861,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lee",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 366159,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Bison trooper x",
+      "normal_bettors": 42,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2115
+    },
+    "date": 1792019292747,
+    "duration": 144217,
+    "left": {
+      "bet_amount": 145285,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kung fu paragas",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 375737,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mr.heart",
+      "normal_bettors": 44,
+      "win_streak": 3
+    },
+    "sum": 2115,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2929
+    },
+    "date": 1792019502736,
+    "duration": 154011,
+    "left": {
+      "bet_amount": 85163,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wakko",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 467875,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kuebiko",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "sum": 2929,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3459
+    },
+    "date": 1792019674925,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 102198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lugia",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 498998,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mike bison",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 3459,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
