@@ -613783,5 +613783,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17972
+    },
+    "date": 1791955557928,
+    "duration": 110207,
+    "left": {
+      "bet_amount": 1013067,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Demitri cvs",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1764590,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Ralf!",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 125898418,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23703
+    },
+    "date": 1791955683929,
+    "duration": 72006,
+    "left": {
+      "bet_amount": 1323201,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chie_rumiko",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286982,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Abore",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 125908632,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4886
+    },
+    "date": 1791955904126,
+    "duration": 166207,
+    "left": {
+      "bet_amount": 3221842,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Pico goeniko",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 950192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dogma",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 125884929,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
