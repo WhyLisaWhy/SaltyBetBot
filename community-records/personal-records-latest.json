@@ -622261,5 +622261,140 @@
     "sum": 125739722,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25202
+    },
+    "date": 1792015411529,
+    "duration": 150003,
+    "left": {
+      "bet_amount": 1883712,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Custom ssfiv abel",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1249363,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Mrheart",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 125757277,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10637
+    },
+    "date": 1792015591724,
+    "duration": 123998,
+    "left": {
+      "bet_amount": 3949369,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Shiiko yuzuki",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 849008,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mvc phoenix wright",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 125732075,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2101
+    },
+    "date": 1792015773925,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 753994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Snorlax EX2",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2100969,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Temjin arrange",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 125734356,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18958
+    },
+    "date": 1792015917927,
+    "duration": 84001,
+    "left": {
+      "bet_amount": 1086644,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hiryu",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1243336,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Reiji arisu",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 125735110,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24233
+    },
+    "date": 1792016148129,
+    "duration": 174004,
+    "left": {
+      "bet_amount": 840595,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Manbou bbb",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1532566,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Daigo ken",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 125751430,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
