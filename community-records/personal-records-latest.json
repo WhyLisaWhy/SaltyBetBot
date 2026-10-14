@@ -622963,5 +622963,59 @@
     "sum": 1955,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2292
+    },
+    "date": 1792020901922,
+    "duration": 122134,
+    "left": {
+      "bet_amount": 561641,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Bison trooper x",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 325510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Kuebiko",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 2292,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792021156528,
+    "duration": 194610,
+    "left": {
+      "bet_amount": 472238,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Blanka mvc",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 369969,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kuebiko",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
