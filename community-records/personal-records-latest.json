@@ -616645,5 +616645,113 @@
     "sum": 3051,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791974959327,
+    "duration": 296202,
+    "left": {
+      "bet_amount": 41119,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gavora",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 390316,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Nui harime",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791975249725,
+    "duration": 236395,
+    "left": {
+      "bet_amount": 317072,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Blodia-k",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 51440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "No.6 hibiki",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1791975489926,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 91793,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ken MVC3",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 298791,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Gedoumiko",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2024
+    },
+    "date": 1791975703928,
+    "duration": 149998,
+    "left": {
+      "bet_amount": 372681,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Asagi EX3",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 108059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Prosciutto",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 2024,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
