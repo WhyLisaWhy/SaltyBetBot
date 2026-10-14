@@ -613702,5 +613702,86 @@
     "sum": 1932,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2293
+    },
+    "date": 1791954094725,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 713829,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Super sonic EX3",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112567,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Cartoon shang tsung",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 2293,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2654
+    },
+    "date": 1791954414928,
+    "duration": 264203,
+    "left": {
+      "bet_amount": 776416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Blue mary rb",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 136642,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Muaythaiman",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 2654,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1791954703325,
+    "duration": 232401,
+    "left": {
+      "bet_amount": 813155,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Super sonic EX3",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 276263,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 23,
+      "name": "Blue mary rb",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
