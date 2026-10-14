@@ -613243,5 +613243,113 @@
     "sum": 125908599,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1174
+    },
+    "date": 1791950603926,
+    "duration": 99967,
+    "left": {
+      "bet_amount": 1135163,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ky-pw",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4557358,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Power lyzer",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 125920618,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15998
+    },
+    "date": 1791950790128,
+    "duration": 124184,
+    "left": {
+      "bet_amount": 3432729,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Magaki-kofm",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1796952,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nogami_aoi",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 125919444,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23447
+    },
+    "date": 1791950906133,
+    "duration": 59979,
+    "left": {
+      "bet_amount": 1575111,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Alucard (v.2)",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2098819,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Red tornado ex",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 125927780,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1791951060325,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1708125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Elecman",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2087879,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Phobos",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 125904333,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
