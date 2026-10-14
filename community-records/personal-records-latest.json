@@ -621883,5 +621883,86 @@
     "sum": 125722595,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21424
+    },
+    "date": 1792012807535,
+    "duration": 94007,
+    "left": {
+      "bet_amount": 1272024,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Darkness-of-red",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3451075,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Gonzales",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 125697531,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15320
+    },
+    "date": 1792013113729,
+    "duration": 240202,
+    "left": {
+      "bet_amount": 2859178,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Sae kamaguchi",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 647125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Legendary super saiyan akuma",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 125705379,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20838
+    },
+    "date": 1792013309931,
+    "duration": 141996,
+    "left": {
+      "bet_amount": 797951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Pop",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1597669,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Latias",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 125708828,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
