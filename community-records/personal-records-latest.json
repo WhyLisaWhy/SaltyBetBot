@@ -622828,5 +622828,140 @@
     "sum": 3459,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4163
+    },
+    "date": 1792019869128,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 89880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ubu",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 544635,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Blanka mvc",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 4163,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4845
+    },
+    "date": 1792020195325,
+    "duration": 270195,
+    "left": {
+      "bet_amount": 49133,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yoshi ssbb",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 672948,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Jackal",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 4845,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5197
+    },
+    "date": 1792020365524,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 353144,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Bison trooper x",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 395055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mr.heart",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "sum": 5197,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792020539729,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 626291,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kuebiko",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 163934,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Mike bison",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1955
+    },
+    "date": 1792020725726,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 773012,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Blanka mvc",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133550,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Jackal",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 1955,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
