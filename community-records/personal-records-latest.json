@@ -620182,5 +620182,167 @@
     "sum": 125887531,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4429
+    },
+    "date": 1792001870725,
+    "duration": 59992,
+    "left": {
+      "bet_amount": 3675021,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Zangiefs'",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1086676,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fortissimo",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 125894136,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16944
+    },
+    "date": 1792002030942,
+    "duration": 104214,
+    "left": {
+      "bet_amount": 1474877,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Neinhalt sieger",
+      "normal_bettors": 19,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 946065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mitsuji tanimati",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 125895445,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6695
+    },
+    "date": 1792002191137,
+    "duration": 94211,
+    "left": {
+      "bet_amount": 843035,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cocodrilo",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4017229,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ermac mk2",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 125906191,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792002351127,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1636682,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Captain rolf",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1277946,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Godzillen",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 125907594,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34301
+    },
+    "date": 1792002491335,
+    "duration": 84208,
+    "left": {
+      "bet_amount": 922814,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Grant-kofm",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4161046,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Guts",
+      "normal_bettors": 25,
+      "win_streak": 10
+    },
+    "sum": 125907596,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26335
+    },
+    "date": 1792002647328,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 1938932,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Apocalypse",
+      "normal_bettors": 18,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1072147,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Final bison",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 125915141,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
