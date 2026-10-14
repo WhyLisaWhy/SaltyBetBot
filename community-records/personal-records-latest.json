@@ -612514,5 +612514,140 @@
     "sum": 125958065,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31169
+    },
+    "date": 1791945958324,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 815274,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Medjed",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2237453,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Rosie",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 125972106,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27126
+    },
+    "date": 1791946102328,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 2195030,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Midler EX6",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 692760,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Akai maho",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 126054497,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13571
+    },
+    "date": 1791946242528,
+    "duration": 84203,
+    "left": {
+      "bet_amount": 1392646,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Juggernaut",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1952359,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Cc iron clara",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 126027371,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29342
+    },
+    "date": 1791946418531,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 1222306,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nagaoka shiho",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442635,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Iori xiii",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 126036985,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9213
+    },
+    "date": 1791946628731,
+    "duration": 149991,
+    "left": {
+      "bet_amount": 1023852,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rain mk2",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2703734,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Void",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 126070805,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
