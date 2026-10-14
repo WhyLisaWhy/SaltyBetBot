@@ -614431,5 +614431,113 @@
     "sum": 125868778,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24878
+    },
+    "date": 1791959879327,
+    "duration": 164201,
+    "left": {
+      "bet_amount": 1210417,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nazrin deluxe",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1952678,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Syuren kano",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 125877231,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6127
+    },
+    "date": 1791960069528,
+    "duration": 130205,
+    "left": {
+      "bet_amount": 5232001,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "O ilusionista",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 962111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "White",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 125852353,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33755
+    },
+    "date": 1791960229527,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 601376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Black battler",
+      "normal_bettors": 4,
+      "win_streak": -13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3938095,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Aruru(yuka)",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 125853479,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17639
+    },
+    "date": 1791960379740,
+    "duration": 94216,
+    "left": {
+      "bet_amount": 1156699,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Condor",
+      "normal_bettors": 10,
+      "win_streak": -13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1937084,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Clark",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 125858590,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
