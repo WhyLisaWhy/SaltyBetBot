@@ -631952,5 +631952,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2309
+    },
+    "date": 1792085533326,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 214622,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Bombman",
+      "normal_bettors": 48,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 175123,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Reptile umk3",
+      "normal_bettors": 21,
+      "win_streak": -8
+    },
+    "sum": 2309,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5102
+    },
+    "date": 1792085779525,
+    "duration": 192198,
+    "left": {
+      "bet_amount": 70316,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Jack13",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 318782,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Gezorah",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 5102,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792086013725,
+    "duration": 174198,
+    "left": {
+      "bet_amount": 244485,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tinky winky",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 260099,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Shazzer EX3",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2999
+    },
+    "date": 1792086203928,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 139572,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Etna",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 349750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Thing",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 2999,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
