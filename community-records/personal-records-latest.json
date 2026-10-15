@@ -625798,5 +625798,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792040697727,
+    "duration": 176202,
+    "left": {
+      "bet_amount": 238977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Aty",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 276327,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Chibi kuroko",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2884
+    },
+    "date": 1792040941931,
+    "duration": 190203,
+    "left": {
+      "bet_amount": 177668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Koishi komeiji",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 377107,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Relly",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 2884,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792041188126,
+    "duration": 186155,
+    "left": {
+      "bet_amount": 232854,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Angry ninja",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 432463,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Akiha EX",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2382
+    },
+    "date": 1792041378125,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 498787,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "J lance",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 220453,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Yukiko amagi",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 2382,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
