@@ -627742,5 +627742,140 @@
     "sum": 126031754,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12972
+    },
+    "date": 1792054928928,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 1089355,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hydron",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3366543,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Elisabeth-kofm",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 126028463,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44530
+    },
+    "date": 1792055151135,
+    "duration": 166202,
+    "left": {
+      "bet_amount": 1309426,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Necoarc",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529005,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Jurane",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 126032645,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792055315332,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1733572,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Golden axe",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1113561,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lamia",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 126082933,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34064
+    },
+    "date": 1792055511528,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2581677,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Sonya kmb",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1001040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nagaoka shiho",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 126082934,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5757
+    },
+    "date": 1792055635525,
+    "duration": 59996,
+    "left": {
+      "bet_amount": 2343585,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Rx-93 nu gundam",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1327407,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rugal 4th",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 126167894,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
