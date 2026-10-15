@@ -629819,5 +629819,113 @@
     "sum": 126265035,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9472
+    },
+    "date": 1792071199947,
+    "duration": 64004,
+    "left": {
+      "bet_amount": 1090434,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Erisnomia",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2734298,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Himekawa kotone",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 126244919,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23929
+    },
+    "date": 1792071340153,
+    "duration": 70219,
+    "left": {
+      "bet_amount": 1814766,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Turbo ken",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1153687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kanji tatsumi",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 126248684,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792071576128,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 2938982,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Jeff howard",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1195646,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rocket tank",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 126263699,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33296
+    },
+    "date": 1792071822323,
+    "duration": 185993,
+    "left": {
+      "bet_amount": 1094940,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "White buffalo",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4523435,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Fire",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 126263698,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
