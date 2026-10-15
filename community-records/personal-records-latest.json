@@ -625906,5 +625906,86 @@
     "sum": 2382,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792041678524,
+    "duration": 244201,
+    "left": {
+      "bet_amount": 453109,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Namek goku",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 234454,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kamen rider garren",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2350
+    },
+    "date": 1792041844528,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 586341,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Masaru_takahara",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 189725,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Timothy hawk",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 2350,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3108
+    },
+    "date": 1792042084726,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 776127,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Chibi kuroko",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Koishi komeiji",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 3108,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
