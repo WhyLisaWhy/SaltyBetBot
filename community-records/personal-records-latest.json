@@ -628066,5 +628066,140 @@
     "sum": 126080185,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39675
+    },
+    "date": 1792056902607,
+    "duration": 124277,
+    "left": {
+      "bet_amount": 1238851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Minakata moriya",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1725883,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Licht",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 126087270,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26098
+    },
+    "date": 1792057068756,
+    "duration": 110191,
+    "left": {
+      "bet_amount": 2009044,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Master fuuma",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 776568,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Yuda",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 126140828,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24290
+    },
+    "date": 1792057242729,
+    "duration": 114002,
+    "left": {
+      "bet_amount": 874597,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mysterious heroine x",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1996840,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Takenaka hanbei",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 126114730,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19262
+    },
+    "date": 1792057468926,
+    "duration": 165997,
+    "left": {
+      "bet_amount": 2203653,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Hata no kokoro ulil",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1184352,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Oserotto",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 126090440,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25972
+    },
+    "date": 1792057609131,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1117542,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Slash-beast",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1850528,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "S.sinclair EX",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 126071178,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
