@@ -623017,5 +623017,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29707
+    },
+    "date": 1792022218924,
+    "duration": 161982,
+    "left": {
+      "bet_amount": 1775049,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shin mr. karate",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3007869,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Metagang",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 125789616,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19157
+    },
+    "date": 1792022353126,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 11357685,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Goku-hell",
+      "normal_bettors": 46,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 988899,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Deezer",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 125759909,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
