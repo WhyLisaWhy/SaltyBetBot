@@ -632789,5 +632789,140 @@
     "sum": 126440786,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7732
+    },
+    "date": 1792093601726,
+    "duration": 45990,
+    "left": {
+      "bet_amount": 3632053,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Rugals und panzer",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1003570,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Juggernautu EX7",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 126407212,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3316
+    },
+    "date": 1792093745727,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 3886660,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Dan smith, the tyrant",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 939382,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gadis",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 126409344,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792093955926,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 1458502,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sonya",
+      "normal_bettors": 24,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2505615,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Gaia EX3",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 126410145,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35699
+    },
+    "date": 1792094116127,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 5166464,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Albion",
+      "normal_bettors": 33,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 902475,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Silver the hedgehog",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 126410144,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34262
+    },
+    "date": 1792094286328,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 1231172,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "G-hamster",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2642063,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Blue eyes white karin",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 126374445,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
