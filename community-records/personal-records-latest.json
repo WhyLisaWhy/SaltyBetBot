@@ -630980,5 +630980,140 @@
     "sum": 126513005,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7554
+    },
+    "date": 1792079142130,
+    "duration": 164003,
+    "left": {
+      "bet_amount": 3259556,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Izanagi",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 888232,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Demonica",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 126499562,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28950
+    },
+    "date": 1792079294325,
+    "duration": 95995,
+    "left": {
+      "bet_amount": 826851,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Serious yuri sakazaki",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2615587,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Thundermiss.shermie",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 126492008,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792079468545,
+    "duration": 114219,
+    "left": {
+      "bet_amount": 5527014,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Chocobo",
+      "normal_bettors": 37,
+      "win_streak": 14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1006212,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jill CVS",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 126501060,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20622
+    },
+    "date": 1792079704728,
+    "duration": 186197,
+    "left": {
+      "bet_amount": 2698490,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Akiha vermillion",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1383819,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ertot",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 126501061,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 661
+    },
+    "date": 1792079884925,
+    "duration": 120193,
+    "left": {
+      "bet_amount": 1040701,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ohaou",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1769286,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Meiya",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 126480439,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
