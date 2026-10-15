@@ -625609,5 +625609,86 @@
     "sum": 125988360,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15032
+    },
+    "date": 1792039050326,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 3719603,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Clawbear",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 782706,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Underdog",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 125989214,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792039174547,
+    "duration": 64221,
+    "left": {
+      "bet_amount": 791769,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Urien-type-b",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4664723,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Charlotte",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 125992365,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30363
+    },
+    "date": 1792039368527,
+    "duration": 133993,
+    "left": {
+      "bet_amount": 1966405,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Boss kracko",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023625,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zan-b EX",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 125992371,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
