@@ -625285,5 +625285,113 @@
     "sum": 126043729,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34681
+    },
+    "date": 1792037086728,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 1468992,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Waha+",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1863583,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Shermie as",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 126058716,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14426
+    },
+    "date": 1792037206926,
+    "duration": 59997,
+    "left": {
+      "bet_amount": 849379,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alucard (v.2)",
+      "normal_bettors": 12,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6821617,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Zorf giudecca",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 126024035,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5447
+    },
+    "date": 1792037350926,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 825515,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ange EX",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4158757,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Element kofm",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "sum": 126025828,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19075
+    },
+    "date": 1792037507139,
+    "duration": 90011,
+    "left": {
+      "bet_amount": 3143854,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Heat man",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1149765,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dinosaur",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 126026908,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
