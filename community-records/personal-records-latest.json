@@ -630899,5 +630899,86 @@
     "sum": 126535973,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36376
+    },
+    "date": 1792078567728,
+    "duration": 156192,
+    "left": {
+      "bet_amount": 819455,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Matunaga yukari",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2036047,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "A-shura",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 126537282,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35577
+    },
+    "date": 1792078737928,
+    "duration": 116195,
+    "left": {
+      "bet_amount": 782825,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2266425,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Azami",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 126500906,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13443
+    },
+    "date": 1792078922142,
+    "duration": 124214,
+    "left": {
+      "bet_amount": 882098,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Leona xiii",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2518728,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Mahoko",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 126513005,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
