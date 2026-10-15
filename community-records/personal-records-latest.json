@@ -626068,5 +626068,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1995
+    },
+    "date": 1792043252723,
+    "duration": 347395,
+    "left": {
+      "bet_amount": 392457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Namek goku",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 744986,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Chibi kuroko",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 1995,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30831
+    },
+    "date": 1792044008323,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 2260335,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Psylocke mvc2",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 927461,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Aselia",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 126009486,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20571
+    },
+    "date": 1792044192323,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1926225,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Miko sd",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1438047,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Omanyte EX3",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 126082208,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
