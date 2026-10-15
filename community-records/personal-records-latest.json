@@ -629011,5 +629011,86 @@
     "sum": 9369,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792063968127,
+    "duration": 224202,
+    "left": {
+      "bet_amount": 146426,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yuzuriha",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 332455,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Dhalsim EX9",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792064394541,
+    "duration": 174213,
+    "left": {
+      "bet_amount": 47072,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rozalin",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 440876,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Clarice_di_lanza",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792064730785,
+    "duration": 276258,
+    "left": {
+      "bet_amount": 406796,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 275131,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Virginia mkv",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
