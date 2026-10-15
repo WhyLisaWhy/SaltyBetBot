@@ -629657,5 +629657,167 @@
     "sum": 126199676,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792070243125,
+    "duration": 83995,
+    "left": {
+      "bet_amount": 2540838,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Sonic v2 EX",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1839309,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Moorhunn",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 126228485,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32261
+    },
+    "date": 1792070425325,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 1489027,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Omega goenitz",
+      "normal_bettors": 28,
+      "win_streak": 21
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1272732,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Primeus",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "sum": 126228486,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32551
+    },
+    "date": 1792070589338,
+    "duration": 100013,
+    "left": {
+      "bet_amount": 1705696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Italian kenshiro",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1796887,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Hina bardy",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 126265297,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24385
+    },
+    "date": 1792070739524,
+    "duration": 89993,
+    "left": {
+      "bet_amount": 1008534,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Sean matsuda ex",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1943498,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Adam EX3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 126232746,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17857
+    },
+    "date": 1792070895728,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 1523054,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Borer",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1356398,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kos-mos",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 126245244,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20116
+    },
+    "date": 1792071075727,
+    "duration": 119996,
+    "left": {
+      "bet_amount": 1303773,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "More suave dude",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1450727,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Nega joe",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 126265035,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
