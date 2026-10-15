@@ -623665,5 +623665,113 @@
     "sum": 125941336,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23111
+    },
+    "date": 1792026404327,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 768956,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Syaoran",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2466553,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Road runner",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 125941811,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792026556527,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 7044339,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Leona ex",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 867429,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kryo",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "sum": 125948950,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19595
+    },
+    "date": 1792026740530,
+    "duration": 130006,
+    "left": {
+      "bet_amount": 1170044,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Raoh sai",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4093337,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Polon",
+      "normal_bettors": 40,
+      "win_streak": 6
+    },
+    "sum": 125948951,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792026910728,
+    "duration": 109802,
+    "left": {
+      "bet_amount": 1071157,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Piccoloco",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6274994,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Giorno giovanna EX9",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 125954526,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
