@@ -634839,5 +634839,86 @@
     "sum": 126525360,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792107384527,
+    "duration": 112001,
+    "left": {
+      "bet_amount": 787248,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Tintin",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5391362,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Rohan kishibe",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 126508344,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792107514726,
+    "duration": 72200,
+    "left": {
+      "bet_amount": 5275496,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shin mr. karate",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067993,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Reika murasame",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "sum": 126508345,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32867
+    },
+    "date": 1792107712928,
+    "duration": 144207,
+    "left": {
+      "bet_amount": 885643,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Task force despero",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2651787,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "A-karasu",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 126508344,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
