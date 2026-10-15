@@ -628930,5 +628930,86 @@
     "sum": 14069,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792063113547,
+    "duration": 190221,
+    "left": {
+      "bet_amount": 305018,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sogiita gunha",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 136004,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Clarice_di_lanza",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4988
+    },
+    "date": 1792063347728,
+    "duration": 174201,
+    "left": {
+      "bet_amount": 241944,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Z-ton 2nd",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270492,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 4988,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9369
+    },
+    "date": 1792063677926,
+    "duration": 270198,
+    "left": {
+      "bet_amount": 256023,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Insect",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Virginia mkv",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 9369,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
