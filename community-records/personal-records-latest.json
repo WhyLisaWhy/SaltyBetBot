@@ -631574,5 +631574,86 @@
     "sum": 126487214,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19476
+    },
+    "date": 1792082973347,
+    "duration": 124220,
+    "left": {
+      "bet_amount": 1016057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Acguy",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2693769,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Pandon fe",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 126457964,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13601
+    },
+    "date": 1792083205528,
+    "duration": 172177,
+    "left": {
+      "bet_amount": 2308324,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aegis",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3758544,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Tfk",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 126438488,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37524
+    },
+    "date": 1792083405527,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 1082978,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Silvermoon",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3625933,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Violator",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 126446811,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
