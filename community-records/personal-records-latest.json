@@ -634058,5 +634058,138 @@
     "sum": 126435109,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792101744126,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 764087,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mora EX2",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5686639,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Gray fly",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 126435707,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19342
+    },
+    "date": 1792101868326,
+    "duration": 70200,
+    "left": {
+      "bet_amount": 1463127,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "International karateka",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1307117,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Big show",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "sum": 126435706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1792102044325,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 2101444,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Turles",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 946870,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Akuma SF4",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 126457041,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34971
+    },
+    "date": 1792102210525,
+    "duration": 106197,
+    "left": {
+      "bet_amount": 3591656,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Raiya_mikazuchi",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1028376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Xiangfei-c",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 126457041,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22034
+    },
+    "date": 1792102386730,
+    "duration": 122204,
+    "left": {
+      "bet_amount": 913714,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mukai-kofm",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3726175,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "R-haoumaru",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "sum": 126466958,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
