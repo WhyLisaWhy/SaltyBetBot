@@ -629092,5 +629092,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792064884926,
+    "duration": 89992,
+    "left": {
+      "bet_amount": 805849,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dhalsim EX9",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 147851,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dress cinderella mio EX7",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1834
+    },
+    "date": 1792065221167,
+    "duration": 276240,
+    "left": {
+      "bet_amount": 332810,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Rozalin",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 455523,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Virginia mkv",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 1834,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792065472526,
+    "duration": 187400,
+    "left": {
+      "bet_amount": 247643,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Dhalsim EX9",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 90362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Virginia mkv",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
