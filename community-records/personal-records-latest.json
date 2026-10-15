@@ -633950,5 +633950,113 @@
     "sum": 126383322,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1696
+    },
+    "date": 1792100937541,
+    "duration": 120213,
+    "left": {
+      "bet_amount": 3708886,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Barts",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1043336,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sauron, god of hunger",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 126406275,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24561
+    },
+    "date": 1792101147726,
+    "duration": 144203,
+    "left": {
+      "bet_amount": 2207510,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Robo-sol",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1978577,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Leona xiii",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 126412295,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4892
+    },
+    "date": 1792101343927,
+    "duration": 140192,
+    "left": {
+      "bet_amount": 4575926,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Remy",
+      "normal_bettors": 36,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 975039,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mgr",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 126434067,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3152
+    },
+    "date": 1792101594126,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 913696,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "God kula",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4816216,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Kurumi mirumati",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 126435109,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
