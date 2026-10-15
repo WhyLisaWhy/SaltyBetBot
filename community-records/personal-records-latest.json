@@ -633815,5 +633815,140 @@
     "sum": 126366679,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33320
+    },
+    "date": 1792100090932,
+    "duration": 120206,
+    "left": {
+      "bet_amount": 1319931,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Link (kid)",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2597093,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Cirno",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 126369426,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792100212936,
+    "duration": 62007,
+    "left": {
+      "bet_amount": 844286,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Terry CVS",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6714814,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "R.lightning",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 126386146,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6040
+    },
+    "date": 1792100357124,
+    "duration": 90196,
+    "left": {
+      "bet_amount": 850924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nightmare of ruin",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4554371,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Infant mutant",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 126386147,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23260
+    },
+    "date": 1792100511126,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 6883157,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Lilica_felchenerow",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 954383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Johann-fs",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 126380107,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26185
+    },
+    "date": 1792100757326,
+    "duration": 186199,
+    "left": {
+      "bet_amount": 2061542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mildred avallone",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2325720,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Custom experimental boring laggy omk beato",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 126383322,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
