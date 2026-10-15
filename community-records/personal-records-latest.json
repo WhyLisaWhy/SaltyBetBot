@@ -631844,5 +631844,113 @@
     "sum": 126407958,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32191
+    },
+    "date": 1792084580728,
+    "duration": 98201,
+    "left": {
+      "bet_amount": 1985899,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Robo-ky mk-3",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1576868,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 126533651,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792084962925,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 87126,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jack the ripper",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 102191,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Vaisaga",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2852
+    },
+    "date": 1792085166926,
+    "duration": 144000,
+    "left": {
+      "bet_amount": 182251,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Muffet",
+      "normal_bettors": 49,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 68148,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Johnny cage",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 2852,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792085317124,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 117587,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cyborg t-8p",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 238640,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Houki gonjou",
+      "normal_bettors": 44,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
