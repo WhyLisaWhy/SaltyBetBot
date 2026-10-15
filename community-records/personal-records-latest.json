@@ -625987,5 +625987,86 @@
     "sum": 3108,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3352
+    },
+    "date": 1792042344928,
+    "duration": 196196,
+    "left": {
+      "bet_amount": 221940,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Akiha EX",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 656953,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Yukiko amagi",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 3352,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13127
+    },
+    "date": 1792042611127,
+    "duration": 212200,
+    "left": {
+      "bet_amount": 195271,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Namek goku",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 816884,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Masaru_takahara",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 13127,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792042851352,
+    "duration": 180224,
+    "left": {
+      "bet_amount": 779964,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Chibi kuroko",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 223943,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Akiha EX",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
