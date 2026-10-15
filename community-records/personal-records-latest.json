@@ -634758,5 +634758,86 @@
     "sum": 126473888,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26134
+    },
+    "date": 1792106381728,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 896560,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Tenma-sama",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1687334,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Yamazaki rb",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "sum": 126478862,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1294
+    },
+    "date": 1792106581927,
+    "duration": 139991,
+    "left": {
+      "bet_amount": 1896968,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Fuhashitei",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1115269,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Gentarou and foze",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 126526654,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17016
+    },
+    "date": 1792106712128,
+    "duration": 70194,
+    "left": {
+      "bet_amount": 3453386,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "True lotus master",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 839241,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Judge",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 126525360,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
