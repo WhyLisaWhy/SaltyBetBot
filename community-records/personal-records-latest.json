@@ -626257,5 +626257,113 @@
     "sum": 126109175,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5666
+    },
+    "date": 1792045229325,
+    "duration": 204192,
+    "left": {
+      "bet_amount": 1268942,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Flash gen",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2040828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Bospider",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 126106190,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22191
+    },
+    "date": 1792045369325,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 765757,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hibiki EX3",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2949868,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Inverno",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 126100524,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34997
+    },
+    "date": 1792045575526,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 2554381,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Blackjack",
+      "normal_bettors": 31,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1073314,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Scourge the hedgehog",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 126078333,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17207
+    },
+    "date": 1792045715724,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 2405709,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Kenoh EX2",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1227286,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Halfkun",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 126043336,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
