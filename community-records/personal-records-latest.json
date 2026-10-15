@@ -632222,5 +632222,59 @@
     "sum": 20767,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792087440728,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 298944,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shazzer EX3",
+      "normal_bettors": 37,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 639038,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Mr.heart",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4847
+    },
+    "date": 1792087653128,
+    "duration": 156200,
+    "left": {
+      "bet_amount": 396877,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Houki gonjou",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 661926,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shazzer EX3",
+      "normal_bettors": 34,
+      "win_streak": 9
+    },
+    "sum": 4847,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
