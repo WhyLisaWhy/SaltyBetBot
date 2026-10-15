@@ -633383,5 +633383,113 @@
     "sum": 126315853,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31020
+    },
+    "date": 1792097366729,
+    "duration": 104203,
+    "left": {
+      "bet_amount": 864703,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jean_pau",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2187853,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Chinese gouki",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 126294160,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1004
+    },
+    "date": 1792097502930,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 2821930,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Revlius",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1122613,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Beastman.exe",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 126306249,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18110
+    },
+    "date": 1792097712926,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 2998023,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Viola",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1017536,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rain mk2",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 126305245,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2288
+    },
+    "date": 1792097907125,
+    "duration": 139933,
+    "left": {
+      "bet_amount": 7435178,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Frog",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1118096,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Vyres",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 126311355,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
