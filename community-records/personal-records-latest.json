@@ -623908,5 +623908,113 @@
     "sum": 125956717,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17303
+    },
+    "date": 1792027981528,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 818078,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Houjyou torami",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2492741,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "George",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 125927027,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23300
+    },
+    "date": 1792028091727,
+    "duration": 44001,
+    "left": {
+      "bet_amount": 1399787,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Alucks",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2539885,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Tfk",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 125909724,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14157
+    },
+    "date": 1792028291734,
+    "duration": 134009,
+    "left": {
+      "bet_amount": 817632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Foxy the pirate",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3107715,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Homero",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 125886424,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21444
+    },
+    "date": 1792028457925,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 1264145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Myon gitsune",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4571708,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Awakened-clark",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 125890132,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
