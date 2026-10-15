@@ -629254,5 +629254,113 @@
     "sum": 126223884,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22050
+    },
+    "date": 1792067635126,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 915168,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hihumi",
+      "normal_bettors": 19,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4123417,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "A-agito",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 126236308,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21902
+    },
+    "date": 1792067841128,
+    "duration": 145997,
+    "left": {
+      "bet_amount": 2729655,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Heavy d!s",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 958000,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Barns",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 126241176,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15051
+    },
+    "date": 1792068081324,
+    "duration": 185937,
+    "left": {
+      "bet_amount": 846972,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kishimax",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2930160,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Doppo orochi EX3",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 126219274,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4104
+    },
+    "date": 1792068281526,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 741894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dragon waifu",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 14351877,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "An ordinary sonic the hedgehog",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 126223603,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
