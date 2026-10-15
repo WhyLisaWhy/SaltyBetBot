@@ -628471,5 +628471,113 @@
     "sum": 126124509,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21476
+    },
+    "date": 1792059536529,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 5032516,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Asagi EX3",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 806286,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Yashiro nanakase EX3",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 126136329,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26805
+    },
+    "date": 1792059736728,
+    "duration": 144002,
+    "left": {
+      "bet_amount": 1399795,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Kouyalen",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1281028,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sanzou kongoumaru",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 126139756,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13544
+    },
+    "date": 1792059906928,
+    "duration": 114203,
+    "left": {
+      "bet_amount": 858857,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shen EX2",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3145909,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Granzon",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 126168446,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2789
+    },
+    "date": 1792060127133,
+    "duration": 164204,
+    "left": {
+      "bet_amount": 829531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucy",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3384283,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ryona",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 126172128,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
