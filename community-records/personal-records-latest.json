@@ -625690,5 +625690,113 @@
     "sum": 125992371,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792039764956,
+    "duration": 124029,
+    "left": {
+      "bet_amount": 104993,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Riru",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 99762,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Namek goku",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792040027128,
+    "duration": 202176,
+    "left": {
+      "bet_amount": 182900,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Cyborg_d-9f",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 81544,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kamen rider garren",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792040231328,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 124431,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Masaru_takahara",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 246563,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Old robo-ky",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792040467535,
+    "duration": 180215,
+    "left": {
+      "bet_amount": 141808,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Eddie",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 331795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Timothy hawk",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
