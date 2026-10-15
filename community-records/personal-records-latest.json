@@ -628201,5 +628201,113 @@
     "sum": 126071178,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30128
+    },
+    "date": 1792057779128,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 1286234,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dhaos ND3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2015654,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Genkai_shihan",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 126086646,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792058065529,
+    "duration": 230202,
+    "left": {
+      "bet_amount": 1922119,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kim sueil",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1351737,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Holy strider",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 126132779,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32119
+    },
+    "date": 1792058249526,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 1072562,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Aruru(yuka)",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1717378,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kitsune",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 126132780,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24831
+    },
+    "date": 1792058439728,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 1529896,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kurusugawa ayaka",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2040868,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Midler EX6",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 126182714,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
