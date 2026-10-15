@@ -632303,5 +632303,86 @@
     "sum": 126509204,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16881
+    },
+    "date": 1792090311153,
+    "duration": 180226,
+    "left": {
+      "bet_amount": 755511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mvsn nose-blood",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4402087,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Megaman plus",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 126515673,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13489
+    },
+    "date": 1792090531325,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 2052573,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Natural miku",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 812514,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Towa",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 126518560,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28218
+    },
+    "date": 1792090767326,
+    "duration": 176002,
+    "left": {
+      "bet_amount": 1936401,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Dragon EX3",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1941476,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Omanyte EX3",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 126505071,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
