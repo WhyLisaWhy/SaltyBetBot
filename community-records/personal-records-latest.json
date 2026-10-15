@@ -624421,5 +624421,113 @@
     "sum": 126019112,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25134
+    },
+    "date": 1792031812768,
+    "duration": 124240,
+    "left": {
+      "bet_amount": 1118698,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Oldmon",
+      "normal_bettors": 25,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3077728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Rugal b. EX",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 126020349,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 596
+    },
+    "date": 1792032042728,
+    "duration": 173985,
+    "left": {
+      "bet_amount": 920482,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kyoudou senna",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6741710,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Cute syakoya",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 126087978,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14914
+    },
+    "date": 1792032198929,
+    "duration": 95994,
+    "left": {
+      "bet_amount": 3747250,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Toatus",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 932240,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chiel",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 126088060,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28495
+    },
+    "date": 1792032318926,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 7048860,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Justice gg1 ex",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Strike freedom nitori",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 126091756,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
