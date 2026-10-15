@@ -630764,5 +630764,140 @@
     "sum": 126538839,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25977
+    },
+    "date": 1792077654922,
+    "duration": 143959,
+    "left": {
+      "bet_amount": 1061757,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Parace",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1769788,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Da zhong tian",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 126559430,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792077875127,
+    "duration": 160005,
+    "left": {
+      "bet_amount": 736486,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sp-athena",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3083864,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Arale",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "sum": 126533453,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 970
+    },
+    "date": 1792078071327,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 1038279,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cipitio",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2408439,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Chichi",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 126533454,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12241
+    },
+    "date": 1792078187325,
+    "duration": 59997,
+    "left": {
+      "bet_amount": 3510093,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mvc2 cable",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1003831,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yun",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 126532484,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9575
+    },
+    "date": 1792078347529,
+    "duration": 106010,
+    "left": {
+      "bet_amount": 974484,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Injustice catwoman",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7122705,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Santaurus EX3",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "sum": 126535973,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
