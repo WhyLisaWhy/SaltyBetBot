@@ -626149,5 +626149,113 @@
     "sum": 126082208,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20706
+    },
+    "date": 1792044378527,
+    "duration": 130003,
+    "left": {
+      "bet_amount": 2110186,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Wonder momo",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1601185,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Duo lon",
+      "normal_bettors": 17,
+      "win_streak": -7
+    },
+    "sum": 126061637,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24919
+    },
+    "date": 1792044538726,
+    "duration": 106202,
+    "left": {
+      "bet_amount": 1628373,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Alessi",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1674867,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Luna papa",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 126077196,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16923
+    },
+    "date": 1792044798927,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 2381994,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Rin_tohsaka",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 954566,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jagyuta EX2",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 126102441,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2985
+    },
+    "date": 1792044963139,
+    "duration": 110216,
+    "left": {
+      "bet_amount": 973036,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Retu",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2475626,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Butz",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 126109175,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
