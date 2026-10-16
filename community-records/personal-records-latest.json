@@ -639724,5 +639724,140 @@
     "sum": 127151411,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31643
+    },
+    "date": 1792145989129,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 821711,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Uppercut",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2455845,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Warakia",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 127126586,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28727
+    },
+    "date": 1792146133326,
+    "duration": 90151,
+    "left": {
+      "bet_amount": 1878815,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Yoko littner",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 963267,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shingo EX2",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 127217651,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3580
+    },
+    "date": 1792146353525,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 2223700,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Ryogi_exvs",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Johnny(coh)",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 127232158,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 54780
+    },
+    "date": 1792146473542,
+    "duration": 64012,
+    "left": {
+      "bet_amount": 3076360,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Gameboy",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 924813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gentarou and foze",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 127228578,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28300
+    },
+    "date": 1792146633727,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 953384,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nf-kyo",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3120292,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Poppy",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 127244758,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
