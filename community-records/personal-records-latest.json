@@ -645255,5 +645255,113 @@
     "sum": 127493900,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 927
+    },
+    "date": 1792185530531,
+    "duration": 120006,
+    "left": {
+      "bet_amount": 934848,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Cool",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1881708,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Chadha",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 127485007,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24496
+    },
+    "date": 1792185720732,
+    "duration": 124004,
+    "left": {
+      "bet_amount": 4528378,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Flawless specter",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1070357,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Magician type-0",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 127484080,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30485
+    },
+    "date": 1792185856927,
+    "duration": 76171,
+    "left": {
+      "bet_amount": 862642,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Resonance",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1857134,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Master moriya",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 127489839,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43907
+    },
+    "date": 1792186040941,
+    "duration": 130012,
+    "left": {
+      "bet_amount": 1880817,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Kimberly browning",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 997510,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Legion",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 127459354,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
