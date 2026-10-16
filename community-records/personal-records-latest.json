@@ -641101,5 +641101,113 @@
     "sum": 3423,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10661
+    },
+    "date": 1792154900348,
+    "duration": 122221,
+    "left": {
+      "bet_amount": 94159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jiban",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 294639,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Rokurouta",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 10661,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13950
+    },
+    "date": 1792155128530,
+    "duration": 176156,
+    "left": {
+      "bet_amount": 165193,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Skapon",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 255321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Atsuko tomohara",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 13950,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792155328526,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 402768,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Bison trooper x",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 78450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nettou rugal",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792155518729,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 226311,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Hikaru EX3",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 350694,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mvc phoenix wright",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
