@@ -638617,5 +638617,140 @@
     "sum": 127334845,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36446
+    },
+    "date": 1792138757327,
+    "duration": 175915,
+    "left": {
+      "bet_amount": 1135915,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Hakurei kanade",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1942854,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Tamamushihime",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 127313589,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29407
+    },
+    "date": 1792138961529,
+    "duration": 150003,
+    "left": {
+      "bet_amount": 774428,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Team ryuko",
+      "normal_bettors": 13,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2691174,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Robocop",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 127277143,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2637
+    },
+    "date": 1792139093726,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 736810,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rugal gb",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1666706,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Gadis",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "sum": 127375596,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19036
+    },
+    "date": 1792139283727,
+    "duration": 135999,
+    "left": {
+      "bet_amount": 805865,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ksitigarbha ikkyu",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3182758,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kurosaki ichigo",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 127381540,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792139443927,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 1120851,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Etna",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2404252,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ghost rider",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 127454988,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
