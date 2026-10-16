@@ -640750,5 +640750,113 @@
     "sum": 127254643,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20144
+    },
+    "date": 1792152378335,
+    "duration": 204166,
+    "left": {
+      "bet_amount": 1945080,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Zangief-f.o",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1422457,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jivatma",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 127255967,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28277
+    },
+    "date": 1792152574329,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 817551,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dudley streets",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2388363,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Kamehameha",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 127270548,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4904
+    },
+    "date": 1792152678528,
+    "duration": 43974,
+    "left": {
+      "bet_amount": 2636511,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Uminin",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1200902,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Hourai-car",
+      "normal_bettors": 17,
+      "win_streak": -12
+    },
+    "sum": 127242271,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1549
+    },
+    "date": 1792152834530,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1069860,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Yomi",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1738549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Luke",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 127237367,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
