@@ -638752,5 +638752,140 @@
     "sum": 127454988,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23578
+    },
+    "date": 1792139664127,
+    "duration": 156207,
+    "left": {
+      "bet_amount": 1485392,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chen juanmin",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1388419,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Bebum ryo",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 127454987,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6889
+    },
+    "date": 1792139838327,
+    "duration": 120174,
+    "left": {
+      "bet_amount": 995350,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Roronoa zoro",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3464501,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Slarin",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 127476682,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16223
+    },
+    "date": 1792140028328,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 904825,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Asura",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4077399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Cute syakoya",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 127478658,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27029
+    },
+    "date": 1792140164533,
+    "duration": 79976,
+    "left": {
+      "bet_amount": 887833,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2006788,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Suketoudara",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 127462435,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5475
+    },
+    "date": 1792140340727,
+    "duration": 106197,
+    "left": {
+      "bet_amount": 976625,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Orochi ball",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2787459,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Death battle sakuya",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 127435406,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
