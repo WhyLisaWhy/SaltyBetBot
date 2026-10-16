@@ -640426,5 +640426,140 @@
     "sum": 127171157,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17525
+    },
+    "date": 1792150374527,
+    "duration": 113993,
+    "left": {
+      "bet_amount": 1990418,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cless-f",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2764840,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Rila",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 127171158,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9078
+    },
+    "date": 1792150546731,
+    "duration": 111989,
+    "left": {
+      "bet_amount": 2680224,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Akari kamigishi EX3",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 794467,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Adelheid EX",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 127195290,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32947
+    },
+    "date": 1792150730976,
+    "duration": 120180,
+    "left": {
+      "bet_amount": 1024420,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sho hayate 0d",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2093671,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Mvc2 ciel",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 127197972,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27985
+    },
+    "date": 1792150856929,
+    "duration": 65966,
+    "left": {
+      "bet_amount": 1140875,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bridget(ac)",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3352479,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Alexa",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 127213844,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18986
+    },
+    "date": 1792151021133,
+    "duration": 109979,
+    "left": {
+      "bet_amount": 982319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cecilia",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3629253,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Shizuru fujino",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 127223289,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
