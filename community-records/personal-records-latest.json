@@ -641344,5 +641344,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792156789731,
+    "duration": 204203,
+    "left": {
+      "bet_amount": 393888,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Rokurouta",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 371584,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mvc phoenix wright",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792157074327,
+    "duration": 228598,
+    "left": {
+      "bet_amount": 174332,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kouma kishima",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 248951,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Mvc phoenix wright",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
