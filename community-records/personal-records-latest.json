@@ -639211,5 +639211,113 @@
     "sum": 127417759,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24787
+    },
+    "date": 1792142508324,
+    "duration": 129992,
+    "left": {
+      "bet_amount": 2037502,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "D4 roll",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1093993,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Robert garcia EX2",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 127380283,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11697
+    },
+    "date": 1792142652527,
+    "duration": 83984,
+    "left": {
+      "bet_amount": 739539,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "F-zeryo x",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2972976,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Vanilla gouken",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 127355496,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26330
+    },
+    "date": 1792142812528,
+    "duration": 103950,
+    "left": {
+      "bet_amount": 1477863,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Simonkin2019",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1403964,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Nega peach",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 127343799,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2323
+    },
+    "date": 1792143008748,
+    "duration": 139964,
+    "left": {
+      "bet_amount": 1107117,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shampoo",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3274985,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Top man",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 127317469,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
