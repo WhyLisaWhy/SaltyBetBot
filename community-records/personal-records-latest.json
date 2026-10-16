@@ -635136,5 +635136,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2505
+    },
+    "date": 1792109766550,
+    "duration": 126197,
+    "left": {
+      "bet_amount": 273510,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Remilia scarlet",
+      "normal_bettors": 45,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267121,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kazu",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 2505,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4930
+    },
+    "date": 1792110066870,
+    "duration": 244346,
+    "left": {
+      "bet_amount": 334659,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Classic ryu hayabusa",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 269935,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Three mischievous fairies",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 4930,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8849
+    },
+    "date": 1792110272926,
+    "duration": 150207,
+    "left": {
+      "bet_amount": 341993,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Mvc3 lilith",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 306868,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dee bee kaw EX3",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 8849,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16589
+    },
+    "date": 1792110493132,
+    "duration": 166164,
+    "left": {
+      "bet_amount": 177214,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tia langray",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 562183,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Vanilla gouken",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 16589,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21669
+    },
+    "date": 1792110667132,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 167515,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zagan",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 663467,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Remilia scarlet",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 21669,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
