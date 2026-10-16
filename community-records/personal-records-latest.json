@@ -641398,5 +641398,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2026
+    },
+    "date": 1792157972729,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 2425098,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Makai",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 945819,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Knuckle joe sdx",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 127215427,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29418
+    },
+    "date": 1792158086726,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 903163,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "D-aob",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2099329,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Um-krizalid-2k1",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 127213401,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17536
+    },
+    "date": 1792158242926,
+    "duration": 95990,
+    "left": {
+      "bet_amount": 3752275,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Megumi shinigami",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 942443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jean valjean",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 127225883,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
