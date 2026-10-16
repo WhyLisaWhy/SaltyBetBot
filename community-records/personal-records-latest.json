@@ -641612,5 +641612,140 @@
     "sum": 127206391,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21700
+    },
+    "date": 1792159435732,
+    "duration": 192006,
+    "left": {
+      "bet_amount": 1337367,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Dinotank",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1502194,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Game master",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 127212236,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792159595926,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 1940574,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Regina",
+      "normal_bettors": 25,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1221357,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Jay garrick",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 127190536,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18213
+    },
+    "date": 1792159806126,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 1264948,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nucoarc",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2488114,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Maximune",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 127190535,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33259
+    },
+    "date": 1792159930125,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 2231347,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Ado",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1012637,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Black cat",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 127225851,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19142
+    },
+    "date": 1792160086372,
+    "duration": 96044,
+    "left": {
+      "bet_amount": 2332028,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Yoshinaka hinata",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1715353,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Felden",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 127240724,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
