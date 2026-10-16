@@ -638347,5 +638347,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2395
+    },
+    "date": 1792133209724,
+    "duration": 150799,
+    "left": {
+      "bet_amount": 572928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tournament of power goku",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 360919,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Aka-saber",
+      "normal_bettors": 37,
+      "win_streak": 16
+    },
+    "sum": 2395,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
