@@ -636567,5 +636567,140 @@
     "sum": 127037353,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792120793329,
+    "duration": 84202,
+    "left": {
+      "bet_amount": 1931428,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ryoko kano EX2",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2470230,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Rufuu ix",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "sum": 127038651,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27651
+    },
+    "date": 1792120963326,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1804058,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Wyler xi ver",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1436780,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "King 13",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 127038653,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28468
+    },
+    "date": 1792121139530,
+    "duration": 120203,
+    "left": {
+      "bet_amount": 2431426,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Yui emelia",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 900524,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "God demitri",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 127011002,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18957
+    },
+    "date": 1792121279527,
+    "duration": 86004,
+    "left": {
+      "bet_amount": 2260404,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Boring kagekiyo",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1740891,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Tallgeese",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 127085511,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38416
+    },
+    "date": 1792121445726,
+    "duration": 105990,
+    "left": {
+      "bet_amount": 3353703,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Geese xi",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2062442,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Wakko",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "sum": 127109860,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
