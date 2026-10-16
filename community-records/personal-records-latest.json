@@ -635352,5 +635352,86 @@
     "sum": 88472,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27410
+    },
+    "date": 1792112987129,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1282697,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Erika wagner",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1630991,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Shinobu kawasaki",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 126623133,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 603
+    },
+    "date": 1792113167123,
+    "duration": 125996,
+    "left": {
+      "bet_amount": 978234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mizuki",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1763845,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Zangoose EX2",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 126644334,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29606
+    },
+    "date": 1792113317329,
+    "duration": 85995,
+    "left": {
+      "bet_amount": 1049191,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kurahashi tokimi",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4015403,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Hisui EX",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 126643731,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
