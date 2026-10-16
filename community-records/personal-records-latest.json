@@ -636297,5 +636297,140 @@
     "sum": 127094925,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44940
+    },
+    "date": 1792119015931,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 3183392,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Wind-se",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1074388,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Unicorn-gundam",
+      "normal_bettors": 18,
+      "win_streak": -10
+    },
+    "sum": 127068169,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792119177926,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1361642,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Helga",
+      "normal_bettors": 27,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3216050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Nu 13",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 127083126,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792119308127,
+    "duration": 76197,
+    "left": {
+      "bet_amount": 4983803,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Vegeta",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1677057,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "R.mika",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "sum": 127083125,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12204
+    },
+    "date": 1792119432127,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 5756672,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Koryu",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 931619,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Andy xiii",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 127083124,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24336
+    },
+    "date": 1792119596331,
+    "duration": 109975,
+    "left": {
+      "bet_amount": 1917489,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Saku EX2",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1921317,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Googoo64 mario",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 127085095,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
