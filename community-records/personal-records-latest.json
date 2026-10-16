@@ -642420,5 +642420,140 @@
     "sum": 127356336,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1218
+    },
+    "date": 1792164824126,
+    "duration": 226200,
+    "left": {
+      "bet_amount": 760619,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chibi feilin",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3894477,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Hugo EX",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "sum": 127310498,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23416
+    },
+    "date": 1792164998326,
+    "duration": 110152,
+    "left": {
+      "bet_amount": 939910,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider double",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5820881,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Winggod kanna",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "sum": 127310736,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19151
+    },
+    "date": 1792165178326,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1255375,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Robo-ky XX",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2202216,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Masked_dedede",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 127314502,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13029
+    },
+    "date": 1792165354530,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 4137986,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dai rai oh",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1051636,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Super3 goku EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 127295351,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15090
+    },
+    "date": 1792165504736,
+    "duration": 96206,
+    "left": {
+      "bet_amount": 1045593,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Theskiver",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5281861,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Foreigner",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 127298652,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
