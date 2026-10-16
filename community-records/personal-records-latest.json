@@ -637861,5 +637861,167 @@
     "sum": 127362045,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26986
+    },
+    "date": 1792129482128,
+    "duration": 154199,
+    "left": {
+      "bet_amount": 1817447,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kawashima-san EX3",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1420718,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Nitori(emanon)",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "sum": 127392036,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6899
+    },
+    "date": 1792129598125,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 1826847,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Phoenix wright",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1284130,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Gromit",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 127412823,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15859
+    },
+    "date": 1792129712326,
+    "duration": 54199,
+    "left": {
+      "bet_amount": 977051,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shaolon",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4428781,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Johann EX3",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 127405924,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 736
+    },
+    "date": 1792129867530,
+    "duration": 95203,
+    "left": {
+      "bet_amount": 3946280,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Zeldia 0D",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 821417,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Jacky bryant",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 127409411,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792130414728,
+    "duration": 276201,
+    "left": {
+      "bet_amount": 68076,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Tournament of power goku",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 118101,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Suwako ai",
+      "normal_bettors": 36,
+      "win_streak": 19
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792130574928,
+    "duration": 100007,
+    "left": {
+      "bet_amount": 131533,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Takuma xiii",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125315,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Shadow mario",
+      "normal_bettors": 24,
+      "win_streak": -12
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
