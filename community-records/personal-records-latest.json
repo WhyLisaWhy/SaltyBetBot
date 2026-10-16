@@ -641882,5 +641882,138 @@
     "sum": 127262207,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1752
+    },
+    "date": 1792161213327,
+    "duration": 200198,
+    "left": {
+      "bet_amount": 926272,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Akuma shogun",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3990036,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "On",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 127271139,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1792161413328,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 2471013,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Syouzan matsuo",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 945069,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hyperbattlecyborg",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 127271546,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5169
+    },
+    "date": 1792161563527,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 874347,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ghetsis head",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1632585,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Manticore",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 127271546,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19149
+    },
+    "date": 1792161763725,
+    "duration": 136194,
+    "left": {
+      "bet_amount": 2056178,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Hopper",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1015621,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ksitigarbha ikkyu",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 127266377,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22032
+    },
+    "date": 1792162009925,
+    "duration": 186196,
+    "left": {
+      "bet_amount": 3305153,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Prismatic jam",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 910057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Uzuki shimamura",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 127275749,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
