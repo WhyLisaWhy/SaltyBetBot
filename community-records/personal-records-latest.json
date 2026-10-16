@@ -644067,5 +644067,86 @@
     "sum": 127432429,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6684
+    },
+    "date": 1792175437929,
+    "duration": 183399,
+    "left": {
+      "bet_amount": 1027152,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Saya_g",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2893780,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Arisa",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 127400110,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792175910931,
+    "duration": 206000,
+    "left": {
+      "bet_amount": 72476,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kazunoko's yun",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125544,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "G_cyclone",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4179
+    },
+    "date": 1792176161132,
+    "duration": 196005,
+    "left": {
+      "bet_amount": 90367,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Racing miku 2014ev",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 195934,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Yaruo_aa",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "sum": 4179,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
