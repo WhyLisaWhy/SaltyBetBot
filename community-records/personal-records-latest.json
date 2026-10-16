@@ -638374,5 +638374,113 @@
     "sum": 2395,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29180
+    },
+    "date": 1792137040131,
+    "duration": 70205,
+    "left": {
+      "bet_amount": 3066792,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Nakoruru as",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 940385,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Tyrog",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 127414849,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792137350327,
+    "duration": 256198,
+    "left": {
+      "bet_amount": 671105,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Goketuji oume",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4118493,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Buzz lightyear",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 127385669,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19801
+    },
+    "date": 1792137544542,
+    "duration": 124214,
+    "left": {
+      "bet_amount": 958408,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Snipe lv2",
+      "normal_bettors": 25,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1515673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Aura 2nd revival",
+      "normal_bettors": 24,
+      "win_streak": -9
+    },
+    "sum": 127385668,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15029
+    },
+    "date": 1792137710527,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 857657,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Reptile umk3",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3658646,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Sakura 98",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 127365867,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
