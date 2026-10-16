@@ -635271,5 +635271,59 @@
     "sum": 21669,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26968
+    },
+    "date": 1792110963527,
+    "duration": 236195,
+    "left": {
+      "bet_amount": 602884,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Classic ryu hayabusa",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270176,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mvc3 lilith",
+      "normal_bettors": 29,
+      "win_streak": 8
+    },
+    "sum": 26968,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 48472
+    },
+    "date": 1792111223727,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 109599,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vanilla gouken",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 734328,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Remilia scarlet",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "sum": 81685,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
