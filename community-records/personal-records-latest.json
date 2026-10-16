@@ -644148,5 +644148,140 @@
     "sum": 4179,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792176437527,
+    "duration": 216201,
+    "left": {
+      "bet_amount": 227046,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Makoto sawatari",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119361,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "W buffalo_n",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792176621534,
+    "duration": 124011,
+    "left": {
+      "bet_amount": 139770,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Bs agumon",
+      "normal_bettors": 40,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 325332,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Poison qyc",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792176807723,
+    "duration": 129994,
+    "left": {
+      "bet_amount": 149029,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dr.minerva",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 336472,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Maat",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2234
+    },
+    "date": 1792176991927,
+    "duration": 124176,
+    "left": {
+      "bet_amount": 420033,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ninja golf",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103748,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aztec falcon",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 2234,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2783
+    },
+    "date": 1792177258127,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 480108,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Orc",
+      "normal_bettors": 41,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 96009,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sub-zero EX",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "sum": 2783,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
