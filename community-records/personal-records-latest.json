@@ -640156,5 +640156,140 @@
     "sum": 127218407,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2123
+    },
+    "date": 1792148713329,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 978798,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Katakura kojuro_ch",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2355573,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Cola Fe",
+      "normal_bettors": 23,
+      "win_streak": 10
+    },
+    "sum": 127198263,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1934
+    },
+    "date": 1792148867327,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 926679,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Heavyarms custom",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3341313,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Joker paru",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 127199145,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39230
+    },
+    "date": 1792149047548,
+    "duration": 120013,
+    "left": {
+      "bet_amount": 2394671,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Jubilee ex",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1089761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "H_gate_0350",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 127199682,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792149263726,
+    "duration": 156196,
+    "left": {
+      "bet_amount": 3349158,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Alberich",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1219664,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rangle",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 127217247,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1617
+    },
+    "date": 1792149439951,
+    "duration": 120221,
+    "left": {
+      "bet_amount": 1890730,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Ohaou",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 827836,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jyubei yagyu EX3",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 127217248,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
