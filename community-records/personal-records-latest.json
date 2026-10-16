@@ -636432,5 +636432,140 @@
     "sum": 127085095,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23024
+    },
+    "date": 1792119892527,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 1293315,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "G-dialga",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2828023,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shin gouki",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 127060759,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792120028524,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 3940391,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Jumping jackal",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1022579,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mithra",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 127071204,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38374
+    },
+    "date": 1792120292924,
+    "duration": 204194,
+    "left": {
+      "bet_amount": 1563615,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hitosyura ex",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2174379,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Menat",
+      "normal_bettors": 20,
+      "win_streak": -7
+    },
+    "sum": 127071205,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16195
+    },
+    "date": 1792120428926,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 994932,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pocket batman",
+      "normal_bettors": 18,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3547386,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Recca",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 127032831,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2903
+    },
+    "date": 1792120649125,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 1224769,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mr. bean",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2736826,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "American ninja",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 127037353,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
