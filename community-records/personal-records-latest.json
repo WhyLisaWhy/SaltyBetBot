@@ -640858,5 +640858,140 @@
     "sum": 127237367,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44291
+    },
+    "date": 1792153050729,
+    "duration": 155989,
+    "left": {
+      "bet_amount": 1917903,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Furudo erika",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 829658,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Violator",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 127238320,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6845
+    },
+    "date": 1792153184932,
+    "duration": 80204,
+    "left": {
+      "bet_amount": 3368266,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Shazzer EX3",
+      "normal_bettors": 32,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 965310,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cartoon shang tsung",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 127194029,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26217
+    },
+    "date": 1792153340930,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 1699464,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Swalot",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1085103,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Judge",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 127195987,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23139
+    },
+    "date": 1792153451124,
+    "duration": 45979,
+    "left": {
+      "bet_amount": 959801,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Michael",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1630769,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Zonuda",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 127169770,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11697
+    },
+    "date": 1792153593130,
+    "duration": 87988,
+    "left": {
+      "bet_amount": 1054384,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Meteor",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2648183,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Slender man",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 127208160,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
