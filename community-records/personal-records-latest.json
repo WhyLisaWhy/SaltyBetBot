@@ -643959,5 +643959,113 @@
     "sum": 127445428,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32513
+    },
+    "date": 1792174665919,
+    "duration": 101993,
+    "left": {
+      "bet_amount": 778461,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kim kaphwan EX3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5561064,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Eharu_ai",
+      "normal_bettors": 38,
+      "win_streak": 14
+    },
+    "sum": 127449250,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21742
+    },
+    "date": 1792174810124,
+    "duration": 92189,
+    "left": {
+      "bet_amount": 1499418,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Burning futo",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1130661,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Saisyu kusanagi",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 127453775,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1169
+    },
+    "date": 1792175010325,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 859837,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kurosawa yuichi",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2540242,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Honda tadakatsu",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 127432033,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32319
+    },
+    "date": 1792175200525,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 821629,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Marguerite",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2333718,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Nitori(emanon)",
+      "normal_bettors": 22,
+      "win_streak": -7
+    },
+    "sum": 127432429,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
