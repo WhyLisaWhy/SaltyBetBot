@@ -640993,5 +640993,113 @@
     "sum": 127208160,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792154035529,
+    "duration": 174144,
+    "left": {
+      "bet_amount": 50441,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cyber dan",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 115784,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Kouma kishima",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2217
+    },
+    "date": 1792154223738,
+    "duration": 132210,
+    "left": {
+      "bet_amount": 139179,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Scott pilgrim",
+      "normal_bettors": 33,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 90533,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Neko&mech_m",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 2217,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792154451932,
+    "duration": 176181,
+    "left": {
+      "bet_amount": 109887,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Chomper",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 134624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Spider-man",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3423
+    },
+    "date": 1792154718126,
+    "duration": 210200,
+    "left": {
+      "bet_amount": 216652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gideon",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 99049,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hitomi karasuma",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 3423,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
