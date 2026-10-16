@@ -636972,5 +636972,140 @@
     "sum": 127111579,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20264
+    },
+    "date": 1792123363324,
+    "duration": 200202,
+    "left": {
+      "bet_amount": 1138022,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Isao jinrai",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2703347,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Kyaga-hell",
+      "normal_bettors": 32,
+      "win_streak": -5
+    },
+    "sum": 127146596,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9102
+    },
+    "date": 1792123513321,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 2077763,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Orsted_w",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1345383,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Papillonnage matchouli",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 127126332,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27782
+    },
+    "date": 1792123677335,
+    "duration": 110008,
+    "left": {
+      "bet_amount": 2073791,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Roppen heimer EX FF",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1557590,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Yashiro EX2",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 127132200,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14699
+    },
+    "date": 1792123903524,
+    "duration": 164001,
+    "left": {
+      "bet_amount": 2312488,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Sentro EX7",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171526,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Reimu hm",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 127152791,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792124053737,
+    "duration": 90009,
+    "left": {
+      "bet_amount": 998963,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Brian griffin",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5626912,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Power kung fu man",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 127160191,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
