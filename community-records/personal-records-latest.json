@@ -639481,5 +639481,113 @@
     "sum": 127212989,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16842
+    },
+    "date": 1792144181728,
+    "duration": 126201,
+    "left": {
+      "bet_amount": 2110499,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Nanaya_reaver",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208224,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Blue mary 02um",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 127180143,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24598
+    },
+    "date": 1792144331725,
+    "duration": 89996,
+    "left": {
+      "bet_amount": 866350,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Charlie frost",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3707642,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Subterranean rose",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 127189709,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792144537926,
+    "duration": 152000,
+    "left": {
+      "bet_amount": 3097636,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Small ryu EX3",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194299,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Tatsuki",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "sum": 127195419,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21035
+    },
+    "date": 1792144722130,
+    "duration": 130004,
+    "left": {
+      "bet_amount": 2313647,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Azrael",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 770383,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Scream",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 127195420,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
