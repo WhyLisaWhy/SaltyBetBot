@@ -644688,5 +644688,113 @@
     "sum": 127350165,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16686
+    },
+    "date": 1792182025727,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 775090,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Silvermoon",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5751441,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Cute syakoya",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 127355722,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792182215927,
+    "duration": 125996,
+    "left": {
+      "bet_amount": 2276211,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Yuuki terumi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 813950,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Unlaughmaker",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 127357965,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23639
+    },
+    "date": 1792182422125,
+    "duration": 146133,
+    "left": {
+      "bet_amount": 1086235,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fakir",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2348437,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "New age king",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 127357964,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35004
+    },
+    "date": 1792182602329,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 800538,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Black_widoraemon",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2908999,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Mastr Hand",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 127368789,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
