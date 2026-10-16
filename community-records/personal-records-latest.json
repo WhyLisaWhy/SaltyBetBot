@@ -644283,5 +644283,86 @@
     "sum": 2783,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792177524325,
+    "duration": 210165,
+    "left": {
+      "bet_amount": 139744,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Drdoom",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 436551,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sonia rotd",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6339
+    },
+    "date": 1792177738524,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 185852,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kazunoko's yun",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 334559,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Racing miku 2014ev",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 6339,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792177914524,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 352145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "W buffalo_n",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 302929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Bs agumon",
+      "normal_bettors": 45,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
