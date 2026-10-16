@@ -643284,5 +643284,113 @@
     "sum": 127673883,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21700
+    },
+    "date": 1792170242524,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 2137540,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Shinzero",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 988814,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Goenitz EX3",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "sum": 127673884,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 767
+    },
+    "date": 1792170476762,
+    "duration": 174241,
+    "left": {
+      "bet_amount": 964816,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Goten gt",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1985011,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Billy kane ff1",
+      "normal_bettors": 29,
+      "win_streak": 0
+    },
+    "sum": 127652184,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23135
+    },
+    "date": 1792170672924,
+    "duration": 136184,
+    "left": {
+      "bet_amount": 1727968,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Haohmaru-kofm",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1480894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Sakura haruno shippuden",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 127653761,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24471
+    },
+    "date": 1792170826926,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 1970546,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Garuda",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1068042,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Fullmetal frank archer",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "sum": 127630626,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
