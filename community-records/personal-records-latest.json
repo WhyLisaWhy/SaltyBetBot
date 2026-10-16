@@ -637645,5 +637645,140 @@
     "sum": 127302847,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792127912727,
+    "duration": 82000,
+    "left": {
+      "bet_amount": 14063610,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Captain falcon mythos",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 955538,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Cdimario",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "sum": 127346517,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31447
+    },
+    "date": 1792128064933,
+    "duration": 94005,
+    "left": {
+      "bet_amount": 3172314,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Jamm",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 978219,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Dr.minerva",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 127346518,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1753
+    },
+    "date": 1792128225137,
+    "duration": 100213,
+    "left": {
+      "bet_amount": 949519,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chaka EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3287452,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Keeper of k",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 127356120,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14965
+    },
+    "date": 1792128431126,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1620326,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Deluxe ai",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2256962,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Shuu",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 127354367,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31610
+    },
+    "date": 1792128621329,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 2979110,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Igniz scarlet",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 940794,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider double",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 127365040,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
