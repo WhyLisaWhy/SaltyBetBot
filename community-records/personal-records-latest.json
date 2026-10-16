@@ -638023,5 +638023,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3010
+    },
+    "date": 1792130735129,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 231187,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Prismatic jam",
+      "normal_bettors": 43,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 80259,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jin chonrei rb2",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 3010,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4042
+    },
+    "date": 1792130965329,
+    "duration": 176203,
+    "left": {
+      "bet_amount": 241184,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Kamitsurugi",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 114861,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Ness",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 4042,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792131175335,
+    "duration": 150010,
+    "left": {
+      "bet_amount": 320166,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shiki_sv",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103272,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Yuudachi kai ni",
+      "normal_bettors": 28,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
