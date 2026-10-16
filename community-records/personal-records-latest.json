@@ -636864,5 +636864,113 @@
     "sum": 127139826,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20537
+    },
+    "date": 1792122602521,
+    "duration": 131929,
+    "left": {
+      "bet_amount": 673855,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Deluxe lin",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3170885,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Octor",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 127139927,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16329
+    },
+    "date": 1792122742727,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 1200898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yashaou",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2959138,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Deluxe cassandra",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 127144264,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39276
+    },
+    "date": 1792122882735,
+    "duration": 85993,
+    "left": {
+      "bet_amount": 3853721,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Rachel alucard",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1190360,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Felden",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 127150855,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17271
+    },
+    "date": 1792123106926,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 1104063,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mamiya EX",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2273452,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Regalo",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 127111579,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
