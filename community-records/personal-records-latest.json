@@ -637107,5 +637107,111 @@
     "sum": 127160191,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13908
+    },
+    "date": 1792124243924,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 4747584,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Asha",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 922183,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kenpachi zaraki",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 127160192,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22422
+    },
+    "date": 1792124490128,
+    "duration": 190203,
+    "left": {
+      "bet_amount": 1658960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "G lancer",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1524798,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Injustice doomsday",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 127162886,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1792124740320,
+    "duration": 186197,
+    "left": {
+      "bet_amount": 985269,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Homer simpson",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3028429,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Dejiko",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 127183220,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25939
+    },
+    "date": 1792124980538,
+    "duration": 180213,
+    "left": {
+      "bet_amount": 2800171,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dragon EX",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1434759,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Heat-genblem",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 127183220,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
