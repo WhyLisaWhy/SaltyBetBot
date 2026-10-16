@@ -644472,5 +644472,32 @@
     "sum": 8471,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792179201128,
+    "duration": 265761,
+    "left": {
+      "bet_amount": 487365,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Bs agumon",
+      "normal_bettors": 44,
+      "win_streak": 11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 314960,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Ninja golf",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
