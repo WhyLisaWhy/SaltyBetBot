@@ -646254,5 +646254,113 @@
     "sum": 127528407,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17062
+    },
+    "date": 1792191965731,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 1334047,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cream the rabbit",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 948386,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Ebisuemon",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 127529633,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32972
+    },
+    "date": 1792192085727,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 4150952,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "R.lightning",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 852694,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Natsuka fuou",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 127512571,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9338
+    },
+    "date": 1792192265935,
+    "duration": 130209,
+    "left": {
+      "bet_amount": 744798,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kuroko EX2",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3098877,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Lancer EX2",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 127519291,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19198
+    },
+    "date": 1792192456128,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 1063005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Element kyo",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5009636,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Shiva",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 127509953,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
