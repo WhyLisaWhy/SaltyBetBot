@@ -642825,5 +642825,140 @@
     "sum": 127388131,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23083
+    },
+    "date": 1792167448127,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1479742,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mrkarate",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 996289,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Fujibayashi suzu",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 127448077,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20388
+    },
+    "date": 1792167642329,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 755117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tung fu rue special",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2075234,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Chisa tsukamoto",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "sum": 127481585,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41811
+    },
+    "date": 1792167772527,
+    "duration": 73996,
+    "left": {
+      "bet_amount": 1083066,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Suneo",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1773429,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Hi_guma",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 127488932,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22719
+    },
+    "date": 1792167948735,
+    "duration": 120193,
+    "left": {
+      "bet_amount": 952770,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Soulgen",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1717323,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Schlussel",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 127554850,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25904
+    },
+    "date": 1792168082921,
+    "duration": 80174,
+    "left": {
+      "bet_amount": 1792546,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Gori",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1071975,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Joe swanson",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 127532131,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
