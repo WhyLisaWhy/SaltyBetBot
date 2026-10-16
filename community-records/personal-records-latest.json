@@ -642690,5 +642690,140 @@
     "sum": 127460672,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36669
+    },
+    "date": 1792166601531,
+    "duration": 180211,
+    "left": {
+      "bet_amount": 2116434,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Bruno bucciarati",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 851794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kunio_k",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 127442103,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20089
+    },
+    "date": 1792166825726,
+    "duration": 174197,
+    "left": {
+      "bet_amount": 750082,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Magatu",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2548436,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Freedom -meteor-",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 127405434,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23439
+    },
+    "date": 1792166991724,
+    "duration": 105994,
+    "left": {
+      "bet_amount": 2112017,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Ootani reimu",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 826846,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Omega shenron",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 127411301,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1237
+    },
+    "date": 1792167131926,
+    "duration": 85995,
+    "left": {
+      "bet_amount": 3765335,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Maoko",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 817005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucario",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 127387862,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43440
+    },
+    "date": 1792167308122,
+    "duration": 110195,
+    "left": {
+      "bet_amount": 1555496,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Pairon",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1083766,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Joseph joestar EX3",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "sum": 127388131,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
