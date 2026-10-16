@@ -641479,5 +641479,138 @@
     "sum": 127225883,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 755
+    },
+    "date": 1792158509126,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 4499628,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Wyvern rhadamanthys",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092765,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kuma CVS",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 127230267,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1792158679330,
+    "duration": 116205,
+    "left": {
+      "bet_amount": 1439349,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Jeice",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2930601,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Ssj3 gotenks",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "sum": 127230451,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38280
+    },
+    "date": 1792158849330,
+    "duration": 116007,
+    "left": {
+      "bet_amount": 973803,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Azusa hinomori",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2373424,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Android 16 EX3",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 127230451,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21187
+    },
+    "date": 1792159053527,
+    "duration": 149958,
+    "left": {
+      "bet_amount": 1983002,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Classic geese howard",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1345069,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Serena corsair",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 127192171,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24686
+    },
+    "date": 1792159183725,
+    "duration": 74198,
+    "left": {
+      "bet_amount": 761330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Heihachi m",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3190954,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Masked rider agito",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 127206391,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
