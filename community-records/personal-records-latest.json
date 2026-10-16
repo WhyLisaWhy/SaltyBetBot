@@ -637510,5 +637510,140 @@
     "sum": 127211525,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19147
+    },
+    "date": 1792127068130,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 2927935,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Airi",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1120995,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Metal sonic",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 127230460,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792127268326,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 2583811,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Pannacotta fugo",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1602231,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Marika yamagata",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 127237744,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24340
+    },
+    "date": 1792127474525,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 837285,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cooler dbh",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2669010,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Masako(emanon)",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 127237746,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10296
+    },
+    "date": 1792127630527,
+    "duration": 95995,
+    "left": {
+      "bet_amount": 975556,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Beerus, god of destruction",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1302567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Addict eyes tohno",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 127313143,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44773
+    },
+    "date": 1792127770726,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 1121983,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Q-d",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1105555,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Tukuruyo",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 127302847,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
