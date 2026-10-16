@@ -643149,5 +643149,140 @@
     "sum": 127666447,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15889
+    },
+    "date": 1792169459936,
+    "duration": 120211,
+    "left": {
+      "bet_amount": 827430,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Houjuu nue",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2478630,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Hanaqo",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "sum": 127666451,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18672
+    },
+    "date": 1792169635929,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 714360,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "E nagamori",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2158981,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Beastmaster",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 127671722,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8769
+    },
+    "date": 1792169762121,
+    "duration": 66194,
+    "left": {
+      "bet_amount": 4547879,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "A-minagi",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1052200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sergeant r-a",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 127677848,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31371
+    },
+    "date": 1792169892126,
+    "duration": 70006,
+    "left": {
+      "bet_amount": 971301,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "K-bw v2",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6311409,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Diabolic blackheart",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 127669079,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792170066396,
+    "duration": 114071,
+    "left": {
+      "bet_amount": 862841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Blaque",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3588928,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Chousokabe motochika",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 127673883,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
