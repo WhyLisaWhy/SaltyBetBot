@@ -654624,5 +654624,167 @@
     "sum": 127366084,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23155
+    },
+    "date": 1792257389528,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 1666851,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Kyouken wakamoto",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1352947,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "G lancer",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 127334652,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18657
+    },
+    "date": 1792257539772,
+    "duration": 90245,
+    "left": {
+      "bet_amount": 2041136,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Goku z2",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1046259,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Erim",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 127311497,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37064
+    },
+    "date": 1792257685728,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 921725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kyo kusanagi 96",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2621015,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Princess silver",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 127292840,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34663
+    },
+    "date": 1792257875924,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 2649814,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Dies irae",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1316145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Leonard carlyle",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 127305693,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33255
+    },
+    "date": 1792258020128,
+    "duration": 84203,
+    "left": {
+      "bet_amount": 999648,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Miki sayaka",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1938892,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "C. viper",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 127271030,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28797
+    },
+    "date": 1792258260326,
+    "duration": 180198,
+    "left": {
+      "bet_amount": 1172573,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Decarabia",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1381687,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shin akuma dd",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 127237775,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
