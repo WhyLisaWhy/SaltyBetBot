@@ -657324,5 +657324,113 @@
     "sum": 128394344,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14936
+    },
+    "date": 1792277441527,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 945527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Metalman mvc",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3331249,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ecila",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 128412055,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792277611528,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 3771600,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Roa EX3",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 972014,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sensei ken",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 128416276,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 655
+    },
+    "date": 1792277821725,
+    "duration": 154201,
+    "left": {
+      "bet_amount": 870838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The cooler yashiro",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3868792,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Aleti",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 128416280,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24817
+    },
+    "date": 1792277961924,
+    "duration": 84198,
+    "left": {
+      "bet_amount": 1750447,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "K-core",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 858794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Blue worker",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 128416428,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
