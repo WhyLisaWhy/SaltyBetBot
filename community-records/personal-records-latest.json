@@ -649332,5 +649332,59 @@
     "sum": 127484226,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8160
+    },
+    "date": 1792213684728,
+    "duration": 200202,
+    "left": {
+      "bet_amount": 4743366,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ssf2x ken",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2023084,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Misaka sisters",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 127456753,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12261
+    },
+    "date": 1792213830930,
+    "duration": 85989,
+    "left": {
+      "bet_amount": 741278,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dink smallwood revengeance",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2776827,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Sakura svc chaos",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 127448593,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
