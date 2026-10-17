@@ -657675,5 +657675,140 @@
     "sum": 128342957,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18507
+    },
+    "date": 1792279925327,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 1219471,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Reaper",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1804959,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Pasity",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 128343725,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22580
+    },
+    "date": 1792280119527,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1250501,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Goenitz",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2239103,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Ironhide",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 128356102,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792280249728,
+    "duration": 64204,
+    "left": {
+      "bet_amount": 1146200,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Fw_gigan",
+      "normal_bettors": 17,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2550485,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Matsumura karate",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 128395816,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18504
+    },
+    "date": 1792280431727,
+    "duration": 121999,
+    "left": {
+      "bet_amount": 1064253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kiyoko",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1821603,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Electro recharged",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 128395817,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792280701926,
+    "duration": 209998,
+    "left": {
+      "bet_amount": 1837152,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Blender",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366787,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kotonoha-sama",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 128377313,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
