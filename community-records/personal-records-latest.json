@@ -650331,5 +650331,140 @@
     "sum": 3670,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4661
+    },
+    "date": 1792220562127,
+    "duration": 95991,
+    "left": {
+      "bet_amount": 63030,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Temtan",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 309063,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Aoko aozaki",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 4661,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5598
+    },
+    "date": 1792220706325,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 81431,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alucard (v.2)",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 345110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Garuda",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 5598,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6898
+    },
+    "date": 1792220902525,
+    "duration": 136198,
+    "left": {
+      "bet_amount": 355345,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ninja_kun",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116563,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "First role mayu",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 6898,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9118
+    },
+    "date": 1792221162727,
+    "duration": 200202,
+    "left": {
+      "bet_amount": 127471,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Great wario",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 378629,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Evil barney",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 9118,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12116
+    },
+    "date": 1792221326745,
+    "duration": 104017,
+    "left": {
+      "bet_amount": 48066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Storm-owl",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 532932,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hisui EX",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "sum": 12116,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
