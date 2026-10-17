@@ -656244,5 +656244,140 @@
     "sum": 127418598,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16214
+    },
+    "date": 1792267299533,
+    "duration": 104206,
+    "left": {
+      "bet_amount": 1353212,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Okina",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 909210,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Tenkochan EX",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 127394864,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21357
+    },
+    "date": 1792267445528,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 1337039,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Emily",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1365460,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Deezer",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 127405630,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34491
+    },
+    "date": 1792267605728,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 756732,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sub-zero EX",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2970145,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Umvc_suika",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 127384273,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12060
+    },
+    "date": 1792267832927,
+    "duration": 167199,
+    "left": {
+      "bet_amount": 2422303,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Alice's gensokyo",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 833627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucifer EX",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 127349782,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792268216126,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 26276,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "War EX2",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107966,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Zankuro EX2",
+      "normal_bettors": 28,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
