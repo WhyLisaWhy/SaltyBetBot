@@ -650196,5 +650196,140 @@
     "sum": 127491870,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20471
+    },
+    "date": 1792219440942,
+    "duration": 141816,
+    "left": {
+      "bet_amount": 935695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Platonic twins",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1734013,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Joe EX3",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 127491871,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792219879732,
+    "duration": 170207,
+    "left": {
+      "bet_amount": 129602,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Storm-owl",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 48632,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Mario 119",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2125
+    },
+    "date": 1792220055725,
+    "duration": 110006,
+    "left": {
+      "bet_amount": 59658,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nick commando EX FF",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 170054,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Hisui EX",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 2125,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2862
+    },
+    "date": 1792220215927,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 216485,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mango sentinel",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61896,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eve silvan",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 2862,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3670
+    },
+    "date": 1792220405930,
+    "duration": 130004,
+    "left": {
+      "bet_amount": 248831,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Buroli",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 68175,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Takuma xiii",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 3670,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
