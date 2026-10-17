@@ -655218,5 +655218,140 @@
     "sum": 127254516,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29881
+    },
+    "date": 1792261060527,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 4385461,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Satoko",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1218566,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jeice",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 127248862,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21257
+    },
+    "date": 1792261214526,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 1333663,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Kousonsyou",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1415131,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Gh-golden silver",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 127257109,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41647
+    },
+    "date": 1792261416730,
+    "duration": 141992,
+    "left": {
+      "bet_amount": 910012,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Raoh",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2211200,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Turn-a",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 127279311,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30154
+    },
+    "date": 1792261610929,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1468048,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Nero claudius",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1234218,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Cool",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 127296134,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16193
+    },
+    "date": 1792261747125,
+    "duration": 76194,
+    "left": {
+      "bet_amount": 1633867,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Chelsea tone",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1045858,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sonic machine",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 127320975,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
