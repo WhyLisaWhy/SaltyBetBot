@@ -651276,5 +651276,140 @@
     "sum": 127563013,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36765
+    },
+    "date": 1792230542125,
+    "duration": 160197,
+    "left": {
+      "bet_amount": 1617164,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Geno",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1651274,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Akane satomura EX2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 127549345,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20888
+    },
+    "date": 1792230698332,
+    "duration": 96205,
+    "left": {
+      "bet_amount": 2624604,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Reika kitakami",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1215567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Suigintou EX9",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 127512580,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792230848326,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 2035113,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "H_witch",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3179917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Mukai-kofm",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "sum": 127556919,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2462
+    },
+    "date": 1792231018530,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 7584443,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ryogi_exvs",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 993032,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Abel ssf4",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 127556918,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21898
+    },
+    "date": 1792231168527,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1577017,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Arena",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1306842,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kagura mutsuki",
+      "normal_bettors": 20,
+      "win_streak": -6
+    },
+    "sum": 127557241,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
