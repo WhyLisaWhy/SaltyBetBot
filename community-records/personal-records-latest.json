@@ -649845,5 +649845,113 @@
     "sum": 127440592,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16137
+    },
+    "date": 1792217145529,
+    "duration": 94004,
+    "left": {
+      "bet_amount": 8580502,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Order-ky",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1660830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sanic",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 127538110,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22391
+    },
+    "date": 1792217341725,
+    "duration": 136190,
+    "left": {
+      "bet_amount": 1512169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Butt",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1763638,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Baki-hanma ex",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 127521973,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10381
+    },
+    "date": 1792217471727,
+    "duration": 76002,
+    "left": {
+      "bet_amount": 2280719,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Boss syndrome goenitz",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 856189,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Saisyuu_dokusyo_bouei_system",
+      "normal_bettors": 12,
+      "win_streak": -9
+    },
+    "sum": 127540931,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24626
+    },
+    "date": 1792217625929,
+    "duration": 94200,
+    "left": {
+      "bet_amount": 974832,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kurokishi",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1772911,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Metaknight",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 127530550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
