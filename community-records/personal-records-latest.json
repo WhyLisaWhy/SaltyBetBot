@@ -656730,5 +656730,32 @@
     "sum": 100691,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 45603
+    },
+    "date": 1792272025128,
+    "duration": 398204,
+    "left": {
+      "bet_amount": 205735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 400073,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Wakasagi-hime",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 182412,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
