@@ -647577,5 +647577,86 @@
     "sum": 8138,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10256
+    },
+    "date": 1792202167731,
+    "duration": 69991,
+    "left": {
+      "bet_amount": 7883827,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Killer croc",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 836881,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Sai EX2",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 127406239,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23915
+    },
+    "date": 1792202307727,
+    "duration": 85981,
+    "left": {
+      "bet_amount": 830946,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Joker_tohno",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3393534,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Ishtar",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 127407327,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25991
+    },
+    "date": 1792202467927,
+    "duration": 105995,
+    "left": {
+      "bet_amount": 2788133,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "E Ken",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 876195,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ark EX8",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 127413142,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
