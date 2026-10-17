@@ -657432,5 +657432,113 @@
     "sum": 128416428,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18050
+    },
+    "date": 1792278147927,
+    "duration": 125996,
+    "left": {
+      "bet_amount": 2821089,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Awakened-clark",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 883057,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Uzume",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 128428434,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23353
+    },
+    "date": 1792278292128,
+    "duration": 79954,
+    "left": {
+      "bet_amount": 968437,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jivai",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3469007,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Neff",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 128434049,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19410
+    },
+    "date": 1792278442325,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 900598,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mattrex",
+      "normal_bettors": 6,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3653863,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Tannhauser",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 128410696,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792278632326,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1443109,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Ace attorney",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1542957,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gato ex",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 128415455,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
