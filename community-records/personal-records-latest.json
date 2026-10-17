@@ -650763,5 +650763,113 @@
     "sum": 127550520,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13914
+    },
+    "date": 1792226977329,
+    "duration": 236204,
+    "left": {
+      "bet_amount": 4274824,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Asagi EX3",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1026940,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Rosemary applefield",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 127628939,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1117
+    },
+    "date": 1792227171394,
+    "duration": 140074,
+    "left": {
+      "bet_amount": 1929470,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "The world-dio EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1295724,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Raizen",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 127632271,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21664
+    },
+    "date": 1792227361542,
+    "duration": 130012,
+    "left": {
+      "bet_amount": 779675,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Charlotte Aulin",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2781288,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Death adder",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 127633021,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31997
+    },
+    "date": 1792227507726,
+    "duration": 86187,
+    "left": {
+      "bet_amount": 1438977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mika uraki",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1966918,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 127611357,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
