@@ -648306,5 +648306,113 @@
     "sum": 127306361,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30502
+    },
+    "date": 1792206985531,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 1923105,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Pink ranger",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1121226,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gaira EX2",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 127315794,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20661
+    },
+    "date": 1792207195728,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 760560,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chung",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2755364,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Keiji",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 127285292,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17389
+    },
+    "date": 1792207399728,
+    "duration": 149983,
+    "left": {
+      "bet_amount": 2565847,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Saya EX",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1061507,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "17th angel",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 127290953,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22860
+    },
+    "date": 1792207575926,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 3781807,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Lilia",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1055114,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Koishi komeiji",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 127273564,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
