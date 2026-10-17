@@ -650115,5 +650115,86 @@
     "sum": 127459495,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26193
+    },
+    "date": 1792218958924,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 1979055,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Baltan",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 992091,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Syoryuzan kohaku",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 127459496,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23281
+    },
+    "date": 1792219108959,
+    "duration": 90031,
+    "left": {
+      "bet_amount": 1547659,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Simonkin2019",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1310021,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Power lyzer",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 127472455,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792219247125,
+    "duration": 78000,
+    "left": {
+      "bet_amount": 962739,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Harry james potter",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7011308,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Geki de oso",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 127491870,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
