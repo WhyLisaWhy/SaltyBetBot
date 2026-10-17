@@ -654786,5 +654786,113 @@
     "sum": 127237775,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30783
+    },
+    "date": 1792258420360,
+    "duration": 100033,
+    "left": {
+      "bet_amount": 1560669,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Cody(neoneo)",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Reimi",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 127270895,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8303
+    },
+    "date": 1792258646528,
+    "duration": 170200,
+    "left": {
+      "bet_amount": 1961541,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Sigma x1",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1415531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Assasincross",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 127240112,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26935
+    },
+    "date": 1792258836726,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 1774730,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Metool.exe",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1206907,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rena ryuuguu",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 127246079,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25107
+    },
+    "date": 1792258982720,
+    "duration": 85991,
+    "left": {
+      "bet_amount": 779831,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kyoko_sakura EX",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2126323,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Beautiful shermie qyc",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "sum": 127219144,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
