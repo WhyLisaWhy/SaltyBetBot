@@ -651681,5 +651681,113 @@
     "sum": 127563436,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792233266324,
+    "duration": 124197,
+    "left": {
+      "bet_amount": 789650,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Vega Claw",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2899319,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Worcester",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "sum": 127565084,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36801
+    },
+    "date": 1792233462527,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 985253,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Zangiefs'",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1598663,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sculd",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 127565088,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29260
+    },
+    "date": 1792233612528,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 1038878,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Big show",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2433805,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lee pai long",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "sum": 127528287,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37546
+    },
+    "date": 1792233756727,
+    "duration": 83994,
+    "left": {
+      "bet_amount": 810582,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tenchu rikimaru",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1803617,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Super androide 17 hd",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "sum": 127499027,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
