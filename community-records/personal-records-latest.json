@@ -650547,5 +650547,59 @@
     "sum": 37230,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792222383525,
+    "duration": 219990,
+    "left": {
+      "bet_amount": 370889,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Hisui EX",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 387864,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Buroli",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3027
+    },
+    "date": 1792222669731,
+    "duration": 225997,
+    "left": {
+      "bet_amount": 618609,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Aoko aozaki",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 364641,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Evil barney",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 3027,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
