@@ -656379,5 +656379,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1922
+    },
+    "date": 1792268386330,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 105695,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Tetromino",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 49443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Daimon 71113",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 1922,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792268776727,
+    "duration": 330400,
+    "left": {
+      "bet_amount": 32878,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Hannah dundee",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145163,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1898
+    },
+    "date": 1792268972727,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 26693,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Eliza EX",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 172633,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Kairu a",
+      "normal_bettors": 22,
+      "win_streak": -6
+    },
+    "sum": 1898,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
