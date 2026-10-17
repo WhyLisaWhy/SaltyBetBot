@@ -650601,5 +650601,32 @@
     "sum": 3027,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4803
+    },
+    "date": 1792222952924,
+    "duration": 219000,
+    "left": {
+      "bet_amount": 661243,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Buroli",
+      "normal_bettors": 40,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 174501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Aoko aozaki",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 4803,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
