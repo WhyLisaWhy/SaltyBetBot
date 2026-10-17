@@ -654354,5 +654354,140 @@
     "sum": 127206873,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21906
+    },
+    "date": 1792255686123,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 990358,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Black rugal",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1832930,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Happosai",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 127253969,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20327
+    },
+    "date": 1792255872325,
+    "duration": 125939,
+    "left": {
+      "bet_amount": 3740342,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kamui(arrange)",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1328399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rikard hawlett EX7",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 127293635,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2879
+    },
+    "date": 1792256022531,
+    "duration": 96204,
+    "left": {
+      "bet_amount": 901171,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "W-tenko",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8477728,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Regular ass iori",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 127273308,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792256176527,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 1010873,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mewtwo ex",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3205381,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Rid hershel",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 127273614,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26239
+    },
+    "date": 1792256378733,
+    "duration": 145941,
+    "left": {
+      "bet_amount": 1143445,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wind-se",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2887082,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Orochi reichel",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "sum": 127273618,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
