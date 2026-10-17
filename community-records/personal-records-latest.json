@@ -655110,5 +655110,113 @@
     "sum": 127191051,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21273
+    },
+    "date": 1792260379929,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 783086,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sailor jupiter EX2",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1992979,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Gouki sf3",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 127196906,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3449
+    },
+    "date": 1792260530128,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 3052556,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Katakura kojuro_ch",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1245125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Shiranui mai",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 127249615,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7535
+    },
+    "date": 1792260764326,
+    "duration": 174194,
+    "left": {
+      "bet_amount": 1084959,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Batman 2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2331807,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Gaia",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 127251021,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5654
+    },
+    "date": 1792260914330,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2673213,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Negativezero",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353336,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shin EX",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 127254516,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
