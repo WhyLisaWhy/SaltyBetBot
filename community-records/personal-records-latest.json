@@ -652086,5 +652086,167 @@
     "sum": 127483502,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24991
+    },
+    "date": 1792235820326,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 1611857,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Cool",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1248649,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Tessa (tabasa)",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 127461900,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27014
+    },
+    "date": 1792235976529,
+    "duration": 96203,
+    "left": {
+      "bet_amount": 4248453,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Small chibi-moon",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1001519,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Shishin",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 127480965,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792236162528,
+    "duration": 132001,
+    "left": {
+      "bet_amount": 1603625,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Kohaku K",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 13853671,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ninja megazord",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 127453951,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26010
+    },
+    "date": 1792236296726,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 815266,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Balrog EX4",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1804779,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Makoto EX3",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 127453950,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30402
+    },
+    "date": 1792236436925,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 2673857,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Det. garret laurel",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 974377,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Nes mario",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 127509749,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21793
+    },
+    "date": 1792236596927,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1373470,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Rulue",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1137022,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Evil god",
+      "normal_bettors": 17,
+      "win_streak": 7
+    },
+    "sum": 127479347,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
