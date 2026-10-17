@@ -650466,5 +650466,86 @@
     "sum": 12116,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13185
+    },
+    "date": 1792221516927,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 335958,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mango sentinel",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 245948,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Buroli",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 13185,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30279
+    },
+    "date": 1792221699126,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 542011,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Aoko aozaki",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Garuda",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 30279,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37230
+    },
+    "date": 1792222103326,
+    "duration": 344198,
+    "left": {
+      "bet_amount": 596485,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ninja_kun",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 167762,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Evil barney",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 37230,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
