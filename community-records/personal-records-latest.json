@@ -649035,5 +649035,140 @@
     "sum": 127460258,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792211549140,
+    "duration": 92212,
+    "left": {
+      "bet_amount": 878557,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bingo the chao",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6255787,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Princess fine",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 127507452,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 49191
+    },
+    "date": 1792211743329,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 1842137,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Lilith",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1276458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ridley zm",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 127507453,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37536
+    },
+    "date": 1792211947330,
+    "duration": 144004,
+    "left": {
+      "bet_amount": 1767573,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Suparfcmeirin ver.1.15",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2230974,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Gecko moriah",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 127458262,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13188
+    },
+    "date": 1792212163527,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 944202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black witch eva",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2348889,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Pill",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 127504654,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11209
+    },
+    "date": 1792212357727,
+    "duration": 133997,
+    "left": {
+      "bet_amount": 864528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bubblun",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3574547,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Quack",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 127509926,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
