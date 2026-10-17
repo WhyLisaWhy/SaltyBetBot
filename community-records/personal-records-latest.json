@@ -653652,5 +653652,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29664
+    },
+    "date": 1792251284729,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 1234728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mamiya EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1349221,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Ria-10",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 127198076,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30099
+    },
+    "date": 1792251484929,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 2054629,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Orin",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1247445,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gulcasa",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 127224639,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792251701130,
+    "duration": 156204,
+    "left": {
+      "bet_amount": 2043704,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Mukai-kofm",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1893686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Juli & juni",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 127194540,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12850
+    },
+    "date": 1792251901140,
+    "duration": 146014,
+    "left": {
+      "bet_amount": 3073718,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Voltage zero",
+      "normal_bettors": 35,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1207527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Syuren kano",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 127194541,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
