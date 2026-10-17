@@ -647118,5 +647118,86 @@
     "sum": 127373936,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14649
+    },
+    "date": 1792197289928,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 4828684,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Michelangelo",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 847946,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Superbot",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "sum": 127436529,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25230
+    },
+    "date": 1792197416328,
+    "duration": 66399,
+    "left": {
+      "bet_amount": 1149328,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Gign_counter",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1652571,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Kim kaphwan EX3",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 127421880,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792198006527,
+    "duration": 320402,
+    "left": {
+      "bet_amount": 77621,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Steve",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157383,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Trap master makoto",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
