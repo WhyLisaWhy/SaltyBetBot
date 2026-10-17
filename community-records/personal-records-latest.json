@@ -650871,5 +650871,167 @@
     "sum": 127611357,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37006
+    },
+    "date": 1792227661727,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 994635,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wraith",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3497179,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "VanillaIce",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 127634391,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26456
+    },
+    "date": 1792227921929,
+    "duration": 204003,
+    "left": {
+      "bet_amount": 1769783,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Corin",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194659,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Fordy",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 127644806,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34313
+    },
+    "date": 1792228094129,
+    "duration": 106004,
+    "left": {
+      "bet_amount": 3813886,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Yuka",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1209929,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vega mvc2",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 127618350,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29853
+    },
+    "date": 1792228278326,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 967228,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vanilla gouken",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3871982,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Akatsuki hm",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "sum": 127629139,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24537
+    },
+    "date": 1792228464328,
+    "duration": 130003,
+    "left": {
+      "bet_amount": 1122424,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Luke EX",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1986978,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Kaori yanase",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 127636540,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4422
+    },
+    "date": 1792228664526,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 952038,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Getter1",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6311010,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Petit charat",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 127650232,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
