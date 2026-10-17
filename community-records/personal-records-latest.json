@@ -655677,5 +655677,113 @@
     "sum": 127321998,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19358
+    },
+    "date": 1792264024928,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 913431,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mc-jade type-k",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7638679,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Shiki nanaya",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 127322002,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22052
+    },
+    "date": 1792264154924,
+    "duration": 73997,
+    "left": {
+      "bet_amount": 1653911,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Cir-el",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1859896,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Robo-ky XX",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 127324311,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5619
+    },
+    "date": 1792264301126,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 1599372,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Seruzad",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 937684,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Petora",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 127302259,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36120
+    },
+    "date": 1792264445128,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 792052,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chris wayne",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2104328,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Venom MMV",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 127305542,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
