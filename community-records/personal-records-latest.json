@@ -654057,5 +654057,140 @@
     "sum": 127221164,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30358
+    },
+    "date": 1792253908729,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 1114988,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Mad grinder",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1201653,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Artoria pendragon",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 127204187,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3782
+    },
+    "date": 1792254118951,
+    "duration": 150020,
+    "left": {
+      "bet_amount": 2380229,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Blue ranger",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1686075,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mega piccolo",
+      "normal_bettors": 20,
+      "win_streak": -8
+    },
+    "sum": 127231662,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792254325127,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 8680830,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "J.max",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1129728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lee f22",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 127236990,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19757
+    },
+    "date": 1792254495327,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 1279058,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Wild leona",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1752031,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Mario smrpg",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 127236989,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792254619331,
+    "duration": 64004,
+    "left": {
+      "bet_amount": 930445,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Koldan",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 14962267,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Super goku",
+      "normal_bettors": 20,
+      "win_streak": -8
+    },
+    "sum": 127251252,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
