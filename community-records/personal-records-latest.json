@@ -652572,5 +652572,113 @@
     "sum": 127372093,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 951
+    },
+    "date": 1792238554529,
+    "duration": 60003,
+    "left": {
+      "bet_amount": 994366,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Air fighter vega",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5375114,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Sakura matou",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 127352101,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18064
+    },
+    "date": 1792238750726,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 1250382,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Miyoshi karin",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1410886,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Daga-ru",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 127352277,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33958
+    },
+    "date": 1792238964928,
+    "duration": 160191,
+    "left": {
+      "bet_amount": 994345,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Aihara natsumi",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4453607,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Piccolo sb",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 127372370,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38905
+    },
+    "date": 1792239160931,
+    "duration": 136003,
+    "left": {
+      "bet_amount": 1205778,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Sonic the hedgehog",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1604520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kana isolde as",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 127338412,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
