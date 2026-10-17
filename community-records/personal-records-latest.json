@@ -652950,5 +652950,113 @@
     "sum": 127202983,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792241304728,
+    "duration": 166203,
+    "left": {
+      "bet_amount": 2493479,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kirisima kyoko",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2062058,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Deidara",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 127215644,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 633
+    },
+    "date": 1792241514928,
+    "duration": 156200,
+    "left": {
+      "bet_amount": 3971298,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Spitfire_m",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1044232,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Rosie",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 127215643,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33339
+    },
+    "date": 1792241675135,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 1365535,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Yuuka",
+      "normal_bettors": 25,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1236067,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Kilyousuke ex",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 127215810,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24885
+    },
+    "date": 1792241849130,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 1025540,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sakura ccs-qoh",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1712158,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Grimace",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 127182471,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
