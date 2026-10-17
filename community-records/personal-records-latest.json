@@ -653922,5 +653922,140 @@
     "sum": 127249229,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9203
+    },
+    "date": 1792253068128,
+    "duration": 75975,
+    "left": {
+      "bet_amount": 1975105,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Akys",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 855517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Darkrai",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 127210706,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20334
+    },
+    "date": 1792253308375,
+    "duration": 176250,
+    "left": {
+      "bet_amount": 1155448,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Tanya",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1259826,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Aladdin EX3",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 127214674,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21390
+    },
+    "date": 1792253462525,
+    "duration": 100144,
+    "left": {
+      "bet_amount": 1400310,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Morilen",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1048917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chonshu EX3",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 127194340,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32021
+    },
+    "date": 1792253608528,
+    "duration": 90006,
+    "left": {
+      "bet_amount": 1030052,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 12,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2955275,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Shermie as",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 127210122,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16977
+    },
+    "date": 1792253758747,
+    "duration": 96210,
+    "left": {
+      "bet_amount": 2041920,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shin EX",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1262835,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Zeroko EX3",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 127221164,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
