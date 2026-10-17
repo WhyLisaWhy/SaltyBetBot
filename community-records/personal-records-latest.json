@@ -647550,5 +647550,32 @@
     "sum": 5970,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8138
+    },
+    "date": 1792200522128,
+    "duration": 137788,
+    "left": {
+      "bet_amount": 182022,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Trap master makoto",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1012863,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 28,
+      "name": "Death dhl",
+      "normal_bettors": 46,
+      "win_streak": 22
+    },
+    "sum": 8138,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
