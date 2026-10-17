@@ -647199,5 +647199,113 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2308
+    },
+    "date": 1792198220726,
+    "duration": 154199,
+    "left": {
+      "bet_amount": 175809,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "A-haoumaru",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 109637,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nui harime ex",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 2308,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3729
+    },
+    "date": 1792198376728,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 250841,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Tomuni x jinmen",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 102264,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "King_leo",
+      "normal_bettors": 26,
+      "win_streak": -10
+    },
+    "sum": 3729,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5227
+    },
+    "date": 1792198576926,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 388236,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Supermariokart",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 72338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Goku ssb kaio-ken x10",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 5227,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792198686925,
+    "duration": 50002,
+    "left": {
+      "bet_amount": 126202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Magma",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 262716,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Street fighters",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
