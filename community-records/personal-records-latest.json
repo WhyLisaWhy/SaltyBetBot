@@ -656622,5 +656622,113 @@
     "sum": 84554,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36378
+    },
+    "date": 1792270856322,
+    "duration": 346193,
+    "left": {
+      "bet_amount": 328274,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Medicine melancholy",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 25263,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Wakasagi-hime",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 92317,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 55939
+    },
+    "date": 1792271110526,
+    "duration": 193993,
+    "left": {
+      "bet_amount": 189731,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Detton",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 211552,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Foxy-kofm",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 55939,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31762
+    },
+    "date": 1792271286526,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 57378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Zankuro EX2",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 327435,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 95617,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25173
+    },
+    "date": 1792271572934,
+    "duration": 226207,
+    "left": {
+      "bet_amount": 95037,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Wakasagi-hime",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 390243,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Foxy-kofm",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 100691,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
