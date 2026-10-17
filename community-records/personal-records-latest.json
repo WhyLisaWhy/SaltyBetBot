@@ -649953,5 +649953,167 @@
     "sum": 127530550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792217821931,
+    "duration": 136005,
+    "left": {
+      "bet_amount": 1850711,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Weiss daemon bride",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1041294,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Sailor mars EX2",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 127505924,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17249
+    },
+    "date": 1792218042125,
+    "duration": 160002,
+    "left": {
+      "bet_amount": 946782,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Joker_tohno",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2018997,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Destoroyah_ex",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 127505923,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25512
+    },
+    "date": 1792218198327,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 3168150,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Sigma x1",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1170565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "K-failurer",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 127488674,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21033
+    },
+    "date": 1792218452536,
+    "duration": 194212,
+    "left": {
+      "bet_amount": 941026,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Weather dopant",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2252796,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 127463162,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28003
+    },
+    "date": 1792218612727,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 2057543,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Xaphan",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1293279,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mezu EX4",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 127442129,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792218788726,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2359047,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Chrysalis",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1087769,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Devil man",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 127459495,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
