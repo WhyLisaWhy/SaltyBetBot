@@ -647793,5 +647793,140 @@
     "sum": 127376928,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1078
+    },
+    "date": 1792203608929,
+    "duration": 160204,
+    "left": {
+      "bet_amount": 1184020,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jivatma",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4138880,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Mr.ganon",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 127352283,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792203744940,
+    "duration": 76014,
+    "left": {
+      "bet_amount": 901672,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bat",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6840396,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Kyosuke",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "sum": 127352592,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15383
+    },
+    "date": 1792203945125,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 988563,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sharaku",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2873827,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Karnov ex",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 127352591,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27445
+    },
+    "date": 1792204135328,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 1802417,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Xiayu",
+      "normal_bettors": 15,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3268047,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Umaibou nadeko",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "sum": 127357855,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31556
+    },
+    "date": 1792204311329,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 905465,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fcmeirin EX2",
+      "normal_bettors": 16,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5434339,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Lenneth vp",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 127330410,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
