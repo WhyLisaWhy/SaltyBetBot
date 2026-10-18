@@ -665748,5 +665748,113 @@
     "sum": 2326,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2650
+    },
+    "date": 1792335547325,
+    "duration": 124198,
+    "left": {
+      "bet_amount": 61816,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vice xiii",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 263512,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Makoto sawatari",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 2650,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792335827527,
+    "duration": 224207,
+    "left": {
+      "bet_amount": 117192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuki nbc",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 169295,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Liu-kang mk2",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2614
+    },
+    "date": 1792336133722,
+    "duration": 246192,
+    "left": {
+      "bet_amount": 167096,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Reia bizet",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 190806,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dlanor a. knox",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 2614,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792336470127,
+    "duration": 276408,
+    "left": {
+      "bet_amount": 410708,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Athena heidern",
+      "normal_bettors": 32,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 33661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mr_shihan_ky",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
