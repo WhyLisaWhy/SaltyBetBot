@@ -666018,5 +666018,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23596
+    },
+    "date": 1792338673800,
+    "duration": 146081,
+    "left": {
+      "bet_amount": 1890744,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Mvc2 captain america",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 941381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tokiko EX2",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 129147416,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22046
+    },
+    "date": 1792338787940,
+    "duration": 54213,
+    "left": {
+      "bet_amount": 1830674,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Sunflower fairy",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 898978,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Samchay ex",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 129123820,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12590
+    },
+    "date": 1792338953928,
+    "duration": 105976,
+    "left": {
+      "bet_amount": 774190,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tylor",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4014849,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Yumel",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 129101774,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792339154132,
+    "duration": 146005,
+    "left": {
+      "bet_amount": 3143387,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Fighter fly",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 716568,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Atusi",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129104195,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
