@@ -659592,5 +659592,113 @@
     "sum": 2073,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2769
+    },
+    "date": 1792292595327,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 230088,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Myzr delta",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 111066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jubei mitsuyoshi",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "sum": 2769,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4090
+    },
+    "date": 1792292911524,
+    "duration": 262158,
+    "left": {
+      "bet_amount": 335020,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Rei chibi",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 40917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Omega zero svc chaos",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 4090,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792293105727,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 81167,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Warlock 3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 244248,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Fair akuma",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6127
+    },
+    "date": 1792293335925,
+    "duration": 174203,
+    "left": {
+      "bet_amount": 249387,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Android 16 EX3",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93471,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gander",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 6127,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
