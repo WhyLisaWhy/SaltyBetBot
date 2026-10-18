@@ -666126,5 +666126,140 @@
     "sum": 129104195,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13868
+    },
+    "date": 1792339324338,
+    "duration": 110210,
+    "left": {
+      "bet_amount": 743559,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Baldi",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2202907,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Vegeta gt",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 129104196,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16927
+    },
+    "date": 1792339504521,
+    "duration": 126195,
+    "left": {
+      "bet_amount": 1031496,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yuri EX2",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1259040,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Wif",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 129108848,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38962
+    },
+    "date": 1792339688526,
+    "duration": 129926,
+    "left": {
+      "bet_amount": 934454,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cursor",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2053064,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Temjin arrange",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 129122532,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3180
+    },
+    "date": 1792339840725,
+    "duration": 96204,
+    "left": {
+      "bet_amount": 2044623,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "V. joe",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 807663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Angela sd",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 129083570,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30186
+    },
+    "date": 1792339960720,
+    "duration": 65994,
+    "left": {
+      "bet_amount": 2206285,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Fukumen senshi",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 653260,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Leon kennedy",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 129084825,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
