@@ -659376,5 +659376,113 @@
     "sum": 128402744,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792290757996,
+    "duration": 196257,
+    "left": {
+      "bet_amount": 1646370,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Hamster",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1691316,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Kaguya houraisan EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 128406742,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1341
+    },
+    "date": 1792290894525,
+    "duration": 76600,
+    "left": {
+      "bet_amount": 2537963,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Magic dunker EX FF",
+      "normal_bettors": 22,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 683748,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Makoto(*zenkai*)",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 128406741,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792291308328,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 34264,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Claus",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 116052,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Warlock 3",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2002
+    },
+    "date": 1792291508324,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 112411,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Fair akuma",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 54687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tatami",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "sum": 2002,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
