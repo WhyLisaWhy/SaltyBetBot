@@ -667557,5 +667557,113 @@
     "sum": 129213099,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27402
+    },
+    "date": 1792348493526,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 1613675,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Nash",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1107689,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bobby ologun",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 129214068,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792348699726,
+    "duration": 152196,
+    "left": {
+      "bet_amount": 3834401,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Mudman EX3",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 937059,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pocket akumo",
+      "normal_bettors": 7,
+      "win_streak": 0
+    },
+    "sum": 129253024,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36972
+    },
+    "date": 1792348849926,
+    "duration": 96193,
+    "left": {
+      "bet_amount": 1872167,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Racing miku 2014ev",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 803095,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Aruru(yuka)",
+      "normal_bettors": 10,
+      "win_streak": 5
+    },
+    "sum": 129253025,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23392
+    },
+    "date": 1792349069925,
+    "duration": 159995,
+    "left": {
+      "bet_amount": 1288207,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Crocodile",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1012153,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Kingetemon",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 129335421,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
