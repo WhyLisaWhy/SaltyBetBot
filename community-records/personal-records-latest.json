@@ -658215,5 +658215,140 @@
     "sum": 128420802,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16223
+    },
+    "date": 1792283426132,
+    "duration": 156203,
+    "left": {
+      "bet_amount": 892123,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Alien",
+      "normal_bettors": 17,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1748203,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Yukkuri hibiki",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 128470613,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34701
+    },
+    "date": 1792283576329,
+    "duration": 96202,
+    "left": {
+      "bet_amount": 759247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eiji shirow",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2896229,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Z.e.r.o of n.e.s.t.s",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 128478816,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41083
+    },
+    "date": 1792283720322,
+    "duration": 89984,
+    "left": {
+      "bet_amount": 1016659,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Moraga",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1607145,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Yoriko yasuzumi",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 128444115,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21288
+    },
+    "date": 1792283936527,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 2202442,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Dark warrior 2",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 982407,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Duran",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 128403032,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16918
+    },
+    "date": 1792284096725,
+    "duration": 106191,
+    "left": {
+      "bet_amount": 797220,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gouki",
+      "normal_bettors": 6,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4234181,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Rainbow edition ryu",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 128381744,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
