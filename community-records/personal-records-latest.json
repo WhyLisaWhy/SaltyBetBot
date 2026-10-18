@@ -665127,5 +665127,113 @@
     "sum": 129250570,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 712
+    },
+    "date": 1792331371928,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 1499030,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Tanuki",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 970567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Heiho",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 129218430,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28082
+    },
+    "date": 1792331556126,
+    "duration": 123997,
+    "left": {
+      "bet_amount": 3019670,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Biollente",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 925533,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The end",
+      "normal_bettors": 6,
+      "win_streak": -11
+    },
+    "sum": 129217718,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18421
+    },
+    "date": 1792331736340,
+    "duration": 120211,
+    "left": {
+      "bet_amount": 1547742,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Destroyer akatsuki",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1031455,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Guile machine",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 129226246,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32599
+    },
+    "date": 1792331926528,
+    "duration": 130165,
+    "left": {
+      "bet_amount": 1776797,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Tina",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 969887,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider garren",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "sum": 129207825,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
