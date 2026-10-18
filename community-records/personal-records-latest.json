@@ -661374,5 +661374,113 @@
     "sum": 129169994,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23112
+    },
+    "date": 1792306121927,
+    "duration": 96147,
+    "left": {
+      "bet_amount": 1434745,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Chisa tsukamoto",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 798050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Falco la pasione(nagiai)",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 129182148,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18451
+    },
+    "date": 1792306301926,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 2037309,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Holy ken",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 897103,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mono freaks_n",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 129159036,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19808
+    },
+    "date": 1792306412126,
+    "duration": 65998,
+    "left": {
+      "bet_amount": 862857,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "The savage pumpkin",
+      "normal_bettors": 14,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1446044,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Suicider raoh",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 129167088,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15351
+    },
+    "date": 1792306552131,
+    "duration": 86005,
+    "left": {
+      "bet_amount": 847877,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Elder toguro",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5388872,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "King_ghidorah",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 129178748,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
