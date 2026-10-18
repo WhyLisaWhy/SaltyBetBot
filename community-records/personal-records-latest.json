@@ -667287,5 +667287,113 @@
     "sum": 129147783,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29277
+    },
+    "date": 1792346720130,
+    "duration": 119993,
+    "left": {
+      "bet_amount": 1909468,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Raiden EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2521071,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Taoist",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 129147782,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2027
+    },
+    "date": 1792346876328,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1204558,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Miduma",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1681459,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Yuuka",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129169702,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792347066528,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 2660931,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Blair dame n",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 847150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Bulleta pots",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 129171153,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20399
+    },
+    "date": 1792347196524,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1158058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Matou kariya",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3872021,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Eddie(ex)",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 129171152,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
