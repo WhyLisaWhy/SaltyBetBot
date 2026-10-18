@@ -662913,5 +662913,113 @@
     "sum": 2380,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2696
+    },
+    "date": 1792317925327,
+    "duration": 170202,
+    "left": {
+      "bet_amount": 2699152,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Kagami EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1471411,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Kyoudou senna",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 129236024,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792318075525,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 2980281,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Herb",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 804605,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryu hd",
+      "normal_bettors": 5,
+      "win_streak": -4
+    },
+    "sum": 129240961,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34505
+    },
+    "date": 1792318285526,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 1623470,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Dream madotsuki",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1277565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Q*bert",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 129240960,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33539
+    },
+    "date": 1792318465748,
+    "duration": 120017,
+    "left": {
+      "bet_amount": 833996,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gades",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3560112,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Freedom gundam",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 129206455,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
