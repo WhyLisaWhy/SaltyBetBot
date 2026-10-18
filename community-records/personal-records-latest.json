@@ -663183,5 +663183,140 @@
     "sum": 129207185,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6516
+    },
+    "date": 1792319578528,
+    "duration": 135983,
+    "left": {
+      "bet_amount": 976337,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Super soldier",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1987465,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Blanka sfxt",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129209321,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17190
+    },
+    "date": 1792319728726,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 2542984,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Tsubaki yayoi",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1211267,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Jin CVS",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 129202805,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792319912960,
+    "duration": 120185,
+    "left": {
+      "bet_amount": 3989132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Olof linderoth",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1874028,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Hobgoblin 2009",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129185615,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38658
+    },
+    "date": 1792320082926,
+    "duration": 109964,
+    "left": {
+      "bet_amount": 1461676,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Mr.elecbyte",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 851949,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tarochan",
+      "normal_bettors": 8,
+      "win_streak": 3
+    },
+    "sum": 129185614,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25457
+    },
+    "date": 1792320329135,
+    "duration": 190011,
+    "left": {
+      "bet_amount": 1135528,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Ritsu tainaka",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1835657,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Aladdin EX3",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 129249061,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
