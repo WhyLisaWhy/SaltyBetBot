@@ -668151,5 +668151,111 @@
     "sum": 129247636,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1792353025125,
+    "duration": 169995,
+    "left": {
+      "bet_amount": 867062,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gambit MVC2",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1728852,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Homura sk",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 129271857,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792353205338,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 3556262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Dooj mustachio",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 775500,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dr. doom mvc3",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 129271857,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792353381526,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 610253,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ky Kiske",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2409425,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Karin",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 129271858,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26517
+    },
+    "date": 1792353585531,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 2123703,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Xiayu cvs",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 879397,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Sakura kyoko",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 129271862,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
