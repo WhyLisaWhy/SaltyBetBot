@@ -662886,5 +662886,32 @@
     "sum": 1929,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2380
+    },
+    "date": 1792316810328,
+    "duration": 288203,
+    "left": {
+      "bet_amount": 190167,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "G rugal",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 332812,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "American ninja",
+      "normal_bettors": 18,
+      "win_streak": 5
+    },
+    "sum": 2380,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
