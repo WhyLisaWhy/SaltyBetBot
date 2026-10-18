@@ -663939,5 +663939,140 @@
     "sum": 129383324,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4102
+    },
+    "date": 1792324200326,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 3092125,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Stronk guy",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 963338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mtguile",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 129388658,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23351
+    },
+    "date": 1792324324329,
+    "duration": 64002,
+    "left": {
+      "bet_amount": 1226914,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Kitsune",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 901729,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zinsuke",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "sum": 129384556,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37849
+    },
+    "date": 1792324434520,
+    "duration": 54191,
+    "left": {
+      "bet_amount": 876620,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "R.king",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1263291,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Matsumura karate",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 129415526,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10887
+    },
+    "date": 1792324616528,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 1747896,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Karin",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3036054,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Robo",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 129377677,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792324746727,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 2257297,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Son goku EX3",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 931788,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akumeme",
+      "normal_bettors": 7,
+      "win_streak": 3
+    },
+    "sum": 129383923,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
