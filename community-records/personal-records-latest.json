@@ -662211,5 +662211,140 @@
     "sum": 129203235,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20688
+    },
+    "date": 1792311554166,
+    "duration": 130037,
+    "left": {
+      "bet_amount": 1507638,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Mint ndx",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 714910,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Bardock EX3",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 129185049,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23968
+    },
+    "date": 1792311720330,
+    "duration": 105921,
+    "left": {
+      "bet_amount": 744721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eve b.c",
+      "normal_bettors": 5,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1561231,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Shimo EX",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 129227450,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18896
+    },
+    "date": 1792311936529,
+    "duration": 156204,
+    "left": {
+      "bet_amount": 1464558,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Garou terry",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 984030,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Z-ton 2nd",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 129203482,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 154
+    },
+    "date": 1792312076726,
+    "duration": 86202,
+    "left": {
+      "bet_amount": 790160,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pennywise the clown",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2514202,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Jhons lee",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 129216017,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19638
+    },
+    "date": 1792312206728,
+    "duration": 70003,
+    "left": {
+      "bet_amount": 935988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Stronk guy",
+      "normal_bettors": 7,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2800024,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Satsuki yumiduka EX",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 129216066,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
