@@ -661671,5 +661671,113 @@
     "sum": 129095155,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792307935329,
+    "duration": 160178,
+    "left": {
+      "bet_amount": 1709988,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Snake eyes",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 892962,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vallah",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 129110412,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17081
+    },
+    "date": 1792308089329,
+    "duration": 94005,
+    "left": {
+      "bet_amount": 2359192,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Nightwolf mk3",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 889680,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Missmarvel",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 129110411,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15912
+    },
+    "date": 1792308335526,
+    "duration": 190000,
+    "left": {
+      "bet_amount": 2909385,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Chiester410",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 835316,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chara ge",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "sum": 129116807,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18586
+    },
+    "date": 1792308509729,
+    "duration": 113995,
+    "left": {
+      "bet_amount": 1112156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shana dbfc",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1215354,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Corrupt byakuren",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 129121351,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
