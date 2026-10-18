@@ -659484,5 +659484,113 @@
     "sum": 2002,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2959
+    },
+    "date": 1792291758724,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 165641,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Android 16 EX3",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50111,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Koneko EX",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 2959,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792292038923,
+    "duration": 220198,
+    "left": {
+      "bet_amount": 177333,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ridley other m",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 52003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gander",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792292228921,
+    "duration": 133995,
+    "left": {
+      "bet_amount": 67420,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Red frame",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 198514,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Raiden 512e1",
+      "normal_bettors": 26,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2073
+    },
+    "date": 1792292425126,
+    "duration": 135995,
+    "left": {
+      "bet_amount": 76713,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Wild iori",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 226680,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Satchi",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 2073,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
