@@ -662076,5 +662076,140 @@
     "sum": 129178209,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24868
+    },
+    "date": 1792310583326,
+    "duration": 63999,
+    "left": {
+      "bet_amount": 1797824,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Deluxe cassandra",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 857291,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yasha-hime",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 129179960,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2172
+    },
+    "date": 1792310803610,
+    "duration": 154079,
+    "left": {
+      "bet_amount": 812728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Titi",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2049444,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Ravange",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "sum": 129191657,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4881
+    },
+    "date": 1792311023741,
+    "duration": 164013,
+    "left": {
+      "bet_amount": 971768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Misaka",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2594246,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Orochi ash",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 129189485,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31954
+    },
+    "date": 1792311193926,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 1056727,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Marisa,k",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1780457,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Jotaro",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 129184604,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18186
+    },
+    "date": 1792311366127,
+    "duration": 112200,
+    "left": {
+      "bet_amount": 1607630,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "No.6 akatsuki",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 828918,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Portgas d. ace",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "sum": 129203235,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
