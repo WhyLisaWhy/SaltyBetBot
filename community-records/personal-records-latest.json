@@ -669931,5 +669931,113 @@
     "sum": 129321878,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8732
+    },
+    "date": 1792365460928,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 763393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Umvc_youmu",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3862070,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Neff",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 129319690,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39346
+    },
+    "date": 1792365671128,
+    "duration": 156002,
+    "left": {
+      "bet_amount": 1071898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jiren z2",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1477321,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Rainbow meiling",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 129321413,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1220
+    },
+    "date": 1792365945326,
+    "duration": 214198,
+    "left": {
+      "bet_amount": 849938,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Battler",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2957476,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Judas",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 129349221,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17092
+    },
+    "date": 1792366091526,
+    "duration": 85997,
+    "left": {
+      "bet_amount": 1221960,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Apocalypse ex",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1996097,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Mai tokiha ex",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 129348001,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
