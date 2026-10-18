@@ -662589,5 +662589,113 @@
     "sum": 2958,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792314394527,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 137081,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Luise",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110254,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cammy_a",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2783
+    },
+    "date": 1792314574721,
+    "duration": 120195,
+    "left": {
+      "bet_amount": 52868,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shocker",
+      "normal_bettors": 6,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 245594,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ss6 sei-abab",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 2783,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792314750727,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 240931,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rena ryuuguu",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 59154,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "C.commando",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1929
+    },
+    "date": 1792314944928,
+    "duration": 133985,
+    "left": {
+      "bet_amount": 232137,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "American ninja",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133014,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kaiba seto",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 1929,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
