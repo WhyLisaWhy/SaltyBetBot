@@ -665667,5 +665667,86 @@
     "sum": 2130,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792334976934,
+    "duration": 184208,
+    "left": {
+      "bet_amount": 41670,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Satomi yajima",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 199029,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Gorimaru jr",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1873
+    },
+    "date": 1792335166927,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 205304,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Chrysalis EX",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50006,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dokuganp",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 1873,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2326
+    },
+    "date": 1792335363121,
+    "duration": 135995,
+    "left": {
+      "bet_amount": 34738,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zangief maskered",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 247441,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Heidern 98",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 2326,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
