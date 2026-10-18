@@ -662778,5 +662778,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792315821728,
+    "duration": 114199,
+    "left": {
+      "bet_amount": 348150,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shocker",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 234133,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Rena ryuuguu",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3840
+    },
+    "date": 1792316041733,
+    "duration": 164005,
+    "left": {
+      "bet_amount": 118683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "American ninja",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 407917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Ho seong",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 3840,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792316247927,
+    "duration": 145963,
+    "left": {
+      "bet_amount": 336533,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "G rugal",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 82623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Luise",
+      "normal_bettors": 10,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1929
+    },
+    "date": 1792316462130,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 98725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rena ryuuguu",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 420471,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "American ninja",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 1929,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
