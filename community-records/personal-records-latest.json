@@ -665991,5 +665991,32 @@
     "sum": 43462,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792337919733,
+    "duration": 272804,
+    "left": {
+      "bet_amount": 533734,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Chrysalis EX",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 302682,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Liu-kang mk2",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
