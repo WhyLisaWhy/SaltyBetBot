@@ -661104,5 +661104,140 @@
     "sum": 129215557,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5023
+    },
+    "date": 1792304378525,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 1387712,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Father anderson",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1166374,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Daimon 71113",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129214138,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9706
+    },
+    "date": 1792304554525,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 1516542,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Recca",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 851092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yagami-ad",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 129209115,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6532
+    },
+    "date": 1792304724731,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 1916328,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Jack lantern EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1576400,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Shining gundam EX2",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129214528,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 852
+    },
+    "date": 1792304908954,
+    "duration": 124228,
+    "left": {
+      "bet_amount": 4259930,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kaio helmo",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 935158,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Leone abbacchio ex",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 129219884,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32341
+    },
+    "date": 1792305075127,
+    "duration": 110190,
+    "left": {
+      "bet_amount": 1060841,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Hydron",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1693574,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Raphael 0d",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 129220071,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
