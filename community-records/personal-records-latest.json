@@ -668419,5 +668419,113 @@
     "sum": 129240400,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14604
+    },
+    "date": 1792354748525,
+    "duration": 79993,
+    "left": {
+      "bet_amount": 702167,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tia",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5406940,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Rugal",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 129243319,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6666
+    },
+    "date": 1792354888726,
+    "duration": 86203,
+    "left": {
+      "bet_amount": 2694908,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Task force cheetah",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 756201,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mudman",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "sum": 129245211,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20265
+    },
+    "date": 1792355078735,
+    "duration": 130008,
+    "left": {
+      "bet_amount": 820530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2256533,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kongou-s",
+      "normal_bettors": 26,
+      "win_streak": 10
+    },
+    "sum": 129247077,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26673
+    },
+    "date": 1792355278926,
+    "duration": 139981,
+    "left": {
+      "bet_amount": 1093754,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ryder ssj4",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1243680,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Asuna.exe",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 129226812,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
