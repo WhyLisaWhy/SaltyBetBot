@@ -658971,5 +658971,86 @@
     "sum": 128395553,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10990
+    },
+    "date": 1792288287926,
+    "duration": 160001,
+    "left": {
+      "bet_amount": 4504230,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Rare reimu",
+      "normal_bettors": 22,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 861963,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nyoki",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 128406091,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17703
+    },
+    "date": 1792288464128,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 721663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "E nagamori",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2361071,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Marshall",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 128408190,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38793
+    },
+    "date": 1792288598139,
+    "duration": 80010,
+    "left": {
+      "bet_amount": 1083176,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Date genji",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1579602,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chibi nazrin",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 128413561,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
