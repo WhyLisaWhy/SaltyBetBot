@@ -669337,5 +669337,167 @@
     "sum": 129196993,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 180
+    },
+    "date": 1792361950325,
+    "duration": 100195,
+    "left": {
+      "bet_amount": 782329,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Grandmaster miyako",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3717724,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Nightmare geese",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 129182502,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16809
+    },
+    "date": 1792362074335,
+    "duration": 70010,
+    "left": {
+      "bet_amount": 734132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Uminin",
+      "normal_bettors": 9,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6891071,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Prishe",
+      "normal_bettors": 23,
+      "win_streak": 7
+    },
+    "sum": 129182540,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30888
+    },
+    "date": 1792362150326,
+    "duration": 55925,
+    "left": {
+      "bet_amount": 1461624,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Regice orochi",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1249440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jagi sama",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "sum": 129184327,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30112
+    },
+    "date": 1792362290528,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 3767454,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Ryuji yamazaki",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 848660,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chen juanmin",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 129210185,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16156
+    },
+    "date": 1792362510735,
+    "duration": 160209,
+    "left": {
+      "bet_amount": 2026127,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Kikugoro",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 629706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rinfa",
+      "normal_bettors": 9,
+      "win_streak": 5
+    },
+    "sum": 129216915,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7125
+    },
+    "date": 1792362646732,
+    "duration": 76006,
+    "left": {
+      "bet_amount": 3061199,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Axel kh",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 801542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Trevor B",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 129200759,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
