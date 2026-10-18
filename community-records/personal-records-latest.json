@@ -661941,5 +661941,140 @@
     "sum": 129171040,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28587
+    },
+    "date": 1792309706727,
+    "duration": 144208,
+    "left": {
+      "bet_amount": 971270,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "God bizarro",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1807336,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Hakurei kanade",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 129142494,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13570
+    },
+    "date": 1792309872928,
+    "duration": 106200,
+    "left": {
+      "bet_amount": 740019,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Yoko littner",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1494658,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Tekkamann-lance",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 129157618,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31639
+    },
+    "date": 1792310036927,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1420151,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Carol stanzack",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1006239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "W.nut",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "sum": 129144048,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21201
+    },
+    "date": 1792310207126,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 859621,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Haiyoru_konton",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1468870,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Sion_alien",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 129165978,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1985
+    },
+    "date": 1792310463328,
+    "duration": 200202,
+    "left": {
+      "bet_amount": 1193969,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Goku sayajin",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1054417,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Syo hayate",
+      "normal_bettors": 13,
+      "win_streak": 0
+    },
+    "sum": 129178209,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
