@@ -667800,5 +667800,140 @@
     "sum": 129285543,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29404
+    },
+    "date": 1792350096730,
+    "duration": 99944,
+    "left": {
+      "bet_amount": 1126485,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "00 bigbear",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2103757,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Colonel sanders",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 129263734,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29667
+    },
+    "date": 1792350296927,
+    "duration": 145998,
+    "left": {
+      "bet_amount": 749853,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tony won",
+      "normal_bettors": 7,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3333320,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Shishio",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 129279262,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22889
+    },
+    "date": 1792350457125,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 1295781,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Juli & juni",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1051124,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dan of steel",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 129249595,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25709
+    },
+    "date": 1792350607327,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 1276883,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Pyron",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1323342,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Kung fu master",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129226706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3076
+    },
+    "date": 1792350917525,
+    "duration": 250197,
+    "left": {
+      "bet_amount": 2133944,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Peach toadstool",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2867740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mono freaks",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 129200997,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
