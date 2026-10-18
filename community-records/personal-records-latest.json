@@ -660240,5 +660240,113 @@
     "sum": 128939047,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21978
+    },
+    "date": 1792298924126,
+    "duration": 93996,
+    "left": {
+      "bet_amount": 1968241,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Reject no. 253",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1062249,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wood man",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 128921837,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5692
+    },
+    "date": 1792299096327,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 811871,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rosie",
+      "normal_bettors": 5,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3817637,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Smile mkv",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 128961735,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11905
+    },
+    "date": 1792299310528,
+    "duration": 154201,
+    "left": {
+      "bet_amount": 1317232,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Edgar figaro",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1053101,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "D4 robocop",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 128956043,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792299446526,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 800033,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rikuo",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2994521,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Aussie kano",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 128944138,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
