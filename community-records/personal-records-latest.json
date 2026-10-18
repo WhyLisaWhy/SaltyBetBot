@@ -667935,5 +667935,86 @@
     "sum": 129200997,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27190
+    },
+    "date": 1792351111727,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 1315319,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Lee & ryoko",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1154696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Holy god earth svg",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129205125,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44818
+    },
+    "date": 1792351347745,
+    "duration": 175996,
+    "left": {
+      "bet_amount": 923463,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 2,
+      "name": "Atomic r chelnov",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2001675,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Cci hinako",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 129235385,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6075
+    },
+    "date": 1792351557927,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 1840591,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Blizzard EX3",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3316694,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Johnny blaze",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 129328035,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
