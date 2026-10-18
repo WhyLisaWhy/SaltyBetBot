@@ -657945,5 +657945,167 @@
     "sum": 128357412,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1159
+    },
+    "date": 1792281788935,
+    "duration": 140205,
+    "left": {
+      "bet_amount": 1793262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Goat",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 849856,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Scrafty",
+      "normal_bettors": 10,
+      "win_streak": 0
+    },
+    "sum": 128399801,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4283
+    },
+    "date": 1792281938930,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 1025547,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Akatsuki musashi",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3657083,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Orochi ash",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 128398642,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3506
+    },
+    "date": 1792282079125,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 2071460,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Magical launcher aoko",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 881033,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Darun mister",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "sum": 128394359,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22429
+    },
+    "date": 1792282239124,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1271645,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Hol horse EX",
+      "normal_bettors": 24,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2200735,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sakura EX3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 128395848,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1427
+    },
+    "date": 1792282429327,
+    "duration": 129987,
+    "left": {
+      "bet_amount": 1592749,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Suiseiseki",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1944835,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Minato arisato",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 128408678,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20751
+    },
+    "date": 1792282589528,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 1906840,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Vega mvc2",
+      "normal_bettors": 27,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2315668,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Infant mutant",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 128407251,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
