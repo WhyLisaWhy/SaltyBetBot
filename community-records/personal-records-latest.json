@@ -666747,5 +666747,140 @@
     "sum": 129111635,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792343125326,
+    "duration": 216197,
+    "left": {
+      "bet_amount": 4023266,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Deke cay",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 898496,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Apocalypse EX2",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 129120439,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792343339527,
+    "duration": 154185,
+    "left": {
+      "bet_amount": 1009275,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bills - o destruidor",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1360406,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Hamster",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 129120440,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21434
+    },
+    "date": 1792343515724,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 960806,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Frostman",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1362375,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mess",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 129120439,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22405
+    },
+    "date": 1792343625730,
+    "duration": 50003,
+    "left": {
+      "bet_amount": 1246383,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Another clone ash",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1630129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Johann EX3",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 129150169,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22927
+    },
+    "date": 1792343845926,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 1143320,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rasho-zero",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1039439,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Aoi matsubara",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 129127764,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
