@@ -673873,5 +673873,113 @@
     "sum": 129196127,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20418
+    },
+    "date": 1792396263527,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 1667725,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Ash crimson xiii",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2533468,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Gertrud",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 129195001,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4533
+    },
+    "date": 1792396379725,
+    "duration": 55994,
+    "left": {
+      "bet_amount": 907381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nazuna_inuwaka",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7281666,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Element kofm",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "sum": 129208335,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32831
+    },
+    "date": 1792396563726,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 2002221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chen juanmin",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4095070,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Luthild",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 129208900,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 44213
+    },
+    "date": 1792396719928,
+    "duration": 95994,
+    "left": {
+      "bet_amount": 3243105,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Sentinel",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1012805,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kageryu",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 129224825,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
