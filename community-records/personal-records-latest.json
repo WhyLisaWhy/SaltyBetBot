@@ -670471,5 +670471,113 @@
     "sum": 129423286,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3785
+    },
+    "date": 1792369171927,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 2173948,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Syobo-n",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4024347,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "New mechagodzilla",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 129401567,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1603
+    },
+    "date": 1792369316128,
+    "duration": 84185,
+    "left": {
+      "bet_amount": 791743,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fangore",
+      "normal_bettors": 6,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5702506,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Zz_gundam",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 129403610,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25997
+    },
+    "date": 1792369462125,
+    "duration": 85996,
+    "left": {
+      "bet_amount": 3918796,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Orochi reichel",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2228713,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Brokken",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 129403833,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3435
+    },
+    "date": 1792369676346,
+    "duration": 160016,
+    "left": {
+      "bet_amount": 3946892,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Nanaya_s",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1773808,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Sasquatch",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 129418521,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
