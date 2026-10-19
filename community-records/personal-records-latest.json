@@ -675736,5 +675736,113 @@
     "sum": 129265378,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17418
+    },
+    "date": 1792411447800,
+    "duration": 120041,
+    "left": {
+      "bet_amount": 2582452,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Alder(seraph)",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1746245,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ultimate aizen",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129304394,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26875
+    },
+    "date": 1792411633926,
+    "duration": 130181,
+    "left": {
+      "bet_amount": 1935715,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Yui emelia",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1233379,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jyubei yagyu EX3",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 129316094,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792411768000,
+    "duration": 74070,
+    "left": {
+      "bet_amount": 1263173,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Giant mech hisui",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7322120,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Natural kain",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 129289219,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31526
+    },
+    "date": 1792411944127,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1039247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Neco-arc chaos ac",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1809657,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Fygar",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 129289220,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
