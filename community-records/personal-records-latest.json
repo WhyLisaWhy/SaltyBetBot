@@ -671713,5 +671713,59 @@
     "sum": 129267584,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38016
+    },
+    "date": 1792377398541,
+    "duration": 210214,
+    "left": {
+      "bet_amount": 1931449,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Vice CVS",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1267068,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Devilch",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 129231272,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12599
+    },
+    "date": 1792377527327,
+    "duration": 68600,
+    "left": {
+      "bet_amount": 2366337,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Astragalus",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1154402,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fygar",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 129287534,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
