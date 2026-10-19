@@ -672091,5 +672091,59 @@
     "sum": 40445,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792380865326,
+    "duration": 200164,
+    "left": {
+      "bet_amount": 170529,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Symbiote spider-man",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 802728,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Micky13",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792381101528,
+    "duration": 176196,
+    "left": {
+      "bet_amount": 687953,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ritsu tainaka",
+      "normal_bettors": 46,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 168193,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jack krauser",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
