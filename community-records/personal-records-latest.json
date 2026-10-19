@@ -676168,5 +676168,113 @@
     "sum": 129135317,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18811
+    },
+    "date": 1792414161926,
+    "duration": 150194,
+    "left": {
+      "bet_amount": 2055686,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Death machine mb-59",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3443464,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Hirasaka hatsune-if",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 129139737,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36359
+    },
+    "date": 1792414342127,
+    "duration": 124195,
+    "left": {
+      "bet_amount": 2261324,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Zinc",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1253544,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Solid snake",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 129150906,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14097
+    },
+    "date": 1792414558129,
+    "duration": 159885,
+    "left": {
+      "bet_amount": 997615,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kenshin uesugi",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5406484,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Regin",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 129114547,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20260
+    },
+    "date": 1792414732327,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 972697,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chester cheetah",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1889200,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Sayurin",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 129117142,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
