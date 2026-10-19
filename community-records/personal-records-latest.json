@@ -677869,5 +677869,140 @@
     "sum": 129322822,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9512
+    },
+    "date": 1792424887930,
+    "duration": 113601,
+    "left": {
+      "bet_amount": 4698329,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Lightning bd",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1157928,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Geese ex xi",
+      "normal_bettors": 19,
+      "win_streak": -7
+    },
+    "sum": 129339966,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792425290729,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 139432,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Reika kitakami",
+      "normal_bettors": 43,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 52625,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Aya hasebe",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2129
+    },
+    "date": 1792425440929,
+    "duration": 89985,
+    "left": {
+      "bet_amount": 174330,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Azazel",
+      "normal_bettors": 37,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 57411,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mr.r",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 2129,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2822
+    },
+    "date": 1792425605128,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 213454,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Butthead sagat",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71540,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Aboras",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 2822,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3756
+    },
+    "date": 1792425831329,
+    "duration": 166204,
+    "left": {
+      "bet_amount": 63830,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chris_gb",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 245303,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Flawless specter",
+      "normal_bettors": 40,
+      "win_streak": 8
+    },
+    "sum": 3756,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
