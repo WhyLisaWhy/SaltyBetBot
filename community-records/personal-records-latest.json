@@ -673981,5 +673981,113 @@
     "sum": 129224825,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18786
+    },
+    "date": 1792396874129,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 998731,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Smart-chang",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3699176,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Eyedol",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 129180612,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28617
+    },
+    "date": 1792397080128,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1022943,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hikaru EX3",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2554417,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Chowder and kimchi",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 129161826,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10365
+    },
+    "date": 1792397250373,
+    "duration": 110244,
+    "left": {
+      "bet_amount": 3616933,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Johann EX3",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1221952,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alice buster",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 129133209,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1290
+    },
+    "date": 1792397450557,
+    "duration": 144227,
+    "left": {
+      "bet_amount": 2010226,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Len and w. len",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2476840,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Clonekyo xi",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 129122844,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
