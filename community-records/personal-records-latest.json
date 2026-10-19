@@ -674602,5 +674602,140 @@
     "sum": 129231906,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29842
+    },
+    "date": 1792401497725,
+    "duration": 170195,
+    "left": {
+      "bet_amount": 960957,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 2,
+      "name": "Borer",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3074252,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Fullmetal haggar",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 129250529,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43478
+    },
+    "date": 1792401667925,
+    "duration": 116122,
+    "left": {
+      "bet_amount": 1004428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 11,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3567649,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Dream bison",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 129259768,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792401842189,
+    "duration": 120256,
+    "left": {
+      "bet_amount": 4311974,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Orchid",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 943411,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kunoichi roll",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 129271862,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25900
+    },
+    "date": 1792402102126,
+    "duration": 199999,
+    "left": {
+      "bet_amount": 984610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fukumen senshi",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3791081,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Nipponia nippon",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 129271861,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3949
+    },
+    "date": 1792402274325,
+    "duration": 115984,
+    "left": {
+      "bet_amount": 2695247,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Hina",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1193715,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Commissioner gordon",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129278543,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
