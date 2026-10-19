@@ -677329,5 +677329,113 @@
     "sum": 129278151,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10013
+    },
+    "date": 1792421483730,
+    "duration": 123995,
+    "left": {
+      "bet_amount": 2217396,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hanzou hattori",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1370525,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Peketo EX3",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 129242932,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22554
+    },
+    "date": 1792421649926,
+    "duration": 106198,
+    "left": {
+      "bet_amount": 1829235,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Shun - andromeda",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1145618,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Damned",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129249093,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 521
+    },
+    "date": 1792421854130,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 888928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chibi feilin",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2142399,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Poison qyc",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 129284411,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4208
+    },
+    "date": 1792422094326,
+    "duration": 174195,
+    "left": {
+      "bet_amount": 929473,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mai-ling",
+      "normal_bettors": 10,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3545951,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Super vegeta EX3",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 129284628,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
