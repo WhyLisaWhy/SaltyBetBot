@@ -676627,5 +676627,113 @@
     "sum": 129233658,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41864
+    },
+    "date": 1792416922138,
+    "duration": 110209,
+    "left": {
+      "bet_amount": 2378131,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Warakia",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1383299,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mithra",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 129233659,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4451
+    },
+    "date": 1792417116327,
+    "duration": 140181,
+    "left": {
+      "bet_amount": 1749653,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Mr.big EX3",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1295364,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Koichi hirose (act 3)",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129191795,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23973
+    },
+    "date": 1792417252326,
+    "duration": 79991,
+    "left": {
+      "bet_amount": 3056903,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Fefnir",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1202204,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vile",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 129195082,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31215
+    },
+    "date": 1792417498582,
+    "duration": 192235,
+    "left": {
+      "bet_amount": 1078730,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "K-ko",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2284973,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "A_nayuki",
+      "normal_bettors": 35,
+      "win_streak": 7
+    },
+    "sum": 129204437,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
