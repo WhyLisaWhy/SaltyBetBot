@@ -680621,5 +680621,136 @@
     "sum": 129138691,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1792445602933,
+    "duration": 116107,
+    "left": {
+      "bet_amount": 2724076,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Shin aomizu",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1403460,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Z-akuma EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 129151600,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34925
+    },
+    "date": 1792445773009,
+    "duration": 110085,
+    "left": {
+      "bet_amount": 1653874,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Brocken",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1256835,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Heavyarms custom",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 129151600,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1792445963159,
+    "duration": 126036,
+    "left": {
+      "bet_amount": 1097620,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Save spacemouse!",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7501023,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "David bell",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 129196316,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34624
+    },
+    "date": 1792446137321,
+    "duration": 113989,
+    "left": {
+      "bet_amount": 1066950,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sekibanki",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2536221,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mc meijiang",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "sum": 129196316,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1223
+    },
+    "date": 1792446323554,
+    "duration": 126215,
+    "left": {
+      "bet_amount": 1359052,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Ami bf",
+      "normal_bettors": 23,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3206542,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Ghost rider",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 129210686,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
