@@ -672334,5 +672334,113 @@
     "sum": 129301071,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43496
+    },
+    "date": 1792386347945,
+    "duration": 114419,
+    "left": {
+      "bet_amount": 916780,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Preposterous cirno",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4652848,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Aaaaaaaaaaaahhhhhh!!!",
+      "normal_bettors": 38,
+      "win_streak": 7
+    },
+    "sum": 129297563,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22973
+    },
+    "date": 1792386533726,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 3351311,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tao",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1238496,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Tiffany lords",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 129306054,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3325
+    },
+    "date": 1792386683925,
+    "duration": 95955,
+    "left": {
+      "bet_amount": 1505763,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Yamazaki sk",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3980711,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Bloodia",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 129283081,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3364
+    },
+    "date": 1792386817925,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 7284862,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Orochi akiha",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1127466,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mysterious power",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 129279756,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
