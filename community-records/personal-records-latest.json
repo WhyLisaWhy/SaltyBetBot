@@ -674359,5 +674359,113 @@
     "sum": 129180710,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1750
+    },
+    "date": 1792399684326,
+    "duration": 86197,
+    "left": {
+      "bet_amount": 2330988,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Dann of thursday",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2466909,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Pullum purna",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 129218444,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3181
+    },
+    "date": 1792399914553,
+    "duration": 164226,
+    "left": {
+      "bet_amount": 1337616,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Orochi iori 02um",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1910783,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Saori - athena",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 129220097,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30727
+    },
+    "date": 1792400064530,
+    "duration": 89969,
+    "left": {
+      "bet_amount": 5544217,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Konpaku youkumo",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1138491,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Motaro",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 129216916,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3486
+    },
+    "date": 1792400290777,
+    "duration": 166052,
+    "left": {
+      "bet_amount": 1580133,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Umbreon",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2385227,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Imr-765-s_kisaragi",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 129223191,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
