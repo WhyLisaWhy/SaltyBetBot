@@ -671983,5 +671983,113 @@
     "sum": 5240,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6378
+    },
+    "date": 1792379938528,
+    "duration": 260202,
+    "left": {
+      "bet_amount": 261287,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Gohan grande normale",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 182756,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Symbiote spider-man",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 6378,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15190
+    },
+    "date": 1792380162726,
+    "duration": 169997,
+    "left": {
+      "bet_amount": 262391,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Micky13",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 349910,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Iceman cota",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 15190,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34339
+    },
+    "date": 1792380358928,
+    "duration": 140157,
+    "left": {
+      "bet_amount": 131269,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Bonus kun EX2",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 703958,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ritsu tainaka",
+      "normal_bettors": 44,
+      "win_streak": 1
+    },
+    "sum": 34339,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40445
+    },
+    "date": 1792380609156,
+    "duration": 190229,
+    "left": {
+      "bet_amount": 140684,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jack krauser",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 649859,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Pikopiko EX3",
+      "normal_bettors": 45,
+      "win_streak": 2
+    },
+    "sum": 40445,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
