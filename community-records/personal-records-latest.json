@@ -670201,5 +670201,113 @@
     "sum": 129328912,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4983
+    },
+    "date": 1792367438529,
+    "duration": 135988,
+    "left": {
+      "bet_amount": 1726745,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "F91",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 937744,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Basilisx",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 129330930,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27297
+    },
+    "date": 1792367562728,
+    "duration": 64201,
+    "left": {
+      "bet_amount": 1172239,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Fangore",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1403113,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sagastick negnin",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 129333629,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1535
+    },
+    "date": 1792367694726,
+    "duration": 75996,
+    "left": {
+      "bet_amount": 2532715,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Napalmman",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 895158,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "M.bison mk2",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 129306332,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17011
+    },
+    "date": 1792367928945,
+    "duration": 174217,
+    "left": {
+      "bet_amount": 895050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Leus hunter",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2320370,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Nanoha takamachi EX3",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 129304797,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
