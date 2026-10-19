@@ -674737,5 +674737,59 @@
     "sum": 129278543,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 473
+    },
+    "date": 1792402418529,
+    "duration": 90171,
+    "left": {
+      "bet_amount": 776527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kou EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3349174,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Herb",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 129274594,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9888
+    },
+    "date": 1792402560727,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 769729,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Forte cross rockman.exe",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2069288,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Piyokong",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 129274704,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
