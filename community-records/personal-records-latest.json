@@ -678301,5 +678301,140 @@
     "sum": 3448,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20234
+    },
+    "date": 1792430422929,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 3063078,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 7,
+      "name": "Prismatic jam",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 858933,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Ness EX3",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 129343854,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31638
+    },
+    "date": 1792430572928,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 899450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ex adamas",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3420485,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider para-dx",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 129349491,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792430773133,
+    "duration": 143989,
+    "left": {
+      "bet_amount": 1033876,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Movie bison",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2411232,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Electro recharged",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 129357735,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42229
+    },
+    "date": 1792430899396,
+    "duration": 60269,
+    "left": {
+      "bet_amount": 1917387,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Skolldir",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1121937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Beatrice",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 129357736,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 768
+    },
+    "date": 1792431069329,
+    "duration": 110007,
+    "left": {
+      "bet_amount": 4604317,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Imr-765-s_kisaragi",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 969644,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Noel vermillion",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "sum": 129315507,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
