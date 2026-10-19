@@ -681103,5 +681103,113 @@
     "sum": 2512,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8610
+    },
+    "date": 1792449027528,
+    "duration": 176002,
+    "left": {
+      "bet_amount": 182672,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 6,
+      "name": "Kenpachi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267456,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "God jafar",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 8610,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792449217749,
+    "duration": 130020,
+    "left": {
+      "bet_amount": 55443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jon talbain",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 283750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Custom ssfiv abel",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1852
+    },
+    "date": 1792449433925,
+    "duration": 162170,
+    "left": {
+      "bet_amount": 67022,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tatsuo",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 319210,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Nero",
+      "normal_bettors": 43,
+      "win_streak": -3
+    },
+    "sum": 1852,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2239
+    },
+    "date": 1792449784326,
+    "duration": 296398,
+    "left": {
+      "bet_amount": 260422,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Tomboy becky",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 183353,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Symbiote wolverine",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 2239,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
