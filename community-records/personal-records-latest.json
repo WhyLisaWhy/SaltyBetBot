@@ -681022,5 +681022,86 @@
     "sum": 3569,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792448327126,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 66976,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ugly raditz",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 272339,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Yuri_shiranui",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1930
+    },
+    "date": 1792448499125,
+    "duration": 112002,
+    "left": {
+      "bet_amount": 83548,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Kikuri",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 275482,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ibuki sf3",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 1930,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2512
+    },
+    "date": 1792448791529,
+    "duration": 220187,
+    "left": {
+      "bet_amount": 86722,
+      "ignored_bettors": 18,
+      "illuminati_bettors": 3,
+      "name": "Batman EX3",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 216603,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Real veku",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 2512,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
