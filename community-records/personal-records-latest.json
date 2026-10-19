@@ -672604,5 +672604,86 @@
     "sum": 129177031,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28238
+    },
+    "date": 1792388227125,
+    "duration": 105990,
+    "left": {
+      "bet_amount": 2461919,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Earl",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1179469,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jacky bryant",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 129157735,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792388551327,
+    "duration": 149991,
+    "left": {
+      "bet_amount": 1184980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tanegashima yuri",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3153223,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Dhalsim3",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 129171110,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36630
+    },
+    "date": 1792388757528,
+    "duration": 150004,
+    "left": {
+      "bet_amount": 838314,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Leone abbacchio ex",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2139759,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Hyper meca tau",
+      "normal_bettors": 28,
+      "win_streak": -6
+    },
+    "sum": 129171111,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
