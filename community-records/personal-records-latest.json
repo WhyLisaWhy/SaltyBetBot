@@ -675493,5 +675493,113 @@
     "sum": 129242970,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19579
+    },
+    "date": 1792409640327,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 1163980,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yashiro nanakase EX3",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1422557,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Aoko_monk_style",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 129269144,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4806
+    },
+    "date": 1792409874528,
+    "duration": 174198,
+    "left": {
+      "bet_amount": 1110450,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 4,
+      "name": "Maori",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1858089,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Duo maxwell",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129249565,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37001
+    },
+    "date": 1792410156729,
+    "duration": 220177,
+    "left": {
+      "bet_amount": 952346,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Dante pxz",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1865584,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Butthead",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 129257573,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20796
+    },
+    "date": 1792410350929,
+    "duration": 134204,
+    "left": {
+      "bet_amount": 3545632,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Luciege capella",
+      "normal_bettors": 32,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1192116,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Anime chiffon",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 129327345,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
