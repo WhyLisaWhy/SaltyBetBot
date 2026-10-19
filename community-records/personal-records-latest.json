@@ -678058,5 +678058,113 @@
     "sum": 4718,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792426741941,
+    "duration": 270215,
+    "left": {
+      "bet_amount": 266138,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Mallow smrpg",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 227979,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kenoh EX2",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3348
+    },
+    "date": 1792427002120,
+    "duration": 193993,
+    "left": {
+      "bet_amount": 336627,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "A_decade-ex",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 179660,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Vegeta-st",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 3348,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5118
+    },
+    "date": 1792427148328,
+    "duration": 85994,
+    "left": {
+      "bet_amount": 236471,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Reika kitakami",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 250472,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Azazel",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 5118,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792427292329,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 191895,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Butthead sagat",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 513530,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Flawless specter",
+      "normal_bettors": 41,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
