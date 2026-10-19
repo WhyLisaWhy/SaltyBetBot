@@ -679435,5 +679435,113 @@
     "sum": 129216050,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10028
+    },
+    "date": 1792437558527,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 4832372,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Flawless specter",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171097,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Metalgear rex",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "sum": 129179324,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 45698
+    },
+    "date": 1792437738725,
+    "duration": 124133,
+    "left": {
+      "bet_amount": 820691,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ja-koh",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1792331,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Kou EX",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 129181750,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792437920725,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 1151319,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Imoge",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3674471,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Yatogi tetsu",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "sum": 129136052,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20695
+    },
+    "date": 1792438080926,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1694444,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "God rugal",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3478221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Salty surfer",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 129136053,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
