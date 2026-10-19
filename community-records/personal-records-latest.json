@@ -673738,5 +673738,140 @@
     "sum": 129202646,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2414
+    },
+    "date": 1792395226734,
+    "duration": 130009,
+    "left": {
+      "bet_amount": 5470602,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "K9999-kofm",
+      "normal_bettors": 44,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1211771,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Tony won",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 129209446,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22284
+    },
+    "date": 1792395432983,
+    "duration": 150263,
+    "left": {
+      "bet_amount": 3743420,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Rainbow mika",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 963444,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mithra classic knight",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 129209981,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3583
+    },
+    "date": 1792395613118,
+    "duration": 126184,
+    "left": {
+      "bet_amount": 4475659,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Billy two moons (jp)",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1051378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Uesugi",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 129215683,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20398
+    },
+    "date": 1792395807124,
+    "duration": 134003,
+    "left": {
+      "bet_amount": 971227,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dongdong",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3187274,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Angelique",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 129216525,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1126
+    },
+    "date": 1792396049330,
+    "duration": 186005,
+    "left": {
+      "bet_amount": 1076027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jago ki2",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2650733,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Edward newgate",
+      "normal_bettors": 37,
+      "win_streak": -4
+    },
+    "sum": 129196127,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
