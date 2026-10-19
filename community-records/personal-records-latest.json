@@ -677734,5 +677734,140 @@
     "sum": 129293798,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792424107964,
+    "duration": 134236,
+    "left": {
+      "bet_amount": 4341725,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Golems",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1107487,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Puri*princess plus",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 129309422,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27336
+    },
+    "date": 1792424243928,
+    "duration": 75986,
+    "left": {
+      "bet_amount": 985815,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shocker",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4017974,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Iroquois pliskin",
+      "normal_bettors": 40,
+      "win_streak": 7
+    },
+    "sum": 129309423,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10973
+    },
+    "date": 1792424378152,
+    "duration": 80225,
+    "left": {
+      "bet_amount": 2841742,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Gale",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1136576,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hannah dundee",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 129316085,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2698
+    },
+    "date": 1792424518130,
+    "duration": 79994,
+    "left": {
+      "bet_amount": 1748871,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Mirror cube square",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1535241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Risotto nero",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129320457,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23129
+    },
+    "date": 1792424718328,
+    "duration": 134008,
+    "left": {
+      "bet_amount": 1713219,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Izayoi",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286990,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Curse seal",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "sum": 129322822,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
