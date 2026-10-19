@@ -671308,5 +671308,113 @@
     "sum": 129409173,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17216
+    },
+    "date": 1792374604344,
+    "duration": 80015,
+    "left": {
+      "bet_amount": 1900173,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sokaku mochizuki rb2",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3133371,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "New arhan",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 129383537,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34871
+    },
+    "date": 1792374804525,
+    "duration": 134198,
+    "left": {
+      "bet_amount": 2520169,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "2nd r.s.p",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1287129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vixen widowmaker",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 129366321,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24302
+    },
+    "date": 1792375000728,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 687014,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "C_krizalid",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1984061,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Manute",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 129331450,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42558
+    },
+    "date": 1792375130728,
+    "duration": 75970,
+    "left": {
+      "bet_amount": 930538,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gloria EX3",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3286619,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Guy_cecil",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 129307148,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
