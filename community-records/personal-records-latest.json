@@ -680137,5 +680137,113 @@
     "sum": 129118899,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7495
+    },
+    "date": 1792442202125,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 2009830,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Bristol-d",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1472775,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "G-len",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129117031,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6063
+    },
+    "date": 1792442396327,
+    "duration": 134002,
+    "left": {
+      "bet_amount": 960736,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Mimizuku_professor",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2210617,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Duck king xi",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 129122503,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15265
+    },
+    "date": 1792442616529,
+    "duration": 160203,
+    "left": {
+      "bet_amount": 985900,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Terry bongaro",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2718007,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "T-h-m-a",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 129116440,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29389
+    },
+    "date": 1792442792726,
+    "duration": 120149,
+    "left": {
+      "bet_amount": 3432249,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Babyd!",
+      "normal_bettors": 38,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1029132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Burnov",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 129121947,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
