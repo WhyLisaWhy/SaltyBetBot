@@ -675115,5 +675115,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792406079331,
+    "duration": 170004,
+    "left": {
+      "bet_amount": 534809,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sigfried doble de alfa",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 197593,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ralsei",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5713
+    },
+    "date": 1792406349727,
+    "duration": 204197,
+    "left": {
+      "bet_amount": 247950,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Notorious b.i.g",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 577017,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Zoffy",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 5713,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
