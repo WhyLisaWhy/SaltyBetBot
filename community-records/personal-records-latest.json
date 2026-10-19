@@ -679867,5 +679867,86 @@
     "sum": 129064368,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28787
+    },
+    "date": 1792440464720,
+    "duration": 105995,
+    "left": {
+      "bet_amount": 2486836,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Italian toki",
+      "normal_bettors": 30,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1013714,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Komepo",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129070011,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16540
+    },
+    "date": 1792440598929,
+    "duration": 80190,
+    "left": {
+      "bet_amount": 757804,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Angry jhons lee",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3409810,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Aurum axe",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 129041224,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19603
+    },
+    "date": 1792440845126,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 854161,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Selvaria bles",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3097909,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Blue worker",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 129044883,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
