@@ -672199,5 +672199,140 @@
     "sum": 129297583,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20019
+    },
+    "date": 1792385386926,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 2962816,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Lizardman",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1198634,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Carl clover",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 129295594,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 501
+    },
+    "date": 1792385536928,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 1072426,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Rare Sophitia",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3412811,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Rocket tank",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 129303639,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1716
+    },
+    "date": 1792385769127,
+    "duration": 166007,
+    "left": {
+      "bet_amount": 5999095,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mai 2k2",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1080358,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Koopa clown car",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "sum": 129303797,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3035
+    },
+    "date": 1792385937332,
+    "duration": 114206,
+    "left": {
+      "bet_amount": 1751762,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mvc2 ciel",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1406471,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Shin gouki",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 129304106,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3508
+    },
+    "date": 1792386167529,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 1874905,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Zazie muhaba dynamite",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2168125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mc meijiang",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 129301071,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
