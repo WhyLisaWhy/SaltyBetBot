@@ -671875,5 +671875,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792379151931,
+    "duration": 270205,
+    "left": {
+      "bet_amount": 188337,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Bonus kun EX2",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 305195,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Shadow x",
+      "normal_bettors": 38,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792379318126,
+    "duration": 95983,
+    "left": {
+      "bet_amount": 297068,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Super sonic",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287644,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ritsu tainaka",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3143
+    },
+    "date": 1792379474123,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 345902,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Jack krauser",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 232814,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Sajin",
+      "normal_bettors": 31,
+      "win_streak": -14
+    },
+    "sum": 3143,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5240
+    },
+    "date": 1792379624325,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 97543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jentai",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 444034,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Pikopiko EX3",
+      "normal_bettors": 44,
+      "win_streak": 1
+    },
+    "sum": 5240,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
