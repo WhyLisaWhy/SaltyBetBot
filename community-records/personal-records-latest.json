@@ -681373,5 +681373,86 @@
     "sum": 43301,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1687
+    },
+    "date": 1792452508328,
+    "duration": 220193,
+    "left": {
+      "bet_amount": 554025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gold lightan",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3678053,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Hugo EX",
+      "normal_bettors": 39,
+      "win_streak": 8
+    },
+    "sum": 129215591,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792452632325,
+    "duration": 69957,
+    "left": {
+      "bet_amount": 5542822,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kyosuke",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1275013,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tensinhan",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 129215845,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792452762529,
+    "duration": 74004,
+    "left": {
+      "bet_amount": 1230773,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Suave dude",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4909908,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Fortran",
+      "normal_bettors": 30,
+      "win_streak": 0
+    },
+    "sum": 129215844,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
