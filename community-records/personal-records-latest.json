@@ -675007,5 +675007,113 @@
     "sum": 11322,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13042
+    },
+    "date": 1792405078726,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 474296,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sigfried doble de alfa",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 51140,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Blaze agent",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 13042,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14411
+    },
+    "date": 1792405322929,
+    "duration": 180192,
+    "left": {
+      "bet_amount": 66399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mukuro EX G",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 506196,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Ralsei",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 14411,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16250
+    },
+    "date": 1792405583135,
+    "duration": 204205,
+    "left": {
+      "bet_amount": 50863,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Notorious b.i.g",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 547264,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Lucina",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 16250,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792405849330,
+    "duration": 206202,
+    "left": {
+      "bet_amount": 258369,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Yoriko-mvc EX3",
+      "normal_bettors": 31,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 342544,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zoffy",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
