@@ -673603,5 +673603,140 @@
     "sum": 129201767,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792394422129,
+    "duration": 111941,
+    "left": {
+      "bet_amount": 6313456,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Hancock EX",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 982761,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Singyoku",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 129220233,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1592
+    },
+    "date": 1792394586328,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 898017,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gardener kurama",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5478993,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Omega goenitz",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 129220232,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2297
+    },
+    "date": 1792394696328,
+    "duration": 49998,
+    "left": {
+      "bet_amount": 1289090,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sanada ani",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 16075293,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Houou jmf",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 129220493,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18032
+    },
+    "date": 1792394866528,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 2377712,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Rohan kishibe",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1354422,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Black widow",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 129220678,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27050
+    },
+    "date": 1792395042751,
+    "duration": 120222,
+    "left": {
+      "bet_amount": 4491441,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Google chrome t-rex",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1135838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Saiyajin",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 129202646,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
