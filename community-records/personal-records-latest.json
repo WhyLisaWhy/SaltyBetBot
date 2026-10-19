@@ -680914,5 +680914,113 @@
     "sum": 129164824,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7061
+    },
+    "date": 1792447404328,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 3481881,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Swordsman",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 914424,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bison",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 129168375,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8182
+    },
+    "date": 1792447529322,
+    "duration": 64997,
+    "left": {
+      "bet_amount": 3221307,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Armgon",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 851276,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nosferu",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 129161314,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792447936726,
+    "duration": 135999,
+    "left": {
+      "bet_amount": 112651,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kim kaphwan",
+      "normal_bettors": 27,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 84940,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Tomboy becky",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3569
+    },
+    "date": 1792448118924,
+    "duration": 124196,
+    "left": {
+      "bet_amount": 119690,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Jack",
+      "normal_bettors": 33,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 142084,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Symbiote wolverine",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 3569,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
