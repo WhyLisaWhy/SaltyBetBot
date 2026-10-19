@@ -675601,5 +675601,140 @@
     "sum": 129327345,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34328
+    },
+    "date": 1792410500926,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 1149745,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jet-stingray",
+      "normal_bettors": 16,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3025863,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Default mugen character",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 129306549,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27196
+    },
+    "date": 1792410641128,
+    "duration": 83953,
+    "left": {
+      "bet_amount": 1476168,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "King 13",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1336503,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Leo EX2",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 129319447,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9551
+    },
+    "date": 1792410901332,
+    "duration": 200203,
+    "left": {
+      "bet_amount": 4955123,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Natural kain",
+      "normal_bettors": 37,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1041934,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Chinese gouki",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 129292251,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17322
+    },
+    "date": 1792411107529,
+    "duration": 150151,
+    "left": {
+      "bet_amount": 1030257,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zako-dan",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1786581,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Mad grinder",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 129282700,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25745
+    },
+    "date": 1792411263521,
+    "duration": 95991,
+    "left": {
+      "bet_amount": 1616392,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Black witch eva",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2488567,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Haizilyo",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 129265378,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
