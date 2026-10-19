@@ -675223,5 +675223,113 @@
     "sum": 129269334,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31326
+    },
+    "date": 1792407846933,
+    "duration": 100203,
+    "left": {
+      "bet_amount": 1732986,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Yagumo og",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1327260,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Anonym",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 129269879,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23498
+    },
+    "date": 1792408016928,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 2680157,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mr. broly",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1276014,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nightmare krauser-kofm",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129293445,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792408217132,
+    "duration": 144002,
+    "left": {
+      "bet_amount": 3909641,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Swole shovel knight",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1445264,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lian",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 129304536,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26242
+    },
+    "date": 1792408367326,
+    "duration": 94198,
+    "left": {
+      "bet_amount": 3446265,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Swordsman",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1197061,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Chronoforce",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 129304537,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
