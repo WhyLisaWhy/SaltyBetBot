@@ -677437,5 +677437,140 @@
     "sum": 129284628,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27716
+    },
+    "date": 1792422250330,
+    "duration": 99916,
+    "left": {
+      "bet_amount": 1283391,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Akatsuki hm",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1712243,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Anna ex",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 129280420,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20167
+    },
+    "date": 1792422430529,
+    "duration": 120169,
+    "left": {
+      "bet_amount": 1735307,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Riyoh_nagasaki EX6",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1197968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Liza",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 129316616,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24980
+    },
+    "date": 1792422570529,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 1407817,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Wyler xi ver",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1341912,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kirin",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 129330379,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792422696732,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 5049806,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Heidern_ex",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1030746,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "D4 griffon",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 129305399,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15516
+    },
+    "date": 1792422876932,
+    "duration": 120145,
+    "left": {
+      "bet_amount": 2379157,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Yaruo_aa",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366377,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Death adder",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129305400,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
