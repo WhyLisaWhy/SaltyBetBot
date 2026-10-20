@@ -684073,5 +684073,113 @@
     "sum": 129370912,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792469855926,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 57749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Parsee",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133665,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Classic kyo xiii",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2212
+    },
+    "date": 1792470050138,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 95846,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sauzer",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 166698,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dirty fat",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "sum": 2212,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3468
+    },
+    "date": 1792470226328,
+    "duration": 116203,
+    "left": {
+      "bet_amount": 205735,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Juggernaut mvc2",
+      "normal_bettors": 41,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125465,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Wraith",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 3468,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792470496525,
+    "duration": 216198,
+    "left": {
+      "bet_amount": 118560,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Johnny joestar",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 305992,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shin",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
