@@ -684181,5 +684181,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792470676528,
+    "duration": 125999,
+    "left": {
+      "bet_amount": 251920,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Achi cirno",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 139025,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ryoko(fhd)",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792470896729,
+    "duration": 160203,
+    "left": {
+      "bet_amount": 258994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Guile svc chaos",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 219036,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Elisabeth xiii",
+      "normal_bettors": 38,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792471046928,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 139853,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Voorhees jason",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 383526,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Small Ryu",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2113
+    },
+    "date": 1792471287128,
+    "duration": 180193,
+    "left": {
+      "bet_amount": 385124,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Boring sdk mukurou",
+      "normal_bettors": 43,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 276087,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Abel ssf4",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 2113,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3620
+    },
+    "date": 1792471473130,
+    "duration": 130006,
+    "left": {
+      "bet_amount": 552094,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Classic kyo xiii",
+      "normal_bettors": 42,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 97595,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dirty fat",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 3620,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
