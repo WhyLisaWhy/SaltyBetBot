@@ -690202,5 +690202,59 @@
     "sum": 129443212,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792516422926,
+    "duration": 99986,
+    "left": {
+      "bet_amount": 71850,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Karman-cole",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157423,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Shenlong_gundam",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792516599137,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 143057,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tom cat",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 175104,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Diba",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
