@@ -688339,5 +688339,140 @@
     "sum": 128934125,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28003
+    },
+    "date": 1792504119127,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 982256,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ana",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1570870,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Kei nanasawa",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 128916059,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4067
+    },
+    "date": 1792504345327,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 3131161,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Neco chaos",
+      "normal_bettors": 33,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1105974,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Jyazu",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "sum": 128959602,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17156
+    },
+    "date": 1792504485529,
+    "duration": 80203,
+    "left": {
+      "bet_amount": 923350,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Toyger",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2150580,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Rubber soul",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 128961037,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22629
+    },
+    "date": 1792504639527,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 1316662,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Chiester410",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1893371,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Zen kasen ibaraki",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 128968345,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2323
+    },
+    "date": 1792504789750,
+    "duration": 90164,
+    "left": {
+      "bet_amount": 2461990,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Red arremer svc chaos",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 912610,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Jade",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "sum": 129000336,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
