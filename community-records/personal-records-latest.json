@@ -681886,5 +681886,113 @@
     "sum": 129202261,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8823
+    },
+    "date": 1792455778925,
+    "duration": 166197,
+    "left": {
+      "bet_amount": 3140319,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Sanae kochiya",
+      "normal_bettors": 35,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1269754,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Joseph joestar EX3",
+      "normal_bettors": 20,
+      "win_streak": 6
+    },
+    "sum": 129270009,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792455922927,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 861820,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cvs sagat",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7280617,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "A-shimo",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 129273567,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12344
+    },
+    "date": 1792456073127,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 2357965,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Charlotte m",
+      "normal_bettors": 38,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1566071,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Necochaosblackg666mk2",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129273566,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5327
+    },
+    "date": 1792456263319,
+    "duration": 134195,
+    "left": {
+      "bet_amount": 6796923,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Akuma",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 852393,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wheelchair guy",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 129281722,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
