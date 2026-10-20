@@ -687502,5 +687502,32 @@
     "sum": 2784,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6433
+    },
+    "date": 1792497727928,
+    "duration": 454199,
+    "left": {
+      "bet_amount": 530016,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Omega red mvc2",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 318760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Hory marlu ex",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 6433,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
