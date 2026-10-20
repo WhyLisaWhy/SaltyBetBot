@@ -681589,5 +681589,140 @@
     "sum": 129248009,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32958
+    },
+    "date": 1792453739330,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 2798646,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Zatracenie",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1768779,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Akiko EX",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 129209895,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18970
+    },
+    "date": 1792453905327,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 1364599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "G-phoenix",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1706752,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Billy 'big bang' blitz",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 129176937,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17384
+    },
+    "date": 1792454105525,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 2154251,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Mystic gohan EX5",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2541820,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Thin yusuke",
+      "normal_bettors": 20,
+      "win_streak": -6
+    },
+    "sum": 129157967,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17416
+    },
+    "date": 1792454259737,
+    "duration": 94212,
+    "left": {
+      "bet_amount": 956446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tatami",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2700631,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Iari",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "sum": 129172601,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18874
+    },
+    "date": 1792454431724,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 1358930,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Evangelion",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1488096,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 4,
+      "name": "Dark queen carmilla",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 129178730,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
