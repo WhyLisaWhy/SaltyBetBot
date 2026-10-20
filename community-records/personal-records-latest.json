@@ -689635,5 +689635,113 @@
     "sum": 129311164,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37978
+    },
+    "date": 1792512297731,
+    "duration": 130204,
+    "left": {
+      "bet_amount": 1396506,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lunasa",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2242838,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Balrog svc chaos",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 129317243,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20795
+    },
+    "date": 1792512441927,
+    "duration": 90195,
+    "left": {
+      "bet_amount": 974716,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Death adder",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3132449,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Poongko's seth",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "sum": 129340497,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792512641928,
+    "duration": 143996,
+    "left": {
+      "bet_amount": 1029255,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Koichi",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7035403,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Judgement",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 129346926,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22674
+    },
+    "date": 1792512818129,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1796868,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Mr_shihan_ky",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1553726,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Evil thomas",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129346933,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
