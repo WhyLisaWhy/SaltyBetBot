@@ -683290,5 +683290,86 @@
     "sum": 129343816,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44419
+    },
+    "date": 1792464677925,
+    "duration": 120196,
+    "left": {
+      "bet_amount": 2382757,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Monokuma",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1052604,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hon-fu rb2",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 129352594,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792464922137,
+    "duration": 190212,
+    "left": {
+      "bet_amount": 9019239,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Milan flare",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2328106,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Junko sendo",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 129371858,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30410
+    },
+    "date": 1792465102125,
+    "duration": 124004,
+    "left": {
+      "bet_amount": 2385023,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Saku EX2",
+      "normal_bettors": 29,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1920700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Beauty queen etna",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 129371859,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
