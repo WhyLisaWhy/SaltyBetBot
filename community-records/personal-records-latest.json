@@ -690094,5 +690094,113 @@
     "sum": 129329473,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21596
+    },
+    "date": 1792515021924,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 2435311,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Gohan ssj4",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905347,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Ness EX3",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 129322980,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38016
+    },
+    "date": 1792515181919,
+    "duration": 105986,
+    "left": {
+      "bet_amount": 935580,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Baldi",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2923701,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Cci hinako",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 129301384,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36038
+    },
+    "date": 1792515412126,
+    "duration": 165983,
+    "left": {
+      "bet_amount": 1541708,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Half-french sephiroth",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1211209,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "F_gills",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 129415546,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792515634325,
+    "duration": 155999,
+    "left": {
+      "bet_amount": 917552,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Ktullanux",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4378399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kunio kun",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 129443212,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
