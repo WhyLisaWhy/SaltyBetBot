@@ -685450,5 +685450,86 @@
     "sum": 129119570,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26336
+    },
+    "date": 1792482816141,
+    "duration": 220214,
+    "left": {
+      "bet_amount": 1106324,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yuzuriha",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3312434,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Lilith aileron",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 129083236,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 320
+    },
+    "date": 1792482976126,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 698423,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Daphne",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2358889,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mickey rogers aof1",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 129056900,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19573
+    },
+    "date": 1792483106327,
+    "duration": 75935,
+    "left": {
+      "bet_amount": 1717042,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Igdrasil munchausen",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1942284,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Dan of steel",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 129056995,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
