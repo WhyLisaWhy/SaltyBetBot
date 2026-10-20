@@ -692279,5 +692279,140 @@
     "sum": 129512282,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17796
+    },
+    "date": 1792531076529,
+    "duration": 119994,
+    "left": {
+      "bet_amount": 2772093,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Sasquatch",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 946375,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Thouther",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 129512283,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22611
+    },
+    "date": 1792531246738,
+    "duration": 120008,
+    "left": {
+      "bet_amount": 2650505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Juralian",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2965679,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Slash",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "sum": 129518320,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33496
+    },
+    "date": 1792531412927,
+    "duration": 106198,
+    "left": {
+      "bet_amount": 2002299,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Miyako rockstyle",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1757098,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Conker",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 129538376,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21555
+    },
+    "date": 1792531667126,
+    "duration": 194199,
+    "left": {
+      "bet_amount": 4302628,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Class re",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 844244,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Weapon master",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 129567287,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6920
+    },
+    "date": 1792531797127,
+    "duration": 73984,
+    "left": {
+      "bet_amount": 4514570,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Milan flare mass",
+      "normal_bettors": 34,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 846794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Wolvie",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 129545732,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
