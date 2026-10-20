@@ -692414,5 +692414,113 @@
     "sum": 129545732,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7599
+    },
+    "date": 1792531943328,
+    "duration": 90204,
+    "left": {
+      "bet_amount": 786089,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "D4kirby_r",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7243703,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Nucoarc",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 129547028,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24163
+    },
+    "date": 1792532159526,
+    "duration": 160196,
+    "left": {
+      "bet_amount": 1657331,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Aprile",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1900264,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Syaoran",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 129547852,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34148
+    },
+    "date": 1792532383721,
+    "duration": 164190,
+    "left": {
+      "bet_amount": 1336888,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yu-to",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1998283,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Rinfa",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "sum": 129523689,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24573
+    },
+    "date": 1792532629930,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 625776,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Sakura sfex",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2334155,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Paul the monkey",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "sum": 129573460,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
