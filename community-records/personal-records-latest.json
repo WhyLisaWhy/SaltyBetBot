@@ -684316,5 +684316,140 @@
     "sum": 3620,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4256
+    },
+    "date": 1792471717328,
+    "duration": 183980,
+    "left": {
+      "bet_amount": 160027,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Wraith",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 517674,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Johnny joestar",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 4256,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17668
+    },
+    "date": 1792471909525,
+    "duration": 131999,
+    "left": {
+      "bet_amount": 128362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryoko(fhd)",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 697052,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Guile svc chaos",
+      "normal_bettors": 46,
+      "win_streak": 5
+    },
+    "sum": 17668,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792472079726,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 487937,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Small Ryu",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 272789,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Boring sdk mukurou",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792472299927,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 525640,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Classic kyo xiii",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 191478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Wraith",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792472473931,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 366721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ryoko(fhd)",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 344235,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Small Ryu",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
