@@ -690740,5 +690740,140 @@
     "sum": 129526357,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33036
+    },
+    "date": 1792521070726,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 1500714,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Storm_cota",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1408078,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Suzushina yuriko",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 129531048,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28039
+    },
+    "date": 1792521211031,
+    "duration": 84301,
+    "left": {
+      "bet_amount": 3693580,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shadow kirby mythos",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 815615,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Carl clover",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "sum": 129498012,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32831
+    },
+    "date": 1792521446927,
+    "duration": 175999,
+    "left": {
+      "bet_amount": 1777571,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Watatsuki no toyohime",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1088766,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dark warrior 2",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 129504157,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24895
+    },
+    "date": 1792521627161,
+    "duration": 120033,
+    "left": {
+      "bet_amount": 1903348,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Colonel.exe",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3688533,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Shirou yusa",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 129556190,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18811
+    },
+    "date": 1792521827327,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 892216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yang",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3564384,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Rain",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 129531295,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
