@@ -690875,5 +690875,113 @@
     "sum": 129531295,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24115
+    },
+    "date": 1792522047527,
+    "duration": 160196,
+    "left": {
+      "bet_amount": 5229117,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Perfect storm x",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 790056,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "God demitri",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 129535979,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17922
+    },
+    "date": 1792522227721,
+    "duration": 124191,
+    "left": {
+      "bet_amount": 1873922,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "M-monk ex",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2041544,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Gyaoslen",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 129539606,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21117
+    },
+    "date": 1792522437737,
+    "duration": 143992,
+    "left": {
+      "bet_amount": 2543928,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Deadpool mvc3",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1810977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Guilty",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 129521684,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1348
+    },
+    "date": 1792522567926,
+    "duration": 69985,
+    "left": {
+      "bet_amount": 2276135,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Mvc2 captain america",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2158156,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rugal b.",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 129536594,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
