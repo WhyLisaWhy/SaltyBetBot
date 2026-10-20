@@ -692009,5 +692009,140 @@
     "sum": 129617174,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6072
+    },
+    "date": 1792529223179,
+    "duration": 120043,
+    "left": {
+      "bet_amount": 660956,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nami mvc",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6122326,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Majin alice",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 129616515,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22674
+    },
+    "date": 1792529389354,
+    "duration": 106231,
+    "left": {
+      "bet_amount": 782736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cielo",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4877142,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Invoker",
+      "normal_bettors": 42,
+      "win_streak": 7
+    },
+    "sum": 129617170,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35101
+    },
+    "date": 1792529575328,
+    "duration": 126002,
+    "left": {
+      "bet_amount": 1556697,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Wonder woman revolutions",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2541290,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Structure list",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 129620793,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4527
+    },
+    "date": 1792529885729,
+    "duration": 166191,
+    "left": {
+      "bet_amount": 729251,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jurarus",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3533851,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Carol tea",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 129585692,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17447
+    },
+    "date": 1792530045727,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1255640,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kagura mutsuki",
+      "normal_bettors": 24,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1445409,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Kula",
+      "normal_bettors": 22,
+      "win_streak": -7
+    },
+    "sum": 129586626,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
