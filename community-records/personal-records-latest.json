@@ -693330,5 +693330,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2000
+    },
+    "date": 1792538242329,
+    "duration": 194201,
+    "left": {
+      "bet_amount": 519658,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Rainbow mika",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 391414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nair",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 2000,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792538504527,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 250183,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Marco rossi",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225867,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Metalman mvc",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792538764726,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 67613,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "P-ciel",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 420275,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rouwe_n",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10969
+    },
+    "date": 1792538974923,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 214823,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Weiss dhq",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 645886,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Alder(seraph)",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 10969,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14557
+    },
+    "date": 1792539159131,
+    "duration": 130207,
+    "left": {
+      "bet_amount": 349237,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yoshiyuki takagi",
+      "normal_bettors": 42,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 257932,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mr. heart g",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 14557,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
