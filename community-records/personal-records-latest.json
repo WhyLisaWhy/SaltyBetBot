@@ -690497,5 +690497,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9909
+    },
+    "date": 1792518656727,
+    "duration": 114006,
+    "left": {
+      "bet_amount": 220543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jaguar junichi",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 665954,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Diba",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 9909,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13143
+    },
+    "date": 1792518866927,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 263580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Saiyajin",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 673648,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kurosawa yuichi",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 13143,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
