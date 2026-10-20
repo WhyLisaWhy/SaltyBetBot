@@ -684613,5 +684613,113 @@
     "sum": 129329766,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42658
+    },
+    "date": 1792477091524,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1136160,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alien mefilas",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2112036,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Kagelogan EX7",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 129325922,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19313
+    },
+    "date": 1792477261730,
+    "duration": 104173,
+    "left": {
+      "bet_amount": 5696554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dhalsim EX9",
+      "normal_bettors": 38,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 977308,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mashiro",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 129348416,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22707
+    },
+    "date": 1792477491926,
+    "duration": 170160,
+    "left": {
+      "bet_amount": 1418609,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zoro",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2310595,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Ginyu (son goku)",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 129351719,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19586
+    },
+    "date": 1792477738123,
+    "duration": 186197,
+    "left": {
+      "bet_amount": 959652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rock robot",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2539130,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Italian toki",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 129365525,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
