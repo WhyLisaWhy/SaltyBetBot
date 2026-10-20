@@ -683965,5 +683965,113 @@
     "sum": 129403717,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19727
+    },
+    "date": 1792469003325,
+    "duration": 200162,
+    "left": {
+      "bet_amount": 1481831,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bowser smrpg",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3449881,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Holy strider",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 129384801,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3406
+    },
+    "date": 1792469183347,
+    "duration": 124021,
+    "left": {
+      "bet_amount": 1708650,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tomoko",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2992923,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Benimaru945",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 129365074,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12397
+    },
+    "date": 1792469333527,
+    "duration": 90004,
+    "left": {
+      "bet_amount": 4180978,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Quick silver",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1317263,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Uzume",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 129367017,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3266
+    },
+    "date": 1792469462128,
+    "duration": 72603,
+    "left": {
+      "bet_amount": 2147890,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Garmraid",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1536816,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Joe higashi EX3",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129370912,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
