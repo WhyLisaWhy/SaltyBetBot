@@ -690551,5 +690551,59 @@
     "sum": 13143,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18188
+    },
+    "date": 1792519251729,
+    "duration": 328802,
+    "left": {
+      "bet_amount": 540212,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Diba",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 447645,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kurosawa yuichi",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 18188,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 781
+    },
+    "date": 1792520073931,
+    "duration": 84001,
+    "left": {
+      "bet_amount": 1631789,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sailor mercury EX2",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1487515,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Darkseid",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 129540660,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
