@@ -686098,5 +686098,113 @@
     "sum": 129058787,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792487017326,
+    "duration": 105995,
+    "left": {
+      "bet_amount": 1096940,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Miu_kurosaki",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2315986,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Tsan",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 129074080,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19636
+    },
+    "date": 1792487197535,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1545825,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Chinnen EX5",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1150955,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Muscle power",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 129074079,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5123
+    },
+    "date": 1792487463731,
+    "duration": 210006,
+    "left": {
+      "bet_amount": 1014024,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Capricorn shura",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2471841,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Wriggle-e",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 129100010,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 664
+    },
+    "date": 1792487615927,
+    "duration": 97932,
+    "left": {
+      "bet_amount": 646487,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Alpaca",
+      "normal_bettors": 9,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 14333981,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Iroha",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 129102108,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
