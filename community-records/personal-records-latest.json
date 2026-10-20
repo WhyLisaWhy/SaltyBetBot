@@ -684964,5 +684964,140 @@
     "sum": 129259563,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30075
+    },
+    "date": 1792479675526,
+    "duration": 143999,
+    "left": {
+      "bet_amount": 1836319,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Ghiaccio",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1072628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ika musume",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 129235297,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17544
+    },
+    "date": 1792479825727,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 2221581,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Reika izumi",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1252080,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yasha-hime",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "sum": 129205222,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 46697
+    },
+    "date": 1792480151926,
+    "duration": 85997,
+    "left": {
+      "bet_amount": 3913091,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Venom MMV",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1384458,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Balrog EX4",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 129187678,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19968
+    },
+    "date": 1792480396201,
+    "duration": 184075,
+    "left": {
+      "bet_amount": 2674939,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Aoc",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1303097,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sirius",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 129140981,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31693
+    },
+    "date": 1792480542325,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 2205455,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Vanessa",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 921856,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Saito",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 129181352,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
