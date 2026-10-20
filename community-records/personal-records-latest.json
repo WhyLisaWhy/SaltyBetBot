@@ -682561,5 +682561,113 @@
     "sum": 129398813,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27598
+    },
+    "date": 1792460070124,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 2806430,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Dudley K",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 994170,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Kane",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 129405527,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41043
+    },
+    "date": 1792460234334,
+    "duration": 110009,
+    "left": {
+      "bet_amount": 2371967,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Lunasa",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 826420,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Julius belmont",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 129415209,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2525
+    },
+    "date": 1792460490525,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 1295059,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Pikachu",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1121836,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Mio Kouzuki",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "sum": 129374166,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16901
+    },
+    "date": 1792460676723,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 1306164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gouf",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2611503,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Sumeragi kuon",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 129376350,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
