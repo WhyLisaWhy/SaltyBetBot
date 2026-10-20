@@ -685801,5 +685801,140 @@
     "sum": 129095692,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792485063927,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 1910338,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Gekkou",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1492581,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Q-d",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129089332,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2415
+    },
+    "date": 1792485280166,
+    "duration": 160239,
+    "left": {
+      "bet_amount": 3003557,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Zeus",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1057426,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Naya tatca nanafe",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 129089333,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6274
+    },
+    "date": 1792485420126,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 2664829,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sol(ac)",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1333129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Cycloid omega q",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 129086918,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3760
+    },
+    "date": 1792485684333,
+    "duration": 204008,
+    "left": {
+      "bet_amount": 2405937,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Devilbat-schilt",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 891421,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yamazaki sk",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129080644,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792485826528,
+    "duration": 82203,
+    "left": {
+      "bet_amount": 3590361,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Classic kyo xiii",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 824013,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "N-geese",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 129076884,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
