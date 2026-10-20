@@ -685693,5 +685693,113 @@
     "sum": 129030552,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23842
+    },
+    "date": 1792484307340,
+    "duration": 130204,
+    "left": {
+      "bet_amount": 861138,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Azusa & tiger",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1839406,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Mixertaitei",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 129051756,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29137
+    },
+    "date": 1792484477326,
+    "duration": 109986,
+    "left": {
+      "bet_amount": 2253561,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Divine sagat",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1039055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chrysaor krishna",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 129062776,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34324
+    },
+    "date": 1792484729529,
+    "duration": 189992,
+    "left": {
+      "bet_amount": 2054252,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Krizalid 99",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1101973,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Mini caster",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 129033639,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6360
+    },
+    "date": 1792484923728,
+    "duration": 140005,
+    "left": {
+      "bet_amount": 880674,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nes super mario",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3144717,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Ubu",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 129095692,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
