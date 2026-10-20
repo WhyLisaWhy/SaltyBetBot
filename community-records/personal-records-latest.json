@@ -682237,5 +682237,140 @@
     "sum": 129370446,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24770
+    },
+    "date": 1792458086726,
+    "duration": 196186,
+    "left": {
+      "bet_amount": 4077427,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Hoppou seiki",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1055327,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Youhei 1p",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 129341983,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33302
+    },
+    "date": 1792458232731,
+    "duration": 86007,
+    "left": {
+      "bet_amount": 844285,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Weiss daemon bride",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3059425,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Chidejika",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "sum": 129348356,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18856
+    },
+    "date": 1792458356947,
+    "duration": 64217,
+    "left": {
+      "bet_amount": 1499095,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Serena corsair",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2111816,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rai ex",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 129357448,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32508
+    },
+    "date": 1792458547127,
+    "duration": 130193,
+    "left": {
+      "bet_amount": 1362572,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Airou ver2.11",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1804514,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Kamen rider kiva",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 129338592,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28866
+    },
+    "date": 1792458733129,
+    "duration": 130008,
+    "left": {
+      "bet_amount": 2438142,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Real general",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1931868,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Anisama",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 129306084,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
