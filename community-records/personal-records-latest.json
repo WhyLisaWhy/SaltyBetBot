@@ -684451,5 +684451,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3194
+    },
+    "date": 1792472707728,
+    "duration": 173593,
+    "left": {
+      "bet_amount": 389823,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Wraith",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 531266,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Small Ryu",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "sum": 3194,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
