@@ -689338,5 +689338,140 @@
     "sum": 129353928,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792510434129,
+    "duration": 104002,
+    "left": {
+      "bet_amount": 974376,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Asura",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7930086,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "H-chonshu",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 129335349,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21382
+    },
+    "date": 1792510594329,
+    "duration": 104000,
+    "left": {
+      "bet_amount": 3278138,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Sakura saber",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 913678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Big bear 0D",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129335350,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10179
+    },
+    "date": 1792510730521,
+    "duration": 66203,
+    "left": {
+      "bet_amount": 1178111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sokaku mochizuki rb2",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6120185,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "David bell",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 129341271,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10653
+    },
+    "date": 1792510934727,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 3856512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pocket ciel",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1302451,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "God jafar",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 129343228,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24885
+    },
+    "date": 1792511104723,
+    "duration": 113996,
+    "left": {
+      "bet_amount": 2219883,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Fernandeath 2",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 967126,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Team ash",
+      "normal_bettors": 16,
+      "win_streak": -6
+    },
+    "sum": 129346816,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
