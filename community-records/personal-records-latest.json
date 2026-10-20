@@ -693465,5 +693465,59 @@
     "sum": 14557,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24878
+    },
+    "date": 1792539505337,
+    "duration": 286177,
+    "left": {
+      "bet_amount": 75703,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Akira",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 598571,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tomoe mami",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 24878,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27899
+    },
+    "date": 1792539785533,
+    "duration": 220208,
+    "left": {
+      "bet_amount": 443665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kotaro kazama",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287825,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Dragon EX3",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 27899,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
