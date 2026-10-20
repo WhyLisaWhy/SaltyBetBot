@@ -683695,5 +683695,140 @@
     "sum": 129286218,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26515
+    },
+    "date": 1792467141727,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 1528292,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Komachi",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1929774,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 129288745,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27017
+    },
+    "date": 1792467285923,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 4110691,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Holy god earth svg",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2353254,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Bowser",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 129309460,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30578
+    },
+    "date": 1792467452127,
+    "duration": 106198,
+    "left": {
+      "bet_amount": 6532171,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Asagi EX3",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 900066,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Brocken",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 129324826,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792467632126,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 1392115,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kirby c",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2766302,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Oni",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 129329020,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18894
+    },
+    "date": 1792467842326,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 1793285,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Natural miku",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2634886,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Mario smrpg",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 129329021,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
