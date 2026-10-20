@@ -691442,5 +691442,113 @@
     "sum": 129637219,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26795
+    },
+    "date": 1792525748325,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1821718,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ss6 shisyun-abab",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5749314,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Always bet kintaro",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 129647293,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21311
+    },
+    "date": 1792525954526,
+    "duration": 149985,
+    "left": {
+      "bet_amount": 4515165,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Crocodile",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2290104,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Tetsu yatoji",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 129620498,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22905
+    },
+    "date": 1792526134730,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 2634114,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Real gilgamesh",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3723077,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Hattori hanzou ph ai",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 129631257,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17733
+    },
+    "date": 1792526268726,
+    "duration": 74002,
+    "left": {
+      "bet_amount": 3308399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "God jafar",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3501874,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Evil reiji oyama",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 129608352,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
