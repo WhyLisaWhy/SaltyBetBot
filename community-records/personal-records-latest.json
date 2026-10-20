@@ -686206,5 +686206,140 @@
     "sum": 129102108,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 510
+    },
+    "date": 1792487814126,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 1966126,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Funny hamburglar",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2202463,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Nagato",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "sum": 129102138,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6664
+    },
+    "date": 1792488018327,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 946935,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mimizuku_professor",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2295387,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Fordy-z",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 129101628,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37431
+    },
+    "date": 1792488214328,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 1002633,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chibi nazrin",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2526399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Kongou-s",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 129094964,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22114
+    },
+    "date": 1792488444543,
+    "duration": 176019,
+    "left": {
+      "bet_amount": 1401365,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Durian",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1090024,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Oshima",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 129057533,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35951
+    },
+    "date": 1792488684746,
+    "duration": 184018,
+    "left": {
+      "bet_amount": 1524319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Vlade",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1120511,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Azusa hinomori",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 129035419,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
