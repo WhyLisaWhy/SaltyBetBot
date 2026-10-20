@@ -687529,5 +687529,86 @@
     "sum": 6433,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32983
+    },
+    "date": 1792499081127,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 2826840,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Dhalsims",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 774879,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "D4kirby_r",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 129086398,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16364
+    },
+    "date": 1792499251327,
+    "duration": 104005,
+    "left": {
+      "bet_amount": 1002673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Reimu hm",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4222654,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Trixie lulamoon",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 129053415,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38823
+    },
+    "date": 1792499401351,
+    "duration": 90025,
+    "left": {
+      "bet_amount": 1839275,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Shadow geist ex",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 843229,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Gikoneko",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 129057286,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
