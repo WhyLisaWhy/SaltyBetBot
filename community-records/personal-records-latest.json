@@ -687043,5 +687043,140 @@
     "sum": 129082586,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42712
+    },
+    "date": 1792493246541,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 1021848,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Trunks mvc",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2292523,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Master taekuk",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "sum": 129091273,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18866
+    },
+    "date": 1792493386532,
+    "duration": 84013,
+    "left": {
+      "bet_amount": 3153605,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Guile-xi remix",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905944,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Twilight sparkle",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 129048561,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1412
+    },
+    "date": 1792493552728,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 744703,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alien queen",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4911792,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Joker_shiki",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 129053949,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32386
+    },
+    "date": 1792493754926,
+    "duration": 142196,
+    "left": {
+      "bet_amount": 1459691,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Turf EX3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1413661,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Heaven ascension dio",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 129054164,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792494153160,
+    "duration": 120024,
+    "left": {
+      "bet_amount": 52864,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Twitch waifu chan-sd",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124447,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Omega red mvc2",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
