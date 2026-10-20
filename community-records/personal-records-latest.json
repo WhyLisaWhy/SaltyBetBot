@@ -691874,5 +691874,140 @@
     "sum": 129675962,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792528432530,
+    "duration": 70005,
+    "left": {
+      "bet_amount": 4662965,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Aussie kano",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1061374,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Guile_a",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129650093,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23293
+    },
+    "date": 1792528572727,
+    "duration": 84203,
+    "left": {
+      "bet_amount": 4103152,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Orochi yamazaki",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1725233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "D4 meirin",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 129650094,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18091
+    },
+    "date": 1792528708725,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 3455731,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Redking",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2129726,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Shimakaze",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 129626801,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12494
+    },
+    "date": 1792528878947,
+    "duration": 116221,
+    "left": {
+      "bet_amount": 2508447,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Chartette",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3690474,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Snk aya",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 129608710,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 659
+    },
+    "date": 1792529048928,
+    "duration": 116004,
+    "left": {
+      "bet_amount": 4209772,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Deathscythe",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2476289,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Shadow dio fc",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 129617174,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
