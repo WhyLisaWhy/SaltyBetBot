@@ -690256,5 +690256,111 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2806
+    },
+    "date": 1792516747328,
+    "duration": 92201,
+    "left": {
+      "bet_amount": 235749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kickboxer",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 115928,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kingpin",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "sum": 2806,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4170
+    },
+    "date": 1792516909323,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 104797,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Guile",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 285554,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Saiyajin",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 4170,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1792517145528,
+    "duration": 180001,
+    "left": {
+      "bet_amount": 198040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Steven seagal",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chun-li svc chaos",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 5679,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5679
+    },
+    "date": 1792517425725,
+    "duration": 226188,
+    "left": {
+      "bet_amount": 390695,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Twintail",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 129709,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sirohime",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 5679,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
