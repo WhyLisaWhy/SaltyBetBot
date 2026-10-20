@@ -691145,5 +691145,140 @@
     "sum": 129539917,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17562
+    },
+    "date": 1792523854928,
+    "duration": 164199,
+    "left": {
+      "bet_amount": 2464135,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Yuki yuna",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3337994,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Lucia fernandez",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 129559866,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1964
+    },
+    "date": 1792524061171,
+    "duration": 150209,
+    "left": {
+      "bet_amount": 1150608,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "King aof1",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2108770,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Meirin",
+      "normal_bettors": 23,
+      "win_streak": -11
+    },
+    "sum": 129542304,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7132
+    },
+    "date": 1792524295340,
+    "duration": 174197,
+    "left": {
+      "bet_amount": 2387950,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Quality shinobi",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1125024,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Pocket chunli",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 129540340,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24147
+    },
+    "date": 1792524481332,
+    "duration": 124007,
+    "left": {
+      "bet_amount": 5330664,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hyper neo-kamek EX3",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3382662,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Joker-p",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 129555383,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30643
+    },
+    "date": 1792524621534,
+    "duration": 74005,
+    "left": {
+      "bet_amount": 2886351,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kamen rider shadow rx",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5300122,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Scathach",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 129570637,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
