@@ -686476,5 +686476,113 @@
     "sum": 129011871,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24399
+    },
+    "date": 1792489721726,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 2130832,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Aoba EX2",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 832790,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Rip_saber",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 129012923,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27644
+    },
+    "date": 1792489877727,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 745165,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cf-len",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3187967,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Hiryu EX2",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 129022351,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41205
+    },
+    "date": 1792490037928,
+    "duration": 106193,
+    "left": {
+      "bet_amount": 849065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "C3po & r2d2",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1887364,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Taiga ex",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "sum": 128994707,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41044
+    },
+    "date": 1792490182129,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 1008003,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Cvs terry bogard",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2020620,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Adelheid xiii",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 129012848,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
