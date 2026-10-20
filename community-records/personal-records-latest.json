@@ -686341,5 +686341,140 @@
     "sum": 129035419,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42217
+    },
+    "date": 1792488846935,
+    "duration": 106012,
+    "left": {
+      "bet_amount": 1178928,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kira yoshikage",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1762472,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Dante de cerbero",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 129082806,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2715
+    },
+    "date": 1792488961137,
+    "duration": 66211,
+    "left": {
+      "bet_amount": 636683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yamazaki sk",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3846898,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Z-ukyo",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 129040589,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33707
+    },
+    "date": 1792489141137,
+    "duration": 125989,
+    "left": {
+      "bet_amount": 2197497,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "F.killerbee",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 856486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rarity",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 129041039,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10348
+    },
+    "date": 1792489335327,
+    "duration": 139954,
+    "left": {
+      "bet_amount": 2133152,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Nuclear ralf",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 940028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Watering can",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 129007332,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2107
+    },
+    "date": 1792489531525,
+    "duration": 140194,
+    "left": {
+      "bet_amount": 1248303,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lunasa prismriver",
+      "normal_bettors": 16,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2500171,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Gecko moria",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 129011871,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
