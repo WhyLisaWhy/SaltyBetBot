@@ -684856,5 +684856,113 @@
     "sum": 129261663,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22236
+    },
+    "date": 1792478888928,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 889508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cyber smoke umk3",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2632717,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Sephiroth AK",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 129266448,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33082
+    },
+    "date": 1792479115125,
+    "duration": 165985,
+    "left": {
+      "bet_amount": 1723866,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider diend",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1947260,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mallow",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 129244212,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21315
+    },
+    "date": 1792479299325,
+    "duration": 114187,
+    "left": {
+      "bet_amount": 1778461,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Madalitso",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1705330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Venom GG",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 129280878,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24266
+    },
+    "date": 1792479465340,
+    "duration": 106016,
+    "left": {
+      "bet_amount": 1333764,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Unlimited jin kisaragi",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1406594,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Kyo cvs2",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 129259563,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
