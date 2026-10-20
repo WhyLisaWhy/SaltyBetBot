@@ -692711,5 +692711,140 @@
     "sum": 129581182,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43871
+    },
+    "date": 1792533950925,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 2358808,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Mion",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1913394,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shin oni",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 129631782,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19122
+    },
+    "date": 1792534046925,
+    "duration": 40000,
+    "left": {
+      "bet_amount": 1069617,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kotonoha",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7022832,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Raymoo",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 129684654,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14627
+    },
+    "date": 1792534177135,
+    "duration": 70008,
+    "left": {
+      "bet_amount": 1471518,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Chelsea tone",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3055002,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Q-bee ex",
+      "normal_bettors": 31,
+      "win_streak": 8
+    },
+    "sum": 129687559,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12358
+    },
+    "date": 1792534351156,
+    "duration": 114026,
+    "left": {
+      "bet_amount": 765997,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucifer",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5210176,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shintaro",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 129717628,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1784
+    },
+    "date": 1792534473326,
+    "duration": 61995,
+    "left": {
+      "bet_amount": 1337701,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Noroko EX3",
+      "normal_bettors": 28,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2382986,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Gonsan",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 129719441,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
