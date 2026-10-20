@@ -687934,5 +687934,86 @@
     "sum": 128945648,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17184
+    },
+    "date": 1792501641137,
+    "duration": 180210,
+    "left": {
+      "bet_amount": 785922,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ayu tsukimiya",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4386490,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Billy 'big bang' blitz",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 128938286,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7244
+    },
+    "date": 1792501797326,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 771560,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Jabbin' jim",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8976167,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Dark samus",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 128921102,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34757
+    },
+    "date": 1792502021526,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 2695497,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kaeru(chrono)",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 924774,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kusanagi xiii",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 128921725,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
