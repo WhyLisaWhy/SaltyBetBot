@@ -689230,5 +689230,113 @@
     "sum": 129239712,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22378
+    },
+    "date": 1792509673525,
+    "duration": 129993,
+    "left": {
+      "bet_amount": 962625,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Zatracenie",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3900740,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Ryu-hou",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 129268652,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1441
+    },
+    "date": 1792509883731,
+    "duration": 150004,
+    "left": {
+      "bet_amount": 981108,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Negative shin",
+      "normal_bettors": 21,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3229948,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "G-gonzales",
+      "normal_bettors": 25,
+      "win_streak": 11
+    },
+    "sum": 129357272,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1903
+    },
+    "date": 1792510083926,
+    "duration": 145989,
+    "left": {
+      "bet_amount": 1684686,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kasumi",
+      "normal_bettors": 27,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1510888,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Uesugi",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 129355831,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18579
+    },
+    "date": 1792510274129,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 3826156,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Alty garnet",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 990021,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gustoff EX3",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 129353928,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
