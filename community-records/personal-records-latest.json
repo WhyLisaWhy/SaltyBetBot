@@ -696786,5 +696786,140 @@
     "sum": 130173462,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2809
+    },
+    "date": 1792565301729,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 688541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Abare bishamon",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5506973,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dark ash-kofm",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 130173047,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792565435925,
+    "duration": 73995,
+    "left": {
+      "bet_amount": 775358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ken IV",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5464788,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Shen xi",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "sum": 130173399,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22594
+    },
+    "date": 1792565636127,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1204503,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Clone zero-kofm",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2636366,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Azusa hinomori",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 130173400,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19104
+    },
+    "date": 1792565896326,
+    "duration": 194199,
+    "left": {
+      "bet_amount": 908886,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shin scrub prince goldrush",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2376343,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Yumemi",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 130183636,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26727
+    },
+    "date": 1792566032324,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 1751031,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mami EX",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1921886,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Testament gg1",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 130232557,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
