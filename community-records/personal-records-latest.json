@@ -699405,5 +699405,140 @@
     "sum": 129814513,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31253
+    },
+    "date": 1792581242328,
+    "duration": 145989,
+    "left": {
+      "bet_amount": 990352,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cueca",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3614160,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Eiji shirow",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 129816965,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792581642729,
+    "duration": 132002,
+    "left": {
+      "bet_amount": 71274,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dr. baldhead",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 98939,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Shimo 2002um",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792581792929,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 99318,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Scorpion mythos",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 141736,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Jhons lee",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2625
+    },
+    "date": 1792582035137,
+    "duration": 182171,
+    "left": {
+      "bet_amount": 165636,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Anchovy",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 132155,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Sion_tatari",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "sum": 2625,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792582387372,
+    "duration": 300245,
+    "left": {
+      "bet_amount": 228707,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Tatsuo",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 135531,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Wakko",
+      "normal_bettors": 29,
+      "win_streak": -6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
