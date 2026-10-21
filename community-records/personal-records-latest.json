@@ -699621,5 +699621,113 @@
     "sum": 3664,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4550
+    },
+    "date": 1792583260125,
+    "duration": 116186,
+    "left": {
+      "bet_amount": 475684,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Sesame",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 77213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Flandre_rp",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 4550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5282
+    },
+    "date": 1792583470337,
+    "duration": 150211,
+    "left": {
+      "bet_amount": 496692,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Dr. baldhead",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 80523,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jhons lee",
+      "normal_bettors": 19,
+      "win_streak": 6
+    },
+    "sum": 5282,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792583810528,
+    "duration": 286200,
+    "left": {
+      "bet_amount": 199053,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Anchovy",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 366026,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Wakko",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2390
+    },
+    "date": 1792584030728,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 130018,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Goketuji",
+      "normal_bettors": 38,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 253224,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gades",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 2390,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
