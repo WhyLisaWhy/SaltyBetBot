@@ -702915,5 +702915,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2783
+    },
+    "date": 1792607488135,
+    "duration": 180809,
+    "left": {
+      "bet_amount": 545214,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Kubikiri basara KOF",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 304007,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Q-d",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 2783,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2386
+    },
+    "date": 1792608468367,
+    "duration": 110040,
+    "left": {
+      "bet_amount": 992381,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kung fu akira",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2560546,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Zuepia",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 129862373,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
