@@ -699891,5 +699891,113 @@
     "sum": 129894242,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1266
+    },
+    "date": 1792586834929,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 2741123,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Asuka pb",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 961768,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Zemial",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 129865723,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19327
+    },
+    "date": 1792587045139,
+    "duration": 150011,
+    "left": {
+      "bet_amount": 968196,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fire quacker",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3649460,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Bubsy bobcat",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 129866167,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21617
+    },
+    "date": 1792587265327,
+    "duration": 160197,
+    "left": {
+      "bet_amount": 4889207,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Alicephia",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 855492,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Omni-psych chipp",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 129871268,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792587455526,
+    "duration": 134196,
+    "left": {
+      "bet_amount": 4694378,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kazuya akatsuki +q",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 792882,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Yoko kurama",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 129849651,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
