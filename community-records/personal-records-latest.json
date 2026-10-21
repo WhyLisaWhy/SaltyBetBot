@@ -693654,5 +693654,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2100
+    },
+    "date": 1792541522527,
+    "duration": 319799,
+    "left": {
+      "bet_amount": 303563,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kotaro kazama",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 478599,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tomoe mami",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 2100,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25916
+    },
+    "date": 1792542235527,
+    "duration": 76201,
+    "left": {
+      "bet_amount": 1184063,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gh-golden silver",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2422404,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Kencyan",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 129861082,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12266
+    },
+    "date": 1792542419734,
+    "duration": 130152,
+    "left": {
+      "bet_amount": 684187,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Metal slug",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4876358,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Dark ash-kofm",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 129873616,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
