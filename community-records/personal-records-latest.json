@@ -694167,5 +694167,86 @@
     "sum": 129857510,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31692
+    },
+    "date": 1792545714326,
+    "duration": 100147,
+    "left": {
+      "bet_amount": 2882153,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Megaman plus",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189660,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Uncle saizo",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 129863163,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1779
+    },
+    "date": 1792545880331,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 694803,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vegeta ssj3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5078139,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Electra 2097",
+      "normal_bettors": 42,
+      "win_streak": -2
+    },
+    "sum": 129831471,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26594
+    },
+    "date": 1792546126545,
+    "duration": 190214,
+    "left": {
+      "bet_amount": 680830,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Assiette",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 15072139,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 44,
+      "win_streak": -4
+    },
+    "sum": 129831715,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
