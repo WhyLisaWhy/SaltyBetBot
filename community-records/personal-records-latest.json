@@ -703509,5 +703509,113 @@
     "sum": 129980175,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792612019126,
+    "duration": 103955,
+    "left": {
+      "bet_amount": 1287532,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Another k9999",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7026234,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mongori",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 129989181,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24173
+    },
+    "date": 1792612145333,
+    "duration": 70206,
+    "left": {
+      "bet_amount": 1283894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "W.nut",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4296271,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Elite zaku",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 129989182,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5838
+    },
+    "date": 1792612349329,
+    "duration": 143994,
+    "left": {
+      "bet_amount": 859427,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ms.valliere",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10908115,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Glacial_girl",
+      "normal_bettors": 44,
+      "win_streak": 9
+    },
+    "sum": 129996366,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17488
+    },
+    "date": 1792612495527,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 8843644,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Abyss EX",
+      "normal_bettors": 45,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 813753,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mattrex",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 129996826,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
