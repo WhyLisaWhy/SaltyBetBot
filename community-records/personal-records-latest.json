@@ -696705,5 +696705,32 @@
     "sum": 6787,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21221
+    },
+    "date": 1792563483326,
+    "duration": 205209,
+    "left": {
+      "bet_amount": 476774,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 45,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 374050,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rashou mon",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 21221,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
