@@ -696597,5 +696597,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3745
+    },
+    "date": 1792562617729,
+    "duration": 242196,
+    "left": {
+      "bet_amount": 369357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Arrange mukuro",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 204090,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Rashou mon",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 3745,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792562807923,
+    "duration": 136200,
+    "left": {
+      "bet_amount": 316649,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Goku ssj3 EX2",
+      "normal_bettors": 44,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 231774,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dekugame",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2680
+    },
+    "date": 1792562971925,
+    "duration": 109993,
+    "left": {
+      "bet_amount": 424883,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Kung fu akira",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 274610,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 45,
+      "win_streak": 6
+    },
+    "sum": 2680,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6787
+    },
+    "date": 1792563218124,
+    "duration": 186198,
+    "left": {
+      "bet_amount": 227118,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rashou mon",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 497445,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Goku ssj3 EX2",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "sum": 6787,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
