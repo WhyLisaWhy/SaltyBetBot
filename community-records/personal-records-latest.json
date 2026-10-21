@@ -700890,5 +700890,113 @@
     "sum": 129641025,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12580
+    },
+    "date": 1792593133942,
+    "duration": 124012,
+    "left": {
+      "bet_amount": 666777,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Onslaught",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4382359,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Soldier ms",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 129681755,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27077
+    },
+    "date": 1792593356130,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 1727141,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Aladdin EX3",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1331033,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Mustapha",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 129669175,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24845
+    },
+    "date": 1792593566326,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 3035210,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Homura sk",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 842462,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ikaruga satuki",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 129642098,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792593766526,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 2056524,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Speed pq",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2697740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Gesrenst",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 129648939,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
