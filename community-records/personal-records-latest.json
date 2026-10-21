@@ -704076,5 +704076,140 @@
     "sum": 130199542,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33373
+    },
+    "date": 1792615820127,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 1898880,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Haohmaru EX",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2957468,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Shadow agent",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 130179880,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1006
+    },
+    "date": 1792615960329,
+    "duration": 80203,
+    "left": {
+      "bet_amount": 5767093,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Reika kitakami",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 824895,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Magnus",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 130146507,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25001
+    },
+    "date": 1792616096326,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 3238398,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ted broiler",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3131207,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Ikumi tatikawa",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "sum": 130145501,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38162
+    },
+    "date": 1792616256526,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1403436,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Yashiro EX2",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3504981,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Ikkaku",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 130120500,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792616406527,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 1472423,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Peeking lord pirate",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5039297,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "F.tarantula",
+      "normal_bettors": 28,
+      "win_streak": 11
+    },
+    "sum": 130135616,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
