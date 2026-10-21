@@ -699162,5 +699162,140 @@
     "sum": 129849745,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792579703326,
+    "duration": 110190,
+    "left": {
+      "bet_amount": 1122512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Slamdunk",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1568627,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Golden axe",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 129854408,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8036
+    },
+    "date": 1792579849328,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 3272964,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kratos",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1038850,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kumoi ichirin",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 129854410,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792580019529,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 3333847,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Human bo",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 814206,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shaq fu EX3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 129846374,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8847
+    },
+    "date": 1792580163728,
+    "duration": 84201,
+    "left": {
+      "bet_amount": 681563,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kirikou EX3",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2475293,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Dachon",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 129846375,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26180
+    },
+    "date": 1792580279726,
+    "duration": 56000,
+    "left": {
+      "bet_amount": 2360987,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Prinny squad",
+      "normal_bettors": 34,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 863574,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Killa and ren EX",
+      "normal_bettors": 15,
+      "win_streak": 4
+    },
+    "sum": 129848803,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
