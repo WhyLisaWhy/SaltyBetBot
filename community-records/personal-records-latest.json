@@ -695382,5 +695382,113 @@
     "sum": 130167666,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16736
+    },
+    "date": 1792553612524,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 881151,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vegeta ssj3",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5466335,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Rila estancia",
+      "normal_bettors": 44,
+      "win_streak": 3
+    },
+    "sum": 130165440,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19756
+    },
+    "date": 1792553768726,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 898691,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Veigue_lungberg",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2822949,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "No.6 akatsuki",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 130168130,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18080
+    },
+    "date": 1792553962928,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 1912170,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Gander",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1037096,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Bowser",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "sum": 130174376,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23117
+    },
+    "date": 1792554148928,
+    "duration": 126003,
+    "left": {
+      "bet_amount": 705384,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Captain caveman",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3413666,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "God demitri",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 130184091,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
