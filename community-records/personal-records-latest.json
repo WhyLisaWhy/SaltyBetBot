@@ -697947,5 +697947,140 @@
     "sum": 130037718,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 513
+    },
+    "date": 1792572487528,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 777401,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eg-x soulgain",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4119560,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Huriken",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130010741,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 138
+    },
+    "date": 1792572637526,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 786025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sazabi EX3",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4006845,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Zagan",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130010228,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21162
+    },
+    "date": 1792572843727,
+    "duration": 145997,
+    "left": {
+      "bet_amount": 1477501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sans EX7",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3515574,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "K-ko",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130010256,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34744
+    },
+    "date": 1792573073925,
+    "duration": 169999,
+    "left": {
+      "bet_amount": 2317969,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "W arcueid",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 917044,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Knightman mvc",
+      "normal_bettors": 15,
+      "win_streak": -6
+    },
+    "sum": 129989094,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25257
+    },
+    "date": 1792573238126,
+    "duration": 103994,
+    "left": {
+      "bet_amount": 1805763,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Zhenhua lou",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067696,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dally",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 129954350,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
