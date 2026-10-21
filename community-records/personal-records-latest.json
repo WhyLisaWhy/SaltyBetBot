@@ -697812,5 +697812,140 @@
     "sum": 130020618,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23413
+    },
+    "date": 1792571660929,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 3879234,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Earthquake svc chaos",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1224908,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Pocket batman",
+      "normal_bettors": 11,
+      "win_streak": -13
+    },
+    "sum": 130039503,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23408
+    },
+    "date": 1792571810933,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1231334,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Rashou mon",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2368450,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Koryu fu man",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 130046852,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26302
+    },
+    "date": 1792571981125,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 1989772,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Jam(ac)",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1432222,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Syuren kano",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 130058903,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15475
+    },
+    "date": 1792572131326,
+    "duration": 84198,
+    "left": {
+      "bet_amount": 3252753,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Teddie",
+      "normal_bettors": 35,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1080549,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Balrog sf2",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 130032601,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26977
+    },
+    "date": 1792572291325,
+    "duration": 103998,
+    "left": {
+      "bet_amount": 2092030,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shampoo",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1378271,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Ellie_ngi",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 130037718,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
