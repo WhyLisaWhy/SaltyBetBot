@@ -705534,5 +705534,86 @@
     "sum": 130007747,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39169
+    },
+    "date": 1792624839329,
+    "duration": 100195,
+    "left": {
+      "bet_amount": 3413697,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Edi.e",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3768946,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Suicider raoh",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 130007746,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34164
+    },
+    "date": 1792624995326,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 2821266,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Aiwhen",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1564565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Orsted",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 129968577,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4942
+    },
+    "date": 1792625194525,
+    "duration": 138996,
+    "left": {
+      "bet_amount": 767462,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tourney pikachu",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6003906,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Pandon fe",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 129934413,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
