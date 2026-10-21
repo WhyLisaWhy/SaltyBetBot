@@ -697650,5 +697650,167 @@
     "sum": 130026620,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792570704144,
+    "duration": 184217,
+    "left": {
+      "bet_amount": 1060320,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Marge",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5519117,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Nanase-mvc",
+      "normal_bettors": 31,
+      "win_streak": 0
+    },
+    "sum": 129994963,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16685
+    },
+    "date": 1792570884323,
+    "duration": 120180,
+    "left": {
+      "bet_amount": 2437076,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Doduo",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 928966,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Cyborg EX",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 129994962,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18851
+    },
+    "date": 1792571074325,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 3041984,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Dante 4",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 825606,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ryu sf3",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 130001279,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20979
+    },
+    "date": 1792571214528,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 812809,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Scorpion EX3",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2185858,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Ellie_ngi",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 129982428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17300
+    },
+    "date": 1792571366525,
+    "duration": 91999,
+    "left": {
+      "bet_amount": 1431283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Prismatic jam",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2550698,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Dusk komachi",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 129990155,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17194
+    },
+    "date": 1792571486722,
+    "duration": 65994,
+    "left": {
+      "bet_amount": 1751449,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Luffy's rose",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1577472,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "True lotus master",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 130020618,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
