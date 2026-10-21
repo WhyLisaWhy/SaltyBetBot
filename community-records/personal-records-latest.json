@@ -703239,5 +703239,86 @@
     "sum": 129887241,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21119
+    },
+    "date": 1792610427927,
+    "duration": 196200,
+    "left": {
+      "bet_amount": 1214459,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Utsuho_b",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4189675,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "The flash (new-52)",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 129888005,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34704
+    },
+    "date": 1792610607927,
+    "duration": 125993,
+    "left": {
+      "bet_amount": 3088858,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "General-malin",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 723203,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Vh_mami EX",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 129866886,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11528
+    },
+    "date": 1792610748137,
+    "duration": 80010,
+    "left": {
+      "bet_amount": 4782668,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Master kojiroh",
+      "normal_bettors": 39,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 969338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mageko EX",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 129832182,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
