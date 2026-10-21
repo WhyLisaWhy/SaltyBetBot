@@ -705048,5 +705048,140 @@
     "sum": 129983868,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8340
+    },
+    "date": 1792621854927,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 5018383,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Spider-man",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050360,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Poulet",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 129962265,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20705
+    },
+    "date": 1792622065131,
+    "duration": 150206,
+    "left": {
+      "bet_amount": 2675089,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Mahvel elena",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1148736,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kusanagi_ex",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 129953925,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27838
+    },
+    "date": 1792622295338,
+    "duration": 174212,
+    "left": {
+      "bet_amount": 2843125,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Kim XIII",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1151899,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Zoicite",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 129933220,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792622445328,
+    "duration": 84004,
+    "left": {
+      "bet_amount": 1113574,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Steve austin",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 36379811,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Revlius",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 129905382,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792622573527,
+    "duration": 72199,
+    "left": {
+      "bet_amount": 1157393,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sally stageplay",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 15988977,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Perfect cell",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "sum": 129905383,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
