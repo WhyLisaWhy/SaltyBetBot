@@ -701565,5 +701565,113 @@
     "sum": 129734820,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2471
+    },
+    "date": 1792597661729,
+    "duration": 74207,
+    "left": {
+      "bet_amount": 675451,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mezu EX4",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5287768,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ananzi",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "sum": 129765856,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17857
+    },
+    "date": 1792597831778,
+    "duration": 114056,
+    "left": {
+      "bet_amount": 1392505,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Dhalsim R",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1368415,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Athena fake",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 129766172,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21504
+    },
+    "date": 1792597981932,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 751023,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nogami_aoi",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8566362,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Thanos mvc2",
+      "normal_bettors": 45,
+      "win_streak": 22
+    },
+    "sum": 129748315,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24387
+    },
+    "date": 1792598162131,
+    "duration": 120209,
+    "left": {
+      "bet_amount": 1659540,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Shao kahn",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064997,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Asher",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 129750196,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
