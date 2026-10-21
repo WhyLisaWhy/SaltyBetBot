@@ -699297,5 +699297,113 @@
     "sum": 129848803,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26762
+    },
+    "date": 1792580489926,
+    "duration": 144197,
+    "left": {
+      "bet_amount": 4186895,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Takuan_osho",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 850776,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryoko EX",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 129822623,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32093
+    },
+    "date": 1792580686130,
+    "duration": 146203,
+    "left": {
+      "bet_amount": 1524257,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Bloody marilyn",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1619594,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Psycho weapon",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 129828027,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 46912
+    },
+    "date": 1792580846128,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1438065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Leonhalt domador",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1433785,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Shannon",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 129861425,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12285
+    },
+    "date": 1792581036347,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 678234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hybrid",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3387183,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Orochi shermie",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 129814513,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
