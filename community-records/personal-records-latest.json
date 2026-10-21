@@ -698082,5 +698082,140 @@
     "sum": 129954350,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792573384326,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 686935,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "B.jenet motw",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3473032,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Cheng sinzan rb2",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 129929093,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15686
+    },
+    "date": 1792573534326,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 3164183,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Kamaitachi nwa",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 807323,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "K' EX3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 129929094,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792573704527,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 2100262,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kazuma EX",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3437249,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Sabretooth EX",
+      "normal_bettors": 32,
+      "win_streak": 9
+    },
+    "sum": 129933077,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 803
+    },
+    "date": 1792573828572,
+    "duration": 64046,
+    "left": {
+      "bet_amount": 1145058,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Luigi",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1495104,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ramses iii",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 129933078,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41019
+    },
+    "date": 1792574020727,
+    "duration": 132001,
+    "left": {
+      "bet_amount": 2277167,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Shinobu kawasaki",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 906427,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dark kahn",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 129933693,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
