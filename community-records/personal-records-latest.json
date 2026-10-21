@@ -700323,5 +700323,113 @@
     "sum": 129745320,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13844
+    },
+    "date": 1792589625125,
+    "duration": 179996,
+    "left": {
+      "bet_amount": 2845083,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Sparkster",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 879592,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kousonsyou",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 129710107,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8757
+    },
+    "date": 1792589785330,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 7624399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Element -a-",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 993164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Super-8-k",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129714367,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1548
+    },
+    "date": 1792589985528,
+    "duration": 136196,
+    "left": {
+      "bet_amount": 4188145,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Katakura kojuro_ch",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 953304,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cure black",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 129715507,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21754
+    },
+    "date": 1792590179743,
+    "duration": 134215,
+    "left": {
+      "bet_amount": 677385,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shaq Diesel",
+      "normal_bettors": 13,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2717845,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Shadow kirby mythos",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 129715860,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
