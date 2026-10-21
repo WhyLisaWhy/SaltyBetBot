@@ -696327,5 +696327,113 @@
     "sum": 130131832,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792560093726,
+    "duration": 262187,
+    "left": {
+      "bet_amount": 66504,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kung fu akira",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133391,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Black goku",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792560293927,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 127860,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ness sumin",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131588,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "God orochi",
+      "normal_bettors": 38,
+      "win_streak": 19
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3039
+    },
+    "date": 1792560508137,
+    "duration": 154210,
+    "left": {
+      "bet_amount": 72121,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Storm_cota",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 258650,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Yuri_sv",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 3039,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792560698137,
+    "duration": 130012,
+    "left": {
+      "bet_amount": 268401,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Charlotte s",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 179628,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 41,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
