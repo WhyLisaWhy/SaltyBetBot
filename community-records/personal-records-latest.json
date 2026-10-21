@@ -697326,5 +697326,167 @@
     "sum": 130140408,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21521
+    },
+    "date": 1792568826529,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1101388,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Char's z'gok",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2355476,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Birdie EX3",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 130134706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792569006784,
+    "duration": 124240,
+    "left": {
+      "bet_amount": 5603080,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Master moriya",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 771847,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 130113185,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3171
+    },
+    "date": 1792569166927,
+    "duration": 100174,
+    "left": {
+      "bet_amount": 960812,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kohaku K",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4326013,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Strong guy",
+      "normal_bettors": 30,
+      "win_streak": 0
+    },
+    "sum": 130113184,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4562
+    },
+    "date": 1792569286928,
+    "duration": 60000,
+    "left": {
+      "bet_amount": 5458297,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Another unknown",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 714421,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Eddie",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 130113888,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23518
+    },
+    "date": 1792569447140,
+    "duration": 94211,
+    "left": {
+      "bet_amount": 5197371,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Matou sakura EX",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 939554,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Omega adelheid",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 130109326,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23983
+    },
+    "date": 1792569597131,
+    "duration": 90006,
+    "left": {
+      "bet_amount": 4010277,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Vega svc chaos",
+      "normal_bettors": 35,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 929856,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kyoko_sakura EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 130085808,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
