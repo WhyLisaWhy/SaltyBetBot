@@ -697191,5 +697191,140 @@
     "sum": 130165241,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792568009928,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 786676,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shaia hishizaki",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2205220,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Omega zero svc chaos",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 130168723,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23678
+    },
+    "date": 1792568140176,
+    "duration": 70154,
+    "left": {
+      "bet_amount": 775187,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sho ryu",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4077446,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Ir-meta",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130168726,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31055
+    },
+    "date": 1792568296126,
+    "duration": 95988,
+    "left": {
+      "bet_amount": 781718,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kuroko EX2",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2505140,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Master barnes",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 130173202,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1739
+    },
+    "date": 1792568480334,
+    "duration": 124208,
+    "left": {
+      "bet_amount": 2646893,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Dirty heart",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1063216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Wendy",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 130142147,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5702
+    },
+    "date": 1792568650525,
+    "duration": 110113,
+    "left": {
+      "bet_amount": 593047,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Imouto ex",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3271787,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Go badaa ba",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 130140408,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
