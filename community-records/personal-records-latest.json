@@ -696732,5 +696732,59 @@
     "sum": 21221,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26590
+    },
+    "date": 1792564945526,
+    "duration": 186200,
+    "left": {
+      "bet_amount": 852314,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Alex sf3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5258871,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Samus mvc",
+      "normal_bettors": 38,
+      "win_streak": 10
+    },
+    "sum": 130169174,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 415
+    },
+    "date": 1792565121727,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 3893843,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Goku ssjgss",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286196,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Godzillen",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 130173462,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
