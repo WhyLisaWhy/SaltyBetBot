@@ -696516,5 +696516,86 @@
     "sum": 6693,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792561730924,
+    "duration": 129988,
+    "left": {
+      "bet_amount": 558972,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Sekiponki",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 130962,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Dekugame",
+      "normal_bettors": 22,
+      "win_streak": -10
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792561935136,
+    "duration": 144005,
+    "left": {
+      "bet_amount": 375348,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kung fu akira",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 331841,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "God orochi",
+      "normal_bettors": 47,
+      "win_streak": 20
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792562315554,
+    "duration": 320372,
+    "left": {
+      "bet_amount": 288000,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Storm_cota",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 201848,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
