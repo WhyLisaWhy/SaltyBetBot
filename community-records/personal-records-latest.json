@@ -699837,5 +699837,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37392
+    },
+    "date": 1792586478728,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 943031,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gat-x105",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1997722,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Eirin yagokoro",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "sum": 129931634,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28519
+    },
+    "date": 1792586628731,
+    "duration": 93964,
+    "left": {
+      "bet_amount": 1935407,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Athena fake",
+      "normal_bettors": 25,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1330132,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Eliza EX",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129894242,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
