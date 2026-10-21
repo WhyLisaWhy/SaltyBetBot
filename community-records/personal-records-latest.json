@@ -702699,5 +702699,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1968
+    },
+    "date": 1792605690127,
+    "duration": 99970,
+    "left": {
+      "bet_amount": 384957,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Turn-a",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 183110,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "K'",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 1968,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792605924326,
+    "duration": 164186,
+    "left": {
+      "bet_amount": 116296,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Retro suika",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 428673,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mulan",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792606196529,
+    "duration": 212201,
+    "left": {
+      "bet_amount": 333679,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Ayaka fonstead",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 343422,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ultimate sula",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792606440727,
+    "duration": 184204,
+    "left": {
+      "bet_amount": 502739,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kubikiri basara KOF",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 180450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fl mugen",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
