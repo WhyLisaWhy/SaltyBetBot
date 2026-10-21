@@ -704805,5 +704805,86 @@
     "sum": 130087534,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14736
+    },
+    "date": 1792620257726,
+    "duration": 124188,
+    "left": {
+      "bet_amount": 3597682,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Saltdonald",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1907920,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Boss order-sol",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 130087677,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792620433731,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 3232578,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Tatsuki Arisawa",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2751349,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Chrysalis",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 130095460,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23654
+    },
+    "date": 1792620647938,
+    "duration": 154002,
+    "left": {
+      "bet_amount": 3060832,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Koryu",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2402516,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Irene",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 130095459,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
