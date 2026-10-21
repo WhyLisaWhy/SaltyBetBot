@@ -693519,5 +693519,86 @@
     "sum": 27899,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792539995724,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 508257,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Nair",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 181989,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Metalman mvc",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2104
+    },
+    "date": 1792540262014,
+    "duration": 206291,
+    "left": {
+      "bet_amount": 82378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "P-ciel",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 695885,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Alder(seraph)",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "sum": 2104,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792540556123,
+    "duration": 230183,
+    "left": {
+      "bet_amount": 421954,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Yoshiyuki takagi",
+      "normal_bettors": 35,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 290299,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Tomoe mami",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
