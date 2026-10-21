@@ -702807,5 +702807,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2105
+    },
+    "date": 1792606620941,
+    "duration": 124214,
+    "left": {
+      "bet_amount": 508654,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Carol stanzack",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 201834,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Q-d",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 2105,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7356
+    },
+    "date": 1792606871127,
+    "duration": 174200,
+    "left": {
+      "bet_amount": 180996,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "K'",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 510574,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Retro suika",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 7356,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792607097332,
+    "duration": 166203,
+    "left": {
+      "bet_amount": 433926,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ultimate sula",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 364055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Kubikiri basara KOF",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792607247327,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 383096,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Q-d",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 305943,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "K'",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
