@@ -701295,5 +701295,140 @@
     "sum": 129803810,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32388
+    },
+    "date": 1792595964330,
+    "duration": 164199,
+    "left": {
+      "bet_amount": 2652804,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "W-tenko",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1055278,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Umvc3 norimaro",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 129803813,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792596110327,
+    "duration": 85996,
+    "left": {
+      "bet_amount": 5580573,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kaioh-retsu",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 876671,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Noel",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 129816542,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21307
+    },
+    "date": 1792596230529,
+    "duration": 59998,
+    "left": {
+      "bet_amount": 970626,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Smoke umk3",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2895279,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Morrigan nxc",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 129816543,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29708
+    },
+    "date": 1792596370526,
+    "duration": 80005,
+    "left": {
+      "bet_amount": 761622,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ingrid EX2",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4126860,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Fire sonic",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 129795236,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33463
+    },
+    "date": 1792596620728,
+    "duration": 189998,
+    "left": {
+      "bet_amount": 3195442,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Lin lv3",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 991816,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Tenjou-jin",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 129800680,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
