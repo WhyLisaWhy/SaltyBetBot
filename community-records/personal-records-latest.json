@@ -696219,5 +696219,113 @@
     "sum": 130128607,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1400
+    },
+    "date": 1792559090930,
+    "duration": 92006,
+    "left": {
+      "bet_amount": 808999,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "King EX3",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4516988,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "White rbdm-kof",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130128844,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8600
+    },
+    "date": 1792559213130,
+    "duration": 62205,
+    "left": {
+      "bet_amount": 920164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "God alosson",
+      "normal_bettors": 19,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4815317,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Gaits z",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130129095,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2841
+    },
+    "date": 1792559411129,
+    "duration": 139933,
+    "left": {
+      "bet_amount": 2216736,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Imit ultraman",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 856232,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Itoshiki nozomu",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 130130736,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 707
+    },
+    "date": 1792559562327,
+    "duration": 95002,
+    "left": {
+      "bet_amount": 3489827,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Hey it's fred",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 890909,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sailor ice",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 130131832,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
