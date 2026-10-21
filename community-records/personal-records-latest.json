@@ -704400,5 +704400,113 @@
     "sum": 130067773,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24061
+    },
+    "date": 1792617613528,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 2048717,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Dakyousinai-san",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1309293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kathumi orochi",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 130044228,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1991
+    },
+    "date": 1792617753727,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 3622293,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Hauzer cfj",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 906668,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Thalia",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 130020167,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3581
+    },
+    "date": 1792617959726,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 2887968,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Italian rei",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5460625,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Akaitsuki EX3",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 130018176,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30040
+    },
+    "date": 1792618089937,
+    "duration": 70005,
+    "left": {
+      "bet_amount": 1048161,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ermac mk2",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2357503,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Sogne",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 130024939,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
