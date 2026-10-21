@@ -705615,5 +705615,113 @@
     "sum": 129934413,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792625625928,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 46751,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kim sueil",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 147007,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Satchi",
+      "normal_bettors": 45,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2038
+    },
+    "date": 1792625832128,
+    "duration": 146202,
+    "left": {
+      "bet_amount": 121206,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sailor moon kof",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127079,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Grandmaster meio",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 2038,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3952
+    },
+    "date": 1792626136328,
+    "duration": 250191,
+    "left": {
+      "bet_amount": 185290,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Fiona belli",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145631,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "March",
+      "normal_bettors": 27,
+      "win_streak": -6
+    },
+    "sum": 3952,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6994
+    },
+    "date": 1792626376534,
+    "duration": 180209,
+    "left": {
+      "bet_amount": 267744,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Seven",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127515,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Towa",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 6994,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
