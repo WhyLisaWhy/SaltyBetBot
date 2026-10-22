@@ -706020,5 +706020,167 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792631980928,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 2219143,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Omega Cloud Strife",
+      "normal_bettors": 21,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1795959,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Cci saisyu",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 129931939,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40466
+    },
+    "date": 1792632131131,
+    "duration": 100205,
+    "left": {
+      "bet_amount": 1159751,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nega peach",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2724050,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kfm_k",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 129931938,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22875
+    },
+    "date": 1792632317202,
+    "duration": 130077,
+    "left": {
+      "bet_amount": 869588,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Remi",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2553008,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Task force superman",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 129891472,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1604
+    },
+    "date": 1792632527326,
+    "duration": 150192,
+    "left": {
+      "bet_amount": 3120845,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Yusuke EX",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1156190,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cloud ex",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "sum": 129868597,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38959
+    },
+    "date": 1792632691525,
+    "duration": 104198,
+    "left": {
+      "bet_amount": 1834246,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Shin oni",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1655188,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Dirty fat",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 129869191,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18201
+    },
+    "date": 1792632827525,
+    "duration": 73992,
+    "left": {
+      "bet_amount": 736679,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Roy wilson",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3862888,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Conan edogawa",
+      "normal_bettors": 41,
+      "win_streak": -2
+    },
+    "sum": 129903616,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
