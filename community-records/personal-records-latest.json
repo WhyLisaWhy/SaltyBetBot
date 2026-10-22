@@ -708855,5 +708855,86 @@
     "sum": 15258,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792650675522,
+    "duration": 246194,
+    "left": {
+      "bet_amount": 153718,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Nf-kyo",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 134867,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Rocky balboa",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792651081925,
+    "duration": 346195,
+    "left": {
+      "bet_amount": 136556,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yoshi ssbb",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 220317,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Jubilee",
+      "normal_bettors": 45,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792651332126,
+    "duration": 196186,
+    "left": {
+      "bet_amount": 330790,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rouge the bat EX5",
+      "normal_bettors": 42,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 92543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akiha",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
