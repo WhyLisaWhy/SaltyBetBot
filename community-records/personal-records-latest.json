@@ -706560,5 +706560,113 @@
     "sum": 129768114,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8962
+    },
+    "date": 1792635547724,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 953440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "A-zepia",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5939117,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Famed mimic gogo",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "sum": 129776813,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22346
+    },
+    "date": 1792635801925,
+    "duration": 200191,
+    "left": {
+      "bet_amount": 2382961,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Rokusho",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1680744,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "D4 mizuki",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 129778250,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6380
+    },
+    "date": 1792636002127,
+    "duration": 144203,
+    "left": {
+      "bet_amount": 3378612,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Mvc2 riesbyfe",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 803861,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kenshi",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 129755904,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5307
+    },
+    "date": 1792636174328,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 1288791,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Takuma 94",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2963292,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Wulong",
+      "normal_bettors": 32,
+      "win_streak": 0
+    },
+    "sum": 129757420,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
