@@ -708558,5 +708558,113 @@
     "sum": 129785193,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2796
+    },
+    "date": 1792648001526,
+    "duration": 84191,
+    "left": {
+      "bet_amount": 1884728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Blue mary rb",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2025149,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 129760428,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30066
+    },
+    "date": 1792648181525,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 2489304,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider psyga",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1152733,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Judge",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 129763428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 43757
+    },
+    "date": 1792648347727,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 3059495,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Alien mefilas",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1622215,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Super3 goku",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "sum": 129826705,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27334
+    },
+    "date": 1792648507928,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 1491149,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Rawr",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2171188,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Dark phoenix",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 129782948,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
