@@ -714309,5 +714309,113 @@
     "sum": 129840673,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24170
+    },
+    "date": 1792688795925,
+    "duration": 99989,
+    "left": {
+      "bet_amount": 2308984,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Roast_uncle",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1593781,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Clark",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129805200,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792688956124,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 2500650,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Kai EX3",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 935595,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ryu hell",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 129821711,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5053
+    },
+    "date": 1792689122128,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 3612790,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kim",
+      "normal_bettors": 25,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 879304,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Fevrier",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 129821710,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29243
+    },
+    "date": 1792689322327,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1293927,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Asterix EX9",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3792949,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Juri han",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 129822939,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
