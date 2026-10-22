@@ -715200,5 +715200,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2718
+    },
+    "date": 1792695821532,
+    "duration": 190206,
+    "left": {
+      "bet_amount": 444398,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shindo tamaki",
+      "normal_bettors": 46,
+      "win_streak": 9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 342907,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lilith aileron",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 2718,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4803
+    },
+    "date": 1792696041726,
+    "duration": 160188,
+    "left": {
+      "bet_amount": 460694,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Rugal b. EX",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 377425,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Octor",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 4803,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792696329729,
+    "duration": 232004,
+    "left": {
+      "bet_amount": 553808,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shindo tamaki",
+      "normal_bettors": 38,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 253177,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rugal b. EX",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
