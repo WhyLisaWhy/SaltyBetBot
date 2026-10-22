@@ -710421,5 +710421,140 @@
     "sum": 129835928,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3905
+    },
+    "date": 1792662605147,
+    "duration": 206221,
+    "left": {
+      "bet_amount": 1327492,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Bai-hu EX",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2131902,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Bonkers",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 129836017,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16345
+    },
+    "date": 1792662765126,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 990515,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Mayor haggar",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4544387,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Cless ndx",
+      "normal_bettors": 38,
+      "win_streak": 9
+    },
+    "sum": 129832112,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14690
+    },
+    "date": 1792662919326,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 2983703,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Garagaranda",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1084980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mito_mashiro",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129835662,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25304
+    },
+    "date": 1792663105528,
+    "duration": 130170,
+    "left": {
+      "bet_amount": 798922,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Victor von simonstein",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3883491,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Birdy",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 129840978,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32126
+    },
+    "date": 1792663335728,
+    "duration": 174201,
+    "left": {
+      "bet_amount": 1034952,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Battler",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3216250,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Jubilee ex",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 129815674,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
