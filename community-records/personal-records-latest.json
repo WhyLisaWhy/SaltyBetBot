@@ -712392,5 +712392,140 @@
     "sum": 129656939,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38616
+    },
+    "date": 1792676656326,
+    "duration": 130156,
+    "left": {
+      "bet_amount": 2533892,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Hitsugaya",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1221907,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gouki x",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 129661359,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4624
+    },
+    "date": 1792676852530,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 4221784,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Awakened morrigan",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 824687,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Opa-opa",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 129679702,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4683
+    },
+    "date": 1792677082724,
+    "duration": 176197,
+    "left": {
+      "bet_amount": 1781357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kyoudou senna",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2494155,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Edi.e",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 129680605,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 53065
+    },
+    "date": 1792677302726,
+    "duration": 149995,
+    "left": {
+      "bet_amount": 1934698,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Dark order sol",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1098380,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mizuki rashoujin",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 129687145,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15125
+    },
+    "date": 1792677468927,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 937221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cm punk",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4412020,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kain",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 129776307,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
