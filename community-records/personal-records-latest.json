@@ -706182,5 +706182,86 @@
     "sum": 129903616,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28022
+    },
+    "date": 1792632997725,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 3030689,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Uesugi kensin EX G",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 885651,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yurung",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129885415,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24251
+    },
+    "date": 1792633123926,
+    "duration": 70195,
+    "left": {
+      "bet_amount": 2228578,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Joon deluxe",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1329439,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Negativezero",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 129893529,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18233
+    },
+    "date": 1792633297931,
+    "duration": 114005,
+    "left": {
+      "bet_amount": 1696633,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kuma CVS",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3222833,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Roger",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 129907840,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
