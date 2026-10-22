@@ -708774,5 +708774,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4655
+    },
+    "date": 1792649959167,
+    "duration": 190234,
+    "left": {
+      "bet_amount": 149845,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shiki vp",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 207333,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Chronos2",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 4655,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7946
+    },
+    "date": 1792650159132,
+    "duration": 139983,
+    "left": {
+      "bet_amount": 223644,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Karina toyota",
+      "normal_bettors": 20,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 213090,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Bowser mythos",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 7946,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15258
+    },
+    "date": 1792650375326,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 318185,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kim kap hwan",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206473,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Team ryuko",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 15258,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
