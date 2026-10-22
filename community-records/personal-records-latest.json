@@ -714930,5 +714930,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2096
+    },
+    "date": 1792693427532,
+    "duration": 173974,
+    "left": {
+      "bet_amount": 162777,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ange EX",
+      "normal_bettors": 38,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 53662,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "63",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "sum": 2096,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2779
+    },
+    "date": 1792693777930,
+    "duration": 284203,
+    "left": {
+      "bet_amount": 64570,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Beatrice",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 167125,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Lilith aileron",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 2779,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792693893926,
+    "duration": 59993,
+    "left": {
+      "bet_amount": 205446,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Rugal b. EX",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 94966,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mr. x - the kung fu master",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
