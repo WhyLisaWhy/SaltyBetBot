@@ -708288,5 +708288,140 @@
     "sum": 129682914,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792646244126,
+    "duration": 115992,
+    "left": {
+      "bet_amount": 864175,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Papyrus",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5395624,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Miyako yoshika",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "sum": 129693251,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38776
+    },
+    "date": 1792646414326,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1471236,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tomitake jirou",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3634844,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Chocobo",
+      "normal_bettors": 39,
+      "win_streak": 0
+    },
+    "sum": 129693250,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32697
+    },
+    "date": 1792646674527,
+    "duration": 200205,
+    "left": {
+      "bet_amount": 1370051,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lord yamcha",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3723045,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ushiromiya battler",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "sum": 129708780,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22408
+    },
+    "date": 1792646820528,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 1156712,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mora_g",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3447612,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Ryona",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 129720708,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28201
+    },
+    "date": 1792647004726,
+    "duration": 124198,
+    "left": {
+      "bet_amount": 4638468,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Kyosuke shigure",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 873056,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cammy_a",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129698300,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
