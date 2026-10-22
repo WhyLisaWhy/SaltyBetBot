@@ -712851,5 +712851,140 @@
     "sum": 129834662,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24068
+    },
+    "date": 1792679750728,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 1736999,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Dr. nucleus",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1301864,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Edgelord ravenous",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 129804013,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29649
+    },
+    "date": 1792679952965,
+    "duration": 140236,
+    "left": {
+      "bet_amount": 788976,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Batto",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4193838,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Sagume kishin",
+      "normal_bettors": 41,
+      "win_streak": 5
+    },
+    "sum": 129779945,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11801
+    },
+    "date": 1792680093125,
+    "duration": 86196,
+    "left": {
+      "bet_amount": 3985174,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kamen rider kiva",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 780198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cless-f",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 129750296,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13407
+    },
+    "date": 1792680237127,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 3979141,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Nico nico",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 895411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chomper",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 129752600,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 294
+    },
+    "date": 1792680397344,
+    "duration": 100216,
+    "left": {
+      "bet_amount": 1040406,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Neige pebble",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3739731,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Snes riesz",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "sum": 129755607,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
