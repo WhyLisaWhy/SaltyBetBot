@@ -712149,5 +712149,59 @@
     "sum": 3676,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35434
+    },
+    "date": 1792674292528,
+    "duration": 174202,
+    "left": {
+      "bet_amount": 571511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Butcher",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 272750,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Terry bogard mvc",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 35434,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25286
+    },
+    "date": 1792674684527,
+    "duration": 332001,
+    "left": {
+      "bet_amount": 525567,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Sim young gradation",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 329565,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Terry bogard mvc",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 101145,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
