@@ -715875,5 +715875,167 @@
     "sum": 129899421,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792704780524,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 744150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Hikaru EX3",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3271908,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Kunagi",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 129910510,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792704896725,
+    "duration": 56199,
+    "left": {
+      "bet_amount": 916445,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jean grey",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2362273,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Conan edogawa",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 129910509,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22321
+    },
+    "date": 1792705040725,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 2693470,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Rugal",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1145792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lightning cb",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 129910510,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 834
+    },
+    "date": 1792705166924,
+    "duration": 66199,
+    "left": {
+      "bet_amount": 833541,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Iori xiii",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3384157,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Chadha",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 129919928,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18532
+    },
+    "date": 1792705326934,
+    "duration": 100007,
+    "left": {
+      "bet_amount": 888922,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Alex",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2376411,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Lucifer",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 129920134,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792705493124,
+    "duration": 105995,
+    "left": {
+      "bet_amount": 1891293,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Nazo the hedgehog",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 983131,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Frieza EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 129927013,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
