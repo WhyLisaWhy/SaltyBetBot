@@ -711771,5 +711771,140 @@
     "sum": 129418382,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28684
+    },
+    "date": 1792671120327,
+    "duration": 142599,
+    "left": {
+      "bet_amount": 818770,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ark EX8",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3958716,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hanayama",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 129373401,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792671618328,
+    "duration": 230201,
+    "left": {
+      "bet_amount": 129069,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Classic geese howard",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 46325,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Fluffy",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2100
+    },
+    "date": 1792671854528,
+    "duration": 176201,
+    "left": {
+      "bet_amount": 61032,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Marvel frozen",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 137135,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Sim young gradation",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 2100,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3021
+    },
+    "date": 1792672018576,
+    "duration": 110049,
+    "left": {
+      "bet_amount": 184746,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Oboromaru",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 82152,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alcott",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 3021,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4343
+    },
+    "date": 1792672294936,
+    "duration": 220208,
+    "left": {
+      "bet_amount": 96929,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Burnov",
+      "normal_bettors": 19,
+      "win_streak": -7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 214645,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Mephisto",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 4343,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
