@@ -707532,5 +707532,140 @@
     "sum": 129830261,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24992
+    },
+    "date": 1792641926733,
+    "duration": 194207,
+    "left": {
+      "bet_amount": 1711763,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Azusa",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1861542,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Kurosaki ichigo",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 129831038,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3175
+    },
+    "date": 1792642076926,
+    "duration": 90204,
+    "left": {
+      "bet_amount": 1689852,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Terry EX3",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1850075,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Fat joker",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 129806046,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26324
+    },
+    "date": 1792642226928,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 784973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Demitri EX3",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5668405,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Z-ukyo",
+      "normal_bettors": 40,
+      "win_streak": 5
+    },
+    "sum": 129809516,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19761
+    },
+    "date": 1792642393124,
+    "duration": 105993,
+    "left": {
+      "bet_amount": 996258,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cecil harvey",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3349140,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Evangelion",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 129783192,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8148
+    },
+    "date": 1792642497122,
+    "duration": 49999,
+    "left": {
+      "bet_amount": 3889047,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Skolldir",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1001427,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "A decent chang",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 129763431,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
