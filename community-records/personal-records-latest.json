@@ -712284,5 +712284,113 @@
     "sum": 129650917,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3735
+    },
+    "date": 1792675931729,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 4343195,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Devilotte de deathsatan ix",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 754819,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Ness",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 129653197,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792676121929,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 1858943,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Relly",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260429,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Hunter killer",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 129653846,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18578
+    },
+    "date": 1792676271926,
+    "duration": 89985,
+    "left": {
+      "bet_amount": 4315228,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Marz cvs",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 721598,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Ortega ex",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 129653845,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20603
+    },
+    "date": 1792676472126,
+    "duration": 145991,
+    "left": {
+      "bet_amount": 834093,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lion",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3867744,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Eelis",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "sum": 129656939,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
