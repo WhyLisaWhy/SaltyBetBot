@@ -716037,5 +716037,113 @@
     "sum": 129927013,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31114
+    },
+    "date": 1792705627322,
+    "duration": 80193,
+    "left": {
+      "bet_amount": 970250,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Precious memories",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4311176,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Gian",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 129927012,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22871
+    },
+    "date": 1792705837325,
+    "duration": 149978,
+    "left": {
+      "bet_amount": 2226629,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Monika",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1074816,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ryu_a",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 129895898,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21087
+    },
+    "date": 1792705987545,
+    "duration": 94011,
+    "left": {
+      "bet_amount": 1061826,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Prometheus",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2561558,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Koryuoh",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "sum": 129906826,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14771
+    },
+    "date": 1792706183728,
+    "duration": 136203,
+    "left": {
+      "bet_amount": 3961753,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Jack cf2",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 760274,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Charles",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 129885739,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
