@@ -707397,5 +707397,140 @@
     "sum": 129826472,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30715
+    },
+    "date": 1792641026132,
+    "duration": 130209,
+    "left": {
+      "bet_amount": 1952542,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Corrupted shinnok",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1496470,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kenoh EX2",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129800360,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18414
+    },
+    "date": 1792641200125,
+    "duration": 120007,
+    "left": {
+      "bet_amount": 2182774,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Kotetsu",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1938470,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Tatsuo shiki",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 129823537,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22709
+    },
+    "date": 1792641370328,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 967045,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rosie",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4177607,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Kaizuka bocky mogra",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 129805123,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28410
+    },
+    "date": 1792641536523,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 2307176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Weiss dhq",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3263968,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Armor lord",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 129810352,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2261
+    },
+    "date": 1792641676559,
+    "duration": 86033,
+    "left": {
+      "bet_amount": 1127761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Takuma xiii",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3280830,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Chara ge",
+      "normal_bettors": 29,
+      "win_streak": -4
+    },
+    "sum": 129830261,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
