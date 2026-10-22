@@ -714012,5 +714012,113 @@
     "sum": 129889302,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21486
+    },
+    "date": 1792686812326,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 1311302,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Juggernaut",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1744875,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Valkenhayn r. hellsing",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "sum": 129889301,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26844
+    },
+    "date": 1792686982527,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 881094,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ratking",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3683022,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Lilica felchenerow",
+      "normal_bettors": 42,
+      "win_streak": 7
+    },
+    "sum": 129867815,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3604
+    },
+    "date": 1792687242729,
+    "duration": 194209,
+    "left": {
+      "bet_amount": 818623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Julius belmont",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4280137,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dark queen carmilla",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 129874191,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17877
+    },
+    "date": 1792687442921,
+    "duration": 134192,
+    "left": {
+      "bet_amount": 2462611,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Dark queen carmilla",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096291,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "An ogre",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 129870587,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
