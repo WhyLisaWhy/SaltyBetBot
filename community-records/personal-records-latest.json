@@ -715578,5 +715578,140 @@
     "sum": 129823374,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15875
+    },
+    "date": 1792702882924,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 6373649,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Joker_shiki",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 849066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shuu",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 129825810,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36261
+    },
+    "date": 1792703043124,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 1222107,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shermie bc",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2578952,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Full kusya",
+      "normal_bettors": 30,
+      "win_streak": -5
+    },
+    "sum": 129827920,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792703173326,
+    "duration": 70203,
+    "left": {
+      "bet_amount": 714867,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Naruto kid",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4786350,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Sonic EX2",
+      "normal_bettors": 41,
+      "win_streak": 5
+    },
+    "sum": 129844866,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26348
+    },
+    "date": 1792703369527,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 3737512,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Hauzer",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 883139,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aisatu_bouya",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 129844867,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27881
+    },
+    "date": 1792703573526,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 1936633,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Save spacemouse!",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 992086,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Skullomania",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 129851050,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
