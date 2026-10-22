@@ -709152,5 +709152,140 @@
     "sum": 129774904,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27880
+    },
+    "date": 1792654362526,
+    "duration": 176190,
+    "left": {
+      "bet_amount": 1492676,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2528864,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Nirvana",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 129782399,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24877
+    },
+    "date": 1792654552728,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 4377157,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Orochi yuyuko",
+      "normal_bettors": 45,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 913918,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Anime chiffon",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 129798676,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29402
+    },
+    "date": 1792654712726,
+    "duration": 105977,
+    "left": {
+      "bet_amount": 962751,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kilyousuke ex",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3542042,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "True lotus master",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 129803841,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792654918925,
+    "duration": 141937,
+    "left": {
+      "bet_amount": 3832194,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Kazuma EX",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1771000,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Vava mk-2",
+      "normal_bettors": 27,
+      "win_streak": -14
+    },
+    "sum": 129774439,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26093
+    },
+    "date": 1792655087127,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 1683535,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Princess toadstool",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1351969,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Shin akuma",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 129774440,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
