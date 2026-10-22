@@ -712203,5 +712203,86 @@
     "sum": 101145,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20463
+    },
+    "date": 1792675389327,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 5966092,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hunter killer hydralisk",
+      "normal_bettors": 39,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1845942,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Yuyuko",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 129623666,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41724
+    },
+    "date": 1792675575530,
+    "duration": 130207,
+    "left": {
+      "bet_amount": 2323035,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Daigo hotta",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1186802,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kurohige",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 129629976,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13134
+    },
+    "date": 1792675779524,
+    "duration": 143996,
+    "left": {
+      "bet_amount": 4291389,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Oldmon",
+      "normal_bettors": 35,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 746930,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Reisen-deadpool-inaba",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 129650917,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
