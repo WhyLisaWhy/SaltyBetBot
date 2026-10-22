@@ -711285,5 +711285,140 @@
     "sum": 129626382,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41538
+    },
+    "date": 1792667947326,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1025620,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yatteyaru-death",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2372139,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Diana neko",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 129627708,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10335
+    },
+    "date": 1792668117529,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 999563,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Hadou-ken",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2883136,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Van platin",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 129586170,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792668333728,
+    "duration": 156206,
+    "left": {
+      "bet_amount": 1145737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gundam epyon",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3357881,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Gardevoir dx",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 129575835,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24369
+    },
+    "date": 1792668489727,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1700931,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Konoha",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1760166,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Koryuoh",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 129575834,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28109
+    },
+    "date": 1792668683928,
+    "duration": 133995,
+    "left": {
+      "bet_amount": 3941485,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "The mountain",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 856691,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Final",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 129551465,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
