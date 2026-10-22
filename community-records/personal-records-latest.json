@@ -713121,5 +713121,140 @@
     "sum": 129754051,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22249
+    },
+    "date": 1792681584327,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 882147,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Yuuki asuna",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2584332,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Master kaede",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 129744427,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41878
+    },
+    "date": 1792681754327,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 714360,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Demon butler ronove",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2343172,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Ryoko(mugen)",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 129722178,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792681930527,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 1903808,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Meta-knight",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3021603,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Meta knight mythos",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 129851936,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18682
+    },
+    "date": 1792682060527,
+    "duration": 76004,
+    "left": {
+      "bet_amount": 928651,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Axel",
+      "normal_bettors": 11,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3329330,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Noa",
+      "normal_bettors": 45,
+      "win_streak": 4
+    },
+    "sum": 129851935,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19894
+    },
+    "date": 1792682220730,
+    "duration": 99936,
+    "left": {
+      "bet_amount": 3342507,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Ryuji yamazaki",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2176836,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Sinobu amou",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 129833253,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
