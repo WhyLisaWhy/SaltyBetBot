@@ -710718,5 +710718,113 @@
     "sum": 129758897,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792664414524,
+    "duration": 77997,
+    "left": {
+      "bet_amount": 5502178,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Meta knight sdx",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 945585,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Ssj gohan",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 129760143,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26224
+    },
+    "date": 1792664658728,
+    "duration": 186201,
+    "left": {
+      "bet_amount": 2373804,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Super Skrull MVC",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1105001,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Slash EX",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 129760144,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1810
+    },
+    "date": 1792664868927,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 8447116,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Metalman",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 865460,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Funny hamburglar",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 129733920,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3643
+    },
+    "date": 1792665028929,
+    "duration": 95973,
+    "left": {
+      "bet_amount": 919087,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Henri angelo",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7206089,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Silversamurai mvc2",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 129734106,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
