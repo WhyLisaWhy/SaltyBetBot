@@ -715281,5 +715281,140 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26308
+    },
+    "date": 1792701205727,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 1821147,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Uranus",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2160020,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "C_krizalid",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 129720702,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28167
+    },
+    "date": 1792701375726,
+    "duration": 115999,
+    "left": {
+      "bet_amount": 3946633,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Makoto(*zenkai*)",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 962180,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Asuna",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 129751461,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22990
+    },
+    "date": 1792701521924,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 896084,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yamazaki rb",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7294250,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Predator warrior",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 129863710,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2429
+    },
+    "date": 1792701662124,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 5534520,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Mvc2 cyclops",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 700209,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Shinnosuke_kagami(shao)",
+      "normal_bettors": 9,
+      "win_streak": -10
+    },
+    "sum": 129866526,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792701812124,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 824114,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Marik",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5724266,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Animus",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 129866834,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
