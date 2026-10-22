@@ -711420,5 +711420,140 @@
     "sum": 129551465,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25280
+    },
+    "date": 1792668874126,
+    "duration": 134078,
+    "left": {
+      "bet_amount": 1707460,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Ume_age19",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1771258,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Jecht EX",
+      "normal_bettors": 21,
+      "win_streak": -6
+    },
+    "sum": 129523356,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1949
+    },
+    "date": 1792669050326,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 862381,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Watatsuki no yorihime",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5179189,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Helmet",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 129498076,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4094
+    },
+    "date": 1792669184326,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 916700,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mevella",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3819430,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Flan Scarlet",
+      "normal_bettors": 37,
+      "win_streak": 13
+    },
+    "sum": 129498401,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13258
+    },
+    "date": 1792669344525,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 2390581,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Dragon gundam",
+      "normal_bettors": 33,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1015724,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 16,
+      "win_streak": -12
+    },
+    "sum": 129499383,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21232
+    },
+    "date": 1792669510526,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 3926755,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Dark ash-kofm",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 846096,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "First role mayu",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 129504986,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
