@@ -716334,5 +716334,86 @@
     "sum": 129917269,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 48950
+    },
+    "date": 1792707654725,
+    "duration": 133980,
+    "left": {
+      "bet_amount": 1980988,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Iori rotd",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1117751,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Alice carrol",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 129924784,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19804
+    },
+    "date": 1792707786926,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 1134109,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Pikachu sumin",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2046768,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Boss kracko",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 129875834,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28083
+    },
+    "date": 1792708037154,
+    "duration": 190228,
+    "left": {
+      "bet_amount": 727530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "!shizumaru",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2552479,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 11,
+      "name": "Devil_daigo EX",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 129856030,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
