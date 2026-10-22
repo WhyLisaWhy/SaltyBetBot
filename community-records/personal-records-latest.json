@@ -714849,5 +714849,86 @@
     "sum": 129708267,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1975
+    },
+    "date": 1792692270726,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 876744,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Naruto kun hr",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5134379,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Chintao FF",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 129712608,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20402
+    },
+    "date": 1792692418128,
+    "duration": 91399,
+    "left": {
+      "bet_amount": 2587769,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Felden crais",
+      "normal_bettors": 37,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1087937,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Yuyuko",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 129710633,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792692773128,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 49301,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Sho 100% v2.0 by inverse",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138488,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Shindo tamaki",
+      "normal_bettors": 40,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
