@@ -713256,5 +713256,113 @@
     "sum": 129833253,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792682376928,
+    "duration": 102187,
+    "left": {
+      "bet_amount": 5567703,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Snake man",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1110120,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Geneshic gaogaiger",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "sum": 129813359,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20483
+    },
+    "date": 1792682570951,
+    "duration": 140022,
+    "left": {
+      "bet_amount": 946421,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Classic blanka",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2690729,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Jobber jose",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 129813360,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17574
+    },
+    "date": 1792682697125,
+    "duration": 65997,
+    "left": {
+      "bet_amount": 3353465,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Taoist",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1409421,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ratix",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "sum": 129792877,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19651
+    },
+    "date": 1792682897329,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 4027541,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Edgar figaro",
+      "normal_bettors": 45,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 929819,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ugly raditz",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 129775303,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
