@@ -710151,5 +710151,113 @@
     "sum": 129828918,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17599
+    },
+    "date": 1792660761527,
+    "duration": 123994,
+    "left": {
+      "bet_amount": 3236785,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Misuzu",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1334811,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Joker EX3",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 129846417,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6960
+    },
+    "date": 1792661037728,
+    "duration": 216187,
+    "left": {
+      "bet_amount": 957044,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Raisen",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3943193,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Master toadman",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 129853636,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792661187928,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 2447421,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Detton",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1295111,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Hon-fu rb2",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 129855323,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18426
+    },
+    "date": 1792661334127,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 1840359,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Scylla",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1824290,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 6,
+      "name": "Zerozuchi boss",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 129855324,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
