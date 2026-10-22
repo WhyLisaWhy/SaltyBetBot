@@ -715119,5 +715119,86 @@
     "sum": 2577,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4233
+    },
+    "date": 1792695116927,
+    "duration": 330200,
+    "left": {
+      "bet_amount": 123511,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ange EX",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 461977,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Lilith aileron",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 4233,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792695311126,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 137333,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Rugal b. EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 503641,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Winggod kanna",
+      "normal_bettors": 42,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792695571337,
+    "duration": 200209,
+    "left": {
+      "bet_amount": 191387,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Vanguard zero",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 252525,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Octor",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
