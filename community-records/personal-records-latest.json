@@ -711690,5 +711690,86 @@
     "sum": 129462389,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792670511530,
+    "duration": 170196,
+    "left": {
+      "bet_amount": 1056105,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Fcmeirin",
+      "normal_bettors": 16,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3609823,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Ristar",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 129416807,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4929
+    },
+    "date": 1792670661528,
+    "duration": 93998,
+    "left": {
+      "bet_amount": 3184209,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Alphax",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1016322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Steve",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 129416811,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 44981
+    },
+    "date": 1792670917722,
+    "duration": 200191,
+    "left": {
+      "bet_amount": 1077650,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nega peach",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2022919,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Pulseman",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 129418382,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
