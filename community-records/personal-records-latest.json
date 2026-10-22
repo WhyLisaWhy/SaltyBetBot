@@ -712986,5 +712986,140 @@
     "sum": 129755607,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11942
+    },
+    "date": 1792680687526,
+    "duration": 230200,
+    "left": {
+      "bet_amount": 1325241,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kamek",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2624007,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Mithra classic knight",
+      "normal_bettors": 26,
+      "win_streak": -5
+    },
+    "sum": 129755689,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14279
+    },
+    "date": 1792680827527,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 841349,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pyros",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2278689,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Yurika kirishima",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 129743747,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792681023753,
+    "duration": 140028,
+    "left": {
+      "bet_amount": 3148738,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ash crimson-kofm",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1008892,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Usa-godzilla",
+      "normal_bettors": 24,
+      "win_streak": 7
+    },
+    "sum": 129748987,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20307
+    },
+    "date": 1792681159926,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 3238048,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Order of ecclesia death",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 812308,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Super mario EX3",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 129748988,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9624
+    },
+    "date": 1792681384132,
+    "duration": 164160,
+    "left": {
+      "bet_amount": 4741430,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Charlotte m",
+      "normal_bettors": 43,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 773787,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Superbiola",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 129754051,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
