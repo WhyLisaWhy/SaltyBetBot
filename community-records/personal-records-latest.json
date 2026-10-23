@@ -721005,5 +721005,86 @@
     "sum": 131100337,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27715
+    },
+    "date": 1792742536528,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 921199,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Bad rorschach",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2863397,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Alba meira",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 131100339,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5824
+    },
+    "date": 1792742686726,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 1272586,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Spinal ki2",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4309875,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Nests kyo xiii",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 131109170,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30407
+    },
+    "date": 1792742869725,
+    "duration": 122996,
+    "left": {
+      "bet_amount": 668536,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kamen rider shadow rx",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6044368,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Hunter killer hydralisk",
+      "normal_bettors": 42,
+      "win_streak": 10
+    },
+    "sum": 131110888,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
