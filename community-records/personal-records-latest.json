@@ -717171,5 +717171,113 @@
     "sum": 129593398,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28849
+    },
+    "date": 1792712898927,
+    "duration": 154001,
+    "left": {
+      "bet_amount": 5528226,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Antlar",
+      "normal_bettors": 38,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 938772,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Apocalypse ex",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 129566342,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12251
+    },
+    "date": 1792713105128,
+    "duration": 145993,
+    "left": {
+      "bet_amount": 1253340,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kisume EX",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2371136,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Thanos",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 129731163,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39342
+    },
+    "date": 1792713309326,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 1727805,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Naya tatca nanafe",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1306825,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Aku-amakusa",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 129754116,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23871
+    },
+    "date": 1792713469534,
+    "duration": 104207,
+    "left": {
+      "bet_amount": 4732069,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "D4 kirby",
+      "normal_bettors": 45,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 832208,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Roll MVC",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 129783210,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
