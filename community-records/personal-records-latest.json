@@ -724164,5 +724164,167 @@
     "sum": 130853591,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7972
+    },
+    "date": 1792764798129,
+    "duration": 111803,
+    "left": {
+      "bet_amount": 982211,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Daiyousei_hsts",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4085830,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Yoriko-mvc EX3",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 130812043,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792765176726,
+    "duration": 110185,
+    "left": {
+      "bet_amount": 76776,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Hu-mizuchi",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 126147,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Reaper",
+      "normal_bettors": 37,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792765392730,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 200452,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Hyper neo-kamek EX3",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 84867,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Mr. providence",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792765572945,
+    "duration": 120014,
+    "left": {
+      "bet_amount": 191104,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hu-ama",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 133274,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Godzilla_ex",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2623
+    },
+    "date": 1792765843128,
+    "duration": 206207,
+    "left": {
+      "bet_amount": 243236,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Uzuki shimamura",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 96088,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Star",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 2623,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3649
+    },
+    "date": 1792766033325,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 103040,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kyo kusanagi 97",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 330895,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Syuren kano",
+      "normal_bettors": 38,
+      "win_streak": -2
+    },
+    "sum": 3649,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
