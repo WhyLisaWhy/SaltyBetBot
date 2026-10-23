@@ -722814,5 +722814,140 @@
     "sum": 131096186,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792756141387,
+    "duration": 100059,
+    "left": {
+      "bet_amount": 3853652,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Ninja turtles",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1490566,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Pepsi man",
+      "normal_bettors": 14,
+      "win_streak": 0
+    },
+    "sum": 131096187,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15259
+    },
+    "date": 1792756333526,
+    "duration": 131999,
+    "left": {
+      "bet_amount": 899303,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dokuro",
+      "normal_bettors": 16,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2810533,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Yurung",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 131096188,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28477
+    },
+    "date": 1792756497726,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 1988538,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Miko EX",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1421864,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Ryu EX3",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 131101045,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19687
+    },
+    "date": 1792756623736,
+    "duration": 66007,
+    "left": {
+      "bet_amount": 1287238,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gaisei",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2830769,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Eddie(ex)",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 131072568,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15091
+    },
+    "date": 1792756833928,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 1168860,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Zonuda",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2204560,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Goyan",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 131081459,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
