@@ -720168,5 +720168,140 @@
     "sum": 130815901,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33128
+    },
+    "date": 1792737258327,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 3725398,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Leona ex",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1146390,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Opera elmer",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 130820928,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31250
+    },
+    "date": 1792737412324,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2068177,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kitsune",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1138715,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Ryoko asakura",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 130831033,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5209
+    },
+    "date": 1792737582528,
+    "duration": 114002,
+    "left": {
+      "bet_amount": 876498,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Saionzi sekai",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4455525,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Daimon 71113",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 130886275,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17163
+    },
+    "date": 1792737768721,
+    "duration": 125993,
+    "left": {
+      "bet_amount": 3000824,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Urmnaf bort hyuga",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905354,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shinobu kawasaki",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 130881066,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40971
+    },
+    "date": 1792737972925,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 2209987,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Sirohime",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1781799,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Real justice",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "sum": 130936895,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
