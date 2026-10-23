@@ -721842,5 +721842,113 @@
     "sum": 131044525,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32806
+    },
+    "date": 1792749746338,
+    "duration": 124012,
+    "left": {
+      "bet_amount": 3789240,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Lady",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 950264,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gumball watterson",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "sum": 131044524,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12505
+    },
+    "date": 1792749902391,
+    "duration": 90070,
+    "left": {
+      "bet_amount": 5734958,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ultron is",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 869653,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Blake belladonna",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 131052681,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25263
+    },
+    "date": 1792750158726,
+    "duration": 196197,
+    "left": {
+      "bet_amount": 1935027,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Stefanie",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2256262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Jell",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 131054574,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35878
+    },
+    "date": 1792750398926,
+    "duration": 176190,
+    "left": {
+      "bet_amount": 1300525,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Italian toki",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2781754,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Jinx",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "sum": 131029311,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
