@@ -724083,5 +724083,86 @@
     "sum": 130869018,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19850
+    },
+    "date": 1792764315927,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 752583,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rin_h",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3139017,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "No.6 akatsuki",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130872809,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2485
+    },
+    "date": 1792764476128,
+    "duration": 106164,
+    "left": {
+      "bet_amount": 997432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kyo",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3924348,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "P tabasa",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 130852959,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41548
+    },
+    "date": 1792764626132,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 937702,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Turbo ken",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4750221,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Miyabi",
+      "normal_bettors": 39,
+      "win_streak": 8
+    },
+    "sum": 130853591,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
