@@ -717846,5 +717846,113 @@
     "sum": 129796848,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42829
+    },
+    "date": 1792717426528,
+    "duration": 196003,
+    "left": {
+      "bet_amount": 2521651,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "No.8",
+      "normal_bettors": 43,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1305382,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Galford nrf",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "sum": 129794581,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8262
+    },
+    "date": 1792717630730,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 974753,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kung fu paragas",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2900769,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "X-stranger",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "sum": 129751752,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37935
+    },
+    "date": 1792717756928,
+    "duration": 70003,
+    "left": {
+      "bet_amount": 3937125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kutsuna yui ex",
+      "normal_bettors": 43,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1032767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "MB-02",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 129754521,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 293
+    },
+    "date": 1792718027126,
+    "duration": 214204,
+    "left": {
+      "bet_amount": 3318340,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Gyeron",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 896787,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Turn-x",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 129764377,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
