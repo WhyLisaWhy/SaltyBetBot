@@ -727134,5 +727134,113 @@
     "sum": 130330002,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26762
+    },
+    "date": 1792785909125,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 951931,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "F-zeryo x",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2979097,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Maat",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 130350182,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17385
+    },
+    "date": 1792786095330,
+    "duration": 130204,
+    "left": {
+      "bet_amount": 941358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Johnny cage EX",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4603290,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Foxy ex",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "sum": 130431645,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35780
+    },
+    "date": 1792786305525,
+    "duration": 150183,
+    "left": {
+      "bet_amount": 1344499,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Gg-wind",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2148873,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Mongul",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 130435187,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 49846
+    },
+    "date": 1792786429526,
+    "duration": 69936,
+    "left": {
+      "bet_amount": 1786632,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Shingo",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1867722,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Tina",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 130490891,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
