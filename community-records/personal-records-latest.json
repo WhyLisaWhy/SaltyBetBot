@@ -718008,5 +718008,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2400
+    },
+    "date": 1792719073927,
+    "duration": 230202,
+    "left": {
+      "bet_amount": 124487,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Toro inoue",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 139857,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Jo jo",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 2400,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4501
+    },
+    "date": 1792719340125,
+    "duration": 212201,
+    "left": {
+      "bet_amount": 83054,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Bugzzy sdx",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 258527,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Nobuko(emanon)",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 4501,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5923
+    },
+    "date": 1792719534324,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 270594,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Rain",
+      "normal_bettors": 51,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107449,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rare Sophitia",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 5923,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8225
+    },
+    "date": 1792719700327,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 112913,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Inferno nightmare",
+      "normal_bettors": 22,
+      "win_streak": -7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 323459,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ritsu tainaka",
+      "normal_bettors": 46,
+      "win_streak": -1
+    },
+    "sum": 8225,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11025
+    },
+    "date": 1792719874534,
+    "duration": 120010,
+    "left": {
+      "bet_amount": 331051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Pullum purna",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 135338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sumo",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 11025,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
