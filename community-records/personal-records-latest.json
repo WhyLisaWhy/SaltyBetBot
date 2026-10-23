@@ -723651,5 +723651,140 @@
     "sum": 130979620,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21343
+    },
+    "date": 1792761465725,
+    "duration": 106192,
+    "left": {
+      "bet_amount": 881286,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "C-xion",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5804207,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Oyashirorika EX",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 130990173,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23482
+    },
+    "date": 1792761591725,
+    "duration": 65996,
+    "left": {
+      "bet_amount": 1190808,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kaen",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4203167,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 130968830,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6250
+    },
+    "date": 1792761715941,
+    "duration": 64205,
+    "left": {
+      "bet_amount": 821463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sai",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6748432,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Knightgundam",
+      "normal_bettors": 45,
+      "win_streak": 2
+    },
+    "sum": 130975446,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792761986126,
+    "duration": 204198,
+    "left": {
+      "bet_amount": 1192958,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Nakozuki ruruko",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1995282,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Ange EX",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 130976207,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18472
+    },
+    "date": 1792762112129,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 2746528,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Rikard hawlett EX7",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 870641,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Yuda",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 130976209,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
