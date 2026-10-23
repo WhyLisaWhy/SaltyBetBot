@@ -721086,5 +721086,140 @@
     "sum": 131110888,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792743331129,
+    "duration": 190001,
+    "left": {
+      "bet_amount": 55624,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kira yoshikage",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131548,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shintaro",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2198
+    },
+    "date": 1792743563330,
+    "duration": 176003,
+    "left": {
+      "bet_amount": 50575,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Masked rider blade",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 189836,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Morrigan EX",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 2198,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2777
+    },
+    "date": 1792743783528,
+    "duration": 160204,
+    "left": {
+      "bet_amount": 215523,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Dorako marufoi",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 70780,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Perfect oc",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 2777,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792744093725,
+    "duration": 256195,
+    "left": {
+      "bet_amount": 172076,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Brokken",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 173361,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Takumi hattori",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792744283929,
+    "duration": 135982,
+    "left": {
+      "bet_amount": 104357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Rouwe_n",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 321882,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Iggy ex",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
