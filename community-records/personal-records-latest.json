@@ -728025,5 +728025,140 @@
     "sum": 130513553,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34757
+    },
+    "date": 1792797538327,
+    "duration": 185999,
+    "left": {
+      "bet_amount": 2013478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hitsugaya",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4930512,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Extrahighfairy",
+      "normal_bettors": 41,
+      "win_streak": 8
+    },
+    "sum": 130535441,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7163
+    },
+    "date": 1792797768527,
+    "duration": 169997,
+    "left": {
+      "bet_amount": 11070095,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Celestial mukai",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1161259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akiko EX",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 130549536,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792797918725,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 3542970,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "F.tarantula",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1351699,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "!mudman",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130550287,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26078
+    },
+    "date": 1792798112925,
+    "duration": 140177,
+    "left": {
+      "bet_amount": 3796047,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Koryuoh",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 864969,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Voltage zeroko",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 130550288,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10737
+    },
+    "date": 1792798425126,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 7131688,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Teoc reisen",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1607987,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Dragon EX",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 130556190,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
