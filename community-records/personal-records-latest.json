@@ -723192,5 +723192,140 @@
     "sum": 130990212,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792758577326,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 7636226,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Makendo2",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1885449,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Max payne",
+      "normal_bettors": 28,
+      "win_streak": -14
+    },
+    "sum": 130965344,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1344
+    },
+    "date": 1792758715530,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 5094195,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rid hershel",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 903102,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Big bear 0D",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 130965345,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20189
+    },
+    "date": 1792758867523,
+    "duration": 91992,
+    "left": {
+      "bet_amount": 1586709,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Tenchu rikimaru",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1567150,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Blubberman",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 130964001,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22257
+    },
+    "date": 1792759117732,
+    "duration": 185974,
+    "left": {
+      "bet_amount": 5262382,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Wario 64",
+      "normal_bettors": 40,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 976356,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "The nightmare",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "sum": 130983691,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16943
+    },
+    "date": 1792759281927,
+    "duration": 109993,
+    "left": {
+      "bet_amount": 2845556,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Piccolo",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 971735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Super Skrull MVC",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 130987804,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
