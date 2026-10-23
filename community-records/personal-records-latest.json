@@ -727674,5 +727674,113 @@
     "sum": 2446,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2261
+    },
+    "date": 1792795158526,
+    "duration": 93991,
+    "left": {
+      "bet_amount": 3404133,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mishio",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3813478,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Dark chun-li",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130542868,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38627
+    },
+    "date": 1792795318728,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 3812373,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Small chibi-moon",
+      "normal_bettors": 35,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 915583,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Wing",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130545400,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792795458729,
+    "duration": 84008,
+    "left": {
+      "bet_amount": 1553612,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Cyberdemon",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5645890,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Muscle mario",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 130506773,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28530
+    },
+    "date": 1792795588928,
+    "duration": 74203,
+    "left": {
+      "bet_amount": 1119030,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Masked rider kabuto",
+      "normal_bettors": 10,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1812831,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Kaede_hioh",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "sum": 130506772,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
