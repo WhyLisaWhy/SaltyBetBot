@@ -724704,5 +724704,140 @@
     "sum": 130771856,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21407
+    },
+    "date": 1792770560932,
+    "duration": 146207,
+    "left": {
+      "bet_amount": 1594460,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Miko hd",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2736106,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Sakuya ex",
+      "normal_bettors": 38,
+      "win_streak": 7
+    },
+    "sum": 130774441,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4807
+    },
+    "date": 1792770674928,
+    "duration": 60000,
+    "left": {
+      "bet_amount": 3869381,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Nests kyo xiii",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 849839,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sf1 evil ryu",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 130810689,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45902
+    },
+    "date": 1792770801122,
+    "duration": 70000,
+    "left": {
+      "bet_amount": 1305105,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Roy wilson",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2751037,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Prosciutto",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130805882,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792770937124,
+    "duration": 81978,
+    "left": {
+      "bet_amount": 1110794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Prince of all saiyans",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8209812,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Sabretooth EX",
+      "normal_bettors": 40,
+      "win_streak": 10
+    },
+    "sum": 130827301,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792771081335,
+    "duration": 86006,
+    "left": {
+      "bet_amount": 1195256,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Desperado+",
+      "normal_bettors": 15,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5450913,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Dormammu-r",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130827302,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
