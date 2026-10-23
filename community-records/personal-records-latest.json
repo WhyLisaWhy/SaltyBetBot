@@ -723327,5 +723327,167 @@
     "sum": 130987804,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792759508126,
+    "duration": 170196,
+    "left": {
+      "bet_amount": 1127358,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Rokudo mukuro",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2034328,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Mb-01",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 130993556,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792759722328,
+    "duration": 160193,
+    "left": {
+      "bet_amount": 2058145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bobby",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2568250,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Nanoha tsukikage",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130993557,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19491
+    },
+    "date": 1792759898531,
+    "duration": 120206,
+    "left": {
+      "bet_amount": 2168203,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Real shishioh",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2808497,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Reika izumi",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 130993556,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24145
+    },
+    "date": 1792760032529,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 790736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Link mythos",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2945019,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Chronos2",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 130974065,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16124
+    },
+    "date": 1792760198724,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 813547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lucario",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3678986,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Kyoko_sakura EX",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 130949920,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7303
+    },
+    "date": 1792760344730,
+    "duration": 86008,
+    "left": {
+      "bet_amount": 2503242,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Karla",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1264295,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Reptile EX3",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 130953470,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
