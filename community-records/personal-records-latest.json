@@ -724569,5 +724569,32 @@
     "sum": 2936,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792768560528,
+    "duration": 279388,
+    "left": {
+      "bet_amount": 681902,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Hu-ama",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 381770,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Syuren kano",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
