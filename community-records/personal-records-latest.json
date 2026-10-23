@@ -725460,5 +725460,113 @@
     "sum": 130805807,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792775316727,
+    "duration": 174189,
+    "left": {
+      "bet_amount": 765152,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Darkmatter",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5544240,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Narukana EX3",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 130811736,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30014
+    },
+    "date": 1792775468925,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 3003392,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Gat-x105",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1135209,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Maccho",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 130811737,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23643
+    },
+    "date": 1792775628954,
+    "duration": 106029,
+    "left": {
+      "bet_amount": 2332211,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Artoria pendragon",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1721823,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "King dedede ssbb",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 130781723,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21279
+    },
+    "date": 1792775813163,
+    "duration": 124034,
+    "left": {
+      "bet_amount": 1837247,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Rob lucci ex",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1082551,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Duck hunt dog",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 130758080,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
