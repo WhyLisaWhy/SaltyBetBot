@@ -724326,5 +724326,86 @@
     "sum": 3649,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4773
+    },
+    "date": 1792766263529,
+    "duration": 168201,
+    "left": {
+      "bet_amount": 308830,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Shadow EX3",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Omega zero",
+      "normal_bettors": 19,
+      "win_streak": -8
+    },
+    "sum": 4773,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792766443531,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 228808,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Hibiki takane",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 280080,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Grandmaster meio",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3435
+    },
+    "date": 1792766683934,
+    "duration": 180202,
+    "left": {
+      "bet_amount": 476960,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kaname",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 132156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hyo amano",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 3435,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
