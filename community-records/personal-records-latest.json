@@ -721707,5 +721707,140 @@
     "sum": 131119269,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37602
+    },
+    "date": 1792748935727,
+    "duration": 120198,
+    "left": {
+      "bet_amount": 852134,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eko",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2358718,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 10,
+      "name": "Waluigi sumin",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 131097710,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26329
+    },
+    "date": 1792749071726,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 4985069,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Hayate sfex",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1115570,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Puzzle lei-lei",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 131060108,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29757
+    },
+    "date": 1792749195925,
+    "duration": 64001,
+    "left": {
+      "bet_amount": 825666,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sabotage",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5198965,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Sagat",
+      "normal_bettors": 45,
+      "win_streak": 1
+    },
+    "sum": 131033779,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25732
+    },
+    "date": 1792749351925,
+    "duration": 95996,
+    "left": {
+      "bet_amount": 4669086,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Meta jade",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1103147,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Vampire hunter hsien-ko",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 131038478,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792749562130,
+    "duration": 146002,
+    "left": {
+      "bet_amount": 3348714,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jinbei",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1986116,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Zeke",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "sum": 131044525,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
