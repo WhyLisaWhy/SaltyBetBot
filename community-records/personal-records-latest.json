@@ -726567,5 +726567,113 @@
     "sum": 130540038,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792782274326,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 3125387,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kraidgief",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1389337,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Gekka suika",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 130525212,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17609
+    },
+    "date": 1792782454526,
+    "duration": 120187,
+    "left": {
+      "bet_amount": 741957,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Slightly more fair baiken",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2957173,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Daimaoh",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 130525211,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20892
+    },
+    "date": 1792782674556,
+    "duration": 164031,
+    "left": {
+      "bet_amount": 2066192,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Excellent wario",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3051078,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Thomas the tanky engine",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 130507602,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23438
+    },
+    "date": 1792782858750,
+    "duration": 124010,
+    "left": {
+      "bet_amount": 1093949,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "King ghidorah",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1842117,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Genjuro-kofm",
+      "normal_bettors": 31,
+      "win_streak": 9
+    },
+    "sum": 130486710,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
