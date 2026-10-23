@@ -718143,5 +718143,140 @@
     "sum": 11025,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15387
+    },
+    "date": 1792720134728,
+    "duration": 204200,
+    "left": {
+      "bet_amount": 314436,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Belmont trusdale",
+      "normal_bettors": 43,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 215423,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Rambo",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 15387,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25437
+    },
+    "date": 1792720360948,
+    "duration": 170220,
+    "left": {
+      "bet_amount": 110327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Missmarvel",
+      "normal_bettors": 23,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 492257,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Makai",
+      "normal_bettors": 43,
+      "win_streak": 4
+    },
+    "sum": 25437,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30858
+    },
+    "date": 1792720581125,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 446496,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Zangoose",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 247596,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Jo jo",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 30858,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 46864
+    },
+    "date": 1792720727129,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 609178,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Nobuko(emanon)",
+      "normal_bettors": 44,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 135126,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rain",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 46864,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 56517
+    },
+    "date": 1792720921325,
+    "duration": 139996,
+    "left": {
+      "bet_amount": 605747,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ritsu tainaka",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 198481,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pullum purna",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 56517,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
