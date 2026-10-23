@@ -722409,5 +722409,140 @@
     "sum": 131149652,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18324
+    },
+    "date": 1792753387121,
+    "duration": 133992,
+    "left": {
+      "bet_amount": 3552258,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Holhorse asb",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1053199,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dios",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 131149651,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792753513324,
+    "duration": 65990,
+    "left": {
+      "bet_amount": 858594,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Etomo shuko EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3716402,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Lina 2",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 131210398,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24687
+    },
+    "date": 1792753683527,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 2246133,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Skullomania",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092481,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Happy.valentine",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 131210399,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17126
+    },
+    "date": 1792753883529,
+    "duration": 140005,
+    "left": {
+      "bet_amount": 879136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rim silveria",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2808605,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Line moon",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 131185712,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17482
+    },
+    "date": 1792754023728,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 2300621,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Octohead",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2083089,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Akebono taro",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 131191041,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
