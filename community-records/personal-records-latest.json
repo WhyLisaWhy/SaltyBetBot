@@ -727647,5 +727647,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2446
+    },
+    "date": 1792790176727,
+    "duration": 246401,
+    "left": {
+      "bet_amount": 287558,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Peach mythos",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 656228,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Vice-kofm",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 2446,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
