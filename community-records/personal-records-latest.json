@@ -722274,5 +722274,140 @@
     "sum": 131119966,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 45143
+    },
+    "date": 1792752626545,
+    "duration": 84018,
+    "left": {
+      "bet_amount": 2178335,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Starfy",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 934140,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Dr.minerva",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "sum": 131123687,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22327
+    },
+    "date": 1792752786730,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 3504646,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Gulcasa",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 936259,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Skater",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 131142653,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2270
+    },
+    "date": 1792752922926,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 5349764,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Harry EX3",
+      "normal_bettors": 38,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 818428,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Gorilla",
+      "normal_bettors": 12,
+      "win_streak": -8
+    },
+    "sum": 131148580,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4575
+    },
+    "date": 1792753046925,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 847718,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gyarados",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5352817,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Godmars",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 131148928,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792753195127,
+    "duration": 92198,
+    "left": {
+      "bet_amount": 17541187,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Franky ex",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 909433,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Simon belmont",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "sum": 131149652,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
