@@ -723084,5 +723084,113 @@
     "sum": 131004489,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3259
+    },
+    "date": 1792757954928,
+    "duration": 100205,
+    "left": {
+      "bet_amount": 1441717,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shadow labrys",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2660764,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Saku EX2",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 131005861,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17822
+    },
+    "date": 1792758151130,
+    "duration": 140183,
+    "left": {
+      "bet_amount": 793339,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Trafalger law",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2395256,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Blackmore",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 131007625,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5667
+    },
+    "date": 1792758295125,
+    "duration": 89991,
+    "left": {
+      "bet_amount": 769276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sanada yukimura_ch",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10654763,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Shiki_sv",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 130989803,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24868
+    },
+    "date": 1792758415129,
+    "duration": 63992,
+    "left": {
+      "bet_amount": 3939114,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "G-laurence",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 864301,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "E-terry 71113",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "sum": 130990212,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
