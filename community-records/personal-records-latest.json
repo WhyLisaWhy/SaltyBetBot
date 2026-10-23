@@ -717441,5 +717441,140 @@
     "sum": 129763147,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2316
+    },
+    "date": 1792714772525,
+    "duration": 170195,
+    "left": {
+      "bet_amount": 1399283,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lucy",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3219869,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Legion EX3",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 129767629,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40485
+    },
+    "date": 1792714966724,
+    "duration": 140184,
+    "left": {
+      "bet_amount": 3376210,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Fritz",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 875674,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Clark",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 129765313,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792715122726,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 4601573,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Rugal bernstein (cvs)-kofm",
+      "normal_bettors": 44,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 922618,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Oda nobunaga EX",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 129775690,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38953
+    },
+    "date": 1792715298986,
+    "duration": 122250,
+    "left": {
+      "bet_amount": 1003029,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Saizo",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2501890,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Anubis polnareff",
+      "normal_bettors": 40,
+      "win_streak": -3
+    },
+    "sum": 129775691,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2082
+    },
+    "date": 1792715469129,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 705370,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hamakaze",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3378172,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Naruto kun",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 129791069,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
