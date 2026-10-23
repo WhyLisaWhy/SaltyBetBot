@@ -727593,5 +727593,59 @@
     "sum": 27145,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792789616125,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 154881,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Peach mythos",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 647862,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Haiji EX8",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792789870329,
+    "duration": 194208,
+    "left": {
+      "bet_amount": 339243,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "O. warrior",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 585384,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Vice-kofm",
+      "normal_bettors": 44,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
