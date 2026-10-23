@@ -718683,5 +718683,140 @@
     "sum": 131084174,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37712
+    },
+    "date": 1792728112945,
+    "duration": 70020,
+    "left": {
+      "bet_amount": 4903436,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Master hand",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1302806,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Fukumen senshi",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 131135522,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792728263123,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 2941149,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Phoenix ikki",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2162815,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Kim XIII",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 131097810,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19651
+    },
+    "date": 1792728529326,
+    "duration": 206195,
+    "left": {
+      "bet_amount": 2317954,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Chikyuu dai sinka",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 955423,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Accelerator 2",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 131097811,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10739
+    },
+    "date": 1792728723521,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 3677026,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ego-magaki",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3552181,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mario bros",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 131078160,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35091
+    },
+    "date": 1792728913728,
+    "duration": 124201,
+    "left": {
+      "bet_amount": 5254590,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Nightmare geese",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1237456,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Haiyoru_konton",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 131067421,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
