@@ -724596,5 +724596,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2457
+    },
+    "date": 1792769918323,
+    "duration": 154002,
+    "left": {
+      "bet_amount": 3056503,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Omega_rugal",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1152163,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130816370,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23851
+    },
+    "date": 1792770038545,
+    "duration": 64024,
+    "left": {
+      "bet_amount": 1971844,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ryu mvc1",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1638674,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Perfectakishimai",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 130817296,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21589
+    },
+    "date": 1792770184520,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 1164900,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Hybrid",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4321090,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Deathscythe ao",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 130793445,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12843
+    },
+    "date": 1792770354720,
+    "duration": 115975,
+    "left": {
+      "bet_amount": 788239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Necro",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3904442,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 15,
+      "name": "Naomi EX2",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "sum": 130771856,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
