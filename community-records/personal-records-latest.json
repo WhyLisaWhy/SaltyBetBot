@@ -719574,5 +719574,140 @@
     "sum": 130871392,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 260
+    },
+    "date": 1792733557325,
+    "duration": 90196,
+    "left": {
+      "bet_amount": 6143842,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Diofield",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 808032,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - bat",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 130841269,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792733767527,
+    "duration": 156195,
+    "left": {
+      "bet_amount": 1083816,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yamazaki 71113",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3956146,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Spy-dama-man",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "sum": 130841304,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2369
+    },
+    "date": 1792733931525,
+    "duration": 109862,
+    "left": {
+      "bet_amount": 931768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rockula",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3343512,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Gagi_fe",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 130841303,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32606
+    },
+    "date": 1792734097728,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 892500,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Izayoi",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5263923,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "1st gundam",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 130849783,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28854
+    },
+    "date": 1792734307927,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 1276757,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Seinosuke",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5072124,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Magic nanaya+ huunsaiki",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 130817177,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
