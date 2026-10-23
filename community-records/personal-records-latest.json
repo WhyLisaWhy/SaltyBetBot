@@ -724407,5 +724407,86 @@
     "sum": 3435,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4380
+    },
+    "date": 1792766863931,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 90990,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hu-mizuchi",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 555293,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Hyper neo-kamek EX3",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "sum": 4380,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5093
+    },
+    "date": 1792767094126,
+    "duration": 169986,
+    "left": {
+      "bet_amount": 675273,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Hu-ama",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 57916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Uzuki shimamura",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 5093,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5527
+    },
+    "date": 1792767434527,
+    "duration": 284398,
+    "left": {
+      "bet_amount": 678798,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Syuren kano",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89932,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Omega zero",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 5527,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
