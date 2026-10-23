@@ -720870,5 +720870,140 @@
     "sum": 131081055,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9769
+    },
+    "date": 1792741659927,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 848119,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rotom",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4769820,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Johnny cage mk2",
+      "normal_bettors": 36,
+      "win_streak": -4
+    },
+    "sum": 131128043,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40398
+    },
+    "date": 1792741890127,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 1451957,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Singlove-drg",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1509968,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Galactus",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 131129777,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4749
+    },
+    "date": 1792742080127,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 3513129,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Sp-athena",
+      "normal_bettors": 33,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 785603,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Anon yukinomiya",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 131089379,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10152
+    },
+    "date": 1792742236327,
+    "duration": 95989,
+    "left": {
+      "bet_amount": 4144080,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Orochi yamazaki",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 884841,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sephiroth AK",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 131110489,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792742386528,
+    "duration": 90167,
+    "left": {
+      "bet_amount": 1273909,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Pielle",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2102909,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Earthquake",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 131100337,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
