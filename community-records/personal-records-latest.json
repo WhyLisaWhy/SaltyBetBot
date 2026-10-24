@@ -736449,5 +736449,59 @@
     "sum": 131256059,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4677
+    },
+    "date": 1792858784725,
+    "duration": 100204,
+    "left": {
+      "bet_amount": 1017213,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shanghai doll",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5244649,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Saint-of-silver",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 131225902,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23486
+    },
+    "date": 1792858974721,
+    "duration": 125994,
+    "left": {
+      "bet_amount": 3559932,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Dirty kf master",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1011028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zorororonoa",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 131221225,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
