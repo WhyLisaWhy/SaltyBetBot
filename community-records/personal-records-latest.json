@@ -733830,5 +733830,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5446
+    },
+    "date": 1792842253526,
+    "duration": 106189,
+    "left": {
+      "bet_amount": 4133300,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Yukiko amagi",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 838563,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Divine sagat",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 131021335,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
