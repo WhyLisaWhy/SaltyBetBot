@@ -730212,5 +730212,140 @@
     "sum": 130641189,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23450
+    },
+    "date": 1792811889723,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 3293308,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Doraemon scwu",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4230939,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Gaogaigar",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 130700831,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3059
+    },
+    "date": 1792812075934,
+    "duration": 130175,
+    "left": {
+      "bet_amount": 6931828,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 6,
+      "name": "Phoenix wright",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7409615,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Andy bogard ff",
+      "normal_bettors": 21,
+      "win_streak": 0
+    },
+    "sum": 130677381,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26937
+    },
+    "date": 1792812265924,
+    "duration": 135948,
+    "left": {
+      "bet_amount": 1171643,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kureha EX3",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6597986,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Masked rider agito EX3",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 130680650,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29290
+    },
+    "date": 1792812378323,
+    "duration": 56399,
+    "left": {
+      "bet_amount": 3684954,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "M.a.d",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4684680,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Cheddah gief",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "sum": 130653713,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792812706324,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 89969,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "God vega",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 167297,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "M_kusanagi_ex",
+      "normal_bettors": 49,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
