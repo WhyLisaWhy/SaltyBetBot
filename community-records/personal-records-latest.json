@@ -737043,5 +737043,113 @@
     "sum": 131221181,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1154
+    },
+    "date": 1792866046548,
+    "duration": 176220,
+    "left": {
+      "bet_amount": 2112617,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Sailor mercury EX2",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1472792,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Alvin the chipmunk",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 131205079,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792866176528,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 1314475,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Porygon-z EX2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2623435,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Pokita",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 131203925,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24701
+    },
+    "date": 1792866340726,
+    "duration": 104197,
+    "left": {
+      "bet_amount": 1410917,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Kyouken wakamoto",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2036883,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Nukesaku EX2",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 131203924,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16621
+    },
+    "date": 1792866496725,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 4136244,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "The flash (new-52)",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 869118,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Flygon",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 131179223,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
