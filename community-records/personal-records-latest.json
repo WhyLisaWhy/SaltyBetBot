@@ -738393,5 +738393,167 @@
     "sum": 130996776,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8864
+    },
+    "date": 1792874809529,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 3982282,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mery",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1496672,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Saber",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 130958390,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29703
+    },
+    "date": 1792874969536,
+    "duration": 104009,
+    "left": {
+      "bet_amount": 2406612,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Orsted",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 976760,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "More Evil Ryu",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 130961714,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2128
+    },
+    "date": 1792875155928,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 18986321,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Monaka tokihoshi",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1057769,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hyper buu",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "sum": 130932011,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24718
+    },
+    "date": 1792875325928,
+    "duration": 116203,
+    "left": {
+      "bet_amount": 3561050,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Crescent silvan",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1046557,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rockbomb",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 130932130,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792875505922,
+    "duration": 125995,
+    "left": {
+      "bet_amount": 889971,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7119997,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Broli",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 130907412,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14620
+    },
+    "date": 1792875670127,
+    "duration": 103993,
+    "left": {
+      "bet_amount": 854141,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Majin Virginia",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4883413,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Santaurus EX3",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "sum": 130907413,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
