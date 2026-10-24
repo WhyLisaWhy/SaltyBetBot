@@ -729267,5 +729267,113 @@
     "sum": 130695889,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6650
+    },
+    "date": 1792805821002,
+    "duration": 196275,
+    "left": {
+      "bet_amount": 6417712,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Chester cheetah",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 816293,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chicken",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 130697082,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4990
+    },
+    "date": 1792805997126,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 873375,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mr big",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5954062,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Mekazawa",
+      "normal_bettors": 34,
+      "win_streak": 0
+    },
+    "sum": 130690432,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22667
+    },
+    "date": 1792806131126,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 5533814,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "A-agito",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4023536,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "C_krizalid",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 130691164,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34026
+    },
+    "date": 1792806291345,
+    "duration": 104020,
+    "left": {
+      "bet_amount": 1034011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Vanessa-kofm",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2810011,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Drizzt do'urden",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 130707578,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
