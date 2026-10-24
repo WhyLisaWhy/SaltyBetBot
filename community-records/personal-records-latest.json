@@ -730482,5 +730482,86 @@
     "sum": 8539,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9957
+    },
+    "date": 1792813859124,
+    "duration": 256198,
+    "left": {
+      "bet_amount": 377112,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Unlocked power marie",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 367499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Etk_geese",
+      "normal_bettors": 39,
+      "win_streak": -3
+    },
+    "sum": 9957,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792814023324,
+    "duration": 104198,
+    "left": {
+      "bet_amount": 108170,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ash zako",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 733777,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Kiecoco",
+      "normal_bettors": 43,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1779
+    },
+    "date": 1792814203538,
+    "duration": 120211,
+    "left": {
+      "bet_amount": 272233,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "M_kusanagi_ex",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 629861,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Ikusaotome saki",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1779,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
