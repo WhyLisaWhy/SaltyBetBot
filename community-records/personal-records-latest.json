@@ -738960,5 +738960,140 @@
     "sum": 130709798,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792878512325,
+    "duration": 91894,
+    "left": {
+      "bet_amount": 4599510,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Chonshu EX3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1832844,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Shin ryu",
+      "normal_bettors": 35,
+      "win_streak": -14
+    },
+    "sum": 130732071,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15783
+    },
+    "date": 1792878680527,
+    "duration": 112199,
+    "left": {
+      "bet_amount": 2656223,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Yuki morikawa",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1047005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Roast_uncle",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 130732072,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17015
+    },
+    "date": 1792878820529,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 5342023,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Well",
+      "normal_bettors": 43,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 987702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pacman",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 130716289,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29322
+    },
+    "date": 1792878980728,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 6323924,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Yuna",
+      "normal_bettors": 41,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 929462,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Nonon jakuzure",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 130719425,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3047
+    },
+    "date": 1792879130933,
+    "duration": 94206,
+    "left": {
+      "bet_amount": 4460438,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Beautiful kuando",
+      "normal_bettors": 38,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1343055,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Black frost",
+      "normal_bettors": 14,
+      "win_streak": 4
+    },
+    "sum": 130723715,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
