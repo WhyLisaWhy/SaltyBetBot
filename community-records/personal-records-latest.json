@@ -731643,5 +731643,140 @@
     "sum": 130661194,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38808
+    },
+    "date": 1792826232728,
+    "duration": 114002,
+    "left": {
+      "bet_amount": 3637645,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Godzilla(gb)",
+      "normal_bettors": 35,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1092043,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kusanagi EX3",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 130866848,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 409
+    },
+    "date": 1792826422939,
+    "duration": 134206,
+    "left": {
+      "bet_amount": 3375213,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ryu-c",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1869279,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ironfist ryu",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 130878376,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1090
+    },
+    "date": 1792826619127,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 1015375,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alucard PNE",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9744345,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Mr Karate",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 130877967,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15571
+    },
+    "date": 1792826779128,
+    "duration": 110005,
+    "left": {
+      "bet_amount": 1295622,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "The creepy clock",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3167151,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Orochi-bs",
+      "normal_bettors": 34,
+      "win_streak": 11
+    },
+    "sum": 130878081,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792826953338,
+    "duration": 120206,
+    "left": {
+      "bet_amount": 3245273,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Manly clark",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1044195,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Presea combatir",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 130884420,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
