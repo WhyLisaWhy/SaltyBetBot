@@ -729807,5 +729807,113 @@
     "sum": 130540545,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792809375723,
+    "duration": 59994,
+    "left": {
+      "bet_amount": 6785378,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Igniz 2001",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 903275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Demiurgos",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "sum": 130541568,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20950
+    },
+    "date": 1792809505924,
+    "duration": 73996,
+    "left": {
+      "bet_amount": 1417741,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Labyrinth",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3172884,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Dragon edition-zangief",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130541569,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2142
+    },
+    "date": 1792809695925,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 26637827,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Lee_chen",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1227885,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Izuku midoriya",
+      "normal_bettors": 27,
+      "win_streak": -14
+    },
+    "sum": 130520619,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28756
+    },
+    "date": 1792809858122,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 4829511,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Bike myson sr.",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2426734,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Alter wind",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 130520718,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
