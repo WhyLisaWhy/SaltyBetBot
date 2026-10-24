@@ -733749,5 +733749,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792840656128,
+    "duration": 105996,
+    "left": {
+      "bet_amount": 446665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jyuzumaru",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 555432,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Hikaru shidou kof",
+      "normal_bettors": 38,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2794
+    },
+    "date": 1792840960553,
+    "duration": 244225,
+    "left": {
+      "bet_amount": 316996,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Blockhead enhanced",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 147684,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Samchay ex",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 2794,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792841198850,
+    "duration": 178318,
+    "left": {
+      "bet_amount": 366921,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Hikaru shidou kof",
+      "normal_bettors": 38,
+      "win_streak": 10
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 175994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Blockhead enhanced",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
