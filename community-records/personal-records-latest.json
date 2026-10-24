@@ -739392,5 +739392,59 @@
     "sum": 130751556,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792881236531,
+    "duration": 122004,
+    "left": {
+      "bet_amount": 1965654,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Koola",
+      "normal_bettors": 37,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5207359,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Zoma ga",
+      "normal_bettors": 23,
+      "win_streak": -8
+    },
+    "sum": 130751582,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1622
+    },
+    "date": 1792881370527,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 951135,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mizuki EX2",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2714722,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Yuri_96",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130751583,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
