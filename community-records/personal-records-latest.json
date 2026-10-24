@@ -736773,5 +736773,113 @@
     "sum": 15837,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32886
+    },
+    "date": 1792861432727,
+    "duration": 209972,
+    "left": {
+      "bet_amount": 565169,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mech ralf",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Otona suzu",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 32886,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38799
+    },
+    "date": 1792861638926,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 409903,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Anti.guile.zangief",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 325970,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Gatocyu",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 38799,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 47793
+    },
+    "date": 1792861799126,
+    "duration": 100196,
+    "left": {
+      "bet_amount": 689773,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Cyberbot_atlas",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127943,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Cecilia",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 82399,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34606
+    },
+    "date": 1792861995327,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 405908,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Spidermanu",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 482748,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mech ralf",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 34606,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
