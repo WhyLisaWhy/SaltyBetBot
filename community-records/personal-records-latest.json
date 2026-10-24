@@ -734046,5 +734046,113 @@
     "sum": 130942891,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 48830
+    },
+    "date": 1792843540539,
+    "duration": 116208,
+    "left": {
+      "bet_amount": 2884540,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Robo-sol",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1024894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Adelheid xiii",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 130957858,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25319
+    },
+    "date": 1792843674525,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1378867,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Lady",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1958366,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Aruru(yuka)",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 130974919,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13519
+    },
+    "date": 1792843886729,
+    "duration": 155976,
+    "left": {
+      "bet_amount": 4975173,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Pill",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 890055,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Guarborg",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130949600,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24379
+    },
+    "date": 1792844070957,
+    "duration": 130229,
+    "left": {
+      "bet_amount": 1940667,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Celesty",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1643734,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kikyo_ex",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130952012,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
