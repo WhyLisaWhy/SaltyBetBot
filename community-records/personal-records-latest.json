@@ -731103,5 +731103,140 @@
     "sum": 130616307,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25893
+    },
+    "date": 1792822858127,
+    "duration": 206199,
+    "left": {
+      "bet_amount": 2062683,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "VanillaIce",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1695025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kibanohara ethica",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 130630905,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21035
+    },
+    "date": 1792823028124,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 1022985,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Evangelion",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2460911,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Duo lon xiii",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 130651919,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15345
+    },
+    "date": 1792823282325,
+    "duration": 194000,
+    "left": {
+      "bet_amount": 1024467,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Marin",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3235779,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Class wo",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130630884,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35535
+    },
+    "date": 1792823420522,
+    "duration": 82196,
+    "left": {
+      "bet_amount": 1375228,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3143718,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Perfecti ex",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 130635720,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18624
+    },
+    "date": 1792823574527,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 4321312,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Scathach",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1304457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "W-tenko",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 130651092,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
