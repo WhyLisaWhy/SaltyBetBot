@@ -728835,5 +728835,140 @@
     "sum": 130603241,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 509
+    },
+    "date": 1792802820524,
+    "duration": 123995,
+    "left": {
+      "bet_amount": 2624292,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Tigst_aggressi",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5039814,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Lt.kurosawa",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 130574106,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17847
+    },
+    "date": 1792803100725,
+    "duration": 219964,
+    "left": {
+      "bet_amount": 3605748,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Biollente",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1073692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Umbreon",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 130573597,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27651
+    },
+    "date": 1792803256924,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 4975626,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Lin lv3",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1061957,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Sub-zero EX",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130578886,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36290
+    },
+    "date": 1792803402923,
+    "duration": 101973,
+    "left": {
+      "bet_amount": 918276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kunagi-f.o",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6794730,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 16,
+      "name": "0.5 a presses",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 130551235,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8517
+    },
+    "date": 1792803593144,
+    "duration": 130013,
+    "left": {
+      "bet_amount": 3561803,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Arabian moon",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 894086,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Jean valjean",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 130556114,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
