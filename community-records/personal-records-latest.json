@@ -735153,5 +735153,113 @@
     "sum": 131237203,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37734
+    },
+    "date": 1792850556136,
+    "duration": 93915,
+    "left": {
+      "bet_amount": 2638333,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Terminator orochi",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1368707,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Omega zero svc chaos",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 131245577,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2012
+    },
+    "date": 1792850712326,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 2658418,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Richter belmont(hd)",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1848244,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Cassius bright",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 131316362,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18026
+    },
+    "date": 1792850896336,
+    "duration": 134006,
+    "left": {
+      "bet_amount": 1921808,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Master morrigan",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1863283,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Venomu",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 131314350,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8221
+    },
+    "date": 1792851192525,
+    "duration": 236190,
+    "left": {
+      "bet_amount": 2457474,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Ego-magaki",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1195372,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Ultimate freeza",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 131332765,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
