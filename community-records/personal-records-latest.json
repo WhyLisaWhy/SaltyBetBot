@@ -738285,5 +738285,113 @@
     "sum": 130903649,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22151
+    },
+    "date": 1792874042927,
+    "duration": 114197,
+    "left": {
+      "bet_amount": 983050,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Capella",
+      "normal_bettors": 12,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5967672,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Meu(you-ki)",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "sum": 130974210,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19194
+    },
+    "date": 1792874238930,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 1834830,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cathey",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3529601,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Lion",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 130977846,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23331
+    },
+    "date": 1792874393126,
+    "duration": 99964,
+    "left": {
+      "bet_amount": 2262596,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Biped EX7",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1361353,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Gudako",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130958652,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38386
+    },
+    "date": 1792874629326,
+    "duration": 176202,
+    "left": {
+      "bet_amount": 3401713,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Elisabeth EX3",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1220053,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Achamo",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 130996776,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
