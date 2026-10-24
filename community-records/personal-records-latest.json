@@ -737907,5 +737907,113 @@
     "sum": 130939905,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19751
+    },
+    "date": 1792871324729,
+    "duration": 80202,
+    "left": {
+      "bet_amount": 826191,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Broly lssj3 ex",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 16080847,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Flawless specter",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 130950712,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21473
+    },
+    "date": 1792871518728,
+    "duration": 134002,
+    "left": {
+      "bet_amount": 1197879,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Kemular",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2004151,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Fuchigami saiki",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 130951726,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24679
+    },
+    "date": 1792871704928,
+    "duration": 125803,
+    "left": {
+      "bet_amount": 3249050,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Arrange mukuro",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1499332,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Terminator orochi",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 130930253,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792871911129,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 1285482,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Superpez",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4064192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Foxy the pirate",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 130941556,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
