@@ -728430,5 +728430,113 @@
     "sum": 130559937,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20740
+    },
+    "date": 1792800342526,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 4007213,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Wangchang EX",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1163734,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Big volfogg",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 130562128,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21682
+    },
+    "date": 1792800452727,
+    "duration": 55991,
+    "left": {
+      "bet_amount": 1133786,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ishtar",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4504095,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "K-core",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 130568121,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31809
+    },
+    "date": 1792800622737,
+    "duration": 110011,
+    "left": {
+      "bet_amount": 3445512,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Stewie griffin",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1631356,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Dead vega",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130573553,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13363
+    },
+    "date": 1792800796926,
+    "duration": 114000,
+    "left": {
+      "bet_amount": 4361844,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Kamen rider k&p hoppers",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189146,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Wolf",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 130639451,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
