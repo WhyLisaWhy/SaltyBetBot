@@ -734883,5 +734883,113 @@
     "sum": 131219296,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3935
+    },
+    "date": 1792848908725,
+    "duration": 125987,
+    "left": {
+      "bet_amount": 801121,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tia",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5814799,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Hammerin' harry",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 131186756,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24593
+    },
+    "date": 1792849058926,
+    "duration": 90197,
+    "left": {
+      "bet_amount": 4160354,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Igniz scarlet",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 871885,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ssf2x akuma",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "sum": 131187298,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22898
+    },
+    "date": 1792849218929,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 5017927,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Killer whale",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1119626,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Shin gouki sfz2",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 131192422,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37165
+    },
+    "date": 1792849389175,
+    "duration": 114048,
+    "left": {
+      "bet_amount": 953403,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ss6 renfa EX2",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4735126,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Rainbow edition ryu",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 131169524,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
