@@ -736935,5 +736935,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28317
+    },
+    "date": 1792865253922,
+    "duration": 64195,
+    "left": {
+      "bet_amount": 3725778,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kamen rider joker",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 926934,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "R-haoumaru",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 131205236,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20029
+    },
+    "date": 1792865479927,
+    "duration": 165966,
+    "left": {
+      "bet_amount": 3572323,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Vk-2",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1014942,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Green lantern lucario",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 131212228,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13347
+    },
+    "date": 1792865636131,
+    "duration": 100005,
+    "left": {
+      "bet_amount": 3426313,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Arale norimaki",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 848674,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Senna",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 131217887,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16102
+    },
+    "date": 1792865816327,
+    "duration": 120190,
+    "left": {
+      "bet_amount": 1121202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shinzero",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4576700,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Ryugen",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 131221181,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
