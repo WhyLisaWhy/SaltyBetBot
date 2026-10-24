@@ -732210,5 +732210,140 @@
     "sum": 130885835,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21979
+    },
+    "date": 1792829949726,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 1129862,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Happosai",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2586848,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Quality shinobi",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 130969141,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1437
+    },
+    "date": 1792830159928,
+    "duration": 150204,
+    "left": {
+      "bet_amount": 1980234,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "The red dragon",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1734070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Alucard RAI",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 130947162,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7274
+    },
+    "date": 1792830313926,
+    "duration": 113986,
+    "left": {
+      "bet_amount": 1414681,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gaou",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1616764,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Architect",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130945725,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13024
+    },
+    "date": 1792830514129,
+    "duration": 139977,
+    "left": {
+      "bet_amount": 1273801,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Everphin",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1985028,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Eve prototype",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 130952062,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19635
+    },
+    "date": 1792830670325,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 778306,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Bagira_ex",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5711179,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Gaogaigar",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "sum": 130939038,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
