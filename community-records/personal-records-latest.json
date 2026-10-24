@@ -734154,5 +734154,167 @@
     "sum": 130952012,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43329
+    },
+    "date": 1792844281131,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 929794,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kratos aurion",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3902148,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Nagae iku",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 130972405,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9825
+    },
+    "date": 1792844441327,
+    "duration": 100179,
+    "left": {
+      "bet_amount": 3676252,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Zenia valov",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 986255,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Saki omokane",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 130982616,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18530
+    },
+    "date": 1792844631328,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1079203,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Lio convoy",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2006984,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Armgon",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 130985245,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12902
+    },
+    "date": 1792844741608,
+    "duration": 60074,
+    "left": {
+      "bet_amount": 689127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bou ken",
+      "normal_bettors": 9,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5405913,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Phobos(yanagi_ai)",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 130995118,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37198
+    },
+    "date": 1792844957729,
+    "duration": 156201,
+    "left": {
+      "bet_amount": 3431825,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Hancock EX",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1094191,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Blackjack",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130996759,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24816
+    },
+    "date": 1792845173726,
+    "duration": 159992,
+    "left": {
+      "bet_amount": 1230947,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shimakaze",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2635760,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Fair akuma",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 131008492,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
