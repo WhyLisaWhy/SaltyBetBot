@@ -730968,5 +730968,140 @@
     "sum": 130666439,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17034
+    },
+    "date": 1792821921326,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 2717320,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Iori rotd",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2002847,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "White glint",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 130670185,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44705
+    },
+    "date": 1792822051325,
+    "duration": 75991,
+    "left": {
+      "bet_amount": 945671,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Noroko EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4444728,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Kagami EX2",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 130653151,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22957
+    },
+    "date": 1792822281540,
+    "duration": 174014,
+    "left": {
+      "bet_amount": 3155033,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Hitomi karasuma",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1087994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Reptos",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 130608446,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792822431727,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 687127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cv wakamoto",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6268269,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Atsuko tomohara",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 130616306,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21947
+    },
+    "date": 1792822591926,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 2474337,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ninja nwa",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1660304,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Task force aquaman",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 130616307,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
