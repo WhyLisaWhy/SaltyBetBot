@@ -728538,5 +728538,140 @@
     "sum": 130639451,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28335
+    },
+    "date": 1792800929125,
+    "duration": 70190,
+    "left": {
+      "bet_amount": 4603387,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Zerozuchi boss",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 992655,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Azure",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 130643083,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23400
+    },
+    "date": 1792801133325,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 2030750,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "The invincible ironman",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1319657,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Selley",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 130614748,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17012
+    },
+    "date": 1792801303328,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 908700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jackie Drunken Fist",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3302223,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Arrange_godzilla",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 130591348,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 810
+    },
+    "date": 1792801493527,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 1285503,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bf mario",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6431448,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Bark",
+      "normal_bettors": 34,
+      "win_streak": 0
+    },
+    "sum": 130596006,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 118
+    },
+    "date": 1792801643725,
+    "duration": 94197,
+    "left": {
+      "bet_amount": 793004,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yu-lan",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6876781,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 15,
+      "name": "Kthanid",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 130595196,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
