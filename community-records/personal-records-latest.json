@@ -734424,5 +734424,140 @@
     "sum": 131023650,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23404
+    },
+    "date": 1792846108526,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 665200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mima EX",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4937959,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Mewtwo",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "sum": 131026452,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17241
+    },
+    "date": 1792846244727,
+    "duration": 76194,
+    "left": {
+      "bet_amount": 2917207,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Maria EX",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 937531,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Segalow",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 131029590,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9332
+    },
+    "date": 1792846380726,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 2457854,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kratos",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1840073,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Lord of the rangs",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 131082269,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21886
+    },
+    "date": 1792846610930,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 4137264,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "A_decade-ex",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 989714,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chris_gb",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 131089229,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32637
+    },
+    "date": 1792846781132,
+    "duration": 110205,
+    "left": {
+      "bet_amount": 858489,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Julian solo poseidon",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3246600,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Turbo ken",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 131094438,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
