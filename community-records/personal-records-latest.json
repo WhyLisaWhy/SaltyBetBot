@@ -731535,5 +731535,113 @@
     "sum": 130722753,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792825546126,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 4359555,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Gekkou",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172039,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mononobe no futo",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 130697525,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2144
+    },
+    "date": 1792825726334,
+    "duration": 124007,
+    "left": {
+      "bet_amount": 1065756,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yuri",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3179072,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Rider",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130697526,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34188
+    },
+    "date": 1792825902531,
+    "duration": 116210,
+    "left": {
+      "bet_amount": 2724322,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Marvin the martian",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1256923,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Mr. mary",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130695382,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 47676
+    },
+    "date": 1792826062524,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 4746520,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Millia",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1052697,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tukuyo",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 130661194,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
