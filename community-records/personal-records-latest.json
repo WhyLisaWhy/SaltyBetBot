@@ -737502,5 +737502,113 @@
     "sum": 131078290,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22822
+    },
+    "date": 1792868650526,
+    "duration": 46000,
+    "left": {
+      "bet_amount": 2351484,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Tenko-abab",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1171266,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alucks",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 131080987,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24381
+    },
+    "date": 1792868840728,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 1997605,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Abigail",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1296561,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Bloo",
+      "normal_bettors": 24,
+      "win_streak": -9
+    },
+    "sum": 131058165,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19140
+    },
+    "date": 1792868984728,
+    "duration": 83956,
+    "left": {
+      "bet_amount": 2803562,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Mion sonozaki",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1286742,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Mercenary tao",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 131033784,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5534
+    },
+    "date": 1792869271128,
+    "duration": 230198,
+    "left": {
+      "bet_amount": 713905,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Pocket Akuma",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3832263,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Swordsman",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 131014644,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
