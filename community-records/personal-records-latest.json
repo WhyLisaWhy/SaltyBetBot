@@ -729159,5 +729159,113 @@
     "sum": 130704673,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28527
+    },
+    "date": 1792804834126,
+    "duration": 83996,
+    "left": {
+      "bet_amount": 8714622,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Raiden 512e1",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1921371,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kazuma the shell bullet",
+      "normal_bettors": 17,
+      "win_streak": -8
+    },
+    "sum": 130729016,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40615
+    },
+    "date": 1792805060328,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 3208994,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Arrange sion",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2090506,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Vivi_ornitier",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 130735286,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2944
+    },
+    "date": 1792805274530,
+    "duration": 160206,
+    "left": {
+      "bet_amount": 1806680,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jerry",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4366638,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Cammy NXC",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130694671,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2946
+    },
+    "date": 1792805570728,
+    "duration": 240204,
+    "left": {
+      "bet_amount": 3807455,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Braun",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1542073,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mvc meep!?",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 130695889,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
