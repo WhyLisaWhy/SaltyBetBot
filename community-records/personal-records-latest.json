@@ -732345,5 +732345,113 @@
     "sum": 130939038,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21236
+    },
+    "date": 1792830854381,
+    "duration": 124055,
+    "left": {
+      "bet_amount": 1582636,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Sachiel",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1947757,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Powergirl",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 130941705,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1564
+    },
+    "date": 1792830980566,
+    "duration": 66034,
+    "left": {
+      "bet_amount": 2196095,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Zhao-xyong",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1252554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Gonsan",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 130958775,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22464
+    },
+    "date": 1792831136727,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 1298736,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cyclops_cota",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2090488,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Salty surfer",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 130959667,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24273
+    },
+    "date": 1792831336726,
+    "duration": 145988,
+    "left": {
+      "bet_amount": 3711701,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Geno",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1070211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jubei yamada special",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 130937203,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
