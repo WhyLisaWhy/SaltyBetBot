@@ -738555,5 +738555,113 @@
     "sum": 130907413,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2651
+    },
+    "date": 1792875806327,
+    "duration": 76199,
+    "left": {
+      "bet_amount": 1868904,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Nay",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2587693,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Enrico pucci",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 130909963,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26866
+    },
+    "date": 1792875982324,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 3736040,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Hauzer",
+      "normal_bettors": 45,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 908422,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Layban",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130911876,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22972
+    },
+    "date": 1792876166545,
+    "duration": 130209,
+    "left": {
+      "bet_amount": 3061908,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Leus hunter",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 848983,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Dirty fat",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 130885010,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14819
+    },
+    "date": 1792876446724,
+    "duration": 220195,
+    "left": {
+      "bet_amount": 1461728,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Despacito 2",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3444614,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "The real doom",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130862038,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
