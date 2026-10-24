@@ -730698,5 +730698,32 @@
     "sum": 1550,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2993
+    },
+    "date": 1792815398324,
+    "duration": 202200,
+    "left": {
+      "bet_amount": 737661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "M_kusanagi_ex",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 510547,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Kiecoco",
+      "normal_bettors": 44,
+      "win_streak": 7
+    },
+    "sum": 2993,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
