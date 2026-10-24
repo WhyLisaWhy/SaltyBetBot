@@ -729375,5 +729375,140 @@
     "sum": 130707578,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41373
+    },
+    "date": 1792806611538,
+    "duration": 260213,
+    "left": {
+      "bet_amount": 4524487,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Mora_g",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1104765,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Aboras",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 130673552,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12950
+    },
+    "date": 1792806741725,
+    "duration": 69997,
+    "left": {
+      "bet_amount": 9618646,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Roadsign",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 736149,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shizuru",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 130632179,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25867
+    },
+    "date": 1792806881720,
+    "duration": 83994,
+    "left": {
+      "bet_amount": 1567466,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kosanjou",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3086434,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Enja ex",
+      "normal_bettors": 38,
+      "win_streak": 8
+    },
+    "sum": 130633169,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792807091928,
+    "duration": 144002,
+    "left": {
+      "bet_amount": 4620330,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Crash 1105",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155686,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Warachia a",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 130646197,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34239
+    },
+    "date": 1792807238129,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 2167846,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Ksitigarbha ikkyu",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1316591,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Task force aquaman",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "sum": 130646198,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
