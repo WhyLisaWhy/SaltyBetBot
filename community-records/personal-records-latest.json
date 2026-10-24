@@ -731940,5 +731940,140 @@
     "sum": 130855065,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20526
+    },
+    "date": 1792828260343,
+    "duration": 114006,
+    "left": {
+      "bet_amount": 1699320,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Akashima",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1714198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Vengeful bardock",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 130855064,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792828456525,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 2892362,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Takenaka hambe",
+      "normal_bettors": 27,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 981514,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Lester",
+      "normal_bettors": 16,
+      "win_streak": 0
+    },
+    "sum": 130875523,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792828592527,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 2801902,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Tsan",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 894621,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "A-rachel",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 130875524,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16319
+    },
+    "date": 1792828756726,
+    "duration": 103994,
+    "left": {
+      "bet_amount": 5002865,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Game master",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 908908,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kilroy",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 130875528,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9231
+    },
+    "date": 1792828902925,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 683863,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Haggar ex",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5067329,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "K9999-kofm",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 130875528,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
