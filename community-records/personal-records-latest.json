@@ -733209,5 +733209,113 @@
     "sum": 131026720,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31957
+    },
+    "date": 1792836164529,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 5124729,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Aka-saber",
+      "normal_bettors": 35,
+      "win_streak": 18
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 979837,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Thundermiss.shermie",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 131033128,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26282
+    },
+    "date": 1792836354736,
+    "duration": 130009,
+    "left": {
+      "bet_amount": 1762031,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Kinu_ex",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1467084,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Eiji shirow",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 131039201,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23666
+    },
+    "date": 1792836548928,
+    "duration": 133991,
+    "left": {
+      "bet_amount": 1325611,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shishin",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2053258,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Weapon master",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 131012919,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4269
+    },
+    "date": 1792836745129,
+    "duration": 136190,
+    "left": {
+      "bet_amount": 717848,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lugia ex",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3640838,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ultimate requiem giorno",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 131028024,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
