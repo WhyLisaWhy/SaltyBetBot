@@ -735882,5 +735882,113 @@
     "sum": 131208051,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20326
+    },
+    "date": 1792855053726,
+    "duration": 110196,
+    "left": {
+      "bet_amount": 4047171,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Old gouken",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067406,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Gene",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 131189499,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20933
+    },
+    "date": 1792855203727,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1277485,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lavia",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3463298,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Dokuganp",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 131169173,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792855399930,
+    "duration": 136005,
+    "left": {
+      "bet_amount": 830799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "250% b.weapon",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8979329,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Makai",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 131148240,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21146
+    },
+    "date": 1792855644134,
+    "duration": 180008,
+    "left": {
+      "bet_amount": 1408364,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Invoker",
+      "normal_bettors": 26,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3232904,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Hisui EX",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 131148241,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
