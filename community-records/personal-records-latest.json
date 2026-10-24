@@ -733641,5 +733641,113 @@
     "sum": 2679,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792839803526,
+    "duration": 214203,
+    "left": {
+      "bet_amount": 114111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jyuzumaru",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 504665,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "G-dialga",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792839995729,
+    "duration": 130194,
+    "left": {
+      "bet_amount": 529968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Forione",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 196461,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Hikaru shidou kof",
+      "normal_bettors": 36,
+      "win_streak": 8
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5699
+    },
+    "date": 1792840239929,
+    "duration": 184202,
+    "left": {
+      "bet_amount": 442455,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sasquatch 71113",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 284174,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Blockhead enhanced",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 5699,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792840496126,
+    "duration": 196186,
+    "left": {
+      "bet_amount": 398304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Samchay ex",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 507333,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Heat man",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
