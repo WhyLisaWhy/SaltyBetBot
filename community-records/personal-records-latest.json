@@ -748491,5 +748491,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4715
+    },
+    "date": 1792951377126,
+    "duration": 311200,
+    "left": {
+      "bet_amount": 692286,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 22,
+      "name": "Kim dong hwan",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 384370,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider scissors",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "sum": 4715,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31089
+    },
+    "date": 1792952168727,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 4301550,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Slarin",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1778284,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Milan flare",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 130992140,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19934
+    },
+    "date": 1792952262745,
+    "duration": 40019,
+    "left": {
+      "bet_amount": 2825575,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Rei-kugo",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 849239,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gn-pioneer-r",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 131004901,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
