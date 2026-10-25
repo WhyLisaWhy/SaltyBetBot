@@ -748221,5 +748221,86 @@
     "sum": 3924,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6910
+    },
+    "date": 1792948824127,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 341125,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Viper",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151124,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Vanessa",
+      "normal_bettors": 28,
+      "win_streak": 7
+    },
+    "sum": 6910,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9911
+    },
+    "date": 1792949038328,
+    "duration": 160192,
+    "left": {
+      "bet_amount": 489040,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kulate kenji",
+      "normal_bettors": 46,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 67885,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shiro_kishi",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 9911,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11260
+    },
+    "date": 1792949294526,
+    "duration": 190205,
+    "left": {
+      "bet_amount": 88431,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zatanna EX3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 517419,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Kamen rider scissors",
+      "normal_bettors": 44,
+      "win_streak": 3
+    },
+    "sum": 11260,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
