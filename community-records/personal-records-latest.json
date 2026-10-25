@@ -751164,5 +751164,113 @@
     "sum": 130796656,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4737
+    },
+    "date": 1792969191526,
+    "duration": 115394,
+    "left": {
+      "bet_amount": 5289710,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Asagi asagiri",
+      "normal_bettors": 42,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905101,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Kyoso(n-cube ai)",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 130811078,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792969706525,
+    "duration": 246187,
+    "left": {
+      "bet_amount": 50912,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Umbreon",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 171488,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Akane satomura EX2",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2007
+    },
+    "date": 1792969950720,
+    "duration": 184195,
+    "left": {
+      "bet_amount": 114404,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Lili",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 152420,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shiena bee",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 2007,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3494
+    },
+    "date": 1792970210927,
+    "duration": 204200,
+    "left": {
+      "bet_amount": 79140,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mvc2 captain america",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 280330,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Chako",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "sum": 3494,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
