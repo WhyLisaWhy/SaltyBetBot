@@ -748950,5 +748950,140 @@
     "sum": 131085957,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1432
+    },
+    "date": 1792955022931,
+    "duration": 65934,
+    "left": {
+      "bet_amount": 990855,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Judgment EX3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8986917,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Flawless specter",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 131066479,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37811
+    },
+    "date": 1792955163126,
+    "duration": 86190,
+    "left": {
+      "bet_amount": 873684,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Vayeate",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2835074,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Ando",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "sum": 131066637,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15307
+    },
+    "date": 1792955299127,
+    "duration": 76007,
+    "left": {
+      "bet_amount": 6263778,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Dusk komachi",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1294524,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Andy xiii",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 131028826,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19513
+    },
+    "date": 1792955453326,
+    "duration": 93951,
+    "left": {
+      "bet_amount": 1026315,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Perfect cell EX3",
+      "normal_bettors": 16,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4581535,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "Silvermoon",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 131031982,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4107
+    },
+    "date": 1792955659525,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 1732321,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Element",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3387936,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Slender man",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 131036335,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
