@@ -745116,5 +745116,86 @@
     "sum": 2509,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4055
+    },
+    "date": 1792926222125,
+    "duration": 114003,
+    "left": {
+      "bet_amount": 93328,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Souther",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 408175,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Magneto_cota",
+      "normal_bettors": 40,
+      "win_streak": 7
+    },
+    "sum": 4055,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4974
+    },
+    "date": 1792926482332,
+    "duration": 200205,
+    "left": {
+      "bet_amount": 59744,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Satsujinki",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 475960,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hibiki takane",
+      "normal_bettors": 46,
+      "win_streak": -1
+    },
+    "sum": 4974,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792926738526,
+    "duration": 196202,
+    "left": {
+      "bet_amount": 419193,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Stardust utsuho",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206324,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Majin-etna",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
