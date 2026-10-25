@@ -744873,5 +744873,113 @@
     "sum": 130611241,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33508
+    },
+    "date": 1792924308729,
+    "duration": 110207,
+    "left": {
+      "bet_amount": 901880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Daisy EX3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3004171,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Yuki_the_crimsondead",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 130614691,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20541
+    },
+    "date": 1792924454725,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1501710,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mukai EX3",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1798189,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Ironfist chinmi",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130624640,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4056
+    },
+    "date": 1792924620935,
+    "duration": 106211,
+    "left": {
+      "bet_amount": 5486802,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Kurorim-c",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 946620,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Vier",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "sum": 130641601,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24152
+    },
+    "date": 1792924740935,
+    "duration": 60002,
+    "left": {
+      "bet_amount": 3917320,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ultraman tiga",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1103588,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ss6 syunran-abab",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 130642301,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
