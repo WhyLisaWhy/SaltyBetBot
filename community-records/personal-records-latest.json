@@ -740553,5 +740553,140 @@
     "sum": 130617727,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 288
+    },
+    "date": 1792895556324,
+    "duration": 117991,
+    "left": {
+      "bet_amount": 2576276,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Success joe",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 131487705,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Chiyo-chichi",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130588907,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792895716524,
+    "duration": 107999,
+    "left": {
+      "bet_amount": 4310422,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Krasnaya",
+      "normal_bettors": 25,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 133260656,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Satsuki kiryuin",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 130588913,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25700
+    },
+    "date": 1792895894723,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 2895761,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Shinzero",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2371775,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Halfkun",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 130588914,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23210
+    },
+    "date": 1792896060726,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1070060,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 2,
+      "name": "Kolin",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1597185,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Legendary super saiyan",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 130609779,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25849
+    },
+    "date": 1792896174923,
+    "duration": 59995,
+    "left": {
+      "bet_amount": 7451600,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 9,
+      "name": "Death13 EX3",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1718378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "S.sinclair",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 130586569,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
