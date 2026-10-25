@@ -750381,5 +750381,113 @@
     "sum": 130779246,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28504
+    },
+    "date": 1792963851986,
+    "duration": 110058,
+    "left": {
+      "bet_amount": 1648606,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dex-starr",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2278742,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Knight",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 130783774,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27230
+    },
+    "date": 1792964002127,
+    "duration": 89917,
+    "left": {
+      "bet_amount": 1126016,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nyamo EX",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3506121,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Rugal bernstein",
+      "normal_bettors": 43,
+      "win_streak": -1
+    },
+    "sum": 130822504,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2698
+    },
+    "date": 1792964472526,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 4240904,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Ren_idagawa",
+      "normal_bettors": 27,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1468089,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Genyew",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 130795274,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19439
+    },
+    "date": 1792964628528,
+    "duration": 90005,
+    "left": {
+      "bet_amount": 8799368,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "The owner of eden",
+      "normal_bettors": 31,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2141147,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "The root pack",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130803054,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
