@@ -744981,5 +744981,140 @@
     "sum": 130642301,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14671
+    },
+    "date": 1792924989124,
+    "duration": 194170,
+    "left": {
+      "bet_amount": 735499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Elder toguro",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6768391,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Arrange_misuzu",
+      "normal_bettors": 46,
+      "win_streak": -1
+    },
+    "sum": 130618149,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792925335325,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 45999,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Azure",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138019,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "G-gonzales",
+      "normal_bettors": 42,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2061
+    },
+    "date": 1792925567526,
+    "duration": 175997,
+    "left": {
+      "bet_amount": 154481,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Jiren z2",
+      "normal_bettors": 42,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Omega rugal 98",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 2061,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792925787725,
+    "duration": 161993,
+    "left": {
+      "bet_amount": 194048,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Gelonimon",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 120959,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sanic",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2509
+    },
+    "date": 1792926021929,
+    "duration": 180202,
+    "left": {
+      "bet_amount": 279985,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Chargeman len",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 87031,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Butthead sagat",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 2509,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
