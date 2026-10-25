@@ -745629,5 +745629,86 @@
     "sum": 130654009,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29235
+    },
+    "date": 1792931786527,
+    "duration": 96203,
+    "left": {
+      "bet_amount": 846680,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tyrantrum",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3280959,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Stan",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 130654010,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6733
+    },
+    "date": 1792931996727,
+    "duration": 146186,
+    "left": {
+      "bet_amount": 1424892,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hige",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3510508,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Absolute sword",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 130763518,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10706
+    },
+    "date": 1792932226725,
+    "duration": 169997,
+    "left": {
+      "bet_amount": 1075657,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kamek",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4419636,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Ruccio roche",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 130766246,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
