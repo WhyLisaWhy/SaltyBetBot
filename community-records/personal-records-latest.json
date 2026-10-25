@@ -741876,5 +741876,86 @@
     "sum": 130626848,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3143
+    },
+    "date": 1792903602527,
+    "duration": 76005,
+    "left": {
+      "bet_amount": 4081145,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Rambo",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1138289,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Juggernaut",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 130641700,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35488
+    },
+    "date": 1792903732125,
+    "duration": 69392,
+    "left": {
+      "bet_amount": 796633,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sheep the royal",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4875438,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Weakest rugal",
+      "normal_bettors": 40,
+      "win_streak": -3
+    },
+    "sum": 130638557,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792904183126,
+    "duration": 186196,
+    "left": {
+      "bet_amount": 101890,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Jibber",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 81183,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "The kung fu man",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
