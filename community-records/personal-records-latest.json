@@ -747897,5 +747897,113 @@
     "sum": 130976539,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20481
+    },
+    "date": 1792946117927,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 4939256,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Hory marlu ex",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1181655,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chou hi EX7",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 130975145,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2100
+    },
+    "date": 1792946364125,
+    "duration": 184194,
+    "left": {
+      "bet_amount": 1388882,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Tsu-",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1879200,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Super3 goku EX",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 130954664,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23960
+    },
+    "date": 1792946544325,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 987780,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Black joker",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2672208,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Blackheart",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "sum": 130952564,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31627
+    },
+    "date": 1792946790322,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 1604597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ridley ssbb",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1687698,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Suika_ibuki",
+      "normal_bettors": 25,
+      "win_streak": -4
+    },
+    "sum": 130961343,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
