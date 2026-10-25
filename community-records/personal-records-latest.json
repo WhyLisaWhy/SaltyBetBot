@@ -748410,5 +748410,86 @@
     "sum": 4098,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5525
+    },
+    "date": 1792950505370,
+    "duration": 110042,
+    "left": {
+      "bet_amount": 617110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kamen rider scissors",
+      "normal_bettors": 45,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 109683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "SonGohan",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 5525,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6499
+    },
+    "date": 1792950771728,
+    "duration": 206182,
+    "left": {
+      "bet_amount": 417363,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kim dong hwan",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 384010,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Cirno",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 6499,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792951001727,
+    "duration": 165993,
+    "left": {
+      "bet_amount": 571904,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Viper",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 278612,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kamen rider scissors",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
