@@ -746871,5 +746871,113 @@
     "sum": 130905911,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19289
+    },
+    "date": 1792939824925,
+    "duration": 102196,
+    "left": {
+      "bet_amount": 946068,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Kfm",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3748443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Roll EX",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 130867579,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1143
+    },
+    "date": 1792939974926,
+    "duration": 95993,
+    "left": {
+      "bet_amount": 1003394,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Uppercut",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5291158,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Odenya saki",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 130848290,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1778
+    },
+    "date": 1792940189126,
+    "duration": 153998,
+    "left": {
+      "bet_amount": 2743406,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Eva-02 EX3",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1345641,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Deedrit",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130848507,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12952
+    },
+    "date": 1792940349326,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 3375412,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Mrkarate",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1013433,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Zero ariel",
+      "normal_bettors": 15,
+      "win_streak": -10
+    },
+    "sum": 130849379,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
