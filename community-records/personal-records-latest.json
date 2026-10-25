@@ -742335,5 +742335,59 @@
     "sum": 6774,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10325
+    },
+    "date": 1792908660523,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 970543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Evil guire",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5375350,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Quickman",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 130604624,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12675
+    },
+    "date": 1792908820723,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 3974142,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ramon-kofm",
+      "normal_bettors": 38,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 973632,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Phantomsheet",
+      "normal_bettors": 16,
+      "win_streak": -7
+    },
+    "sum": 130606485,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
