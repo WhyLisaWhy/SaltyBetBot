@@ -748113,5 +748113,113 @@
     "sum": 130989477,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792947907324,
+    "duration": 176197,
+    "left": {
+      "bet_amount": 123468,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Benimaru 98",
+      "normal_bettors": 40,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 81102,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kim dong hwan",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792948127530,
+    "duration": 166135,
+    "left": {
+      "bet_amount": 112845,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cvtw sol badguy",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 191523,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Vegeta",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2456
+    },
+    "date": 1792948377734,
+    "duration": 190206,
+    "left": {
+      "bet_amount": 143624,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Masked rider kabuto",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 237949,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Cirno",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 2456,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3924
+    },
+    "date": 1792948611957,
+    "duration": 170228,
+    "left": {
+      "bet_amount": 247365,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Quickman",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 191176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Popeye the sailor",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 3924,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
