@@ -745872,5 +745872,140 @@
     "sum": 130828031,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792933463725,
+    "duration": 154000,
+    "left": {
+      "bet_amount": 2906211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Chibi naruto",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2062861,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Chansey",
+      "normal_bettors": 26,
+      "win_streak": -5
+    },
+    "sum": 130828388,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28091
+    },
+    "date": 1792933619925,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 1918697,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Ageha",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1401841,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shirakawa kotori",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 130828387,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19742
+    },
+    "date": 1792933770125,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1401619,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aiwhen",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2881740,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Chelsea tone",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 130866080,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42076
+    },
+    "date": 1792933970126,
+    "duration": 145992,
+    "left": {
+      "bet_amount": 4243903,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Bridget(ac)",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1331857,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nami mvc",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 130846338,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19505
+    },
+    "date": 1792934154320,
+    "duration": 129993,
+    "left": {
+      "bet_amount": 1480542,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nelo angelo",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2535060,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Ranma-kun",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130976306,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
