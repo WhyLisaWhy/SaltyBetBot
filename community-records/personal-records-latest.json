@@ -751380,5 +751380,113 @@
     "sum": 2559,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3021
+    },
+    "date": 1792971377926,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 563458,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Angelg",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hydron",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 3021,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3683
+    },
+    "date": 1792971573926,
+    "duration": 139993,
+    "left": {
+      "bet_amount": 337878,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Akane satomura EX2",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267788,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Shiena bee",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 3683,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792971854324,
+    "duration": 224203,
+    "left": {
+      "bet_amount": 294242,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Chako",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 352227,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 18,
+      "name": "Rock volnutt",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792972060328,
+    "duration": 146003,
+    "left": {
+      "bet_amount": 118015,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Light the hedgehog",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 409255,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kage",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
