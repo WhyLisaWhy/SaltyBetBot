@@ -742281,5 +742281,59 @@
     "sum": 2363,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4673
+    },
+    "date": 1792907217326,
+    "duration": 160001,
+    "left": {
+      "bet_amount": 224326,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Chin taimei",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 494364,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Debonea",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "sum": 4673,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6774
+    },
+    "date": 1792907490525,
+    "duration": 216998,
+    "left": {
+      "bet_amount": 483497,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "The kung fu man",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 282753,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Debonea",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 6774,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
