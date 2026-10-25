@@ -741336,5 +741336,113 @@
     "sum": 130665075,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30379
+    },
+    "date": 1792900151921,
+    "duration": 126198,
+    "left": {
+      "bet_amount": 2411994,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 15,
+      "name": "Ogigaya tetsuko",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1638517,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Super nightmare geese",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130666990,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3008
+    },
+    "date": 1792900305926,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 973940,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "The blob",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4588918,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Taskmaster",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130710896,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792900486141,
+    "duration": 124015,
+    "left": {
+      "bet_amount": 1564084,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gundam heavy arms",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3593861,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Cyber akuma mvc",
+      "normal_bettors": 37,
+      "win_streak": 0
+    },
+    "sum": 130711534,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17961
+    },
+    "date": 1792900686323,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 5619203,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Peach smrpg",
+      "normal_bettors": 40,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1429873,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Evil ryu svc chaos",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130711535,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
