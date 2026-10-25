@@ -751272,5 +751272,113 @@
     "sum": 3494,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4469
+    },
+    "date": 1792970423120,
+    "duration": 156194,
+    "left": {
+      "bet_amount": 106678,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Geese ex xi",
+      "normal_bettors": 28,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 316341,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Rock volnutt",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 4469,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5956
+    },
+    "date": 1792970717344,
+    "duration": 234219,
+    "left": {
+      "bet_amount": 314746,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Sonic the hedgehog",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 156212,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Light the hedgehog",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 5956,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792970883526,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 330962,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Kage",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 216326,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Balrog sf2",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2559
+    },
+    "date": 1792971177767,
+    "duration": 240240,
+    "left": {
+      "bet_amount": 548253,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Uppercut",
+      "normal_bettors": 43,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 99312,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Youma soldier",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "sum": 2559,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
