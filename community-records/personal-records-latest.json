@@ -750921,5 +750921,113 @@
     "sum": 130810042,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33430
+    },
+    "date": 1792967696925,
+    "duration": 104006,
+    "left": {
+      "bet_amount": 1214338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "General zod",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4979254,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Fabulous he-man",
+      "normal_bettors": 45,
+      "win_streak": 4
+    },
+    "sum": 130810043,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24898
+    },
+    "date": 1792967879135,
+    "duration": 122006,
+    "left": {
+      "bet_amount": 3189372,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Master barnes",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172041,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Acguy",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 130818142,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31107
+    },
+    "date": 1792968089329,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 1160796,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hong krizalid",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9107050,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 21,
+      "name": "Mictlan EX",
+      "normal_bettors": 45,
+      "win_streak": 5
+    },
+    "sum": 130793244,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20522
+    },
+    "date": 1792968239328,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 1531611,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Jagi",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1840662,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Sasuke 0d",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 130797196,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
