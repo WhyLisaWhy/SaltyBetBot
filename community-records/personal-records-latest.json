@@ -739446,5 +739446,86 @@
     "sum": 130751583,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3401
+    },
+    "date": 1792888759324,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 6077706,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 11,
+      "name": "Barts",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 925201,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kanami",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 130726637,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14382
+    },
+    "date": 1792889043527,
+    "duration": 224199,
+    "left": {
+      "bet_amount": 4296508,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Arrange_misuzu",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1632423,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mc-jade type-k",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 130723236,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35012
+    },
+    "date": 1792889159521,
+    "duration": 59981,
+    "left": {
+      "bet_amount": 4744538,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Drdoom",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2113901,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Big show",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 130708854,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
