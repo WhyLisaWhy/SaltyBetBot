@@ -748005,5 +748005,113 @@
     "sum": 130961343,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17403
+    },
+    "date": 1792946974530,
+    "duration": 124008,
+    "left": {
+      "bet_amount": 2431560,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Shigure",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1513118,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "00 bigbear",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 130990860,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25476
+    },
+    "date": 1792947104730,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 1437271,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lucky",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2737259,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Politank-z",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 130973457,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13501
+    },
+    "date": 1792947274730,
+    "duration": 114003,
+    "left": {
+      "bet_amount": 900522,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kingslime",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4382117,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Holy ken",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 130986711,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5988
+    },
+    "date": 1792947461127,
+    "duration": 126195,
+    "left": {
+      "bet_amount": 955840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Da zhong tian",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5133061,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Dark ash-kofm",
+      "normal_bettors": 43,
+      "win_streak": 3
+    },
+    "sum": 130989477,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
