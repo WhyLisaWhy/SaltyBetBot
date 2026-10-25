@@ -742200,5 +742200,86 @@
     "sum": 21293,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35243
+    },
+    "date": 1792906490929,
+    "duration": 134203,
+    "left": {
+      "bet_amount": 732698,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Lf2 - firen",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 206738,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Chin taimei",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 35243,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792906681139,
+    "duration": 134214,
+    "left": {
+      "bet_amount": 391433,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Debonea",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 205884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mamiya EX",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2363
+    },
+    "date": 1792906997328,
+    "duration": 256200,
+    "left": {
+      "bet_amount": 417800,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "The kung fu man",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 410647,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Supernovice",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 2363,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
