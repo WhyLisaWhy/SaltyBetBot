@@ -747141,5 +747141,140 @@
     "sum": 130846859,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18625
+    },
+    "date": 1792941576325,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 1610696,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Kirara",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1488620,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Erdrick, the generic anime swordsman",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 130861732,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 827
+    },
+    "date": 1792941722329,
+    "duration": 90009,
+    "left": {
+      "bet_amount": 2163369,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Godzillen",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1080121,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The master",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 130843107,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18174
+    },
+    "date": 1792941896525,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 2253126,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Pluto the sailor man",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1744070,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Thwomp",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 130843520,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 45317
+    },
+    "date": 1792942036725,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 1363141,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Linne z",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2050111,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Air man ga taosenai",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 130866757,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3212
+    },
+    "date": 1792942252730,
+    "duration": 156004,
+    "left": {
+      "bet_amount": 810105,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rakugaki",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7788792,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 17,
+      "name": "Blue mary rb",
+      "normal_bettors": 39,
+      "win_streak": 7
+    },
+    "sum": 130821440,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
