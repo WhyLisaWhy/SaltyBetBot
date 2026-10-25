@@ -749841,5 +749841,113 @@
     "sum": 130891223,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3006
+    },
+    "date": 1792960467326,
+    "duration": 95984,
+    "left": {
+      "bet_amount": 1206826,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Broly lssj4",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2541495,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Suneo",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130866569,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23590
+    },
+    "date": 1792960661526,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 2454178,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Gustab munchausen",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1528005,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Alter wind",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 130863563,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9865
+    },
+    "date": 1792960841727,
+    "duration": 124202,
+    "left": {
+      "bet_amount": 5438268,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Myzr delta",
+      "normal_bettors": 41,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1350761,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akiko EX",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 130878111,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7530
+    },
+    "date": 1792960991729,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 960908,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eliza EX",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3781660,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Terumi",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 130880557,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
