@@ -740121,5 +740121,140 @@
     "sum": 130484665,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3070
+    },
+    "date": 1792892870325,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 3596399,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Bonegolem",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2580943,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Truffe",
+      "normal_bettors": 24,
+      "win_streak": -10
+    },
+    "sum": 130484664,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36541
+    },
+    "date": 1792893030526,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1500002,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Lotus master",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4850395,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Electro recharged",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "sum": 130481594,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33045
+    },
+    "date": 1792893244738,
+    "duration": 154210,
+    "left": {
+      "bet_amount": 3540344,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sanada yukimura_ch",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4768710,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Seravy",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 130445053,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16076
+    },
+    "date": 1792893374727,
+    "duration": 74005,
+    "left": {
+      "bet_amount": 3275709,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 11,
+      "name": "Q-bee ex",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 863107,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Emeralda kasim",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 130489152,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26854
+    },
+    "date": 1792893540925,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 2963390,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 10,
+      "name": "Satori komeiji",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1214125,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Ingrid EX2",
+      "normal_bettors": 20,
+      "win_streak": -7
+    },
+    "sum": 130493368,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
