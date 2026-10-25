@@ -744198,5 +744198,113 @@
     "sum": 130451584,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9637
+    },
+    "date": 1792920063524,
+    "duration": 70197,
+    "left": {
+      "bet_amount": 5907727,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Ushi",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1062111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Meikai shandera EX7",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 130444307,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 846
+    },
+    "date": 1792920217523,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 37660027,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Jack13",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1144030,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Tia",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 130446037,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14231
+    },
+    "date": 1792920423724,
+    "duration": 150205,
+    "left": {
+      "bet_amount": 2567257,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Char's z'gok",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1524365,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Gardevoir EX3",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 130446063,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2708
+    },
+    "date": 1792920687927,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 1563204,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yashiro nanakase",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6251860,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Lion sora",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "sum": 130431832,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
