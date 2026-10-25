@@ -742848,5 +742848,113 @@
     "sum": 130558931,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792911959126,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 915041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Miyuki shiba",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9533108,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Voltage zero",
+      "normal_bettors": 39,
+      "win_streak": 12
+    },
+    "sum": 130525352,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33182
+    },
+    "date": 1792912201378,
+    "duration": 176256,
+    "left": {
+      "bet_amount": 964631,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Carmilla",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3108121,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Gaia EX3",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "sum": 130525353,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 934
+    },
+    "date": 1792912367526,
+    "duration": 112200,
+    "left": {
+      "bet_amount": 2444229,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kenji",
+      "normal_bettors": 33,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 15532416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "sum": 130535543,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17255
+    },
+    "date": 1792912505526,
+    "duration": 83996,
+    "left": {
+      "bet_amount": 1342493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dress cinderella mio EX7",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4408166,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Toushi",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "sum": 130535690,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
