@@ -746304,5 +746304,113 @@
     "sum": 130876176,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2061
+    },
+    "date": 1792936027924,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 1123053,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sonans",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5644129,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Pororo",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 130907748,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37111
+    },
+    "date": 1792936253925,
+    "duration": 165997,
+    "left": {
+      "bet_amount": 4594833,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Susie haltmann",
+      "normal_bettors": 34,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1683820,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Juralian",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 130908158,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32128
+    },
+    "date": 1792936378125,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 807359,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Schmeissen soldat",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3104067,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Dark pirate",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "sum": 130921649,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5732
+    },
+    "date": 1792936578344,
+    "duration": 138220,
+    "left": {
+      "bet_amount": 890847,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Sakagami tomoyo",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3180665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "White len EX",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 130889521,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
