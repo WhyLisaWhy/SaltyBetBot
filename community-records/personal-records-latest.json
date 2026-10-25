@@ -748572,5 +748572,86 @@
     "sum": 131004901,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18459
+    },
+    "date": 1792952482924,
+    "duration": 159992,
+    "left": {
+      "bet_amount": 2921316,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ares",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1590747,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mizuka nagamori",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130984967,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2721
+    },
+    "date": 1792952629125,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1322805,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lee Chaolan",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6099463,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Isaiah bradley",
+      "normal_bettors": 40,
+      "win_streak": 0
+    },
+    "sum": 130966508,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37047
+    },
+    "date": 1792952885328,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 2484442,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Ash crimson xiii",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1336967,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kanon di jajajajaja",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 130967098,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
