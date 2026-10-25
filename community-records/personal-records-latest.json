@@ -742551,5 +742551,140 @@
     "sum": 130618879,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7525
+    },
+    "date": 1792910001527,
+    "duration": 79910,
+    "left": {
+      "bet_amount": 781317,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Detton",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4219512,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Zantetsu ex",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "sum": 130573125,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36341
+    },
+    "date": 1792910217723,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 1585204,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Andy 98",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1515121,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Underdog",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 130574516,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20088
+    },
+    "date": 1792910397923,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 3206434,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Haohmaru-kofm",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1130356,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gi gi",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 130538175,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3666
+    },
+    "date": 1792910658127,
+    "duration": 200205,
+    "left": {
+      "bet_amount": 2280681,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Maori",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1613157,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "The world-dio EX3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 130518087,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16495
+    },
+    "date": 1792910802327,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 3540991,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Vice-kofm",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 902099,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Peach mythos",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130514421,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
