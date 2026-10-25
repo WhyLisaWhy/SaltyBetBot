@@ -742092,5 +742092,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5797
+    },
+    "date": 1792905570126,
+    "duration": 166196,
+    "left": {
+      "bet_amount": 273709,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Debonea",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 353950,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Daimon 98",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 5797,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13138
+    },
+    "date": 1792905764323,
+    "duration": 140189,
+    "left": {
+      "bet_amount": 489584,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mamiya EX",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 219028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eddie",
+      "normal_bettors": 24,
+      "win_streak": -7
+    },
+    "sum": 13138,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18863
+    },
+    "date": 1792906026525,
+    "duration": 196199,
+    "left": {
+      "bet_amount": 702196,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "The kung fu man",
+      "normal_bettors": 45,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 92876,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ex-aid",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 18863,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21293
+    },
+    "date": 1792906296724,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 330748,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider garren",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 483568,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Supernovice",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 21293,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
