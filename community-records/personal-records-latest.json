@@ -750651,5 +750651,86 @@
     "sum": 130836376,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27937
+    },
+    "date": 1792965829527,
+    "duration": 129994,
+    "left": {
+      "bet_amount": 2176426,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Orochi iori EX",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1935048,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Saber",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 130812143,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27827
+    },
+    "date": 1792966055723,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 1904664,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Remilia scarlet",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2148114,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Warlock",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "sum": 130843118,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5126
+    },
+    "date": 1792966319934,
+    "duration": 210175,
+    "left": {
+      "bet_amount": 1422260,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Mimizuku_professor",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1825608,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shiori misaka",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 130815291,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
