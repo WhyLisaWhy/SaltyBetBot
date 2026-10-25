@@ -745386,5 +745386,32 @@
     "sum": 31532,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42187
+    },
+    "date": 1792928549525,
+    "duration": 193797,
+    "left": {
+      "bet_amount": 555023,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "G-gonzales",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 550710,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Magneto_cota",
+      "normal_bettors": 38,
+      "win_streak": 9
+    },
+    "sum": 42187,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
