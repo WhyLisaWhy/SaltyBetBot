@@ -760828,5 +760828,140 @@
     "sum": 9126,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28452
+    },
+    "date": 1793044103325,
+    "duration": 174001,
+    "left": {
+      "bet_amount": 1658377,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Hopper",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1749348,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Thunder-iku",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 130278716,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793044249525,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 725626,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dead geese",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5016130,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Rugal b. EX",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 130250264,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26269
+    },
+    "date": 1793044463726,
+    "duration": 154198,
+    "left": {
+      "bet_amount": 4713524,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Hel'lauren",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1313011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Thunder mask",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130250265,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39171
+    },
+    "date": 1793044693925,
+    "duration": 174202,
+    "left": {
+      "bet_amount": 2826468,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Hata no kokoro",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1508478,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Dr.minerva",
+      "normal_bettors": 12,
+      "win_streak": -7
+    },
+    "sum": 130257543,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3789
+    },
+    "date": 1793044843954,
+    "duration": 94029,
+    "left": {
+      "bet_amount": 1321899,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hamon kyo",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3672416,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Yoshiyuki takagi",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 130218372,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
