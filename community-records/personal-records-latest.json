@@ -757374,5 +757374,138 @@
     "sum": 130574878,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14447
+    },
+    "date": 1793015058357,
+    "duration": 106232,
+    "left": {
+      "bet_amount": 944685,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Evil miopinja",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2732055,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Asuka EX2",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 130594794,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1793015192128,
+    "duration": 73803,
+    "left": {
+      "bet_amount": 367289,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Victor ortega",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 96548,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Tetsu yatogi",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793015598721,
+    "duration": 140194,
+    "left": {
+      "bet_amount": 93112,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Aiai",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 586930,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Iyo",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793015874926,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 476778,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hasshie",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 429304,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Soma cruz ex",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793016020928,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 315969,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Johnny EX3",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 533197,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Black widow EX",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
