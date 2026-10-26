@@ -755835,5 +755835,113 @@
     "sum": 130766870,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27193
+    },
+    "date": 1793005432525,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 2840251,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "The joker EX3",
+      "normal_bettors": 34,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 863908,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Alien_z-ton",
+      "normal_bettors": 13,
+      "win_streak": -13
+    },
+    "sum": 130790144,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30758
+    },
+    "date": 1793005598525,
+    "duration": 111993,
+    "left": {
+      "bet_amount": 1828609,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Zeppeli ex",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2394205,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Kazuya f",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 130762951,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4512
+    },
+    "date": 1793005792726,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 1002057,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Roy",
+      "normal_bettors": 14,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4256696,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Zarbom",
+      "normal_bettors": 33,
+      "win_streak": 0
+    },
+    "sum": 130732193,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 46015
+    },
+    "date": 1793005958933,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1477177,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Hellboy ex",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2287511,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Lord of the rangs",
+      "normal_bettors": 28,
+      "win_streak": -5
+    },
+    "sum": 130733255,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
