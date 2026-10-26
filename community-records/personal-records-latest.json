@@ -755295,5 +755295,113 @@
     "sum": 130848457,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24730
+    },
+    "date": 1793001827728,
+    "duration": 182202,
+    "left": {
+      "bet_amount": 1549457,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Half-french sephiroth",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2225308,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Meiling mmd",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 130857392,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32519
+    },
+    "date": 1793002087928,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 1861985,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Mvc3 lilith",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1828146,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Margaretha_solin",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 130832662,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16013
+    },
+    "date": 1793002237928,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 5733529,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "No.9",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1287083,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dorothy-albright",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 130864042,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793002438125,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1850472,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Yosuke hanamura",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2053233,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sage kabuto",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 130867627,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
