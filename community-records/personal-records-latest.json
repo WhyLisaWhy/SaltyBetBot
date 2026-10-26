@@ -761665,5 +761665,113 @@
     "sum": 130224747,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22863
+    },
+    "date": 1793049547727,
+    "duration": 155989,
+    "left": {
+      "bet_amount": 801662,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wolvie",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2811801,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Cap.com",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "sum": 130236527,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793049763925,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 767903,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hong kong phooey",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3814604,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Frank castle",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 130213664,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793049873924,
+    "duration": 55986,
+    "left": {
+      "bet_amount": 10936566,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "!mudman",
+      "normal_bettors": 41,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 766525,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Shizupa",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "sum": 130213665,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29864
+    },
+    "date": 1793050068138,
+    "duration": 136011,
+    "left": {
+      "bet_amount": 1272238,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Umaibou nadeko",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3370501,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Chelsea tone",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 130213666,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
