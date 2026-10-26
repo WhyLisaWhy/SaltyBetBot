@@ -762124,5 +762124,113 @@
     "sum": 130259713,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1532
+    },
+    "date": 1793052275928,
+    "duration": 100004,
+    "left": {
+      "bet_amount": 864256,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Pocket chunli",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5592630,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "Ciel EX",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "sum": 130266940,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7461
+    },
+    "date": 1793052406129,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 1025995,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Komepo",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4196350,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Weiss guitly gear",
+      "normal_bettors": 40,
+      "win_streak": -3
+    },
+    "sum": 130267177,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17708
+    },
+    "date": 1793052546133,
+    "duration": 80006,
+    "left": {
+      "bet_amount": 2295729,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Lihua",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2278493,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Reimu-q",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 130268998,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38456
+    },
+    "date": 1793052746321,
+    "duration": 140196,
+    "left": {
+      "bet_amount": 1436728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pocket tylor",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2335837,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kitana mk2",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 130251290,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
