@@ -759802,5 +759802,140 @@
     "sum": 130319049,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5229
+    },
+    "date": 1793032394129,
+    "duration": 204201,
+    "left": {
+      "bet_amount": 1597997,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Karasu",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3189542,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Protoman",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 130330975,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22963
+    },
+    "date": 1793032606331,
+    "duration": 150168,
+    "left": {
+      "bet_amount": 1542124,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Queen of heart",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2143371,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sanic",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "sum": 130333591,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36555
+    },
+    "date": 1793032810525,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 2393151,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Rugal CVS",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1812156,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Sinbat",
+      "normal_bettors": 22,
+      "win_streak": -14
+    },
+    "sum": 130365039,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15004
+    },
+    "date": 1793032950726,
+    "duration": 80195,
+    "left": {
+      "bet_amount": 1031928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Soushihan k.s.k 12p color",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3425274,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Ex iori xiii",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 130328484,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31840
+    },
+    "date": 1793033086726,
+    "duration": 80201,
+    "left": {
+      "bet_amount": 1499774,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Queen the spade",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2028835,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Kurokishi",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 130332985,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
