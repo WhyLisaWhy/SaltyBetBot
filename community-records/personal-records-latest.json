@@ -752757,5 +752757,113 @@
     "sum": 130584990,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20665
+    },
+    "date": 1792983953526,
+    "duration": 205956,
+    "left": {
+      "bet_amount": 1669350,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Nazrin deluxe",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2112976,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Ren mizusaka",
+      "normal_bettors": 37,
+      "win_streak": -3
+    },
+    "sum": 130584522,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14124
+    },
+    "date": 1792984089724,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 1214415,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Himrio",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9516841,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Wonder boy shion",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "sum": 130610359,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11581
+    },
+    "date": 1792984313926,
+    "duration": 164198,
+    "left": {
+      "bet_amount": 1176323,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Death machine mb-59",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6016214,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Full kusya",
+      "normal_bettors": 44,
+      "win_streak": 2
+    },
+    "sum": 130612159,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17979
+    },
+    "date": 1792984454125,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 1915078,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Daiyousei EX",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2569182,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ramon EX3",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 130614420,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
