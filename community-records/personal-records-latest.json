@@ -758236,5 +758236,32 @@
     "sum": 130540616,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7463
+    },
+    "date": 1793022350126,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 2365934,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Real bloo",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1552347,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Vinsmoke sanji",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 130502326,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
