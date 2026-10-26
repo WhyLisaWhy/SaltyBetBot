@@ -751569,5 +751569,32 @@
     "sum": 4173,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5170
+    },
+    "date": 1792973211126,
+    "duration": 324202,
+    "left": {
+      "bet_amount": 475238,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 26,
+      "name": "Rock volnutt",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 400476,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Angelg",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 5170,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
