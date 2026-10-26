@@ -762691,5 +762691,140 @@
     "sum": 130318036,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 281
+    },
+    "date": 1793055776727,
+    "duration": 200198,
+    "left": {
+      "bet_amount": 6903478,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Psyduck",
+      "normal_bettors": 34,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1215281,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Suave dude",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 130318151,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2205
+    },
+    "date": 1793055962918,
+    "duration": 126190,
+    "left": {
+      "bet_amount": 1882097,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Kagami EX2",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2087365,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hauzer cfj",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130318201,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22302
+    },
+    "date": 1793056136924,
+    "duration": 119977,
+    "left": {
+      "bet_amount": 921693,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Neo amakusa",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3225079,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Gintoki sakata",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 130315996,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6973
+    },
+    "date": 1793056273130,
+    "duration": 76202,
+    "left": {
+      "bet_amount": 1287285,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Skullomania",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2302301,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "1st ultraman",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 130392189,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25652
+    },
+    "date": 1793056433126,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 2662863,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Axel",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1166903,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kei nanasawa",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 130396077,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
