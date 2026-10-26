@@ -762988,5 +762988,113 @@
     "sum": 130504518,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6005
+    },
+    "date": 1793057680128,
+    "duration": 139992,
+    "left": {
+      "bet_amount": 1026278,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Qt3.14 iroha",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4692379,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Watern",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 130510032,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28267
+    },
+    "date": 1793057820328,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 1625272,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Bekkamu",
+      "normal_bettors": 18,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2016847,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Valdoll",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 130511344,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26233
+    },
+    "date": 1793058106528,
+    "duration": 230203,
+    "left": {
+      "bet_amount": 947537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Blue destiny 2",
+      "normal_bettors": 14,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4334309,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Pocket Morrigan",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 130483077,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18045
+    },
+    "date": 1793058300726,
+    "duration": 140162,
+    "left": {
+      "bet_amount": 2009710,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Emerald",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2067946,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Belmont trusdale",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130488778,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
