@@ -757723,5 +757723,113 @@
     "sum": 7392,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8341
+    },
+    "date": 1793017992528,
+    "duration": 220199,
+    "left": {
+      "bet_amount": 509484,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Mystic gohan EX5",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 176356,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Nami",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 8341,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11182
+    },
+    "date": 1793018186743,
+    "duration": 140214,
+    "left": {
+      "bet_amount": 241338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Aiai",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 525781,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Black widow EX",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 11182,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16208
+    },
+    "date": 1793018368928,
+    "duration": 116204,
+    "left": {
+      "bet_amount": 839087,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Haiji EX8",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 144335,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mystic gohan EX5",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 16208,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18944
+    },
+    "date": 1793018643731,
+    "duration": 220750,
+    "left": {
+      "bet_amount": 1631629,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Black widow EX",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 838363,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Haiji EX8",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 18944,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
