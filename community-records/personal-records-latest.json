@@ -760369,5 +760369,113 @@
     "sum": 130254726,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4588
+    },
+    "date": 1793036071134,
+    "duration": 146207,
+    "left": {
+      "bet_amount": 1307288,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Laurence",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2966671,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Symbiote thanos",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 130260551,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17943
+    },
+    "date": 1793036271331,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 1438169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cliff-tsunade-godaime",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5217711,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Thanos mvc2",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130262570,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793036721537,
+    "duration": 180006,
+    "left": {
+      "bet_amount": 154770,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Tenko-abab",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50952,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Sub-zero EX",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2056
+    },
+    "date": 1793036897729,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 190036,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Dan of steel",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 53130,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Masaki anzu",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 2056,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
