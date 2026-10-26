@@ -756564,5 +756564,113 @@
     "sum": 130759471,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19067
+    },
+    "date": 1793010154326,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 2728262,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Cielo",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1941848,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Fernandeath 2",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 130772092,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793010354526,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 3179924,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kongman",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1777200,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Dex-starr",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 130753025,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25433
+    },
+    "date": 1793010500528,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 2696166,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Vegeta gt",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1606304,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Smart-chang",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 130753027,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793010656731,
+    "duration": 96206,
+    "left": {
+      "bet_amount": 9386796,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Lord brevon",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1765968,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Naked Vega",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 130768038,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
