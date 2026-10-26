@@ -755052,5 +755052,113 @@
     "sum": 130899688,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39087
+    },
+    "date": 1793000054325,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 3105024,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Original vega",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2410664,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Amber-k",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 130893048,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16950
+    },
+    "date": 1793000248326,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 1766691,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Neo metal sonic",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2982809,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Goku black",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 130853961,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28753
+    },
+    "date": 1793000460526,
+    "duration": 151994,
+    "left": {
+      "bet_amount": 4070315,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Princess",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1000230,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Evil Vegeta",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 130863944,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15221
+    },
+    "date": 1793000650747,
+    "duration": 136222,
+    "left": {
+      "bet_amount": 828735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kasumi todoh?",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2652820,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Shiki EX2",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 130870961,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
