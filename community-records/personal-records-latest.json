@@ -752433,5 +752433,140 @@
     "sum": 130597351,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22023
+    },
+    "date": 1792981966122,
+    "duration": 75983,
+    "left": {
+      "bet_amount": 3265359,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Rockula",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1399198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kyoko_typek",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130578499,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33230
+    },
+    "date": 1792982100125,
+    "duration": 73999,
+    "left": {
+      "bet_amount": 2780654,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Rasho-zero",
+      "normal_bettors": 31,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1389378,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Kilyousuke",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 130587873,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26089
+    },
+    "date": 1792982346326,
+    "duration": 190000,
+    "left": {
+      "bet_amount": 1143499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shitan uzuki",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3629119,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Konno yuuki",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 130652825,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17246
+    },
+    "date": 1792982486523,
+    "duration": 85992,
+    "left": {
+      "bet_amount": 1534766,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bloody devil",
+      "normal_bettors": 26,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2660175,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Abore",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 130626736,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9248
+    },
+    "date": 1792982626525,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 2679084,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Xu huang",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2341872,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Masked rider agito EX3",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 130609490,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
