@@ -753351,5 +753351,113 @@
     "sum": 130632403,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1792987614526,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 1193430,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lord of the rangs",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6777850,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Nmori_yagami",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130647320,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7233
+    },
+    "date": 1792987798727,
+    "duration": 124203,
+    "left": {
+      "bet_amount": 5000695,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Takuan_osho",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2280865,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "General grievous",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 130647321,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20500
+    },
+    "date": 1792987934725,
+    "duration": 73994,
+    "left": {
+      "bet_amount": 1240630,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Old bonus kun",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3376829,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Dig dug",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 130650616,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30595
+    },
+    "date": 1792988090927,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 1094235,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Rosa - deep crimson vixen",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3785717,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Tokinomiya kamui",
+      "normal_bettors": 44,
+      "win_streak": 2
+    },
+    "sum": 130705508,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
