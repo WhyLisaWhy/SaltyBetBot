@@ -754188,5 +754188,140 @@
     "sum": 130989795,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17866
+    },
+    "date": 1792992692526,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 3720684,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Katima",
+      "normal_bettors": 38,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1531070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "No.6 hibiki",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 130992456,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22545
+    },
+    "date": 1792992856728,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 3142910,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ryu Master",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3485251,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Wraith",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130974590,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792992998728,
+    "duration": 85990,
+    "left": {
+      "bet_amount": 1196332,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kureha EX3",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4681357,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Pannacotta fugo",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 130952045,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35959
+    },
+    "date": 1792993173923,
+    "duration": 111195,
+    "left": {
+      "bet_amount": 1427819,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "1st ultraman",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4246542,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Sion tatari EX2",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "sum": 130952044,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1792993599127,
+    "duration": 156001,
+    "left": {
+      "bet_amount": 118084,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Tengu sw",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 87102,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Chou hi EX7",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
