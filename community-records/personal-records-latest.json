@@ -755700,5 +755700,140 @@
     "sum": 130790691,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9223
+    },
+    "date": 1793004495727,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 3111673,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "George",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1601235,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Raph EX2",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 130790693,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30061
+    },
+    "date": 1793004691925,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 3074600,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Piccolo EX3",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1538178,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hol 'butt king' funtimes ex",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 130795426,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4298
+    },
+    "date": 1793004956129,
+    "duration": 204203,
+    "left": {
+      "bet_amount": 3042828,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Chris_gb",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1065770,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Darkmatter",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "sum": 130765365,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793005052174,
+    "duration": 36049,
+    "left": {
+      "bet_amount": 3779059,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Awaken satsuki",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1446493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Michael",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 130766869,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39687
+    },
+    "date": 1793005256329,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 1296617,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Takumi hattori",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2171318,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Leona xiii",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 130766870,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
