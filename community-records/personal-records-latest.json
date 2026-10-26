@@ -758452,5 +758452,113 @@
     "sum": 130435078,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1048
+    },
+    "date": 1793024277528,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 4976559,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Killa and ren EX",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 979050,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - bat",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "sum": 130415749,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29024
+    },
+    "date": 1793024521733,
+    "duration": 190002,
+    "left": {
+      "bet_amount": 2009745,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sleeping nayuki",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1225521,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Captain agent",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 130415956,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 54503
+    },
+    "date": 1793024671927,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 3366470,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Alice carrol",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1444517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jin kazama qyc",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130386932,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11145
+    },
+    "date": 1793024848126,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 3280356,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Sanae kochiya",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1960043,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Tekkamann-lance",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 130409947,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
