@@ -760963,5 +760963,113 @@
     "sum": 130218372,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36900
+    },
+    "date": 1793045034127,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1811724,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Riyoh_nagasaki EX6",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3707364,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Kikyo_ex",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 130219735,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30842
+    },
+    "date": 1793045280324,
+    "duration": 184194,
+    "left": {
+      "bet_amount": 2362179,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Iori yagami-kofm",
+      "normal_bettors": 35,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2102481,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Salty surfer",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 130182835,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793045456525,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 2914368,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Yuuri kureo",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1016189,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hanny bbb",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 130151993,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18477
+    },
+    "date": 1793045610726,
+    "duration": 94188,
+    "left": {
+      "bet_amount": 2855047,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Masaru_takahara",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1156533,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kishima_kouma",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 130151994,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
