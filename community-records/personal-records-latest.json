@@ -757266,5 +757266,113 @@
     "sum": 130564830,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15465
+    },
+    "date": 1793014371729,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 935276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lucifer EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4042574,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Neva",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 130565863,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21051
+    },
+    "date": 1793014507730,
+    "duration": 82002,
+    "left": {
+      "bet_amount": 2060751,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Kazunoko's yun",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1652327,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Flygon",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 130569428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20475
+    },
+    "date": 1793014731928,
+    "duration": 164201,
+    "left": {
+      "bet_amount": 2620609,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Sol badguy ah",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1730216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dink smallwood",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 130595353,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19361
+    },
+    "date": 1793014898128,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 1607372,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Pyron",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1673290,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Minori amanohara",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130574878,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
