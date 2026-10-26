@@ -761233,5 +761233,113 @@
     "sum": 130153367,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8677
+    },
+    "date": 1793046863524,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 4109769,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Maria EX2",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050313,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Y'",
+      "normal_bettors": 16,
+      "win_streak": -6
+    },
+    "sum": 130188829,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5778
+    },
+    "date": 1793047073725,
+    "duration": 155920,
+    "left": {
+      "bet_amount": 1476279,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Supernovice",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2138078,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ayumu kasuga EX",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 130191042,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23804
+    },
+    "date": 1793047227926,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 2703262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Informer",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4190650,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Chun-li sf3",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "sum": 130185264,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17682
+    },
+    "date": 1793047373923,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1335564,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Young_rugal",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4452654,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Miko hd",
+      "normal_bettors": 41,
+      "win_streak": 4
+    },
+    "sum": 130161460,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
