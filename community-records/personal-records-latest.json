@@ -759343,5 +759343,140 @@
     "sum": 130315428,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793029711928,
+    "duration": 86003,
+    "left": {
+      "bet_amount": 6997674,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Peijin-san",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1620291,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kazuma",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "sum": 130279452,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30461
+    },
+    "date": 1793029896123,
+    "duration": 126196,
+    "left": {
+      "bet_amount": 1946382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Evil zodiac",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2018356,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Prosciutto",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 130279453,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6256
+    },
+    "date": 1793030052327,
+    "duration": 100190,
+    "left": {
+      "bet_amount": 2180883,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Kitana mk2",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1323687,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kanade",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130308392,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43105
+    },
+    "date": 1793030196327,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 2725670,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Metaknight",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1078652,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Brunestud arcueid",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 130302136,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33982
+    },
+    "date": 1793030326529,
+    "duration": 74204,
+    "left": {
+      "bet_amount": 2590710,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Riyoh_nagasaki EX6",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1576690,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Akane tendo",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 130406874,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
