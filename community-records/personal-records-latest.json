@@ -760585,5 +760585,113 @@
     "sum": 3404,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4290
+    },
+    "date": 1793037858526,
+    "duration": 220198,
+    "left": {
+      "bet_amount": 142818,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Karla",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 323082,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Aoko_monk_style",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 4290,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6162
+    },
+    "date": 1793038054728,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 272461,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Lucifeller_ex",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 256882,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "A-shiki",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 6162,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11844
+    },
+    "date": 1793038248928,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 116841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tenko-abab",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 480247,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dan of steel",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 11844,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14657
+    },
+    "date": 1793038418932,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 346597,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Mithra classic knight",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 264561,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Necrosis",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 14657,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
