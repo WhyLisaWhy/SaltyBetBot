@@ -754620,5 +754620,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792996177153,
+    "duration": 190025,
+    "left": {
+      "bet_amount": 257813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Dragon waifu",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 639031,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Angelia",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2174
+    },
+    "date": 1792996393325,
+    "duration": 159998,
+    "left": {
+      "bet_amount": 384440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Saizo",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 411210,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "A-kaigen",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 2174,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4196
+    },
+    "date": 1792996771323,
+    "duration": 324000,
+    "left": {
+      "bet_amount": 580172,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Angelia",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 221169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "A-kaigen",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 4196,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
