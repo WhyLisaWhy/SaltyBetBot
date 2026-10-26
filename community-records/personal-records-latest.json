@@ -751488,5 +751488,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792972284525,
+    "duration": 170003,
+    "left": {
+      "bet_amount": 371440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 19,
+      "name": "Uppercut",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 282871,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Angelg",
+      "normal_bettors": 44,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3575
+    },
+    "date": 1792972624726,
+    "duration": 284201,
+    "left": {
+      "bet_amount": 88375,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Shiena bee",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 524901,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Rock volnutt",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "sum": 3575,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4173
+    },
+    "date": 1792972830925,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 134978,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Light the hedgehog",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 561097,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Angelg",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 4173,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
