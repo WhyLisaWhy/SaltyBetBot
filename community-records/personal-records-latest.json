@@ -756969,5 +756969,140 @@
     "sum": 130582814,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793012576126,
+    "duration": 77985,
+    "left": {
+      "bet_amount": 1315805,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Kung fun man",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 16228650,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Pyro",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 130589725,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13064
+    },
+    "date": 1793012774328,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 947522,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cueca",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5474410,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 18,
+      "name": "Alice buster",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 130589724,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26205
+    },
+    "date": 1793012924528,
+    "duration": 85979,
+    "left": {
+      "bet_amount": 1134234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Evil talon",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2669878,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Dress cinderella mio EX7",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 130576660,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27922
+    },
+    "date": 1793013094559,
+    "duration": 116014,
+    "left": {
+      "bet_amount": 1216080,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yui hirasawa",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3388429,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Dougster",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 130587685,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28741
+    },
+    "date": 1793013250725,
+    "duration": 95995,
+    "left": {
+      "bet_amount": 5347789,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Don patch",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1010898,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ogre",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 130559763,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
