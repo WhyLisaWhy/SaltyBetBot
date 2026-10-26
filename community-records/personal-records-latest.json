@@ -760207,5 +760207,167 @@
     "sum": 130310120,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2004
+    },
+    "date": 1793035084366,
+    "duration": 110238,
+    "left": {
+      "bet_amount": 2159760,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 4,
+      "name": "Zodiac",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1074136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Gustoff",
+      "normal_bettors": 4,
+      "win_streak": -1
+    },
+    "sum": 130310642,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34587
+    },
+    "date": 1793035204340,
+    "duration": 64013,
+    "left": {
+      "bet_amount": 748570,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "C3reimu",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2986456,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Lafiras",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130311638,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22472
+    },
+    "date": 1793035330525,
+    "duration": 70189,
+    "left": {
+      "bet_amount": 1295111,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 6,
+      "name": "Carol tea",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1379221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Nagato yuki EX",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 130277051,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1340
+    },
+    "date": 1793035584729,
+    "duration": 190200,
+    "left": {
+      "bet_amount": 1947398,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 10,
+      "name": "Alucard RAI",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 627586,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ger",
+      "normal_bettors": 5,
+      "win_streak": 2
+    },
+    "sum": 130254579,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8561
+    },
+    "date": 1793035720729,
+    "duration": 79949,
+    "left": {
+      "bet_amount": 850574,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kirby c",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4889995,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Diba",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "sum": 130253239,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29792
+    },
+    "date": 1793035870928,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 4822226,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Bridget",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 948663,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Armored gohan",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 130254726,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
