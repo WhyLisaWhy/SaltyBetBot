@@ -751596,5 +751596,59 @@
     "sum": 5170,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1792977034123,
+    "duration": 206198,
+    "left": {
+      "bet_amount": 970153,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "May",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4215337,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Super clara",
+      "normal_bettors": 40,
+      "win_streak": -14
+    },
+    "sum": 130807900,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20445
+    },
+    "date": 1792977232323,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 1074663,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "T-bone",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3041806,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Silk hat baron",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 130807899,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
