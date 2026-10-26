@@ -754404,5 +754404,140 @@
     "sum": 4699,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6819
+    },
+    "date": 1792994605925,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 136784,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Saizo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 303388,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Hyo amano",
+      "normal_bettors": 35,
+      "win_streak": -4
+    },
+    "sum": 6819,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792994720125,
+    "duration": 54200,
+    "left": {
+      "bet_amount": 160126,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kotonoha",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 352621,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Jagi sama",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792994856123,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 397281,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "A-kaigen",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 147728,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Psyqhical kofm",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1792995030326,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 394012,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Domina heyley",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 175238,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mahvel ryu",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5005
+    },
+    "date": 1792995220523,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 383724,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Tengu sw",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 378312,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Dragon waifu",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 5005,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
