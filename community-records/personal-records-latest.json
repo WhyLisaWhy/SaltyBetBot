@@ -757831,5 +757831,113 @@
     "sum": 18944,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17810
+    },
+    "date": 1793019886127,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 822497,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Viola",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3100458,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Xena",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 130649792,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18619
+    },
+    "date": 1793020020128,
+    "duration": 74002,
+    "left": {
+      "bet_amount": 1009249,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ebisuemon",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3110035,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Blanka svc chaos",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 130654490,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36073
+    },
+    "date": 1793020176328,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1664373,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hakurei omega",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2026059,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mizuki rashoujin",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 130660497,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18454
+    },
+    "date": 1793020376530,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 4786283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Kamen rider amazon alpha",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1254634,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vampire hunter hsien-ko",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130624424,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
