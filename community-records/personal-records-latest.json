@@ -762556,5 +762556,140 @@
     "sum": 130331870,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18387
+    },
+    "date": 1793054829949,
+    "duration": 134023,
+    "left": {
+      "bet_amount": 2945734,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Byakki s3",
+      "normal_bettors": 37,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1283306,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Evil guire",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130318007,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8651
+    },
+    "date": 1793054980301,
+    "duration": 84375,
+    "left": {
+      "bet_amount": 1024166,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "3rd alsiel",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3327951,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Omega red mvc2",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 130299620,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26787
+    },
+    "date": 1793055106127,
+    "duration": 66000,
+    "left": {
+      "bet_amount": 3594810,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Clawbear",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 888310,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Gonbe",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "sum": 130302276,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34224
+    },
+    "date": 1793055322330,
+    "duration": 152199,
+    "left": {
+      "bet_amount": 4164438,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Homero",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1127288,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ichi",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130308847,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 168
+    },
+    "date": 1793055516526,
+    "duration": 130187,
+    "left": {
+      "bet_amount": 3190778,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Saiki kof",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2173613,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mecha-gorilla",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 130318036,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
