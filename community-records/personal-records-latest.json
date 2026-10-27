@@ -771761,5 +771761,113 @@
     "sum": 130726764,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33545
+    },
+    "date": 1793121595127,
+    "duration": 230199,
+    "left": {
+      "bet_amount": 1655087,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "D-rugal EX3",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3751514,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ayu&misuzu&mizuka",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 130729694,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24626
+    },
+    "date": 1793121791326,
+    "duration": 136163,
+    "left": {
+      "bet_amount": 1262851,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Abyss form 1",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2374077,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Boa hancock",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 130696149,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793121973328,
+    "duration": 121999,
+    "left": {
+      "bet_amount": 6907176,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shadow x",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 904096,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kyouko",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 130671523,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27078
+    },
+    "date": 1793122081650,
+    "duration": 50125,
+    "left": {
+      "bet_amount": 799543,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ky(ac)",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1878951,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Uminin",
+      "normal_bettors": 33,
+      "win_streak": -4
+    },
+    "sum": 130671524,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
