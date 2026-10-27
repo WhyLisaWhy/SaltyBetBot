@@ -772922,5 +772922,86 @@
     "sum": 8271,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793129819526,
+    "duration": 260199,
+    "left": {
+      "bet_amount": 183551,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Darkness-athena",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 347602,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Trixie lulamoon",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2365
+    },
+    "date": 1793130129927,
+    "duration": 250197,
+    "left": {
+      "bet_amount": 101483,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Seven",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 440152,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Oldmon",
+      "normal_bettors": 35,
+      "win_streak": 14
+    },
+    "sum": 2365,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2908
+    },
+    "date": 1793130313927,
+    "duration": 129976,
+    "left": {
+      "bet_amount": 244594,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Heidern_ex",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 309234,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hulk",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 2908,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
