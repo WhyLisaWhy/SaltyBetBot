@@ -771248,5 +771248,113 @@
     "sum": 130587187,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17874
+    },
+    "date": 1793117930120,
+    "duration": 89993,
+    "left": {
+      "bet_amount": 4204045,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Shin gouki",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358915,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Raidou EX",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 130604163,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42554
+    },
+    "date": 1793118120327,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1037103,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Gatiko",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2724232,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Dante de cerbero",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 130609917,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9511
+    },
+    "date": 1793118330526,
+    "duration": 150196,
+    "left": {
+      "bet_amount": 1531498,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fallen samael",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2270094,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Mini zeroko",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 130717291,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22031
+    },
+    "date": 1793118476524,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 1686712,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Jiren",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1864063,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Tulzscha",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 130723681,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
