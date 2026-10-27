@@ -766039,5 +766039,140 @@
     "sum": 130395216,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14989
+    },
+    "date": 1793079083127,
+    "duration": 120197,
+    "left": {
+      "bet_amount": 788951,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rumia",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3522129,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Shishioh-kofm",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 130398775,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22204
+    },
+    "date": 1793079263127,
+    "duration": 113998,
+    "left": {
+      "bet_amount": 888344,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mukuro EX G",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3087127,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Clarice di lanza",
+      "normal_bettors": 35,
+      "win_streak": 8
+    },
+    "sum": 130402119,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25128
+    },
+    "date": 1793079499336,
+    "duration": 180213,
+    "left": {
+      "bet_amount": 3896939,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Bc-sakura",
+      "normal_bettors": 35,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4045368,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Agni akof",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130379915,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42485
+    },
+    "date": 1793079655530,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1352813,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Oserotto",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2406779,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Shin aino",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 130405833,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17745
+    },
+    "date": 1793079819533,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 986363,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Acguy",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2876337,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Kasumi ex",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 130363348,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
