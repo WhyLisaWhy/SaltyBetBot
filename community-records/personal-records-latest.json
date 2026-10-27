@@ -770600,5 +770600,167 @@
     "sum": 130731684,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33942
+    },
+    "date": 1793113158328,
+    "duration": 65998,
+    "left": {
+      "bet_amount": 2454065,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Kagelogan EX7",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2667980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mui ex",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130699263,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 265
+    },
+    "date": 1793113308527,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 1195982,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kimberly",
+      "normal_bettors": 16,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5081073,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Haggar sf2",
+      "normal_bettors": 34,
+      "win_streak": 0
+    },
+    "sum": 130735661,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1159
+    },
+    "date": 1793113448531,
+    "duration": 85994,
+    "left": {
+      "bet_amount": 3907964,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "Yukari ice",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1029048,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mouri motonari",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130735724,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14493
+    },
+    "date": 1793113628729,
+    "duration": 119953,
+    "left": {
+      "bet_amount": 5116425,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "GodzillaEX",
+      "normal_bettors": 34,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023842,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Takano_miyo",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 130736030,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34861
+    },
+    "date": 1793113842928,
+    "duration": 154204,
+    "left": {
+      "bet_amount": 1390276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Zenon",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2590380,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Linne z",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 130738922,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19732
+    },
+    "date": 1793114039129,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 1849706,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Teen vampire",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2868696,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Fix-it felix",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 130704061,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
