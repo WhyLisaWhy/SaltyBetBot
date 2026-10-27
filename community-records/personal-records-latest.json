@@ -763339,5 +763339,140 @@
     "sum": 130421620,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19657
+    },
+    "date": 1793060224125,
+    "duration": 210198,
+    "left": {
+      "bet_amount": 861723,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Serval",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2836730,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Eagle-sabu",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 130421621,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8255
+    },
+    "date": 1793060420325,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 1316763,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Polnareff (boy)",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2773270,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Arturo",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 130427552,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6331
+    },
+    "date": 1793060574526,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1283164,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tetsuo",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4299696,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Docock",
+      "normal_bettors": 35,
+      "win_streak": 0
+    },
+    "sum": 130444830,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4532
+    },
+    "date": 1793060714525,
+    "duration": 73998,
+    "left": {
+      "bet_amount": 882013,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Broly lssj4",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6194747,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Gameboy",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "sum": 130446717,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793060860729,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 807200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Miu kurosaki",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4381461,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Sonia rotd",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "sum": 130442185,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
