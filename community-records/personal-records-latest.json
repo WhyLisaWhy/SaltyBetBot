@@ -770114,5 +770114,59 @@
     "sum": 3496,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7274
+    },
+    "date": 1793109981925,
+    "duration": 124168,
+    "left": {
+      "bet_amount": 3384064,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Maggilla the dragon",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1932920,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Angela EX3",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 130801826,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30762
+    },
+    "date": 1793110213928,
+    "duration": 171989,
+    "left": {
+      "bet_amount": 1124250,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Goenitz rotd(shao)",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2361863,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Nu-13",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 130794552,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
