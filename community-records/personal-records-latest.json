@@ -765931,5 +765931,113 @@
     "sum": 130350454,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29079
+    },
+    "date": 1793078362529,
+    "duration": 154209,
+    "left": {
+      "bet_amount": 2735486,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ninjaslayer",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1219860,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mysterious heroine x",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 130417222,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793078562729,
+    "duration": 144202,
+    "left": {
+      "bet_amount": 2999599,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Axl x7",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 802564,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ninja megazord",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 130388143,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25538
+    },
+    "date": 1793078742725,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 4395183,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Mvc2 jedah",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1224113,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aihara natsumi",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 130388144,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14026
+    },
+    "date": 1793078908927,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 4060330,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Margaret",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1033773,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Johnny cage EX",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130395216,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
