@@ -773909,5 +773909,113 @@
     "sum": 131047933,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3630
+    },
+    "date": 1793137671731,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 6803189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "A-yuki",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1055932,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Star",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 131014923,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27222
+    },
+    "date": 1793137851926,
+    "duration": 126181,
+    "left": {
+      "bet_amount": 2676726,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Shiro_kishi",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1726085,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Jin CVS",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 131015487,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41510
+    },
+    "date": 1793138036129,
+    "duration": 124179,
+    "left": {
+      "bet_amount": 1525239,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Mappy",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2428080,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Kyoushirou senryou",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 131057047,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20207
+    },
+    "date": 1793138262140,
+    "duration": 169990,
+    "left": {
+      "bet_amount": 3414389,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Cool spot",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1291722,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Eleicia",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 131015537,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
