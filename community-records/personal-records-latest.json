@@ -772193,5 +772193,113 @@
     "sum": 130796705,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29853
+    },
+    "date": 1793124341325,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 1027632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Perfect cell EX3",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4178134,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Faust",
+      "normal_bettors": 39,
+      "win_streak": -5
+    },
+    "sum": 130798431,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16969
+    },
+    "date": 1793124535528,
+    "duration": 134199,
+    "left": {
+      "bet_amount": 1899357,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Edi.e",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2008976,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Gate x6",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 130768578,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12842
+    },
+    "date": 1793124731526,
+    "duration": 135999,
+    "left": {
+      "bet_amount": 5720525,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Alien guts",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1115671,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kos-mos",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 130751609,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4326
+    },
+    "date": 1793124875727,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 3572135,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Koishi_b EX3",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1288678,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kaisensei ken",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 130754108,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
