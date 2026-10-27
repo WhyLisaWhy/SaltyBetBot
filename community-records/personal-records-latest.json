@@ -766687,5 +766687,113 @@
     "sum": 2261,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3209
+    },
+    "date": 1793083556525,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 97572,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gign_counter",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 192252,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Fond de veau",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 3209,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4811
+    },
+    "date": 1793083756726,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 104522,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "K joker",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 255171,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shimo 2002um",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 4811,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6746
+    },
+    "date": 1793084076929,
+    "duration": 260202,
+    "left": {
+      "bet_amount": 181787,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Rambo",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 224021,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Breloom",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 6746,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793084333126,
+    "duration": 196196,
+    "left": {
+      "bet_amount": 90674,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Wing gundam",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 388075,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "F.tarantula",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
