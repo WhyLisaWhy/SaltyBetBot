@@ -764392,5 +764392,113 @@
     "sum": 130376358,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2054
+    },
+    "date": 1793068442722,
+    "duration": 86194,
+    "left": {
+      "bet_amount": 2701316,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Wong_fei_h",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2935551,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Dark cornian",
+      "normal_bettors": 37,
+      "win_streak": -3
+    },
+    "sum": 130381457,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21494
+    },
+    "date": 1793068592729,
+    "duration": 90007,
+    "left": {
+      "bet_amount": 4278880,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Father anderson",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1216141,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rick",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 130379403,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6064
+    },
+    "date": 1793068726937,
+    "duration": 74210,
+    "left": {
+      "bet_amount": 11501271,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Admiral fujitora",
+      "normal_bettors": 43,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1262846,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Hyouken",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 130357909,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18455
+    },
+    "date": 1793068927250,
+    "duration": 140323,
+    "left": {
+      "bet_amount": 1431716,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Alt(hana-ai)",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4430051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Daimon EX2",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "sum": 130358575,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
