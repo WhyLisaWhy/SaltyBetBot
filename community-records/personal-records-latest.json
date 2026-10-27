@@ -766498,5 +766498,113 @@
     "sum": 130654486,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6409
+    },
+    "date": 1793082009402,
+    "duration": 110075,
+    "left": {
+      "bet_amount": 2600278,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Babyd!",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 977723,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Liu-kang mk2",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 130662829,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23275
+    },
+    "date": 1793082153525,
+    "duration": 84177,
+    "left": {
+      "bet_amount": 1371029,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zwei EX6",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2991286,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Yukari ice",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 130656420,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23132
+    },
+    "date": 1793082339527,
+    "duration": 130007,
+    "left": {
+      "bet_amount": 2107471,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Omni-psych chipp",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1403308,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Matou kariya",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 130706354,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23113
+    },
+    "date": 1793082483735,
+    "duration": 90011,
+    "left": {
+      "bet_amount": 1426854,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gintoki sakata",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2146833,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Raoh-jp",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 130721590,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
