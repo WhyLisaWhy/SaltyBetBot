@@ -768415,5 +768415,140 @@
     "sum": 130864385,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41746
+    },
+    "date": 1793096326726,
+    "duration": 85936,
+    "left": {
+      "bet_amount": 828996,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Brahms",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3618543,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Sabretooth EX",
+      "normal_bettors": 36,
+      "win_streak": 11
+    },
+    "sum": 130834569,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17666
+    },
+    "date": 1793096516926,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 2628630,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Axel",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1445161,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Bloody flandre",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 130844024,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3
+    },
+    "date": 1793096670927,
+    "duration": 89987,
+    "left": {
+      "bet_amount": 4073609,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Lee rekka",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1019013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Nu-13",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130875769,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38732
+    },
+    "date": 1793096851138,
+    "duration": 124012,
+    "left": {
+      "bet_amount": 920023,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cci kasumi",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4863237,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Sonic",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "sum": 130875770,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39742
+    },
+    "date": 1793097011327,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 1017152,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Super saiyan god kfm",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3623161,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Tvc alex",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 130837038,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
