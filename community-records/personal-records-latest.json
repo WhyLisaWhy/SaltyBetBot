@@ -769117,5 +769117,140 @@
     "sum": 130865723,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27618
+    },
+    "date": 1793100698326,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 712188,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mario 119",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3298904,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Vebel",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 130878975,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14165
+    },
+    "date": 1793100842326,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 4046827,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Red arremer",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1087485,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Werewolf",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 130851357,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3742
+    },
+    "date": 1793101158730,
+    "duration": 84204,
+    "left": {
+      "bet_amount": 784539,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Reptile EX2",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3676701,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Blue mary",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130812947,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40102
+    },
+    "date": 1793101294726,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 1491774,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Fragrant310",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2133731,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Sakura svc chaos",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 130813745,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40685
+    },
+    "date": 1793101498928,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 1029033,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Watatsuki no yorihime",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2868480,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Lancer",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 130773643,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
