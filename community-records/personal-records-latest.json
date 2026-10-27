@@ -774854,5 +774854,140 @@
     "sum": 131267900,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28213
+    },
+    "date": 1793144216723,
+    "duration": 95993,
+    "left": {
+      "bet_amount": 958284,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Anubis",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4695589,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Majic-pot",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 131251932,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10057
+    },
+    "date": 1793144426924,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 4944196,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Shampoo arrange",
+      "normal_bettors": 35,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1026278,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Eddie mvc",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 131223719,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42817
+    },
+    "date": 1793144637126,
+    "duration": 150201,
+    "left": {
+      "bet_amount": 2767256,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Custom prier",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2958075,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Loud demon",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 131225803,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13387
+    },
+    "date": 1793144743123,
+    "duration": 50000,
+    "left": {
+      "bet_amount": 900991,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Creeper",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4202435,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Franco bash rb2",
+      "normal_bettors": 37,
+      "win_streak": 7
+    },
+    "sum": 131182986,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793144863326,
+    "duration": 66002,
+    "left": {
+      "bet_amount": 3501907,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Soy milk",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1853242,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Rusty",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 131169599,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
