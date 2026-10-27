@@ -769549,5 +769549,113 @@
     "sum": 130895969,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32405
+    },
+    "date": 1793103482581,
+    "duration": 110058,
+    "left": {
+      "bet_amount": 1368464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Boss neo-dio",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2377044,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Edi.e",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 130895970,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27850
+    },
+    "date": 1793103862923,
+    "duration": 144195,
+    "left": {
+      "bet_amount": 2923504,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Yashiro",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 817920,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Monika",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 130863565,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3763
+    },
+    "date": 1793104038927,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 2760236,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sailor pluto ex",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3211146,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Frankenstein",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 130835715,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31677
+    },
+    "date": 1793104269126,
+    "duration": 165981,
+    "left": {
+      "bet_amount": 2305755,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Kaede",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1154634,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Inner lavos",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130831952,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
