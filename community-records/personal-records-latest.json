@@ -769844,5 +769844,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1679
+    },
+    "date": 1793106302738,
+    "duration": 212012,
+    "left": {
+      "bet_amount": 418611,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Darkman",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 481532,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Waddledee EX3",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 1679,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3134
+    },
+    "date": 1793106466927,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 462800,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Psychotic ryu",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148694,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kevinsd",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 3134,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793106643132,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 302022,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shadow agent",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 358240,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Amingo MVC2",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793106857347,
+    "duration": 160219,
+    "left": {
+      "bet_amount": 482363,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Qb",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 73576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mappy",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
