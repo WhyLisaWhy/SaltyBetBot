@@ -764824,5 +764824,113 @@
     "sum": 130540635,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30558
+    },
+    "date": 1793071176727,
+    "duration": 75993,
+    "left": {
+      "bet_amount": 1792120,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Rodan",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1334647,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Boomy the cat",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 130542377,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14023
+    },
+    "date": 1793071316926,
+    "duration": 79993,
+    "left": {
+      "bet_amount": 3075381,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Vixen ex",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1400159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Elle",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 130511819,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31448
+    },
+    "date": 1793071541154,
+    "duration": 164228,
+    "left": {
+      "bet_amount": 3639833,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Giano",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1450124,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ryoko EX",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "sum": 130518175,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22996
+    },
+    "date": 1793071753329,
+    "duration": 146175,
+    "left": {
+      "bet_amount": 4325801,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Binjyobrothers",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1066928,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Cyber dan",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130530597,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
