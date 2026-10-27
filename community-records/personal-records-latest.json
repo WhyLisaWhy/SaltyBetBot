@@ -766174,5 +766174,140 @@
     "sum": 130363348,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33129
+    },
+    "date": 1793080019730,
+    "duration": 139991,
+    "left": {
+      "bet_amount": 3869819,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Jotaro pots",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1029541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Evil Vegeta",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 130414180,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793080219926,
+    "duration": 139995,
+    "left": {
+      "bet_amount": 2136461,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Seravy",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1774028,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kyoji kasshu",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 130422919,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 481
+    },
+    "date": 1793080380128,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 902414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Raiden mgr",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4456660,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kyon_ak",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 130422918,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6954
+    },
+    "date": 1793080576125,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 811024,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rosemary applefield",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4881624,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Yaruo_aa",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 130423016,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39016
+    },
+    "date": 1793080692329,
+    "duration": 56002,
+    "left": {
+      "bet_amount": 1091853,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nicholas d. wolfwood",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2990601,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Reas",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 130424170,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
