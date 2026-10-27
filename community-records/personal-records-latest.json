@@ -768550,5 +768550,113 @@
     "sum": 130837038,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7779
+    },
+    "date": 1793097183329,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 1009303,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Satomi yajima",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3618719,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Nozomu (reimei)",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130973279,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25060
+    },
+    "date": 1793097447528,
+    "duration": 209999,
+    "left": {
+      "bet_amount": 2592053,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Victor von gerdenheim",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3039119,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ms.valliere",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 130975444,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30696
+    },
+    "date": 1793097637725,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 999357,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Murasa EX",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2348560,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Azteca EX",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 130996643,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3444
+    },
+    "date": 1793097767938,
+    "duration": 70004,
+    "left": {
+      "bet_amount": 2955092,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Trigger",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 872262,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Astonishing Cyclops",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 130965947,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
