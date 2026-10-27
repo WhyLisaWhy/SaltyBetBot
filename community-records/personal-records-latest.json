@@ -767146,5 +767146,113 @@
     "sum": 130769008,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32145
+    },
+    "date": 1793088198328,
+    "duration": 116156,
+    "left": {
+      "bet_amount": 4897929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Lucky colt",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1175890,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Super better luigi",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 130854948,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17697
+    },
+    "date": 1793088428526,
+    "duration": 174198,
+    "left": {
+      "bet_amount": 1700434,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Platinum the trinity",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1766753,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Flamme",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 130985279,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1943
+    },
+    "date": 1793088658525,
+    "duration": 169999,
+    "left": {
+      "bet_amount": 4439292,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Dinotank",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1115914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shin 2",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 131003477,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2867
+    },
+    "date": 1793088788727,
+    "duration": 69975,
+    "left": {
+      "bet_amount": 868083,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kung fu akira",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2857237,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ryougi_shiki",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 131001534,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
