@@ -763204,5 +763204,140 @@
     "sum": 130480614,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34762
+    },
+    "date": 1793059279329,
+    "duration": 202004,
+    "left": {
+      "bet_amount": 2008856,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Juugo",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2143524,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Devil jin",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 130461269,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22749
+    },
+    "date": 1793059523729,
+    "duration": 186204,
+    "left": {
+      "bet_amount": 812912,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Astranalent ex",
+      "normal_bettors": 12,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4534026,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Azusa hinomori",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 130426507,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33078
+    },
+    "date": 1793059653726,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 1495034,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rei-kugo",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2317385,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Angry ninja",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130430566,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29986
+    },
+    "date": 1793059817954,
+    "duration": 104186,
+    "left": {
+      "bet_amount": 1755298,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Jonathan joestar",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1903315,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Satsujinki",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 130451606,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793059953928,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 5280934,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Nicola zaza",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 977439,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Urban champion",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 130421620,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
