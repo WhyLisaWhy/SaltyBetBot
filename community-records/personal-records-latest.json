@@ -772463,5 +772463,86 @@
     "sum": 130688983,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17453
+    },
+    "date": 1793126192725,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 1761134,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Len",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1908129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kitanaininjya",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 130683725,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32264
+    },
+    "date": 1793126388928,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 3870791,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Pierre",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1121709,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nicholas d. wolfwood",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 130666272,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793126569133,
+    "duration": 126208,
+    "left": {
+      "bet_amount": 831953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wonder girl",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4072688,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Extreme android 18",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 130774496,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
