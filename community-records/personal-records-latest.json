@@ -764149,5 +764149,86 @@
     "sum": 130377566,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10281
+    },
+    "date": 1793066879324,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 2647988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Psylocke mvc2",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1923824,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Johnny blaze",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 130342730,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18039
+    },
+    "date": 1793067079528,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 2159912,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Lilly kane",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1491785,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Mysterious heroine x",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130332449,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31165
+    },
+    "date": 1793067219726,
+    "duration": 84198,
+    "left": {
+      "bet_amount": 1533880,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bokosuka wars",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2555140,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Zeppeli ex",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "sum": 130358256,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
