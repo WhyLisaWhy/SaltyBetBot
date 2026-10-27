@@ -766876,5 +766876,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2766
+    },
+    "date": 1793085329927,
+    "duration": 102000,
+    "left": {
+      "bet_amount": 132806,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Fond de veau",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 589277,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shimo 2002um",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 2766,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3387
+    },
+    "date": 1793085578148,
+    "duration": 194223,
+    "left": {
+      "bet_amount": 526810,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rambo",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 258247,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "F.tarantula",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 3387,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793085900532,
+    "duration": 266398,
+    "left": {
+      "bet_amount": 168115,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dk",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 783202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Firestorm",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
