@@ -763906,5 +763906,32 @@
     "sum": 4388,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5523
+    },
+    "date": 1793064765731,
+    "duration": 280204,
+    "left": {
+      "bet_amount": 224846,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Koishi",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 747226,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 23,
+      "name": "Kutsuna yui ex",
+      "normal_bettors": 45,
+      "win_streak": 3
+    },
+    "sum": 5523,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
