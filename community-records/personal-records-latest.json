@@ -771356,5 +771356,140 @@
     "sum": 130723681,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23035
+    },
+    "date": 1793118736936,
+    "duration": 206203,
+    "left": {
+      "bet_amount": 1458195,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Blanka 0d",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1913488,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Card gunner",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 130747715,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19926
+    },
+    "date": 1793118890924,
+    "duration": 93994,
+    "left": {
+      "bet_amount": 5020560,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Bernkastel",
+      "normal_bettors": 39,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1186270,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Zerozuchi boss",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 130724680,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1752
+    },
+    "date": 1793119000926,
+    "duration": 53974,
+    "left": {
+      "bet_amount": 835450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cho-kichiku masamune EX3",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11917358,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "K9999-ex",
+      "normal_bettors": 41,
+      "win_streak": 9
+    },
+    "sum": 130729370,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19110
+    },
+    "date": 1793119197127,
+    "duration": 140002,
+    "left": {
+      "bet_amount": 1787179,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Juggernaut",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2965221,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Donkey kong EX2",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 130729493,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34134
+    },
+    "date": 1793119397329,
+    "duration": 134010,
+    "left": {
+      "bet_amount": 1977922,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Mr. broly",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2534917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "F-4 phantom",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 130740938,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
