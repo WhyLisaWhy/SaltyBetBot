@@ -766606,5 +766606,86 @@
     "sum": 130721590,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 43839
+    },
+    "date": 1793082690127,
+    "duration": 146400,
+    "left": {
+      "bet_amount": 986811,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Suneo",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3112799,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Nests' clone kyo army",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 130755812,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793083150342,
+    "duration": 180214,
+    "left": {
+      "bet_amount": 132022,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dudley K",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 61252,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Geese EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2261
+    },
+    "date": 1793083386326,
+    "duration": 179997,
+    "left": {
+      "bet_amount": 64443,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Capella",
+      "normal_bettors": 16,
+      "win_streak": -13
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151504,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Shadowroo (pf 3)",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 2261,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
