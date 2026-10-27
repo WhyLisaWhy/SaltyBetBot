@@ -768982,5 +768982,140 @@
     "sum": 130886701,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793099929727,
+    "duration": 102202,
+    "left": {
+      "bet_amount": 1815989,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Kirby",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5002835,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Cc medusa",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130885969,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12764
+    },
+    "date": 1793100071930,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 903295,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Red frame",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3373663,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Redking",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "sum": 130885968,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8338
+    },
+    "date": 1793100211926,
+    "duration": 84194,
+    "left": {
+      "bet_amount": 34906194,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Fortuna",
+      "normal_bettors": 34,
+      "win_streak": 62
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 967862,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "King of black dragon",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 130889373,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23882
+    },
+    "date": 1793100388125,
+    "duration": 120193,
+    "left": {
+      "bet_amount": 1505604,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Chiduru",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1892250,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Kagami EX2",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 130889605,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22014
+    },
+    "date": 1793100552127,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 2251992,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Pop",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1368813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "S-len",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 130865723,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
