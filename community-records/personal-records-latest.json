@@ -769736,5 +769736,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1879
+    },
+    "date": 1793105350129,
+    "duration": 190203,
+    "left": {
+      "bet_amount": 59988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mappy",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 834358,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Hugo EX",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 1879,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793105656327,
+    "duration": 250197,
+    "left": {
+      "bet_amount": 312143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sailor pluto ex",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 503284,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Team reimisen",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793105870541,
+    "duration": 154214,
+    "left": {
+      "bet_amount": 500237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "W buffalo_n",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 358688,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Guile svc chaos",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793106030530,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 805311,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Akane tendo",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 66634,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Tamara",
+      "normal_bettors": 25,
+      "win_streak": -12
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
