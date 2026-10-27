@@ -770060,5 +770060,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2313
+    },
+    "date": 1793108024328,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 460982,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Akane tendo",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236868,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shadow agent",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 2313,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3496
+    },
+    "date": 1793108352533,
+    "duration": 268203,
+    "left": {
+      "bet_amount": 581597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Mappy",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 254966,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Akane tendo",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 3496,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
