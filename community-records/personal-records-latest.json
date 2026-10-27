@@ -774017,5 +774017,86 @@
     "sum": 131015537,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1231
+    },
+    "date": 1793138858729,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 2936140,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sara_cat EX",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3560275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Heart aino EX8",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "sum": 131023137,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28815
+    },
+    "date": 1793139042926,
+    "duration": 124200,
+    "left": {
+      "bet_amount": 3017775,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Igniz",
+      "normal_bettors": 11,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3884743,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Euphoria the everlasting",
+      "normal_bettors": 42,
+      "win_streak": -3
+    },
+    "sum": 131024152,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27689
+    },
+    "date": 1793139202924,
+    "duration": 99998,
+    "left": {
+      "bet_amount": 1292581,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Asutorea",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1934333,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ushio",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 131046372,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
