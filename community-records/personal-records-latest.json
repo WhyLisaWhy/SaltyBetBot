@@ -773105,5 +773105,55 @@
     "sum": 6542,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1793131647124,
+    "duration": 196199,
+    "left": {
+      "bet_amount": 650847,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Kamui(arrange)",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 352572,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Sekiponki",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 6542,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1793131857122,
+    "duration": 149995,
+    "left": {
+      "bet_amount": 101587,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Trixie lulamoon",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1042686,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Heidern_ex",
+      "normal_bettors": 42,
+      "win_streak": 7
+    },
+    "sum": 6542,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
