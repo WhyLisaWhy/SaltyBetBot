@@ -765121,5 +765121,86 @@
     "sum": 130495510,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25547
+    },
+    "date": 1793073064326,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 2362015,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Ringo aomori",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1336535,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Lutete",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 130470912,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793073264528,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 1314026,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shanghai doll",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4145898,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Omega rugal 95-kofm",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130445365,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27432
+    },
+    "date": 1793073400528,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 1619672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ishtar",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2458384,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Saiki",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 130445364,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
