@@ -771032,5 +771032,86 @@
     "sum": 130522909,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3190
+    },
+    "date": 1793116426925,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 3310960,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Granzon",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905788,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Chun-li ssf2x",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 130497710,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23066
+    },
+    "date": 1793116653140,
+    "duration": 168211,
+    "left": {
+      "bet_amount": 2122997,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Daisy EX3",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064875,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kyo rotd",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 130494520,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25678
+    },
+    "date": 1793116853326,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 1124511,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Guy_cecil",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3033341,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Knight",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 130539531,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
