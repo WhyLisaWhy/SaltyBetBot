@@ -779280,5 +779280,86 @@
     "sum": 4365,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4366
+    },
+    "date": 1793174668927,
+    "duration": 114198,
+    "left": {
+      "bet_amount": 467535,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Funky dantel",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148480,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Lilith jjba",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 4366,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5740
+    },
+    "date": 1793174840926,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 193251,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Shingo EX2",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 514400,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kaguya houraisan EX3",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 5740,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793175149927,
+    "duration": 248754,
+    "left": {
+      "bet_amount": 543890,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Funky dantel",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 168484,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shingo EX2",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
