@@ -781899,5 +781899,140 @@
     "sum": 130806003,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33258
+    },
+    "date": 1793192603129,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 3630183,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Geno",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1090481,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "F91",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 130846151,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6826
+    },
+    "date": 1793192789326,
+    "duration": 126158,
+    "left": {
+      "bet_amount": 4209889,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Tohru adachi",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1018510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Metal slug",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 130812893,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2031
+    },
+    "date": 1793192949526,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 6408581,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Lee(mugen)",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 854132,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Monster ball",
+      "normal_bettors": 13,
+      "win_streak": -11
+    },
+    "sum": 130814542,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16233
+    },
+    "date": 1793193119527,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1111883,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Twilight heaven's fairy",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2457819,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Tohka yatogami",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 130814813,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20626
+    },
+    "date": 1793193329728,
+    "duration": 149994,
+    "left": {
+      "bet_amount": 1573904,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Abyss EX",
+      "normal_bettors": 28,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2756635,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Magneto_cota",
+      "normal_bettors": 21,
+      "win_streak": 11
+    },
+    "sum": 130798580,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
