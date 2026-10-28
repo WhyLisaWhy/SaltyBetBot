@@ -779361,5 +779361,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23681
+    },
+    "date": 1793176462327,
+    "duration": 53999,
+    "left": {
+      "bet_amount": 1247578,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Belmod",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3592906,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Basilisk-s[0.98] EX3",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 130703939,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1787
+    },
+    "date": 1793176612327,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2181967,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Duo lon pp",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1627309,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Minecraft goku",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 130680258,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39565
+    },
+    "date": 1793176698525,
+    "duration": 29996,
+    "left": {
+      "bet_amount": 943258,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "High speed mario",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3537982,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Pyros",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 130681590,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1151
+    },
+    "date": 1793176828529,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 795032,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Clark 98",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4083413,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Baruganodon_ex",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130642025,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793177020727,
+    "duration": 137959,
+    "left": {
+      "bet_amount": 1752475,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Penta",
+      "normal_bettors": 32,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2728060,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Raven",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130640874,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
