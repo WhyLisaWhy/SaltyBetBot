@@ -777824,5 +777824,140 @@
     "sum": 130715167,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2545
+    },
+    "date": 1793164684925,
+    "duration": 112167,
+    "left": {
+      "bet_amount": 4449631,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kurorim-c",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 852925,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Portgas d. ace",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 130716261,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793164818940,
+    "duration": 80016,
+    "left": {
+      "bet_amount": 9009587,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Benimaru 98",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1102371,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Goenitz",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130716749,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2465
+    },
+    "date": 1793165039126,
+    "duration": 160002,
+    "left": {
+      "bet_amount": 3645760,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Luna himeki +q",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2005019,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Erika wagner",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "sum": 130716750,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35157
+    },
+    "date": 1793165305328,
+    "duration": 205999,
+    "left": {
+      "bet_amount": 5586973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kiyohime",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2600046,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Mouri motonari",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 130714285,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793165427522,
+    "duration": 67998,
+    "left": {
+      "bet_amount": 922854,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kinopio",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 20381815,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Billy lee",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 130788823,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
