@@ -775772,5 +775772,113 @@
     "sum": 130907189,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7705
+    },
+    "date": 1793150211531,
+    "duration": 130206,
+    "left": {
+      "bet_amount": 1127729,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cci ryuji",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3140530,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Alice-as EX",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130911074,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2831
+    },
+    "date": 1793150381729,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 2373358,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Clonekyo xi",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3844624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Ryoko kano EX2",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 130903369,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9037
+    },
+    "date": 1793150521346,
+    "duration": 75584,
+    "left": {
+      "bet_amount": 6191696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Hibachi",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 963725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cycloid omega q",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 130907950,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793151008127,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 100439,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Oni",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 114327,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ubu",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
