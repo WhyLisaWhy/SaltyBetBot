@@ -785004,5 +785004,113 @@
     "sum": 130722496,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19225
+    },
+    "date": 1793214246526,
+    "duration": 70200,
+    "left": {
+      "bet_amount": 6524394,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Eve silvan",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1106039,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Akane yatogi",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 130755992,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4889
+    },
+    "date": 1793214412527,
+    "duration": 104002,
+    "left": {
+      "bet_amount": 1237272,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Poulet",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9296436,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 17,
+      "name": "Haiji EX8",
+      "normal_bettors": 41,
+      "win_streak": 4
+    },
+    "sum": 130759242,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793214552727,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 5905671,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Hisano ogami",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1515109,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "(sman) EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 130754353,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32525
+    },
+    "date": 1793214692726,
+    "duration": 79973,
+    "left": {
+      "bet_amount": 1535378,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ootani reimu",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3916019,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Fang 0d",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 130754352,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
