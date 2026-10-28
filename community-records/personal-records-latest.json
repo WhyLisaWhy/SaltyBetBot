@@ -782952,5 +782952,86 @@
     "sum": 130698316,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793200805772,
+    "duration": 120243,
+    "left": {
+      "bet_amount": 1470085,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Blackheart",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1877876,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Sakuya.s.brando",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 130669054,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30958
+    },
+    "date": 1793201121926,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 1468027,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Aoko_monk_style",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2142813,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Shoto rockman x",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 130669053,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18052
+    },
+    "date": 1793201302238,
+    "duration": 120312,
+    "left": {
+      "bet_amount": 856767,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Astranalent ex",
+      "normal_bettors": 11,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3741185,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Fernandeath",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 130638095,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
