@@ -776258,5 +776258,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26856
+    },
+    "date": 1793155323527,
+    "duration": 60002,
+    "left": {
+      "bet_amount": 1780508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Shiina noriko",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2854819,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Cyberbot_atlas",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 130911303,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18132
+    },
+    "date": 1793155469725,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 6027156,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Nick commando EX FF",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1517564,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Injya",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 130884447,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1849
+    },
+    "date": 1793155603728,
+    "duration": 69987,
+    "left": {
+      "bet_amount": 1232232,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "God vega",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7875193,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Universe_marshal_kaigen",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 130955610,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
