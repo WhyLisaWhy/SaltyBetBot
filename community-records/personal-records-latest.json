@@ -785112,5 +785112,140 @@
     "sum": 130754352,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27727
+    },
+    "date": 1793214879127,
+    "duration": 136374,
+    "left": {
+      "bet_amount": 2391380,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Platinum the trinity",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5497938,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Cyborg kung fu man",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 130721827,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793215251326,
+    "duration": 98197,
+    "left": {
+      "bet_amount": 101591,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Donkey kong",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sketch turner",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3212
+    },
+    "date": 1793215439328,
+    "duration": 130003,
+    "left": {
+      "bet_amount": 193020,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kamen rider k&p hoppers",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112665,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Tensinhan",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 3212,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5057
+    },
+    "date": 1793215649528,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 232332,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Link mythos",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 124649,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Rikuo",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 5057,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793215905727,
+    "duration": 196199,
+    "left": {
+      "bet_amount": 364136,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Rei ayanami",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 134601,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bastion",
+      "normal_bettors": 18,
+      "win_streak": -9
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
