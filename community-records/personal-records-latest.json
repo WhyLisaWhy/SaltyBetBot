@@ -782520,5 +782520,140 @@
     "sum": 130875427,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1309
+    },
+    "date": 1793197977529,
+    "duration": 92191,
+    "left": {
+      "bet_amount": 4060743,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Kyo_sv",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1225153,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Gulcasa",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 130851480,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10497
+    },
+    "date": 1793198151529,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 805113,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kucheat",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6302302,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Ultimate gohan",
+      "normal_bettors": 41,
+      "win_streak": -2
+    },
+    "sum": 130850171,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28307
+    },
+    "date": 1793198301725,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 1142519,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Z-ukyo",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2496708,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Element kofm",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 130839674,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36549
+    },
+    "date": 1793198491928,
+    "duration": 134202,
+    "left": {
+      "bet_amount": 1723050,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Baraki",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2595250,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Valvatorez",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130811367,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18160
+    },
+    "date": 1793198621928,
+    "duration": 74006,
+    "left": {
+      "bet_amount": 1125000,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mercenary tao",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3195128,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Axel",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 130774818,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
