@@ -784032,5 +784032,140 @@
     "sum": 130588950,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8721
+    },
+    "date": 1793207867327,
+    "duration": 85997,
+    "left": {
+      "bet_amount": 1159565,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Saki guitly gear",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4692251,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kubikiri basara KOF",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "sum": 130590238,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793208105528,
+    "duration": 178204,
+    "left": {
+      "bet_amount": 1754384,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "K.m.mioh",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6514170,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Katakura kojuro",
+      "normal_bettors": 37,
+      "win_streak": 9
+    },
+    "sum": 130581517,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793208207526,
+    "duration": 46002,
+    "left": {
+      "bet_amount": 826793,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 5,
+      "name": "Pasuu no jidensya",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4861720,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mekky",
+      "normal_bettors": 17,
+      "win_streak": 10
+    },
+    "sum": 130581516,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28252
+    },
+    "date": 1793208437728,
+    "duration": 169994,
+    "left": {
+      "bet_amount": 1707461,
+      "ignored_bettors": 14,
+      "illuminati_bettors": 4,
+      "name": "Tetromino",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1017594,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Mei",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "sum": 130581517,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793208577925,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 2798247,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 7,
+      "name": "Jon talbain",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1234388,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Toro inoue",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 130598081,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
