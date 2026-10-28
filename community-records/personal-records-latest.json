@@ -779955,5 +779955,140 @@
     "sum": 130562902,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793180079128,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1274131,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gozu",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3511099,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Namihei",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 130534575,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23645
+    },
+    "date": 1793180279326,
+    "duration": 146197,
+    "left": {
+      "bet_amount": 1578870,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Fenri-lunaedge",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2191620,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Aoba",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 130534576,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37130
+    },
+    "date": 1793180453525,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 3418257,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Myth blue ranger",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1053462,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ange EX",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 130510931,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15430
+    },
+    "date": 1793180599527,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 5520476,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ryuko2nd",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 825735,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gorilla",
+      "normal_bettors": 12,
+      "win_streak": -10
+    },
+    "sum": 130473801,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20022
+    },
+    "date": 1793180743728,
+    "duration": 90002,
+    "left": {
+      "bet_amount": 3125537,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Dally",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1134263,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ushio to tora",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 130476103,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
