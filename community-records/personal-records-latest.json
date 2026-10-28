@@ -776771,5 +776771,113 @@
     "sum": 130923101,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 50905
+    },
+    "date": 1793158484124,
+    "duration": 144185,
+    "left": {
+      "bet_amount": 902866,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chun-li jj",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5298108,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Alice carrol",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "sum": 130923100,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4016
+    },
+    "date": 1793158690128,
+    "duration": 146002,
+    "left": {
+      "bet_amount": 3086464,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Dreamform sula",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3386650,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Megumi shinigami",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 130931693,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29313
+    },
+    "date": 1793158824326,
+    "duration": 73976,
+    "left": {
+      "bet_amount": 3037678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sakura svc chaos",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8126486,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Dlanor a. knox kb",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 130927677,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22076
+    },
+    "date": 1793158980525,
+    "duration": 100195,
+    "left": {
+      "bet_amount": 2963238,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Bekkamu2",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1858188,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Viola",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 130938595,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
