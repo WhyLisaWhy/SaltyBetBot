@@ -780360,5 +780360,140 @@
     "sum": 130567655,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793182669328,
+    "duration": 102175,
+    "left": {
+      "bet_amount": 14874415,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mega man mythos",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1975362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Lt.kurosawa",
+      "normal_bettors": 28,
+      "win_streak": -14
+    },
+    "sum": 130567654,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31000
+    },
+    "date": 1793182843331,
+    "duration": 116003,
+    "left": {
+      "bet_amount": 2114318,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Mictlan EX",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1403362,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tokinomiya kamui EX3",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 130567655,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26176
+    },
+    "date": 1793183017528,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 925285,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "B.dosa",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2790674,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Gold lightan",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 130587934,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19945
+    },
+    "date": 1793183223726,
+    "duration": 140186,
+    "left": {
+      "bet_amount": 3571807,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Super shredder",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1320660,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Save spacemouse!",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130596533,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37413
+    },
+    "date": 1793183423927,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 1734698,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Cagney carnation",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1767505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Magaki xi",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 130576588,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
