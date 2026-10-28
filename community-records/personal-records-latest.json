@@ -784734,5 +784734,140 @@
     "sum": 130774598,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1830
+    },
+    "date": 1793212374927,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 947543,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Top man",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5372069,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Highway-star",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "sum": 130781319,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26297
+    },
+    "date": 1793212539127,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 1069837,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Element kofm",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3308967,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Rei EX",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 130779489,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17397
+    },
+    "date": 1793212675123,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 947816,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Temjin arrange",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5366988,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "H-chonshu",
+      "normal_bettors": 46,
+      "win_streak": 2
+    },
+    "sum": 130753192,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43357
+    },
+    "date": 1793212919326,
+    "duration": 189999,
+    "left": {
+      "bet_amount": 1767915,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mui ex",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2059452,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Washizu iwao",
+      "normal_bettors": 37,
+      "win_streak": 7
+    },
+    "sum": 130735795,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21949
+    },
+    "date": 1793213145531,
+    "duration": 160004,
+    "left": {
+      "bet_amount": 3086069,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Omega god ryu",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1248474,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Slamgief",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 130692438,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
