@@ -786840,5 +786840,140 @@
     "sum": 130779034,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793229542351,
+    "duration": 72224,
+    "left": {
+      "bet_amount": 1376707,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ronaldinho",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6010210,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Trident",
+      "normal_bettors": 42,
+      "win_streak": 0
+    },
+    "sum": 130788234,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8193
+    },
+    "date": 1793229656326,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 1420271,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Adon ca",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4921478,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Onslaught 1st",
+      "normal_bettors": 42,
+      "win_streak": 4
+    },
+    "sum": 130788235,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21954
+    },
+    "date": 1793229856527,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 1104177,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Save us anpanman!",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4398329,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Michelle heart sr.",
+      "normal_bettors": 43,
+      "win_streak": 4
+    },
+    "sum": 130790596,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11559
+    },
+    "date": 1793230022729,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 4870653,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Ryoko(mugen)",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1147591,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Alvaaron",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "sum": 130768642,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16888
+    },
+    "date": 1793230152725,
+    "duration": 75992,
+    "left": {
+      "bet_amount": 1410498,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Boggy b",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2301411,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Rindou",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 130771360,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
