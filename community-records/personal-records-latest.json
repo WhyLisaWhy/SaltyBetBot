@@ -785247,5 +785247,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2121
+    },
+    "date": 1793216139929,
+    "duration": 174199,
+    "left": {
+      "bet_amount": 251531,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "B.jenet",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 210787,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Claire redfield",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 2121,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4627
+    },
+    "date": 1793216402132,
+    "duration": 206195,
+    "left": {
+      "bet_amount": 373583,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Neodio",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 247955,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Y.u.p.i.a.",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 4627,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793216636326,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 331738,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Nami",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 166490,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Benimaru",
+      "normal_bettors": 27,
+      "win_streak": -9
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
