@@ -782439,5 +782439,86 @@
     "sum": 3801,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5130
+    },
+    "date": 1793196893927,
+    "duration": 299599,
+    "left": {
+      "bet_amount": 663394,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Misaka dbfc",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 232721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Physalis",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "sum": 5130,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2095
+    },
+    "date": 1793197705325,
+    "duration": 160204,
+    "left": {
+      "bet_amount": 4853809,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Rachel alucard",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 931296,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Butt-head",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130875025,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23947
+    },
+    "date": 1793197831328,
+    "duration": 70007,
+    "left": {
+      "bet_amount": 1742604,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Klaus garcia",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2062105,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Deluxe tetsu yatogi",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 130875427,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
