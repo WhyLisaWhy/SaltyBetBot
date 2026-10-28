@@ -785652,5 +785652,113 @@
     "sum": 130722430,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7665
+    },
+    "date": 1793221558131,
+    "duration": 110204,
+    "left": {
+      "bet_amount": 1507222,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Brickman",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2825013,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Clone benimaru EX7",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 130744355,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17768
+    },
+    "date": 1793221718125,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 3517685,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kanorin",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1916387,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Razorclaws",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 130758649,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9949
+    },
+    "date": 1793221878332,
+    "duration": 104207,
+    "left": {
+      "bet_amount": 5148803,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Omega rugal 95-kofm",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2189836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Reicubas",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 130740881,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11995
+    },
+    "date": 1793222074527,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 1835280,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Sakura haruno nzc",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4600869,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Billy lee",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 130745105,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
