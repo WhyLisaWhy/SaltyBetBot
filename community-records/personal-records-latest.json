@@ -780495,5 +780495,113 @@
     "sum": 130576588,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793183684126,
+    "duration": 206196,
+    "left": {
+      "bet_amount": 1480020,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Kanji",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3638120,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Guile machine",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 130613904,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24197
+    },
+    "date": 1793183890326,
+    "duration": 146197,
+    "left": {
+      "bet_amount": 2060337,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Battle dome",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1327638,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Gaoh kyougoku hinowanokami",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130613907,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24187
+    },
+    "date": 1793184084328,
+    "duration": 139973,
+    "left": {
+      "bet_amount": 2730348,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Belmont trusdale",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 867831,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Licht",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 130589710,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1226
+    },
+    "date": 1793184260529,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 3185811,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Itachi uchiha nzc",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 907982,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nariyuki",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130597331,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
