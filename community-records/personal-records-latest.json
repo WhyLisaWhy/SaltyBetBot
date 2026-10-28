@@ -778929,5 +778929,140 @@
     "sum": 130774214,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30860
+    },
+    "date": 1793171779730,
+    "duration": 59199,
+    "left": {
+      "bet_amount": 1349355,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Skullomania",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2741053,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Soldier ms",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 130732771,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793172230937,
+    "duration": 180204,
+    "left": {
+      "bet_amount": 142390,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Cody(neoneo)",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 64625,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ruccio roche",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2246
+    },
+    "date": 1793172421134,
+    "duration": 130206,
+    "left": {
+      "bet_amount": 183402,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Funky dantel",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76527,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Hannah dundee",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 2246,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3172
+    },
+    "date": 1793172597325,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 189030,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Rainbow dash",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 130695,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Assassin",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 3172,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5329
+    },
+    "date": 1793172821329,
+    "duration": 163984,
+    "left": {
+      "bet_amount": 268664,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ex rumia",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119510,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lilith jjba",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 5329,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
