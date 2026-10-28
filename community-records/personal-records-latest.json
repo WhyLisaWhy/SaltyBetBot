@@ -780603,5 +780603,113 @@
     "sum": 130597331,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17506
+    },
+    "date": 1793184464729,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 792360,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tia langray",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3142472,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Schlussel",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130596105,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25854
+    },
+    "date": 1793184670927,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 1269081,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kinoko",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3315632,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Alpha doll",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 130600495,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28356
+    },
+    "date": 1793184941176,
+    "duration": 216250,
+    "left": {
+      "bet_amount": 2309081,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Ultimate aizen",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1068992,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Senna_ai",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 130574641,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25595
+    },
+    "date": 1793185141250,
+    "duration": 146118,
+    "left": {
+      "bet_amount": 1435568,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Juggernaut f",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1650254,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Yunalesca",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130634309,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
