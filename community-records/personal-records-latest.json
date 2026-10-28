@@ -783627,5 +783627,113 @@
     "sum": 130636645,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7834
+    },
+    "date": 1793205303323,
+    "duration": 146196,
+    "left": {
+      "bet_amount": 1343479,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Pocket Dan",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4916864,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Karina toyota",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130637161,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17208
+    },
+    "date": 1793205477367,
+    "duration": 114045,
+    "left": {
+      "bet_amount": 1440594,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vegeta ssb",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4320389,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Kingbehinnmoth",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "sum": 130629327,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1024
+    },
+    "date": 1793205673524,
+    "duration": 135991,
+    "left": {
+      "bet_amount": 1274996,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Papillonnage matchouli",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3756281,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Macheta",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 130612119,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3869
+    },
+    "date": 1793205859729,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 3574925,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Ultraman agul",
+      "normal_bettors": 42,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1136547,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kotone",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 130615134,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
