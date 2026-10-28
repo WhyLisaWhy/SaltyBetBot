@@ -780252,5 +780252,113 @@
     "sum": 130577317,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3503
+    },
+    "date": 1793181976728,
+    "duration": 115996,
+    "left": {
+      "bet_amount": 964936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Skapokan",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4394349,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Dlanor a. knox kb",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 130553964,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15009
+    },
+    "date": 1793182146927,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 1023926,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Matoi ryuko",
+      "normal_bettors": 13,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4279669,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Extra usapi-",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 130554733,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17306
+    },
+    "date": 1793182336926,
+    "duration": 135528,
+    "left": {
+      "bet_amount": 1427002,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Towa",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2626173,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Nucoarc",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 130558312,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793182507152,
+    "duration": 116014,
+    "left": {
+      "bet_amount": 6321306,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Junior",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1428762,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Hyrule Link",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 130567655,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
