@@ -781170,5 +781170,140 @@
     "sum": 130758449,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21706
+    },
+    "date": 1793188141729,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 3916624,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Braun",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1276023,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kawashima-san EX2",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 130817158,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21326
+    },
+    "date": 1793188291728,
+    "duration": 90005,
+    "left": {
+      "bet_amount": 1273964,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Burnie",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2851494,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sailor saturn",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 130795452,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19212
+    },
+    "date": 1793188541929,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 2653871,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Bernkastel",
+      "normal_bettors": 33,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2371928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Lilica felchenerow",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 130774126,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13757
+    },
+    "date": 1793188702125,
+    "duration": 99970,
+    "left": {
+      "bet_amount": 4025608,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Nico robin mvc",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1210954,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ssf2x akuma",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "sum": 130754914,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16421
+    },
+    "date": 1793188906126,
+    "duration": 148000,
+    "left": {
+      "bet_amount": 1234085,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Lili",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3640499,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Tokiko",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 130759039,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
