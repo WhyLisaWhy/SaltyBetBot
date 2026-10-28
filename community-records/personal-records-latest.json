@@ -781467,5 +781467,113 @@
     "sum": 130759021,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2347
+    },
+    "date": 1793189899121,
+    "duration": 66174,
+    "left": {
+      "bet_amount": 5227926,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hayao 12p color",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 825427,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "F91",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 130759559,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32489
+    },
+    "date": 1793190163170,
+    "duration": 204006,
+    "left": {
+      "bet_amount": 1412467,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tohru adachi",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4206431,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Raiya_mikazuchi",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 130759930,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5422
+    },
+    "date": 1793190325327,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 3219011,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Copy dizzy",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 949668,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sheana",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 130770756,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22574
+    },
+    "date": 1793190499535,
+    "duration": 114205,
+    "left": {
+      "bet_amount": 760914,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sauzer",
+      "normal_bettors": 10,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3028108,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Lf2 - henry",
+      "normal_bettors": 35,
+      "win_streak": -7
+    },
+    "sum": 130772353,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
