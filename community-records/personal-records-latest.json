@@ -776501,5 +776501,140 @@
     "sum": 130975158,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26872
+    },
+    "date": 1793156776726,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 3095169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kamehameha",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4814111,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Lucina",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 130952786,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9463
+    },
+    "date": 1793156946925,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 4096012,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Ryukotsuki",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3296756,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "H-grant",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 130969968,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32357
+    },
+    "date": 1793157122926,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 2533458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dark-baltan",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3006090,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Jubilee ex",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 130977567,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29945
+    },
+    "date": 1793157277126,
+    "duration": 100204,
+    "left": {
+      "bet_amount": 3287997,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Senna",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4191657,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Fu shun",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130945210,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793157409126,
+    "duration": 71998,
+    "left": {
+      "bet_amount": 5766556,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Prinny asagi",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 12146083,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Mileena umk3",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 130915265,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
