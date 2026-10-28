@@ -785544,5 +785544,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40952
+    },
+    "date": 1793220853529,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 4372398,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Crescent silvan",
+      "normal_bettors": 43,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 820755,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kou",
+      "normal_bettors": 8,
+      "win_streak": -7
+    },
+    "sum": 130737165,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29996
+    },
+    "date": 1793221027725,
+    "duration": 120202,
+    "left": {
+      "bet_amount": 1211306,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yeorin lee",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5980290,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Hyper neo-kamek EX3",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 130744781,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18476
+    },
+    "date": 1793221193727,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 1560021,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ex apollo",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3751920,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Raydric_and_archer",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 130714785,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45387
+    },
+    "date": 1793221387934,
+    "duration": 140205,
+    "left": {
+      "bet_amount": 1630337,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Skater",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3329720,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Shin oni",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 130722430,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
