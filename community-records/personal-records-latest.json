@@ -779658,5 +779658,140 @@
     "sum": 130578384,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793178199726,
+    "duration": 100144,
+    "left": {
+      "bet_amount": 5583094,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Moleman",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1249102,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Ginjirou",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 130637322,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36076
+    },
+    "date": 1793178349727,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 927501,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Wong_fei_h",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3900631,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Giant d!",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 130637323,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27085
+    },
+    "date": 1793178499926,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1724878,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Hyper neo-kamek",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1556156,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ae86",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 130601247,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793178637945,
+    "duration": 78017,
+    "left": {
+      "bet_amount": 8316871,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Mokou fujiwara",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 914343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kyle broflovski",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "sum": 130630756,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26039
+    },
+    "date": 1793178852126,
+    "duration": 159999,
+    "left": {
+      "bet_amount": 941758,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Serval",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3247804,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Gaogaigar",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 130630757,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
