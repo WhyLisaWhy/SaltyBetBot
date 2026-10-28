@@ -779064,5 +779064,113 @@
     "sum": 5329,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793173011526,
+    "duration": 129989,
+    "left": {
+      "bet_amount": 284772,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Sho kamui",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 122101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chun-li",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2211
+    },
+    "date": 1793173191728,
+    "duration": 118001,
+    "left": {
+      "bet_amount": 120091,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dorgan",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 353584,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shingo EX2",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 2211,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2958
+    },
+    "date": 1793173421948,
+    "duration": 170154,
+    "left": {
+      "bet_amount": 124087,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Voltz",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 382442,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kaguya houraisan EX3",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 2958,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3911
+    },
+    "date": 1793173613927,
+    "duration": 131988,
+    "left": {
+      "bet_amount": 490156,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Mvc2 colossus",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 58765,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Billy",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 3911,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
