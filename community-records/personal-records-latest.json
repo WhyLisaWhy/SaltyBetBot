@@ -786057,5 +786057,113 @@
     "sum": 130727539,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13587
+    },
+    "date": 1793224218174,
+    "duration": 180245,
+    "left": {
+      "bet_amount": 4279929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Arrange kohaku",
+      "normal_bettors": 33,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1437062,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kumoi ichirin",
+      "normal_bettors": 24,
+      "win_streak": 3
+    },
+    "sum": 130731495,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23539
+    },
+    "date": 1793224418125,
+    "duration": 145996,
+    "left": {
+      "bet_amount": 2974631,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Turbo bonkers",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6444905,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Chunli 3so",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "sum": 130717908,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18539
+    },
+    "date": 1793224578324,
+    "duration": 105846,
+    "left": {
+      "bet_amount": 5162726,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "H-chonshu",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1467269,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jobber jose",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 130694369,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20431
+    },
+    "date": 1793224724524,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 1903874,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Vampire hunter hsien-ko",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3575917,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Litchi qyc",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 130699620,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
