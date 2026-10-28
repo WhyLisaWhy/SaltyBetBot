@@ -775880,5 +775880,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793151178328,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 74745,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lanky kong",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 238151,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Sandra",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2034
+    },
+    "date": 1793151464527,
+    "duration": 226201,
+    "left": {
+      "bet_amount": 97604,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kunagi tenrou",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 256474,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Frank jr.",
+      "normal_bettors": 36,
+      "win_streak": -4
+    },
+    "sum": 2034,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2802
+    },
+    "date": 1793151718727,
+    "duration": 200198,
+    "left": {
+      "bet_amount": 283211,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Zangoose",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mariko konjou",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 2802,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
