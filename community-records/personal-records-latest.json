@@ -785436,5 +785436,86 @@
     "sum": 5593,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7542
+    },
+    "date": 1793217897326,
+    "duration": 204200,
+    "left": {
+      "bet_amount": 128317,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Benimaru",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 722475,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sora com",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 7542,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793218203593,
+    "duration": 246266,
+    "left": {
+      "bet_amount": 421502,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Kamen rider k&p hoppers",
+      "normal_bettors": 26,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 518144,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Rei ayanami",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3449
+    },
+    "date": 1793218499727,
+    "duration": 242201,
+    "left": {
+      "bet_amount": 822841,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Claire redfield",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 302442,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Benimaru",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 3449,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
