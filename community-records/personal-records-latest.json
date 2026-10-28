@@ -782034,5 +782034,113 @@
     "sum": 130798580,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17425
+    },
+    "date": 1793193490128,
+    "duration": 96201,
+    "left": {
+      "bet_amount": 1349515,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Human kazuya",
+      "normal_bettors": 10,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4537439,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Euphoria the everlasting",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 130810269,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793193870129,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 127476,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Turbo ken",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 70242,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Inuyasha mg",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793194126330,
+    "duration": 195999,
+    "left": {
+      "bet_amount": 94815,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Darkmatter",
+      "normal_bettors": 25,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 182464,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Kousonsyou",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793194296589,
+    "duration": 116058,
+    "left": {
+      "bet_amount": 163079,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jonathan joestar",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 200602,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Misaka dbfc",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
