@@ -782385,5 +782385,59 @@
     "sum": 2982,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3428
+    },
+    "date": 1793196368149,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 89469,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Darkmatter",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 820318,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Misaka dbfc",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 3428,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3801
+    },
+    "date": 1793196534326,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 245175,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Mahvel ken",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 697610,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Physalis",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "sum": 3801,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
