@@ -785922,5 +785922,140 @@
     "sum": 130734223,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793223243322,
+    "duration": 101997,
+    "left": {
+      "bet_amount": 662330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "King",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 34269797,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 16,
+      "name": "Kaku",
+      "normal_bettors": 42,
+      "win_streak": -2
+    },
+    "sum": 130733810,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31469
+    },
+    "date": 1793223427523,
+    "duration": 126181,
+    "left": {
+      "bet_amount": 4948111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Corpse",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6916468,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Black-rock_shooter",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 130733811,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15954
+    },
+    "date": 1793223637521,
+    "duration": 155960,
+    "left": {
+      "bet_amount": 3503363,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Miyoshi karin",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3803040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Emeralda kasim",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 130702342,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10145
+    },
+    "date": 1793223807730,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 4010022,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Terry bogard EX2",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5103480,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Jun",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 130719583,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10818
+    },
+    "date": 1793223977927,
+    "duration": 116124,
+    "left": {
+      "bet_amount": 1738191,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "N-geese",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4743171,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Tenko",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 130727539,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
