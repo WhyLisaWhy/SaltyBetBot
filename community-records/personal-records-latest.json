@@ -783357,5 +783357,113 @@
     "sum": 130655355,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28907
+    },
+    "date": 1793203495926,
+    "duration": 70197,
+    "left": {
+      "bet_amount": 3139753,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Mike bison",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1386238,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Kasumi EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 130662229,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4608
+    },
+    "date": 1793203665925,
+    "duration": 115995,
+    "left": {
+      "bet_amount": 4018317,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Doraemon EX3",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155646,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Haohmaru EX",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 130674876,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21447
+    },
+    "date": 1793203840141,
+    "duration": 114004,
+    "left": {
+      "bet_amount": 1491069,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Goro",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1680806,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Kingslime",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 130670268,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23840
+    },
+    "date": 1793204040329,
+    "duration": 138192,
+    "left": {
+      "bet_amount": 1375586,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lord zedd",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2599217,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Asha",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 130689055,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
