@@ -776096,5 +776096,86 @@
     "sum": 1854,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3135
+    },
+    "date": 1793153209936,
+    "duration": 350204,
+    "left": {
+      "bet_amount": 398917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Frank jr.",
+      "normal_bettors": 47,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 309073,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mariko konjou",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 3135,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793153436126,
+    "duration": 164177,
+    "left": {
+      "bet_amount": 147419,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Super better luigi",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 443669,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Spy-dama-man",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2064
+    },
+    "date": 1793153736325,
+    "duration": 240200,
+    "left": {
+      "bet_amount": 162076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Gideon",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 489391,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Capt Commando",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 2064,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
