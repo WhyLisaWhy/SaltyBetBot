@@ -777554,5 +777554,113 @@
     "sum": 130772455,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16798
+    },
+    "date": 1793163061525,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 1173510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Underdog",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3759733,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Attack of the sentinels",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 130739050,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793163211724,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 1818168,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Honoka",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1651045,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Lady",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 130722252,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27590
+    },
+    "date": 1793163371925,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 2407526,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Miacis",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1276666,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gaits z",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130722251,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16048
+    },
+    "date": 1793163507927,
+    "duration": 75970,
+    "left": {
+      "bet_amount": 2010432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yamazaki rb",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8040799,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sion eltnam atlasia EX",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 130694661,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
