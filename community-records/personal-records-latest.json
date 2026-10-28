@@ -778256,5 +778256,140 @@
     "sum": 130761219,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10675
+    },
+    "date": 1793167483130,
+    "duration": 140203,
+    "left": {
+      "bet_amount": 4766086,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Nyu",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172153,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gorilla",
+      "normal_bettors": 11,
+      "win_streak": -9
+    },
+    "sum": 130743922,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18998
+    },
+    "date": 1793167693326,
+    "duration": 154201,
+    "left": {
+      "bet_amount": 4285929,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Lion_gunta",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1153814,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ryoko asakura",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 130746542,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34975
+    },
+    "date": 1793167833327,
+    "duration": 84003,
+    "left": {
+      "bet_amount": 4227849,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Hanayama",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1243174,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Reicubas",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 130727544,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793167963528,
+    "duration": 74003,
+    "left": {
+      "bet_amount": 962111,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Big ptolemaic tank",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3668822,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Akari EX",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 130843234,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12877
+    },
+    "date": 1793168169725,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 1690486,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Iori xiii",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4184688,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Bai-hu EX",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 130843238,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
