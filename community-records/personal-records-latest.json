@@ -778848,5 +778848,86 @@
     "sum": 130784346,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793171250125,
+    "duration": 150203,
+    "left": {
+      "bet_amount": 2701199,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Goku ssj5 absalon",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1009163,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sandra",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 130750318,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26432
+    },
+    "date": 1793171484330,
+    "duration": 174197,
+    "left": {
+      "bet_amount": 1580373,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Satori komeiji",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1721898,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Yoshitora",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 130750321,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41443
+    },
+    "date": 1793171664532,
+    "duration": 124209,
+    "left": {
+      "bet_amount": 1747780,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Reiji",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3203913,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Swole shovel knight",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130774214,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
