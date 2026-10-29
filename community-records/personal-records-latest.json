@@ -796101,5 +796101,113 @@
     "sum": 130435779,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34102
+    },
+    "date": 1793297031738,
+    "duration": 129981,
+    "left": {
+      "bet_amount": 1668887,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Matarael",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2175373,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Takuma",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "sum": 130416267,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2355
+    },
+    "date": 1793297177927,
+    "duration": 85993,
+    "left": {
+      "bet_amount": 9943599,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Ikusan",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1341931,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Lucy",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 130459829,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33615
+    },
+    "date": 1793297348128,
+    "duration": 110204,
+    "left": {
+      "bet_amount": 1267307,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Sannomiya_shiho",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4134198,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 15,
+      "name": "Temjin arrange",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 130460147,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16606
+    },
+    "date": 1793297508326,
+    "duration": 104198,
+    "left": {
+      "bet_amount": 2770937,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Jin",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1888812,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Usn_counter",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 130566973,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
