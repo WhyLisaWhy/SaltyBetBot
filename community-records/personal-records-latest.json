@@ -788163,5 +788163,113 @@
     "sum": 131064585,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31919
+    },
+    "date": 1793238335332,
+    "duration": 66206,
+    "left": {
+      "bet_amount": 5566417,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Gelonimon",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1098357,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Knightman mvc",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 131090019,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793238821728,
+    "duration": 216199,
+    "left": {
+      "bet_amount": 123554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kikyo_ex",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 78652,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Imouto",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793238991731,
+    "duration": 116004,
+    "left": {
+      "bet_amount": 59930,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Elirin",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 216415,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Deathscythe ao",
+      "normal_bettors": 46,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7007
+    },
+    "date": 1793239185940,
+    "duration": 140215,
+    "left": {
+      "bet_amount": 174556,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Vegeta EX3",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 204741,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Raira",
+      "normal_bettors": 35,
+      "win_streak": 6
+    },
+    "sum": 7007,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
