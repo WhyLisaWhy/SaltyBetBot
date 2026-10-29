@@ -788514,5 +788514,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4330
+    },
+    "date": 1793241395730,
+    "duration": 160204,
+    "left": {
+      "bet_amount": 194378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Imouto",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 923999,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Warlock",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 4330,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793241645926,
+    "duration": 190196,
+    "left": {
+      "bet_amount": 721330,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "O.zero-prominence",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 478488,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Mina 02um",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
