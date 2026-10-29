@@ -789243,5 +789243,113 @@
     "sum": 130973351,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4742
+    },
+    "date": 1793247534542,
+    "duration": 210217,
+    "left": {
+      "bet_amount": 5614879,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kagami",
+      "normal_bettors": 37,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1401552,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ss6 syunran-abab",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 130983281,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13269
+    },
+    "date": 1793247704726,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 7830738,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shizuka",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1454211,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Blue destiny 2",
+      "normal_bettors": 15,
+      "win_streak": -9
+    },
+    "sum": 130978539,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21388
+    },
+    "date": 1793247864749,
+    "duration": 90022,
+    "left": {
+      "bet_amount": 8276640,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Rila",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1808014,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "God-o-mite",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 130980999,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793248032926,
+    "duration": 108001,
+    "left": {
+      "bet_amount": 1897046,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Kunagi tenrou EX3",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 22782934,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Thing",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130985660,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
