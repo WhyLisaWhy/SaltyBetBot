@@ -791430,5 +791430,113 @@
     "sum": 2459,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793262598527,
+    "duration": 159995,
+    "left": {
+      "bet_amount": 312032,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "D4 roll",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 225949,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sumo sw",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2667
+    },
+    "date": 1793262812727,
+    "duration": 154201,
+    "left": {
+      "bet_amount": 72725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Zeeky h. bomb",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 507472,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Sakuya ex",
+      "normal_bettors": 44,
+      "win_streak": 2
+    },
+    "sum": 2667,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3048
+    },
+    "date": 1793263114929,
+    "duration": 240201,
+    "left": {
+      "bet_amount": 286384,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Mictlan",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 323717,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ryugen",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 3048,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793263379128,
+    "duration": 204196,
+    "left": {
+      "bet_amount": 95840,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Toki",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 574239,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Maximum seraph",
+      "normal_bettors": 43,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
