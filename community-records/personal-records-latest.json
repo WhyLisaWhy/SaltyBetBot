@@ -791916,5 +791916,113 @@
     "sum": 130810857,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1926
+    },
+    "date": 1793267370348,
+    "duration": 154019,
+    "left": {
+      "bet_amount": 6524220,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Omnimon",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1031719,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kucheat",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 130788557,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22905
+    },
+    "date": 1793267546528,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1967675,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Omega Woods",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3178208,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Hoihoi",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130788862,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18335
+    },
+    "date": 1793267696728,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 1256072,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Claus",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7353106,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Lilica felchenerow",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 130802942,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29264
+    },
+    "date": 1793267896726,
+    "duration": 145986,
+    "left": {
+      "bet_amount": 927555,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Despero",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4339183,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Konno yuuki",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130806067,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
