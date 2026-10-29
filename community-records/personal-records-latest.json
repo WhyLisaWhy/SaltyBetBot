@@ -791322,5 +791322,113 @@
     "sum": 1883,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2385
+    },
+    "date": 1793261781925,
+    "duration": 164191,
+    "left": {
+      "bet_amount": 228360,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Toki",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 62500,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Menat",
+      "normal_bettors": 20,
+      "win_streak": -9
+    },
+    "sum": 2385,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3032
+    },
+    "date": 1793262052125,
+    "duration": 210198,
+    "left": {
+      "bet_amount": 90882,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shin ryu ex",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 246955,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Maximum seraph",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 3032,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793262198326,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 253567,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Omega rugal 98",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149602,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Dragon_warrior(dnf) +q",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2459
+    },
+    "date": 1793262378328,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 391955,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Koryu",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 80823,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Anji",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 2459,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
