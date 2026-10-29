@@ -797370,5 +797370,86 @@
     "sum": 130700509,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20393
+    },
+    "date": 1793305340534,
+    "duration": 194206,
+    "left": {
+      "bet_amount": 1446395,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mike haggar EX3",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3782890,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Red skull",
+      "normal_bettors": 30,
+      "win_streak": -4
+    },
+    "sum": 130657369,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20547
+    },
+    "date": 1793305520526,
+    "duration": 123998,
+    "left": {
+      "bet_amount": 1708930,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cyclops the dick",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3297251,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Awakened x",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 130636976,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3305
+    },
+    "date": 1793305710726,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 5636805,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Giant d!",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1672369,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Rea katori EX7",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 130647560,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
