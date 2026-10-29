@@ -788568,5 +788568,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3880
+    },
+    "date": 1793241958929,
+    "duration": 258956,
+    "left": {
+      "bet_amount": 305743,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Imouto",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 957665,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mina 02um",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 3880,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
