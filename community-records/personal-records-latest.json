@@ -794211,5 +794211,113 @@
     "sum": 130522287,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27055
+    },
+    "date": 1793281707725,
+    "duration": 143996,
+    "left": {
+      "bet_amount": 2288241,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Vampire burns",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2216356,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Wolfgang krauser EX",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 130622753,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25911
+    },
+    "date": 1793281887930,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 2398941,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Supermario64",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2099250,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Precure",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 130648652,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21713
+    },
+    "date": 1793282013959,
+    "duration": 66031,
+    "left": {
+      "bet_amount": 1562507,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vebel",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3127324,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Atatatatatatata",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 130622741,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22645
+    },
+    "date": 1793282194149,
+    "duration": 119986,
+    "left": {
+      "bet_amount": 3074556,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "School girl lilith",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1535386,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mc'chris",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130601028,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
