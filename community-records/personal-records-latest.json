@@ -788271,5 +788271,113 @@
     "sum": 7007,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793239382129,
+    "duration": 140202,
+    "left": {
+      "bet_amount": 350380,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "G.vise",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 186791,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Warlock",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4434
+    },
+    "date": 1793239616329,
+    "duration": 174195,
+    "left": {
+      "bet_amount": 359238,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kouyalen",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 166045,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Chizuru98",
+      "normal_bettors": 16,
+      "win_streak": 0
+    },
+    "sum": 4434,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6459
+    },
+    "date": 1793239802385,
+    "duration": 126058,
+    "left": {
+      "bet_amount": 156000,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "O.zero-prominence",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 423672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Koakuma_hsts",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 6459,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793240068527,
+    "duration": 209988,
+    "left": {
+      "bet_amount": 569741,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Mina 02um",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jago ki2",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
