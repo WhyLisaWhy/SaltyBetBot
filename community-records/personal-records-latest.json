@@ -788676,5 +788676,140 @@
     "sum": 131075118,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25264
+    },
+    "date": 1793243889727,
+    "duration": 140192,
+    "left": {
+      "bet_amount": 3179693,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Mashiro",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1047864,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "D-rugal EX3",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 131045047,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27035
+    },
+    "date": 1793244089925,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 2356079,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "False valkyrie",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2003670,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Fluttershy",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 131019783,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33410
+    },
+    "date": 1793244233932,
+    "duration": 84007,
+    "left": {
+      "bet_amount": 8983667,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Aqua mp",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1042671,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "D4 griffon",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 130992748,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17811
+    },
+    "date": 1793244434125,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 12799561,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Onslaught 2",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1158169,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Metal slug",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 130959338,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20351
+    },
+    "date": 1793244610335,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 4045871,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Krumm",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1669172,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Childre inarabitta",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 130960948,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
