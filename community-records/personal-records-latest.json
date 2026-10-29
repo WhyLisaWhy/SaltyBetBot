@@ -797100,5 +797100,140 @@
     "sum": 130797422,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1000
+    },
+    "date": 1793303426930,
+    "duration": 83977,
+    "left": {
+      "bet_amount": 3591345,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Sinobu-kofm",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1910106,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "G-dialga",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 130783070,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21579
+    },
+    "date": 1793303633130,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 3645235,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Billy karn",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1879695,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Alena",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 130783602,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4058
+    },
+    "date": 1793303789181,
+    "duration": 96053,
+    "left": {
+      "bet_amount": 4239036,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Awakened morrigan",
+      "normal_bettors": 40,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2105170,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Crocodile sir",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 130794664,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21297
+    },
+    "date": 1793303973340,
+    "duration": 124010,
+    "left": {
+      "bet_amount": 1385331,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Asuka EX2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3668436,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Pierre",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "sum": 130796678,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27955
+    },
+    "date": 1793304223527,
+    "duration": 190197,
+    "left": {
+      "bet_amount": 1371343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dragon gundam",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1949183,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Yueng soi leng",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 130775381,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
