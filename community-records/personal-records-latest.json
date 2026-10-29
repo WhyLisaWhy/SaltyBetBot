@@ -791646,5 +791646,32 @@
     "sum": 30111,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37038
+    },
+    "date": 1793264723144,
+    "duration": 251018,
+    "left": {
+      "bet_amount": 885551,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 27,
+      "name": "Mictlan",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 337232,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "D4 roll",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 37038,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
