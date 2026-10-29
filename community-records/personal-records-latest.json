@@ -796668,5 +796668,113 @@
     "sum": 130764465,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17312
+    },
+    "date": 1793300658728,
+    "duration": 99970,
+    "left": {
+      "bet_amount": 5925215,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "P",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1137767,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Super goku 4 EX7",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 130760426,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19820
+    },
+    "date": 1793300858929,
+    "duration": 146183,
+    "left": {
+      "bet_amount": 1560914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Seth ex",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3705612,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Hirasaka hatsune-if",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 130763741,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12231
+    },
+    "date": 1793301002935,
+    "duration": 84007,
+    "left": {
+      "bet_amount": 1562438,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Phone(redux)",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2704853,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Tournament of power goku",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 130772046,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1792
+    },
+    "date": 1793301199178,
+    "duration": 134048,
+    "left": {
+      "bet_amount": 1432906,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Commander yammark",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6830041,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Devilotte de deathsatan ix",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 130759815,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
