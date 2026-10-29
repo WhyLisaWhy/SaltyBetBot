@@ -797530,5 +797530,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1956
+    },
+    "date": 1793306797529,
+    "duration": 210203,
+    "left": {
+      "bet_amount": 1085636,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Yuuki terumi",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 418422,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Kungfumithra",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 1956,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793307073927,
+    "duration": 216399,
+    "left": {
+      "bet_amount": 624623,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Grebam EX",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 947351,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Tesse 7",
+      "normal_bettors": 37,
+      "win_streak": -7
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793307317923,
+    "duration": 183996,
+    "left": {
+      "bet_amount": 267201,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kiyoko",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1435136,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Another leona",
+      "normal_bettors": 43,
+      "win_streak": 10
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1839
+    },
+    "date": 1793307584127,
+    "duration": 210193,
+    "left": {
+      "bet_amount": 1659686,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Robin_mask",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 97351,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Rip_saber",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 1839,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
