@@ -788595,5 +788595,86 @@
     "sum": 3880,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29094
+    },
+    "date": 1793243377326,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 973059,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Jedah dohma",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4090842,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 15,
+      "name": "Kungfumithra",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 131101394,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11535
+    },
+    "date": 1793243523326,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 5819427,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Hory marlu ex",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1424297,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gene",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 131072300,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30071
+    },
+    "date": 1793243693527,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 4584213,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Chinnen EX5",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1376269,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Oshima",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 131075118,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
