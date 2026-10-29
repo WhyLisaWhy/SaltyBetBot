@@ -787137,5 +787137,86 @@
     "sum": 130700793,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15656
+    },
+    "date": 1793231413729,
+    "duration": 144002,
+    "left": {
+      "bet_amount": 6105994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hercule z2",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1709411,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Junko sendo",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 130709835,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793231741928,
+    "duration": 82002,
+    "left": {
+      "bet_amount": 10959248,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "L.c.yubari",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1550452,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Kamijo toma",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "sum": 130714207,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7068
+    },
+    "date": 1793231934128,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1816652,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Baikinman",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2292417,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Snk zangief",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 130714208,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
