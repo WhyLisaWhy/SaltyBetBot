@@ -790485,5 +790485,86 @@
     "sum": 130856567,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17876
+    },
+    "date": 1793255807151,
+    "duration": 240207,
+    "left": {
+      "bet_amount": 1046396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ren mizusaka",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2183702,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 9,
+      "name": "Kumagawa misogi",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 130858649,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18239
+    },
+    "date": 1793255963325,
+    "duration": 86197,
+    "left": {
+      "bet_amount": 1932990,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Nike & kukuri",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1548588,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Evil zodiac",
+      "normal_bettors": 23,
+      "win_streak": -6
+    },
+    "sum": 130867146,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18168
+    },
+    "date": 1793256153327,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 3620511,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Nine the phantom",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1063437,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "God rugal",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130848907,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
