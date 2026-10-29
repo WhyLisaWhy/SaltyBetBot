@@ -787515,5 +787515,140 @@
     "sum": 130704099,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32123
+    },
+    "date": 1793234073927,
+    "duration": 196201,
+    "left": {
+      "bet_amount": 3928011,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Orc",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194612,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Andromeda shun",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 130750048,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27811
+    },
+    "date": 1793234257933,
+    "duration": 124004,
+    "left": {
+      "bet_amount": 1753594,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sachiel type-l",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2823791,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kohaku EX2",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 130717925,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19237
+    },
+    "date": 1793234418139,
+    "duration": 104215,
+    "left": {
+      "bet_amount": 1276811,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bai-hu EX",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3119815,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Samus mvc",
+      "normal_bettors": 37,
+      "win_streak": 11
+    },
+    "sum": 130735028,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25774
+    },
+    "date": 1793234578126,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1075130,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Zappa",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2704709,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Joe EX3",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "sum": 130742853,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19847
+    },
+    "date": 1793234724327,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 2693536,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Bowser",
+      "normal_bettors": 26,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1534622,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Shin akuma dd",
+      "normal_bettors": 27,
+      "win_streak": -6
+    },
+    "sum": 130806175,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
