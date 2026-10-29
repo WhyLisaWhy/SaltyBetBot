@@ -787650,5 +787650,113 @@
     "sum": 130806175,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 368
+    },
+    "date": 1793234974531,
+    "duration": 184205,
+    "left": {
+      "bet_amount": 1488018,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Very gregariously",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2122896,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Hyoga de cisne",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 130817400,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25594
+    },
+    "date": 1793235144742,
+    "duration": 114216,
+    "left": {
+      "bet_amount": 1745945,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Sonia rotd",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3679978,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Benimaru(mkii)",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "sum": 130817032,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25169
+    },
+    "date": 1793235300729,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 3341749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Magaki xi",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1384603,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Toyger",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 130829092,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9266
+    },
+    "date": 1793235414927,
+    "duration": 49979,
+    "left": {
+      "bet_amount": 5348500,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Rugal's panther zoo",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1347784,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "M-e-warlock",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 130888754,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
