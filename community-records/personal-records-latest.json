@@ -798043,5 +798043,113 @@
     "sum": 131989862,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793311445333,
+    "duration": 110206,
+    "left": {
+      "bet_amount": 1621886,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Usn_counter",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4060234,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Undead_zombie",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 131977691,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793311643524,
+    "duration": 132135,
+    "left": {
+      "bet_amount": 9184176,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "The nightmare",
+      "normal_bettors": 27,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1853521,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kamen rider wizard",
+      "normal_bettors": 27,
+      "win_streak": -14
+    },
+    "sum": 131977690,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22360
+    },
+    "date": 1793311785527,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 3643589,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Theskiver",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3135133,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Hayate EX",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 131977689,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25240
+    },
+    "date": 1793311931725,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 1523994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Rockman_exe",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4988696,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Last putin",
+      "normal_bettors": 45,
+      "win_streak": 11
+    },
+    "sum": 132003492,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
