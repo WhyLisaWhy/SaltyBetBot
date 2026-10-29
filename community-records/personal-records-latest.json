@@ -795102,5 +795102,140 @@
     "sum": 130507961,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 776
+    },
+    "date": 1793290703007,
+    "duration": 66070,
+    "left": {
+      "bet_amount": 3400073,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Lee rekka",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3391479,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Yoshiyuki takagi",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 130488611,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6937
+    },
+    "date": 1793290826925,
+    "duration": 69903,
+    "left": {
+      "bet_amount": 1377681,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chibi feilin",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5508635,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 11,
+      "name": "Manticore",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "sum": 130489385,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22468
+    },
+    "date": 1793291029128,
+    "duration": 146152,
+    "left": {
+      "bet_amount": 3651627,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Akiha vermillion",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3004430,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kuanyinshen_nagiai",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 130491118,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25077
+    },
+    "date": 1793291229328,
+    "duration": 136204,
+    "left": {
+      "bet_amount": 6132523,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Alien guts",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2202968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mahvel ken",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 130509491,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34576
+    },
+    "date": 1793291429527,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 3870544,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Rob lucci",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2006110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Shang tsung mk1",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130484414,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
