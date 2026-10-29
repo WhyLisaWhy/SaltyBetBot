@@ -787758,5 +787758,140 @@
     "sum": 130888754,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42693
+    },
+    "date": 1793235701127,
+    "duration": 59997,
+    "left": {
+      "bet_amount": 5534624,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Turbo ryu",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1369426,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shimakaze",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 130891085,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7242
+    },
+    "date": 1793235907326,
+    "duration": 152172,
+    "left": {
+      "bet_amount": 2728099,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Misty",
+      "normal_bettors": 29,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1363581,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Tatsuo shiki",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "sum": 130901568,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 51315
+    },
+    "date": 1793236047325,
+    "duration": 85984,
+    "left": {
+      "bet_amount": 3945328,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Tyrant t-002",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1351338,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Soulgen",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 130915981,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17545
+    },
+    "date": 1793236221528,
+    "duration": 113995,
+    "left": {
+      "bet_amount": 2977079,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Soga no tojiko",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 945504,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Adam EX3",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 130933332,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26219
+    },
+    "date": 1793236427725,
+    "duration": 146114,
+    "left": {
+      "bet_amount": 3800541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "I-no(ac)",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3899497,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Yatteyaru-death",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 130938872,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
