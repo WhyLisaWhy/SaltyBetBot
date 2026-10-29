@@ -795237,5 +795237,113 @@
     "sum": 130484414,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19750
+    },
+    "date": 1793291589527,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 4301800,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Minato arisato",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1740768,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Informer",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 130502177,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793291785726,
+    "duration": 142194,
+    "left": {
+      "bet_amount": 1065800,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kumao",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 98592962,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 18,
+      "name": "Starmie",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 130482427,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33221
+    },
+    "date": 1793292003989,
+    "duration": 164193,
+    "left": {
+      "bet_amount": 2303294,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 4,
+      "name": "B.swordsman",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2546848,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Pandon fe",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 130482428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7394
+    },
+    "date": 1793292199925,
+    "duration": 135997,
+    "left": {
+      "bet_amount": 8827429,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Pikachu",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1813865,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Bowlman",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 130449207,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
