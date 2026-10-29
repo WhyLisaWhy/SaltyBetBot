@@ -792645,5 +792645,140 @@
     "sum": 130931432,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26732
+    },
+    "date": 1793271883927,
+    "duration": 55998,
+    "left": {
+      "bet_amount": 3182052,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Sayo chan",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1700875,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kraken",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 130936769,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24177
+    },
+    "date": 1793272034131,
+    "duration": 96203,
+    "left": {
+      "bet_amount": 2884704,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Rethi",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1417683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Irriana",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 130910037,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2269
+    },
+    "date": 1793272184328,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1900545,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Imit ultraseven",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2219521,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "White rbdm-kof",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 130885860,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32873
+    },
+    "date": 1793272328328,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 2609244,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Leo EX2",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1542050,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Pupa",
+      "normal_bettors": 14,
+      "win_streak": -10
+    },
+    "sum": 130883591,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16965
+    },
+    "date": 1793272498540,
+    "duration": 110213,
+    "left": {
+      "bet_amount": 1100480,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Duck hunt dog",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4424626,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Kou EX3",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 130850718,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
