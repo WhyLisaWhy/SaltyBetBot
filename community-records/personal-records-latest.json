@@ -798745,5 +798745,113 @@
     "sum": 132249159,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20826
+    },
+    "date": 1793315922744,
+    "duration": 206019,
+    "left": {
+      "bet_amount": 1391530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lambdadelta",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3395472,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Airou ver2.11",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 132217329,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11571
+    },
+    "date": 1793316052928,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 1138516,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Flail",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7155616,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Nanashi",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 132225812,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3152
+    },
+    "date": 1793316212927,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 2920275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Diana kof",
+      "normal_bettors": 21,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2686176,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Hitsugaya",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 132227651,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18653
+    },
+    "date": 1793316363124,
+    "duration": 89993,
+    "left": {
+      "bet_amount": 7263043,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 20,
+      "name": "Dark ash-drg",
+      "normal_bettors": 41,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1159895,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Skullomania",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 132224499,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
