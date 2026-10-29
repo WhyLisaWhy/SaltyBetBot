@@ -791673,5 +791673,86 @@
     "sum": 37038,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20211
+    },
+    "date": 1793265889127,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1312930,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Normal spoo",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2952149,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Takahashi_genjin",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 130724121,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4944
+    },
+    "date": 1793266049327,
+    "duration": 105997,
+    "left": {
+      "bet_amount": 2046752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Taki EX3",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2285124,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Frankenstein",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 130733049,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29381
+    },
+    "date": 1793266239526,
+    "duration": 136201,
+    "left": {
+      "bet_amount": 5802571,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Dis astranagant",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1068631,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "94_flan",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 130737468,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
