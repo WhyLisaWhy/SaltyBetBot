@@ -793077,5 +793077,140 @@
     "sum": 130887764,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7411
+    },
+    "date": 1793274548126,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 861354,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "M.bison sf2ww",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7076004,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 17,
+      "name": "Ralsei",
+      "normal_bettors": 38,
+      "win_streak": 7
+    },
+    "sum": 130872149,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22048
+    },
+    "date": 1793274712126,
+    "duration": 109972,
+    "left": {
+      "bet_amount": 2317282,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Sakura ccs-qoh",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1804008,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Mimic",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 130873051,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17954
+    },
+    "date": 1793274852327,
+    "duration": 79993,
+    "left": {
+      "bet_amount": 1639202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tigst the aggressive",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2907862,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Metaknight",
+      "normal_bettors": 34,
+      "win_streak": -4
+    },
+    "sum": 130851003,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19718
+    },
+    "date": 1793275002528,
+    "duration": 94201,
+    "left": {
+      "bet_amount": 2066178,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Chloe valens",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1655866,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Sasquatch",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 130861062,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10325
+    },
+    "date": 1793275168527,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 6173049,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Hiei",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1312538,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "The tick",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 130841344,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
