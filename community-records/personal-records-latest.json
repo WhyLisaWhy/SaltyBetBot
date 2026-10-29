@@ -794427,5 +794427,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1922
+    },
+    "date": 1793283591327,
+    "duration": 296404,
+    "left": {
+      "bet_amount": 77296,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Savage ryu hayabusa",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 285397,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Aioria de leo",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 1922,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793283809526,
+    "duration": 162197,
+    "left": {
+      "bet_amount": 223143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Moe",
+      "normal_bettors": 25,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 258406,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Remy",
+      "normal_bettors": 33,
+      "win_streak": 10
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2881
+    },
+    "date": 1793283997529,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 381304,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Akaneko EX6",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Reika",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 2881,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3997
+    },
+    "date": 1793284221726,
+    "duration": 163999,
+    "left": {
+      "bet_amount": 103828,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Doflamingo",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 358243,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Aner rolange",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 3997,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
