@@ -794751,5 +794751,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19827
+    },
+    "date": 1793288308949,
+    "duration": 100020,
+    "left": {
+      "bet_amount": 3811761,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Do you believe it?",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1482093,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Belmod",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 130579925,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19977
+    },
+    "date": 1793288515129,
+    "duration": 146006,
+    "left": {
+      "bet_amount": 1724752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nyaruko",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3354722,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Undyne",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 130560098,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
