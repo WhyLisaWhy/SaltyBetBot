@@ -791538,5 +791538,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10690
+    },
+    "date": 1793263575329,
+    "duration": 136002,
+    "left": {
+      "bet_amount": 281519,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Omega rugal 98",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 452052,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Anji",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 10690,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17194
+    },
+    "date": 1793263879605,
+    "duration": 244279,
+    "left": {
+      "bet_amount": 526471,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "D4 roll",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 306789,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Sakuya ex",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 17194,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26897
+    },
+    "date": 1793264175732,
+    "duration": 236004,
+    "left": {
+      "bet_amount": 875560,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Mictlan",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107810,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Toki",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 26897,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30111
+    },
+    "date": 1793264412150,
+    "duration": 180223,
+    "left": {
+      "bet_amount": 195645,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Anji",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 820443,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "D4 roll",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 30111,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
