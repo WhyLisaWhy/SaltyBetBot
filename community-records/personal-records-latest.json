@@ -790107,5 +790107,113 @@
     "sum": 130806620,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 33939
+    },
+    "date": 1793252948925,
+    "duration": 100185,
+    "left": {
+      "bet_amount": 1519144,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Straight cougar",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6399100,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Hunk",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 130764448,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 594
+    },
+    "date": 1793253132930,
+    "duration": 123959,
+    "left": {
+      "bet_amount": 4127838,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Blues hablam",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 993446,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Vk-2",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 130772463,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 46841
+    },
+    "date": 1793253319126,
+    "duration": 129997,
+    "left": {
+      "bet_amount": 3667242,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Prosciutto",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1103122,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Raoh",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 130771869,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10542
+    },
+    "date": 1793253473330,
+    "duration": 100142,
+    "left": {
+      "bet_amount": 3666214,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Bs kung fu man",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1282532,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Heavyweight champion balrog",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 130725028,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
