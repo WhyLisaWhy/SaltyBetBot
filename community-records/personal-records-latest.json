@@ -794643,5 +794643,86 @@
     "sum": 3268,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793285364728,
+    "duration": 206193,
+    "left": {
+      "bet_amount": 497055,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Aner rolange",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 236902,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Vegeta ssj3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2287
+    },
+    "date": 1793285554927,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 295591,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cammy_a",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 412693,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Tam-tam nrf",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 2287,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3917
+    },
+    "date": 1793285758926,
+    "duration": 149998,
+    "left": {
+      "bet_amount": 480952,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Akaneko EX6",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 300401,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Aner rolange",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 3917,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
