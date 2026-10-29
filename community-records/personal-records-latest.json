@@ -787218,5 +787218,140 @@
     "sum": 130714208,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5610
+    },
+    "date": 1793232096324,
+    "duration": 106196,
+    "left": {
+      "bet_amount": 3075803,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Diglett",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6769231,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Shazzer EX3",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 130707140,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793232326527,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 4341515,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Nikumaru",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1106587,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Sketchy yoshi",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 130709687,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10889
+    },
+    "date": 1793232526527,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 2745426,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Shin saito",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1908971,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Bloodtide",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 130709688,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25779
+    },
+    "date": 1793232670729,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 1009850,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jazu EX3",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4846912,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kyo clone-10 ex",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 130717230,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8991
+    },
+    "date": 1793232880928,
+    "duration": 144171,
+    "left": {
+      "bet_amount": 3801396,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Aoko aozaki",
+      "normal_bettors": 39,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1364305,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Johnny blaze",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 130722573,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
