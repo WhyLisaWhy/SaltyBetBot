@@ -804712,5 +804712,140 @@
     "sum": 132387882,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793360147725,
+    "duration": 76194,
+    "left": {
+      "bet_amount": 3360083,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "D'raven",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1429409,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Jill ex",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 132364303,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34428
+    },
+    "date": 1793360357928,
+    "duration": 156199,
+    "left": {
+      "bet_amount": 1419918,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alvan EX",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3866203,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Green ranger EX8",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 132364303,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33591
+    },
+    "date": 1793360517929,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 3985149,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Headdy",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1042204,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Avdul",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 132376835,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12505
+    },
+    "date": 1793360734127,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 1835458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sauzer",
+      "normal_bettors": 19,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4538687,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Baki-hanma ex",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 132385547,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6767
+    },
+    "date": 1793360864129,
+    "duration": 75951,
+    "left": {
+      "bet_amount": 1880980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Heart of madness",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2627200,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Rugal b.",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 132390591,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
