@@ -809815,5 +809815,86 @@
     "sum": 133233693,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26075
+    },
+    "date": 1793399549131,
+    "duration": 200204,
+    "left": {
+      "bet_amount": 3169321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Gold len",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1679690,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Gutsman",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 133241200,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26537
+    },
+    "date": 1793399748929,
+    "duration": 139800,
+    "left": {
+      "bet_amount": 1927282,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Natsuka fuou",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1502647,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Hakumen",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 133215125,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793400129532,
+    "duration": 109960,
+    "left": {
+      "bet_amount": 133744,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Bane's a big guy",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86085,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Saiki kof",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
