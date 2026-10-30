@@ -799933,5 +799933,113 @@
     "sum": 132219029,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36011
+    },
+    "date": 1793323158525,
+    "duration": 90077,
+    "left": {
+      "bet_amount": 5152365,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "H-m-geese",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1814894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ciel kagura",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 132198733,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25668
+    },
+    "date": 1793323338525,
+    "duration": 123998,
+    "left": {
+      "bet_amount": 6095389,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Alakazam",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1169602,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jiraiya",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 132211330,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15285
+    },
+    "date": 1793323488736,
+    "duration": 90006,
+    "left": {
+      "bet_amount": 5310748,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "White glint",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1677072,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kyoko_typea EX3",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "sum": 132216235,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793323644927,
+    "duration": 96203,
+    "left": {
+      "bet_amount": 5231760,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Neferpitou",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1889236,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kensou ex",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 132221048,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
