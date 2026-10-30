@@ -800365,5 +800365,140 @@
     "sum": 132225859,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3912
+    },
+    "date": 1793325812526,
+    "duration": 133987,
+    "left": {
+      "bet_amount": 8583456,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Anita msh",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2352775,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "The root pack",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 132203892,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 44386
+    },
+    "date": 1793325972758,
+    "duration": 100014,
+    "left": {
+      "bet_amount": 1696349,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Bebum ryo",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2645670,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Umvc_gouki",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 132204964,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22251
+    },
+    "date": 1793326138926,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 1405763,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Terry EX3",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3828510,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Order sol hnk",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 132160578,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25016
+    },
+    "date": 1793326268927,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 2268484,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Basilisk-s[0.98] EX3",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2289845,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Order-sol",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 132138327,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29360
+    },
+    "date": 1793326398927,
+    "duration": 75967,
+    "left": {
+      "bet_amount": 5441454,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "King kong",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2033510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Undeadsoldier",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 132163304,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
