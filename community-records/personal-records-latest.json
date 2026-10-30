@@ -799015,5 +799015,140 @@
     "sum": 132104005,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21688
+    },
+    "date": 1793317570125,
+    "duration": 100191,
+    "left": {
+      "bet_amount": 2785400,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Dejiko",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1181025,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Hibiki EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 132104006,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14827
+    },
+    "date": 1793317680124,
+    "duration": 53999,
+    "left": {
+      "bet_amount": 3579003,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Seiteiou",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1201357,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fake nyn",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 132082318,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26731
+    },
+    "date": 1793317866393,
+    "duration": 126069,
+    "left": {
+      "bet_amount": 2493643,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Black selena",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1456514,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Taideo EX",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 132087275,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35176
+    },
+    "date": 1793318010526,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 2938742,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Dormammu",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2020111,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kakyoin noriaki EX3",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 132060544,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4244
+    },
+    "date": 1793318166529,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 1807789,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ni_san",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5835051,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Onslaught 2",
+      "normal_bettors": 42,
+      "win_streak": 7
+    },
+    "sum": 132025368,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
