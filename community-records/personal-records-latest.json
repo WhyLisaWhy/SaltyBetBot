@@ -799771,5 +799771,167 @@
     "sum": 132201091,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793322127724,
+    "duration": 86191,
+    "left": {
+      "bet_amount": 6736457,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 15,
+      "name": "Mui ex",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1041724,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Nazuna_inuwaka",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 132204038,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21158
+    },
+    "date": 1793322311926,
+    "duration": 124198,
+    "left": {
+      "bet_amount": 2147367,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kanae",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2273467,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 12,
+      "name": "Dr. ivo robotnik",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 132204037,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24317
+    },
+    "date": 1793322542047,
+    "duration": 174122,
+    "left": {
+      "bet_amount": 1209755,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Reimu hm",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 13012774,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 19,
+      "name": "Serika_os",
+      "normal_bettors": 40,
+      "win_streak": 11
+    },
+    "sum": 132223838,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18353
+    },
+    "date": 1793322748125,
+    "duration": 144199,
+    "left": {
+      "bet_amount": 2291534,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Anubis necromancess",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1934125,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tain-ren",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 132199521,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19263
+    },
+    "date": 1793322884325,
+    "duration": 76198,
+    "left": {
+      "bet_amount": 1792823,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ash of blueblood",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3561534,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Schlussel-pre",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 132181168,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20296
+    },
+    "date": 1793323008332,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 1492414,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tuxedo mask",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5497656,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Trixie lulamoon",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "sum": 132219029,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
