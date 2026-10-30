@@ -808789,5 +808789,113 @@
     "sum": 133224453,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17242
+    },
+    "date": 1793392447523,
+    "duration": 144196,
+    "left": {
+      "bet_amount": 2297229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lavos spawn",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2139955,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Deluxe athena",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 133218809,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27013
+    },
+    "date": 1793392597528,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 886307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Satomi yajima",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7252550,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "Orochi shermie",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 133201567,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18062
+    },
+    "date": 1793392799729,
+    "duration": 142198,
+    "left": {
+      "bet_amount": 2907277,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Kyoko_sakura EX",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1590128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Boring sdk mukurou",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133204856,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 441
+    },
+    "date": 1793392973929,
+    "duration": 114207,
+    "left": {
+      "bet_amount": 3886709,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Shiena bee",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2085336,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "M.bison mk2",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 133186794,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
