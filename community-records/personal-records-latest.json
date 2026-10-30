@@ -800608,5 +800608,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2358
+    },
+    "date": 1793327609948,
+    "duration": 294219,
+    "left": {
+      "bet_amount": 85421,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shin 2",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 203524,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Miacis",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 2358,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3337
+    },
+    "date": 1793327826127,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 158370,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Poochy",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 222788,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Nokia 3310",
+      "normal_bettors": 42,
+      "win_streak": -4
+    },
+    "sum": 3337,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7935
+    },
+    "date": 1793327986328,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 149036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Alucard (v.2)",
+      "normal_bettors": 23,
+      "win_streak": -11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 292225,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Susano'o",
+      "normal_bettors": 40,
+      "win_streak": -7
+    },
+    "sum": 7935,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11875
+    },
+    "date": 1793328246525,
+    "duration": 194169,
+    "left": {
+      "bet_amount": 443831,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Broli",
+      "normal_bettors": 46,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71158,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Frieza dbs",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 11875,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
