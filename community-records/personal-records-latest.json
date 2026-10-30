@@ -803551,5 +803551,86 @@
     "sum": 132567029,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20405
+    },
+    "date": 1793349194928,
+    "duration": 156199,
+    "left": {
+      "bet_amount": 1381604,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rainbow mika",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2479775,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Dark queen carmilla",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 132562256,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4333
+    },
+    "date": 1793349395180,
+    "duration": 144256,
+    "left": {
+      "bet_amount": 2625439,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Kyo brunestud",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1281170,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gardevoir dx",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 132541851,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2408
+    },
+    "date": 1793349665329,
+    "duration": 210196,
+    "left": {
+      "bet_amount": 1009301,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ssj three broli",
+      "normal_bettors": 7,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4182765,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Soul aino",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 132543962,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
