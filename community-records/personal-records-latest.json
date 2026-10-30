@@ -809896,5 +809896,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793400381728,
+    "duration": 192188,
+    "left": {
+      "bet_amount": 77419,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mami EX",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 218006,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Satsuki yumiduka EX",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2097
+    },
+    "date": 1793400671941,
+    "duration": 236207,
+    "left": {
+      "bet_amount": 247281,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "H-m-geese",
+      "normal_bettors": 39,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 91764,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Akiko EX",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 2097,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793400872129,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 282492,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Gaisei",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 154871,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Old gouken",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2396
+    },
+    "date": 1793401152329,
+    "duration": 226203,
+    "left": {
+      "bet_amount": 336467,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Cyberbot_atlas",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149181,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Kawakaze",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 2396,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
