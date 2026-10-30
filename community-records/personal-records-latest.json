@@ -803713,5 +803713,86 @@
     "sum": 2690,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3665
+    },
+    "date": 1793351118526,
+    "duration": 336402,
+    "left": {
+      "bet_amount": 167712,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Nrvnqsr chaos",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 24711,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Master gundam",
+      "normal_bettors": 3,
+      "win_streak": -3
+    },
+    "sum": 3665,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4194
+    },
+    "date": 1793351488725,
+    "duration": 306151,
+    "left": {
+      "bet_amount": 151506,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Guillotine gen",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148934,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Ruquia ex",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 4194,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8206
+    },
+    "date": 1793351662952,
+    "duration": 114229,
+    "left": {
+      "bet_amount": 50281,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Little nemo",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 326020,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Super gideon graves",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 8206,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
