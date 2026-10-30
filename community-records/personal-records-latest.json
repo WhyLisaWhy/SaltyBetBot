@@ -804064,5 +804064,86 @@
     "sum": 1971,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17218
+    },
+    "date": 1793356030328,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 629630,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "James",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2613095,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Smart-chang",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 132525408,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17407
+    },
+    "date": 1793356180529,
+    "duration": 94203,
+    "left": {
+      "bet_amount": 846523,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Masta gambit",
+      "normal_bettors": 7,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4214023,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Z-ukyo",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 132508190,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25116
+    },
+    "date": 1793356330725,
+    "duration": 94170,
+    "left": {
+      "bet_amount": 2750666,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Shikyoh",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1042151,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Arina",
+      "normal_bettors": 9,
+      "win_streak": 2
+    },
+    "sum": 132511673,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
