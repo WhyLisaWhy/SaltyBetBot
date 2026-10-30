@@ -802498,5 +802498,113 @@
     "sum": 132337199,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35866
+    },
+    "date": 1793342173340,
+    "duration": 123981,
+    "left": {
+      "bet_amount": 2751558,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Abyss form 1",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3654453,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Motaro",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 132337200,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793342319526,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1836344,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mr. wheezy",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3367888,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Dudley K",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 132384223,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27911
+    },
+    "date": 1793342483527,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 4731113,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "R-haoumaru",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1271181,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sayo",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "sum": 132384222,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18252
+    },
+    "date": 1793342663747,
+    "duration": 120007,
+    "left": {
+      "bet_amount": 1258011,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Stardust utsuho",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4000696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Dark god rugal kofm",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 132485870,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
