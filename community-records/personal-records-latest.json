@@ -808357,5 +808357,140 @@
     "sum": 132799631,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19706
+    },
+    "date": 1793389589127,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 1609584,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Blue worker",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2977655,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Krizalid-kofm-kbr",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 132804221,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31818
+    },
+    "date": 1793389843327,
+    "duration": 193993,
+    "left": {
+      "bet_amount": 889224,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mewtwo-y",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4879746,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 18,
+      "name": "Manute",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 132840236,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37699
+    },
+    "date": 1793390133530,
+    "duration": 230002,
+    "left": {
+      "bet_amount": 4081832,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "A_nayuki",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1374682,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Preposterous cirno",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 133008811,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22823
+    },
+    "date": 1793390345729,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 3128981,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Rei chibi",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2927150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hakurei kanade",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 133021392,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21518
+    },
+    "date": 1793390509932,
+    "duration": 110186,
+    "left": {
+      "bet_amount": 1761417,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Masked_dedede",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3325024,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Blaze-rock",
+      "normal_bettors": 34,
+      "win_streak": 24
+    },
+    "sum": 133045600,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
