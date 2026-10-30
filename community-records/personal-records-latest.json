@@ -807412,5 +807412,140 @@
     "sum": 132496866,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20716
+    },
+    "date": 1793383498325,
+    "duration": 99988,
+    "left": {
+      "bet_amount": 764723,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Avdul",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3683185,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Cordelia",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "sum": 132524160,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 871
+    },
+    "date": 1793383648524,
+    "duration": 94192,
+    "left": {
+      "bet_amount": 1774518,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "German santa",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2201957,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Sinobu-kofm",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 132528438,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16194
+    },
+    "date": 1793383860530,
+    "duration": 152003,
+    "left": {
+      "bet_amount": 3834787,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Susano'o",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1268768,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Whispy woods",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 132529519,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1641
+    },
+    "date": 1793384020786,
+    "duration": 106060,
+    "left": {
+      "bet_amount": 17600576,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Zamasu",
+      "normal_bettors": 38,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423514,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "God Rai",
+      "normal_bettors": 11,
+      "win_streak": 0
+    },
+    "sum": 132513325,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21582
+    },
+    "date": 1793384214926,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 2433070,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Ultraseven",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1716544,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "D4 reimu",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 132513458,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
