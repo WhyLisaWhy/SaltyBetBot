@@ -804145,5 +804145,140 @@
     "sum": 132511673,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2993
+    },
+    "date": 1793356466728,
+    "duration": 76002,
+    "left": {
+      "bet_amount": 2857920,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Shampoo arrange",
+      "normal_bettors": 16,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1416768,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kung fu master",
+      "normal_bettors": 10,
+      "win_streak": 2
+    },
+    "sum": 132486557,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793356588926,
+    "duration": 62199,
+    "left": {
+      "bet_amount": 827628,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mayko",
+      "normal_bettors": 6,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7628691,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Jack tenrec",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 132488040,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 51789
+    },
+    "date": 1793356706926,
+    "duration": 59995,
+    "left": {
+      "bet_amount": 798114,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Yae",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2556911,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Bokosuka wars",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 132488041,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37300
+    },
+    "date": 1793356967128,
+    "duration": 206200,
+    "left": {
+      "bet_amount": 895598,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Zangief cfj",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3066476,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Annie hamilton",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 132503886,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30503
+    },
+    "date": 1793357177329,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 4113642,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Chipp",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 943298,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Melusine",
+      "normal_bettors": 8,
+      "win_streak": 2
+    },
+    "sum": 132466586,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
