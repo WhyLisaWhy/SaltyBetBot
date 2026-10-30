@@ -800824,5 +800824,86 @@
     "sum": 19361,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21463
+    },
+    "date": 1793329513525,
+    "duration": 214187,
+    "left": {
+      "bet_amount": 54790,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Poochy",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 731437,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Susano'o",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 21463,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23025
+    },
+    "date": 1793329813734,
+    "duration": 234211,
+    "left": {
+      "bet_amount": 762320,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Broli",
+      "normal_bettors": 44,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 64017,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Holy god earth svg",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 23025,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793330049922,
+    "duration": 170159,
+    "left": {
+      "bet_amount": 267375,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 17,
+      "name": "Opirus element",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 396619,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Rbff master geese",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
