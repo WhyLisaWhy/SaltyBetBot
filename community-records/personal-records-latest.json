@@ -808114,5 +808114,113 @@
     "sum": 132730111,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24129
+    },
+    "date": 1793388025929,
+    "duration": 73991,
+    "left": {
+      "bet_amount": 5966428,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "George",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1447439,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rolento f. schugerg",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 132733436,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38740
+    },
+    "date": 1793388232130,
+    "duration": 146199,
+    "left": {
+      "bet_amount": 1276703,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Arai san",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4366758,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 19,
+      "name": "Gogan",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 132739267,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793388364127,
+    "duration": 71914,
+    "left": {
+      "bet_amount": 1234565,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kung fu mario",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8077093,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "Whip",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 132750494,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12999
+    },
+    "date": 1793388526327,
+    "duration": 103967,
+    "left": {
+      "bet_amount": 1091048,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hellboy",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4950114,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 19,
+      "name": "Twin syllin",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 132750493,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
