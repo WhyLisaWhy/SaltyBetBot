@@ -800986,5 +800986,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 359
+    },
+    "date": 1793332333752,
+    "duration": 160227,
+    "left": {
+      "bet_amount": 1332921,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "250% b.weapon",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7562849,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 18,
+      "name": "Sonic EX2",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "sum": 132162708,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29931
+    },
+    "date": 1793332493725,
+    "duration": 99993,
+    "left": {
+      "bet_amount": 1747866,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Real zeroko",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3348378,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Saisyu kusanagi",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 132162772,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793332619932,
+    "duration": 66209,
+    "left": {
+      "bet_amount": 4956599,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Jobtaro",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1709462,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Sheik",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "sum": 132219146,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25495
+    },
+    "date": 1793332844127,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 1567304,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Battler ushiromiya",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4396126,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Magician type-0",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 132219147,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
