@@ -801796,5 +801796,140 @@
     "sum": 132364361,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10357
+    },
+    "date": 1793337525751,
+    "duration": 114227,
+    "left": {
+      "bet_amount": 3724456,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Chris redfield",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1998812,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "The noid",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 132391037,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1947
+    },
+    "date": 1793337701730,
+    "duration": 116003,
+    "left": {
+      "bet_amount": 1400143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Anchovy",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5824440,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Clown",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "sum": 132380680,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28695
+    },
+    "date": 1793337827934,
+    "duration": 66009,
+    "left": {
+      "bet_amount": 1479038,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Edi.e",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2839044,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "William birkin",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 132381148,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793338042127,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 2620625,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Ganondorf",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1751116,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Jack13",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 132352453,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19110
+    },
+    "date": 1793338182125,
+    "duration": 79997,
+    "left": {
+      "bet_amount": 1050665,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Young_rugal",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7281013,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Justice",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 132352455,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
