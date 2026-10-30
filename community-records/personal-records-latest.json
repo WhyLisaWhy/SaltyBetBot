@@ -809410,5 +809410,113 @@
     "sum": 133204826,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31263
+    },
+    "date": 1793397001138,
+    "duration": 120190,
+    "left": {
+      "bet_amount": 3558744,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Aoko",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1567066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nise athena",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 133209352,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14866
+    },
+    "date": 1793397165136,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 1198863,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Suzushina yuriko",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4964446,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Psionic donald",
+      "normal_bettors": 41,
+      "win_streak": 1
+    },
+    "sum": 133222999,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21079
+    },
+    "date": 1793397305326,
+    "duration": 83997,
+    "left": {
+      "bet_amount": 985325,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Bowser",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3181189,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Chen juanmin",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 133226579,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10902
+    },
+    "date": 1793397455327,
+    "duration": 89986,
+    "left": {
+      "bet_amount": 18373611,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Spiral mvc2",
+      "normal_bettors": 36,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1475966,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mexican griffon",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 133205500,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
