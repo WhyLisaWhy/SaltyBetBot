@@ -803281,5 +803281,113 @@
     "sum": 132571342,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29776
+    },
+    "date": 1793347411570,
+    "duration": 94043,
+    "left": {
+      "bet_amount": 3546891,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Degola",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1225400,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chun-li",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "sum": 132576270,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20372
+    },
+    "date": 1793347581725,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 1561954,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kishimax",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1698910,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Fakir",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 132546494,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30409
+    },
+    "date": 1793347741732,
+    "duration": 104006,
+    "left": {
+      "bet_amount": 2345726,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Shoto rockman x",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1388046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Voltage zeroko",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "sum": 132526122,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9653
+    },
+    "date": 1793347977928,
+    "duration": 170001,
+    "left": {
+      "bet_amount": 1055755,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yukari iwbtg",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3678872,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Flan Scarlet",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 132543886,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
