@@ -800959,5 +800959,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793331224323,
+    "duration": 483992,
+    "left": {
+      "bet_amount": 304982,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Susano'o",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 496407,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Holy god earth svg",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
