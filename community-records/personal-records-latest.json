@@ -806737,5 +806737,86 @@
     "sum": 132491456,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34765
+    },
+    "date": 1793373438533,
+    "duration": 136396,
+    "left": {
+      "bet_amount": 3927816,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Itoko",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1405610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gunvolt",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 132432897,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793373874731,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 58449,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kyouken wakamoto",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 154154,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Ririsu",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2132
+    },
+    "date": 1793374058722,
+    "duration": 129993,
+    "left": {
+      "bet_amount": 191304,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 18,
+      "name": "Lucky",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 70311,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chrysaor krishna",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 2132,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
