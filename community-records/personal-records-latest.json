@@ -802903,5 +802903,113 @@
     "sum": 132588893,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40043
+    },
+    "date": 1793344903527,
+    "duration": 170000,
+    "left": {
+      "bet_amount": 1021813,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Beauty queen etna",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5471908,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Es",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 132548918,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9219
+    },
+    "date": 1793345123728,
+    "duration": 160200,
+    "left": {
+      "bet_amount": 3056116,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Agrias",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4234718,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Kumoi ichirin",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "sum": 132556342,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793345249721,
+    "duration": 65993,
+    "left": {
+      "bet_amount": 1601779,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Milchael sobut",
+      "normal_bettors": 14,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 15129919,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Roomi kof",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 132562981,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 13365
+    },
+    "date": 1793345403928,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1201364,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Athena945",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4115387,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shuma MVC3",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 132562982,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
