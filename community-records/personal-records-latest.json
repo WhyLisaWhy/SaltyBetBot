@@ -807061,5 +807061,86 @@
     "sum": 3439,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7949
+    },
+    "date": 1793376328530,
+    "duration": 252202,
+    "left": {
+      "bet_amount": 494672,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Gilgamesh ccc",
+      "normal_bettors": 38,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 203691,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "A cheerful traveler",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 7949,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11171
+    },
+    "date": 1793376522728,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 200275,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Lucky",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 611475,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Barrangas",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 11171,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14765
+    },
+    "date": 1793376758928,
+    "duration": 179999,
+    "left": {
+      "bet_amount": 93065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Lf2 - archmage",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 791114,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Gilgamesh ccc",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "sum": 14765,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
