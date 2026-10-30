@@ -807142,5 +807142,32 @@
     "sum": 14765,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16471
+    },
+    "date": 1793377116132,
+    "duration": 296999,
+    "left": {
+      "bet_amount": 254044,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Barrangas",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 752101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 24,
+      "name": "Gilgamesh ccc",
+      "normal_bettors": 33,
+      "win_streak": 7
+    },
+    "sum": 16471,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
