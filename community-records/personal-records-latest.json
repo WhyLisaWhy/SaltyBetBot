@@ -808222,5 +808222,140 @@
     "sum": 132750493,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20837
+    },
+    "date": 1793388662523,
+    "duration": 80191,
+    "left": {
+      "bet_amount": 6640736,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Psylocke mvc2",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1290499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "K-bw v2",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 132753351,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19635
+    },
+    "date": 1793388872528,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 1330350,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Akagi shigeru",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3029722,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Rozwel j",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 132757388,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2616
+    },
+    "date": 1793389092729,
+    "duration": 159995,
+    "left": {
+      "bet_amount": 4892030,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shin aomizu",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1814048,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Burnie",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 132801455,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2794
+    },
+    "date": 1793389298931,
+    "duration": 145991,
+    "left": {
+      "bet_amount": 4092378,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Carnage MMV",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2783486,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Dante D4",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 132802425,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20003
+    },
+    "date": 1793389429127,
+    "duration": 76200,
+    "left": {
+      "bet_amount": 927530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Giganto prototype",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4022199,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 18,
+      "name": "Dante2",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "sum": 132799631,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
