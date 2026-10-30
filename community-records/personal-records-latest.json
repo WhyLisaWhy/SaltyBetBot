@@ -799339,5 +799339,167 @@
     "sum": 132062058,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793319429525,
+    "duration": 91998,
+    "left": {
+      "bet_amount": 1005660,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Samurai",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6336329,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 19,
+      "name": "Knight",
+      "normal_bettors": 44,
+      "win_streak": 2
+    },
+    "sum": 132062059,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3342
+    },
+    "date": 1793319563729,
+    "duration": 80204,
+    "left": {
+      "bet_amount": 1267641,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Syobo-n",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7559939,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "A-agito",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "sum": 132062058,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4965
+    },
+    "date": 1793319717734,
+    "duration": 94007,
+    "left": {
+      "bet_amount": 2215327,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Houjyou torami",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2106508,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Elpizo",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 132062619,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21744
+    },
+    "date": 1793319863926,
+    "duration": 80180,
+    "left": {
+      "bet_amount": 1053767,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "94_flan",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2517121,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Ingram prisken",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 132067829,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22107
+    },
+    "date": 1793320023927,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 1477981,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Karla",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2365510,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Orochi iori 02um",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 132118719,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18211
+    },
+    "date": 1793320174126,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2387475,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Lian-d",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1457616,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Abobo",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 132153580,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
