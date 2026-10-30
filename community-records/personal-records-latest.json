@@ -805090,5 +805090,140 @@
     "sum": 132412596,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18939
+    },
+    "date": 1793362691730,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 971507,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Zerozuchi boss",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2958252,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 10,
+      "name": "Tensi",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 132391757,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1175
+    },
+    "date": 1793362881934,
+    "duration": 126194,
+    "left": {
+      "bet_amount": 1420089,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "D4 alice margatroid",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3860356,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Kaio helmo",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "sum": 132372818,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1220
+    },
+    "date": 1793363071933,
+    "duration": 130005,
+    "left": {
+      "bet_amount": 1155878,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cvs terry bogard",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4946330,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Heart aino EX8",
+      "normal_bettors": 32,
+      "win_streak": 6
+    },
+    "sum": 132373251,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22914
+    },
+    "date": 1793363272128,
+    "duration": 145987,
+    "left": {
+      "bet_amount": 3812119,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Sportacus",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1242828,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Vegeta ssj5",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 132373537,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21722
+    },
+    "date": 1793363422329,
+    "duration": 90204,
+    "left": {
+      "bet_amount": 1995367,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Armor Guts",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2026229,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 132380963,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
