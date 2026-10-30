@@ -804280,5 +804280,113 @@
     "sum": 132466586,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37188
+    },
+    "date": 1793357367552,
+    "duration": 134222,
+    "left": {
+      "bet_amount": 807979,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Anubis necromancess",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2867030,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Buckdozer",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 132436083,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31104
+    },
+    "date": 1793357533528,
+    "duration": 99970,
+    "left": {
+      "bet_amount": 900258,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kurosaki shun",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3791363,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 17,
+      "name": "Mukuro EX G",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 132398895,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11323
+    },
+    "date": 1793357663731,
+    "duration": 76002,
+    "left": {
+      "bet_amount": 1216294,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Johnny cage",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2428171,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Grande mestre",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "sum": 132367791,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20935
+    },
+    "date": 1793357797726,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 897802,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Xerxes",
+      "normal_bettors": 6,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3928348,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Dhalsim vp",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 132373437,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
