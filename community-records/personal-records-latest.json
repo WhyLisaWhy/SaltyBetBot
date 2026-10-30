@@ -809707,5 +809707,113 @@
     "sum": 133258658,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2202
+    },
+    "date": 1793398838531,
+    "duration": 120002,
+    "left": {
+      "bet_amount": 5330858,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Bousou oni-chiduru K",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 886142,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Shadow dio",
+      "normal_bettors": 14,
+      "win_streak": -11
+    },
+    "sum": 133261828,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16756
+    },
+    "date": 1793398988726,
+    "duration": 96184,
+    "left": {
+      "bet_amount": 1026253,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Duran",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4109558,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Orochi shermie",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 133262194,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32669
+    },
+    "date": 1793399144724,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 1434957,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mina EX2",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2480755,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 14,
+      "name": "Dream madotsuki",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "sum": 133266362,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22433
+    },
+    "date": 1793399288931,
+    "duration": 84198,
+    "left": {
+      "bet_amount": 1022347,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eponine thenardier",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3032705,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 14,
+      "name": "Jhon",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 133233693,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
