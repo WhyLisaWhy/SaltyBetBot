@@ -802066,5 +802066,113 @@
     "sum": 132373907,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 40485
+    },
+    "date": 1793339319145,
+    "duration": 160217,
+    "left": {
+      "bet_amount": 1048637,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Sakura Kasugano",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2714647,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Wolfgang Krauser",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 132384190,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19521
+    },
+    "date": 1793339519327,
+    "duration": 134194,
+    "left": {
+      "bet_amount": 2180169,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kenshiro",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1660730,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Void",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 132343705,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10192
+    },
+    "date": 1793339729539,
+    "duration": 150212,
+    "left": {
+      "bet_amount": 1654370,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Warmachine MVC2",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2525463,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Ooze-o",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 132358444,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 44418
+    },
+    "date": 1793339895526,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 4085303,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Real gloria",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1200976,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Serious yuri sakazaki",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "sum": 132373908,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
