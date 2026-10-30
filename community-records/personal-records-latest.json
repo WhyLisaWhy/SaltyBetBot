@@ -799663,5 +799663,113 @@
     "sum": 132179699,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29356
+    },
+    "date": 1793321401134,
+    "duration": 96208,
+    "left": {
+      "bet_amount": 2964809,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Sailor jupiter EX2",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2039111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Johnny(coh)",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 132206551,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 50629
+    },
+    "date": 1793321561128,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 1812142,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Anubis polnareff",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6025177,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Gogeta mvc",
+      "normal_bettors": 44,
+      "win_streak": -2
+    },
+    "sum": 132226544,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19395
+    },
+    "date": 1793321797367,
+    "duration": 176026,
+    "left": {
+      "bet_amount": 2257052,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Sol badguy ah",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2954876,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Anna ex",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 132175915,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 987
+    },
+    "date": 1793321981538,
+    "duration": 124011,
+    "left": {
+      "bet_amount": 1708235,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Inner hollow ichigo",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5102504,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Venom",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 132201091,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
