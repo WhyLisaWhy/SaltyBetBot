@@ -807682,5 +807682,113 @@
     "sum": 132547761,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17815
+    },
+    "date": 1793385381927,
+    "duration": 140190,
+    "left": {
+      "bet_amount": 4134774,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Dianus",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1408160,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lf2 - louis",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 132549878,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37447
+    },
+    "date": 1793385587928,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 2314948,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Miles edgeworth",
+      "normal_bettors": 20,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442885,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Plasma wisp",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 132532063,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16941
+    },
+    "date": 1793385732129,
+    "duration": 90006,
+    "left": {
+      "bet_amount": 2947215,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Waldstein",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442006,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Luka",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 132590623,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19134
+    },
+    "date": 1793385868330,
+    "duration": 76201,
+    "left": {
+      "bet_amount": 2393834,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Konoha",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2057007,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Pierre",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 132573682,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
