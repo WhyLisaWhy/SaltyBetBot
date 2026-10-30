@@ -800500,5 +800500,113 @@
     "sum": 132163304,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19477
+    },
+    "date": 1793326545126,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 5240634,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Deezer",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1372602,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Megu asuhara",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 132174218,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21828
+    },
+    "date": 1793326715327,
+    "duration": 110203,
+    "left": {
+      "bet_amount": 2901181,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Lina 2",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1965647,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hogyoku aizen",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 132154741,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26394
+    },
+    "date": 1793326853338,
+    "duration": 84011,
+    "left": {
+      "bet_amount": 1493143,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Yuri945",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2934942,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Ushio",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 132186605,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793327249750,
+    "duration": 120222,
+    "left": {
+      "bet_amount": 145261,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Asamiya saki x",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76442,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Superior dragon",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
