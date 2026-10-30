@@ -810218,5 +810218,32 @@
     "sum": 7554,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14296
+    },
+    "date": 1793403514528,
+    "duration": 264397,
+    "left": {
+      "bet_amount": 856641,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 29,
+      "name": "Satsuki yumiduka EX",
+      "normal_bettors": 41,
+      "win_streak": 8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145255,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Cyberbot_atlas",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 14296,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
