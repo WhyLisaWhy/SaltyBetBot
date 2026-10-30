@@ -809032,5 +809032,113 @@
     "sum": 133215242,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19545
+    },
+    "date": 1793394280931,
+    "duration": 184198,
+    "left": {
+      "bet_amount": 1271612,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Aoi matsubara",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2631708,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 13,
+      "name": "Tsukushi_mio",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 133192333,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14375
+    },
+    "date": 1793394507129,
+    "duration": 166201,
+    "left": {
+      "bet_amount": 1713711,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mister bater",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4120379,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Kuronoa",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 133172788,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26052
+    },
+    "date": 1793394647125,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 2965540,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "VanillaIce",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2093441,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Biped EX7",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 133178746,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10661
+    },
+    "date": 1793394911335,
+    "duration": 200203,
+    "left": {
+      "bet_amount": 3185447,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Mother",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1273600,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Addict eyes tohno",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 133152694,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
