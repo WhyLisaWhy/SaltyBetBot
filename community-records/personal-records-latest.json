@@ -808492,5 +808492,140 @@
     "sum": 133045600,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30861
+    },
+    "date": 1793390670144,
+    "duration": 104214,
+    "left": {
+      "bet_amount": 1366426,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Evil ryu sf3",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2722421,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Ultimate weapon chise",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 133056926,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793390808126,
+    "duration": 77997,
+    "left": {
+      "bet_amount": 2396150,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Mezu",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5610500,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Cci kula",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 133117055,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1726
+    },
+    "date": 1793390936332,
+    "duration": 70203,
+    "left": {
+      "bet_amount": 4590897,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Rugal bernstein (cvs)-kofm",
+      "normal_bettors": 30,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1812542,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Masamichi oyama",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133117056,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13907
+    },
+    "date": 1793391080327,
+    "duration": 84002,
+    "left": {
+      "bet_amount": 8043423,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "Gustab munchausen",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1239082,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kim sueil",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 133117738,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42687
+    },
+    "date": 1793391276562,
+    "duration": 140230,
+    "left": {
+      "bet_amount": 3582363,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Popuko",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Devilch",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 133119877,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
