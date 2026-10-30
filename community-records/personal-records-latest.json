@@ -803983,5 +803983,86 @@
     "sum": 32679,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793353732523,
+    "duration": 226198,
+    "left": {
+      "bet_amount": 101669,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Joachim",
+      "normal_bettors": 9,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 858329,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Guillotine gen",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1734
+    },
+    "date": 1793353996729,
+    "duration": 204202,
+    "left": {
+      "bet_amount": 938795,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Super gideon graves",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128364,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Strider hiryu",
+      "normal_bettors": 10,
+      "win_streak": 6
+    },
+    "sum": 1734,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1971
+    },
+    "date": 1793354339125,
+    "duration": 282399,
+    "left": {
+      "bet_amount": 372120,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Guillotine gen",
+      "normal_bettors": 13,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 775347,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Super gideon graves",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 1971,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
