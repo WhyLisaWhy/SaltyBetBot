@@ -803632,5 +803632,86 @@
     "sum": 132543962,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20684
+    },
+    "date": 1793349773929,
+    "duration": 52593,
+    "left": {
+      "bet_amount": 2329443,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Halfkun",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1241992,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bowser",
+      "normal_bettors": 8,
+      "win_streak": 1
+    },
+    "sum": 132544543,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793350183729,
+    "duration": 138005,
+    "left": {
+      "bet_amount": 79010,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Kid trunks",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 105890,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Hayato MVC",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2690
+    },
+    "date": 1793350457928,
+    "duration": 216204,
+    "left": {
+      "bet_amount": 172441,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Joachim",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ra's al ghul",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 2690,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
