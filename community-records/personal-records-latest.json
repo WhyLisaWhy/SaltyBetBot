@@ -807547,5 +807547,140 @@
     "sum": 132513458,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32737
+    },
+    "date": 1793384365126,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 2309428,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Oichi EX5",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2913552,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Yae",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 132543669,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30613
+    },
+    "date": 1793384535146,
+    "duration": 114022,
+    "left": {
+      "bet_amount": 2840352,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Blaze fielding",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1256844,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Lilith aensland",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 132510932,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17331
+    },
+    "date": 1793384745327,
+    "duration": 154198,
+    "left": {
+      "bet_amount": 3010726,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Leonardo EX",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2877430,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Chariot du nord joven",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 132524334,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13466
+    },
+    "date": 1793384911525,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 4773262,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Gonzales s-r",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1919700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Galmyer_corps",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 132542360,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1820
+    },
+    "date": 1793385181734,
+    "duration": 210204,
+    "left": {
+      "bet_amount": 2051587,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Yuka EX3",
+      "normal_bettors": 26,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2388399,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Noroko",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 132547761,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
