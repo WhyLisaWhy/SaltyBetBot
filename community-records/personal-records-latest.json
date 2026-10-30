@@ -805225,5 +805225,113 @@
     "sum": 132380963,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 47616
+    },
+    "date": 1793363698530,
+    "duration": 216204,
+    "left": {
+      "bet_amount": 1403057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "K-bw v2",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4702057,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Mech.hisui 404",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 132402784,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29593
+    },
+    "date": 1793363868730,
+    "duration": 116191,
+    "left": {
+      "bet_amount": 3431160,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Tu shou",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1475095,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Neco-arc chaos ac",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 132416850,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36622
+    },
+    "date": 1793364018731,
+    "duration": 85934,
+    "left": {
+      "bet_amount": 2237702,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Petora",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1389040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nike & kukuri",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 132387257,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793364212928,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 2490242,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Another kung fu girl z",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2024128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ganondorf mythos",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 132350635,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
