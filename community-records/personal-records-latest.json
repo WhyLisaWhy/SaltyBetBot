@@ -804577,5 +804577,140 @@
     "sum": 132425480,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17657
+    },
+    "date": 1793359294959,
+    "duration": 144033,
+    "left": {
+      "bet_amount": 2422135,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Yaridovich",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1419950,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryofu",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 132420180,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6295
+    },
+    "date": 1793359451126,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 1138646,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Super better mario",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5036209,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "General daiyousei",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "sum": 132402523,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25004
+    },
+    "date": 1793359597127,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1277016,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Super saiyan god kfm",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2815773,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Titan the great",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 132403945,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16967
+    },
+    "date": 1793359817327,
+    "duration": 160001,
+    "left": {
+      "bet_amount": 1434135,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ex-kyo(jin-typea)",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2704756,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Jean grey",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 132378941,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23579
+    },
+    "date": 1793360017528,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 2062724,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Daimon hakumen",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3598805,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Peketo EX3",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 132387882,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
