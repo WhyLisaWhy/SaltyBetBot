@@ -807169,5 +807169,113 @@
     "sum": 16471,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28517
+    },
+    "date": 1793381881129,
+    "duration": 150205,
+    "left": {
+      "bet_amount": 1875112,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Kohaku EX2",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4328461,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Negativezero",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 132460407,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6288
+    },
+    "date": 1793382057127,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 4892695,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Black frost",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1135153,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Cyborg_d-9f",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 132460407,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20359
+    },
+    "date": 1793382207324,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 1881525,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Death adder",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2427024,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Bad rorschach",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 132433348,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13714
+    },
+    "date": 1793382381327,
+    "duration": 113999,
+    "left": {
+      "bet_amount": 5581913,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Dhalsim3",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1554963,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Momasusta",
+      "normal_bettors": 15,
+      "win_streak": -6
+    },
+    "sum": 132412989,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
