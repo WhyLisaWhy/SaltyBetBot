@@ -802606,5 +802606,113 @@
     "sum": 132485870,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30197
+    },
+    "date": 1793342835926,
+    "duration": 112196,
+    "left": {
+      "bet_amount": 2383318,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Jackie Drunken Fist",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1563539,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Wild woody",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 132543085,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7912
+    },
+    "date": 1793343100128,
+    "duration": 194201,
+    "left": {
+      "bet_amount": 2437613,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Furude rika",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1376465,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mars people EX3",
+      "normal_bettors": 13,
+      "win_streak": -9
+    },
+    "sum": 132588243,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36693
+    },
+    "date": 1793343290328,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 2464123,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Dark super sonic",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1431957,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kawashima-san",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "sum": 132580331,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7884
+    },
+    "date": 1793343430340,
+    "duration": 84016,
+    "left": {
+      "bet_amount": 1036977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Evil barney",
+      "normal_bettors": 10,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9205962,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Sabretoothu",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 132601342,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
