@@ -804847,5 +804847,113 @@
     "sum": 132390591,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19803
+    },
+    "date": 1793361014326,
+    "duration": 89999,
+    "left": {
+      "bet_amount": 1499832,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Skolldir",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5202537,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "A-yuki",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 132395424,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29962
+    },
+    "date": 1793361254545,
+    "duration": 180217,
+    "left": {
+      "bet_amount": 3520937,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Goku deus extreme",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2108027,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Sara_cat EX",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "sum": 132375621,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 15778
+    },
+    "date": 1793361398741,
+    "duration": 90212,
+    "left": {
+      "bet_amount": 4515199,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Jaguar",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2115189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Skywarp",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 132393409,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21335
+    },
+    "date": 1793361674929,
+    "duration": 216200,
+    "left": {
+      "bet_amount": 1137953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Manute",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5581205,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Dragon EX",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 132400775,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
