@@ -803011,5 +803011,140 @@
     "sum": 132562982,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7153
+    },
+    "date": 1793345624126,
+    "duration": 164200,
+    "left": {
+      "bet_amount": 824800,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sleeping nayuki",
+      "normal_bettors": 5,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4270772,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Tam-tam nrf",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 132566871,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27704
+    },
+    "date": 1793345800327,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 3766712,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Junichi",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1435831,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kusanagi EX",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 132559718,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33968
+    },
+    "date": 1793346174529,
+    "duration": 204202,
+    "left": {
+      "bet_amount": 2264091,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Olof linderoth",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2447247,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kabal umk3",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 132532014,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19485
+    },
+    "date": 1793346340742,
+    "duration": 110215,
+    "left": {
+      "bet_amount": 2582187,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Ernie the giant chicken",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 847862,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Peppercat",
+      "normal_bettors": 8,
+      "win_streak": 5
+    },
+    "sum": 132568188,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23794
+    },
+    "date": 1793346474735,
+    "duration": 80006,
+    "left": {
+      "bet_amount": 1698492,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Mimic",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1165572,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Kirin",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 132548703,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
