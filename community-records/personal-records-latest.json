@@ -805495,5 +805495,140 @@
     "sum": 132331016,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 373
+    },
+    "date": 1793365399935,
+    "duration": 114177,
+    "left": {
+      "bet_amount": 962506,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Crilin sposato",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4709229,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Lowtiergod's urien",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 132334548,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33151
+    },
+    "date": 1793365599944,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 1293804,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Anaroguma",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4433820,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Qb",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 132334175,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 41674
+    },
+    "date": 1793365832126,
+    "duration": 171999,
+    "left": {
+      "bet_amount": 1961353,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Guy CVS",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1836822,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Monolith",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 132343777,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793366016328,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 6044115,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Minato arisato",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1142451,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Fu shun",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 132387290,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34385
+    },
+    "date": 1793366176529,
+    "duration": 100201,
+    "left": {
+      "bet_amount": 1128937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dio S",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3356363,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Evil ash diabolosis",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 132387291,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
