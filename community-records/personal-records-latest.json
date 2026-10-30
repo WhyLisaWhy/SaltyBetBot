@@ -806953,5 +806953,113 @@
     "sum": 8436,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9556
+    },
+    "date": 1793375355928,
+    "duration": 114199,
+    "left": {
+      "bet_amount": 77222,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kyo kusanagi 96",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 541212,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "A cheerful traveler",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "sum": 9556,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10896
+    },
+    "date": 1793375561927,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 556852,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Ririsu",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 126143,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lucky",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 10896,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793375746130,
+    "duration": 123996,
+    "left": {
+      "bet_amount": 327918,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Miduma EX3",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 267654,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Barrangas",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3439
+    },
+    "date": 1793376016331,
+    "duration": 210202,
+    "left": {
+      "bet_amount": 234487,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Lf2 - archmage",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 311964,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sigeru",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 3439,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
