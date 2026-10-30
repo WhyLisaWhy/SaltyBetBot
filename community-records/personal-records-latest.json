@@ -803875,5 +803875,113 @@
     "sum": 12657,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14127
+    },
+    "date": 1793352705728,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 56450,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hayato MVC",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 501322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Joachim",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 14127,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15675
+    },
+    "date": 1793353055929,
+    "duration": 290200,
+    "left": {
+      "bet_amount": 92847,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Nrvnqsr chaos",
+      "normal_bettors": 7,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 563245,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Guillotine gen",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 15675,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18189
+    },
+    "date": 1793353232125,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 375276,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Super gideon graves",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 313446,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 19,
+      "name": "Go badaa ba",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 18189,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32679
+    },
+    "date": 1793353446327,
+    "duration": 154203,
+    "left": {
+      "bet_amount": 319164,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Reisen-e",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 509731,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Strider hiryu",
+      "normal_bettors": 18,
+      "win_streak": 5
+    },
+    "sum": 32679,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
