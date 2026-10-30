@@ -804955,5 +804955,140 @@
     "sum": 132400775,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24527
+    },
+    "date": 1793361955127,
+    "duration": 226168,
+    "left": {
+      "bet_amount": 2191248,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Dai rai oh",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2248648,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Chargeman len",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 132379440,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16811
+    },
+    "date": 1793362111327,
+    "duration": 96198,
+    "left": {
+      "bet_amount": 1242110,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sailor moon kof",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6787118,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Cb valimes",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 132403084,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6951
+    },
+    "date": 1793362255330,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1513611,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Reisen EX3",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6210835,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Terraformer",
+      "normal_bettors": 39,
+      "win_streak": 0
+    },
+    "sum": 132406153,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28747
+    },
+    "date": 1793362385530,
+    "duration": 70205,
+    "left": {
+      "bet_amount": 6400998,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Dhalsim vp",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1062283,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Tiger EX",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 132407846,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20839
+    },
+    "date": 1793362525527,
+    "duration": 83994,
+    "left": {
+      "bet_amount": 1896855,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Yuki morikawa",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1866666,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Byuu",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 132412596,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
