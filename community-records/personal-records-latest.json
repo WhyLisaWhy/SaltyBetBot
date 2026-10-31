@@ -817373,5 +817373,113 @@
     "sum": 133244400,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13986
+    },
+    "date": 1793457160328,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 4383689,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Cco",
+      "normal_bettors": 32,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1076711,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Sol",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 133244538,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14556
+    },
+    "date": 1793457356533,
+    "duration": 142206,
+    "left": {
+      "bet_amount": 2381372,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Komachi",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1714216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kudo",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 133247963,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24338
+    },
+    "date": 1793457570730,
+    "duration": 154197,
+    "left": {
+      "bet_amount": 1309094,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gardevoir EX3",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3254221,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Model z",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 133258378,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1695
+    },
+    "date": 1793457800933,
+    "duration": 170189,
+    "left": {
+      "bet_amount": 4507819,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Heart aino EX8",
+      "normal_bettors": 29,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 918356,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mezu EX4",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 133268096,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
