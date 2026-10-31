@@ -816347,5 +816347,59 @@
     "sum": 2690,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793449298128,
+    "duration": 176201,
+    "left": {
+      "bet_amount": 774947,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Senator",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157468,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Sissy",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793449572379,
+    "duration": 220247,
+    "left": {
+      "bet_amount": 534870,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "G rugal CVS",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 342074,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Snow",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
