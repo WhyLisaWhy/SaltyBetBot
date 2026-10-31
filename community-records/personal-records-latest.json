@@ -819695,5 +819695,140 @@
     "sum": 133283341,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32825
+    },
+    "date": 1793474338130,
+    "duration": 105999,
+    "left": {
+      "bet_amount": 984892,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Degola",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2366751,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "H-duolon",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 133259799,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26188
+    },
+    "date": 1793474502328,
+    "duration": 100176,
+    "left": {
+      "bet_amount": 995176,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ken amada & koromaru",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1892225,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Nana diclonius",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 133226974,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793474712529,
+    "duration": 154199,
+    "left": {
+      "bet_amount": 3031243,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Brazer",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3653959,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Yuno gasai",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133200786,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6770
+    },
+    "date": 1793474832530,
+    "duration": 59933,
+    "left": {
+      "bet_amount": 17167738,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "S-kishima_kouma",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1162983,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "K'_sv",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 133200787,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22392
+    },
+    "date": 1793475008728,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 2039870,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Alpha candy",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1017681,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Tager",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 133201246,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
