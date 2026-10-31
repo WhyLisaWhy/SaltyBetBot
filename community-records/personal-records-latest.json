@@ -821799,5 +821799,140 @@
     "sum": 133508820,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17948
+    },
+    "date": 1793486968328,
+    "duration": 66197,
+    "left": {
+      "bet_amount": 788327,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gosunkugi hikaru",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3772009,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "E.honda sf2",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 133514920,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13136
+    },
+    "date": 1793487122330,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 952006,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "00 bigbear",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2950186,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Medamaoyaji",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 133518654,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793487282529,
+    "duration": 104197,
+    "left": {
+      "bet_amount": 907032,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Ermac umk3",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3663446,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "J.max",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 133558808,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18433
+    },
+    "date": 1793487422527,
+    "duration": 79999,
+    "left": {
+      "bet_amount": 1870369,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Rozwel j",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1814215,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Gh-golden silver",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 133558807,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12443
+    },
+    "date": 1793487618727,
+    "duration": 139996,
+    "left": {
+      "bet_amount": 4600357,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Sheana",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1086276,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Heavyarms custom",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133576513,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
