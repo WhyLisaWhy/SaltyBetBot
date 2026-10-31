@@ -816023,5 +816023,86 @@
     "sum": 133160128,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793446483924,
+    "duration": 220196,
+    "left": {
+      "bet_amount": 121236,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Deidara nzc",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55297,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Saiyajin",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2249
+    },
+    "date": 1793446694125,
+    "duration": 156184,
+    "left": {
+      "bet_amount": 69311,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Histoire",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 165339,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Senator",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 2249,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3180
+    },
+    "date": 1793446898125,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 40368,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Plasma wisp",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 250918,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Sissy",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 3180,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
