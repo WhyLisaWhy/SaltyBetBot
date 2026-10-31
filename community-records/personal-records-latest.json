@@ -815780,5 +815780,140 @@
     "sum": 133108601,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33634
+    },
+    "date": 1793444554325,
+    "duration": 179997,
+    "left": {
+      "bet_amount": 2855155,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Kazama sogetsu EX3",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1264411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Daisy EX3",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 133105033,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24610
+    },
+    "date": 1793444756523,
+    "duration": 139996,
+    "left": {
+      "bet_amount": 1035070,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Hanzo EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2613695,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "G-dialga",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 133119755,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26918
+    },
+    "date": 1793444940730,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 1833893,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Gori",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1852951,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Mario smb1 b",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 133180456,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29073
+    },
+    "date": 1793445090728,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1386608,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Ichigo EX",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2274967,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Kung fu head",
+      "normal_bettors": 29,
+      "win_streak": -6
+    },
+    "sum": 133153538,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21067
+    },
+    "date": 1793445300956,
+    "duration": 154030,
+    "left": {
+      "bet_amount": 2517427,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Cruelty blood arcueid",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2295826,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jureimen",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 133124465,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
