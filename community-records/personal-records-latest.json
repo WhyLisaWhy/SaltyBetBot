@@ -815915,5 +815915,113 @@
     "sum": 133124465,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12053
+    },
+    "date": 1793445461156,
+    "duration": 100016,
+    "left": {
+      "bet_amount": 2872761,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Spinal ki2",
+      "normal_bettors": 22,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1234927,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Task force batman",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 133147356,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 42835
+    },
+    "date": 1793445617123,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 974499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Wolfgang Krauser",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6293129,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Godzilla(gb)",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 133135303,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34349
+    },
+    "date": 1793445877324,
+    "duration": 199994,
+    "left": {
+      "bet_amount": 1338687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dark order sol",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2487306,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Maoh",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 133141892,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 483
+    },
+    "date": 1793445992930,
+    "duration": 55405,
+    "left": {
+      "bet_amount": 820937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Hyo amano",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4034989,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Isabeau",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 133160128,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
