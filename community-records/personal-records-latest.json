@@ -812756,5 +812756,140 @@
     "sum": 133011897,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16404
+    },
+    "date": 1793422977528,
+    "duration": 66201,
+    "left": {
+      "bet_amount": 1134511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rim silveria",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6102595,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 20,
+      "name": "Paprika",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 132992864,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21383
+    },
+    "date": 1793423137525,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1413255,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Leo EX2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4523101,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 18,
+      "name": "Jivatma",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 132995906,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11660
+    },
+    "date": 1793423311792,
+    "duration": 120261,
+    "left": {
+      "bet_amount": 3482520,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 12,
+      "name": "Big the cat",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1211104,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Izuko xiii",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 132974523,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793423481945,
+    "duration": 110219,
+    "left": {
+      "bet_amount": 787944,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Galford ex",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7405961,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 15,
+      "name": "Astroboy",
+      "normal_bettors": 34,
+      "win_streak": 0
+    },
+    "sum": 132978565,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13580
+    },
+    "date": 1793423637926,
+    "duration": 86000,
+    "left": {
+      "bet_amount": 2885545,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Hastur",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1725895,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Sayuri hexe",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 132978566,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
