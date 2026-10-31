@@ -819398,5 +819398,113 @@
     "sum": 2052,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793471523928,
+    "duration": 166196,
+    "left": {
+      "bet_amount": 343821,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Destroyous",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 153361,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shampoo",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2239
+    },
+    "date": 1793471798130,
+    "duration": 220195,
+    "left": {
+      "bet_amount": 298765,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 21,
+      "name": "Deluxe may",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 199233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mittelt",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 2239,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3721
+    },
+    "date": 1793472044329,
+    "duration": 186203,
+    "left": {
+      "bet_amount": 187904,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kobuta",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 414781,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Rei-kugo",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 3721,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5392
+    },
+    "date": 1793472288529,
+    "duration": 184188,
+    "left": {
+      "bet_amount": 257322,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Destroyous",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 380726,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Deluxe may",
+      "normal_bettors": 25,
+      "win_streak": 6
+    },
+    "sum": 5392,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
