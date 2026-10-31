@@ -810461,5 +810461,86 @@
     "sum": 133268520,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15123
+    },
+    "date": 1793408694327,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 15677344,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Raptorking-petshop",
+      "normal_bettors": 38,
+      "win_streak": 22
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050628,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "God of fist",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 133321734,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20172
+    },
+    "date": 1793408984526,
+    "duration": 96202,
+    "left": {
+      "bet_amount": 4465340,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 18,
+      "name": "Hotaru",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 846256,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yusuke urameshi",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 133322747,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19795
+    },
+    "date": 1793409144529,
+    "duration": 106004,
+    "left": {
+      "bet_amount": 2431915,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Paul the monkey",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1836343,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Yuri pots",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "sum": 133326553,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
