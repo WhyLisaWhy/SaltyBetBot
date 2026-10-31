@@ -815078,5 +815078,86 @@
     "sum": 133139279,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793440259127,
+    "duration": 96199,
+    "left": {
+      "bet_amount": 1548712,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hitosyura",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3314494,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Trainheartnet",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "sum": 133140354,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18854
+    },
+    "date": 1793440423129,
+    "duration": 104004,
+    "left": {
+      "bet_amount": 1564669,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Roomi kof",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1597485,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Shaq",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "sum": 133140357,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28418
+    },
+    "date": 1793440573328,
+    "duration": 94001,
+    "left": {
+      "bet_amount": 2173961,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Souji kusanagi",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1261768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Guile svc chaos",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 133121503,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
