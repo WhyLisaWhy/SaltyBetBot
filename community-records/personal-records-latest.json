@@ -813161,5 +813161,86 @@
     "sum": 2262,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2586
+    },
+    "date": 1793425941725,
+    "duration": 210201,
+    "left": {
+      "bet_amount": 394569,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Exredking",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 249835,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Despacito 2",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 2586,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4213
+    },
+    "date": 1793426075928,
+    "duration": 70201,
+    "left": {
+      "bet_amount": 312566,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Beerus, god of destruction",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 485116,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Seiteiou",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 4213,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10665
+    },
+    "date": 1793426265931,
+    "duration": 134005,
+    "left": {
+      "bet_amount": 785839,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 25,
+      "name": "Orochi(rance)",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 176249,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Steve",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 10665,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
