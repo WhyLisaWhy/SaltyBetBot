@@ -814079,5 +814079,140 @@
     "sum": 133086197,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 42426
+    },
+    "date": 1793433723924,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 1586745,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Turf EX3",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2068140,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Shirou yusa",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 133109123,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27188
+    },
+    "date": 1793433958129,
+    "duration": 180199,
+    "left": {
+      "bet_amount": 1398750,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rei-kugo",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2663834,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Josuke higashikata",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 133066697,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22331
+    },
+    "date": 1793434124129,
+    "duration": 109957,
+    "left": {
+      "bet_amount": 1412491,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yamcha",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2987325,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Killerbee",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 133039509,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37033
+    },
+    "date": 1793434284340,
+    "duration": 106012,
+    "left": {
+      "bet_amount": 2550205,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Kalen",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1979444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sho kamui",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 133049990,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34324
+    },
+    "date": 1793434474530,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 3511621,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Blodia-k",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1059304,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Tain-ren",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 133078324,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
