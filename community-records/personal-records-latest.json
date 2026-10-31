@@ -813674,5 +813674,140 @@
     "sum": 133061642,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793431159936,
+    "duration": 120208,
+    "left": {
+      "bet_amount": 2102355,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Night_gaunt",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1764848,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Lord zedd",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 133035215,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32251
+    },
+    "date": 1793431293924,
+    "duration": 73981,
+    "left": {
+      "bet_amount": 5088499,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Manifest yuki",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1308328,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "The invincible ironman",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 133035214,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23446
+    },
+    "date": 1793431464130,
+    "duration": 104006,
+    "left": {
+      "bet_amount": 1349088,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ultron",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3429406,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 16,
+      "name": "Billy 'big bang' blitz",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 133002963,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8934
+    },
+    "date": 1793431614325,
+    "duration": 94196,
+    "left": {
+      "bet_amount": 1663329,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gorilla",
+      "normal_bettors": 15,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2425798,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Akebono taro",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 133012124,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 49359
+    },
+    "date": 1793431794345,
+    "duration": 124015,
+    "left": {
+      "bet_amount": 1750288,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Yuri lowell",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2658588,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Byakuren UliL",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 133003190,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
