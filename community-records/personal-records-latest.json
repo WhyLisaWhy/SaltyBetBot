@@ -810245,5 +810245,32 @@
     "sum": 14296,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20464
+    },
+    "date": 1793407471328,
+    "duration": 114203,
+    "left": {
+      "bet_amount": 1740728,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Arale norimaki",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2283301,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Shin kazuma",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 133237093,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
