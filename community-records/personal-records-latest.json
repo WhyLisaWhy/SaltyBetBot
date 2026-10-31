@@ -816104,5 +816104,113 @@
     "sum": 3180,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3686
+    },
+    "date": 1793447214527,
+    "duration": 260200,
+    "left": {
+      "bet_amount": 140658,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Real justice",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 182806,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Stefanie",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 3686,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793447440727,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 114836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Duo lon",
+      "normal_bettors": 21,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 284047,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ken",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2174
+    },
+    "date": 1793447640724,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 100247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Bowser mythos",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 368571,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "G rugal CVS",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 2174,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2762
+    },
+    "date": 1793447864934,
+    "duration": 170007,
+    "left": {
+      "bet_amount": 76754,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Marian",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 459238,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Snow",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 2762,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
