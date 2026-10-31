@@ -816833,5 +816833,113 @@
     "sum": 133155121,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27631
+    },
+    "date": 1793453619534,
+    "duration": 94006,
+    "left": {
+      "bet_amount": 2495902,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 10,
+      "name": "Joker EX3",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1073950,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "W.nut",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "sum": 133166010,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10528
+    },
+    "date": 1793453807721,
+    "duration": 128192,
+    "left": {
+      "bet_amount": 1167624,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Kyo-2",
+      "normal_bettors": 22,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 14743445,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Sai",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 133177770,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29926
+    },
+    "date": 1793453965928,
+    "duration": 100144,
+    "left": {
+      "bet_amount": 2308190,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "D4 reimu",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1283897,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Rosa_obsn",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 133167242,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28759
+    },
+    "date": 1793454165940,
+    "duration": 146009,
+    "left": {
+      "bet_amount": 1306248,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Kaori&shiori EX",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2019245,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Ultrassjgoku",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 133183675,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
