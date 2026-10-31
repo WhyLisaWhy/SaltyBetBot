@@ -813377,5 +813377,140 @@
     "sum": 132978313,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17914
+    },
+    "date": 1793429352327,
+    "duration": 146002,
+    "left": {
+      "bet_amount": 2950304,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Ryona",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1163113,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gyakutai-ojisan",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 132978314,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22630
+    },
+    "date": 1793429542524,
+    "duration": 129991,
+    "left": {
+      "bet_amount": 2407227,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Lilia",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1409204,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kubikiri basara EX",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 132985334,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10860
+    },
+    "date": 1793429692725,
+    "duration": 95996,
+    "left": {
+      "bet_amount": 5545551,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mech ralf",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1382624,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ssf2x ryu",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 132962704,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2886
+    },
+    "date": 1793429816925,
+    "duration": 70199,
+    "left": {
+      "bet_amount": 5012164,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Mizukami hokuto",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1856112,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Senna",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 132965407,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33155
+    },
+    "date": 1793429956925,
+    "duration": 83975,
+    "left": {
+      "bet_amount": 1501049,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Valdoll",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2520086,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Char's zaku",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 132966476,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
