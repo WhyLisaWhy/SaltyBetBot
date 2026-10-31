@@ -816428,5 +816428,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18836
+    },
+    "date": 1793451155529,
+    "duration": 70003,
+    "left": {
+      "bet_amount": 952501,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "K'",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2308637,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Gekka suika",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 133161195,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19201
+    },
+    "date": 1793451345731,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 1729142,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Real chibi scex",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1589323,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Golgotha",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 133168904,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12575
+    },
+    "date": 1793451445928,
+    "duration": 43999,
+    "left": {
+      "bet_amount": 3930216,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Death13 EX3",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1231992,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cammy cxn",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 133149703,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30689
+    },
+    "date": 1793451656127,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 2108180,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Mini caster",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 922690,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "S.o.g",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 133153633,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
