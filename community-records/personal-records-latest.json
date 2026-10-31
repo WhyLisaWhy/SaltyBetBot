@@ -812054,5 +812054,113 @@
     "sum": 133193197,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793418519930,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 2684080,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Porky minch",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1613581,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Sundown-kid",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 133149282,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5642
+    },
+    "date": 1793418714140,
+    "duration": 130214,
+    "left": {
+      "bet_amount": 3208670,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Nazrin deluxe",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1496906,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Fuhashitei",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 133149284,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2203
+    },
+    "date": 1793418874330,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 4601529,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Kubikiri basara KOF",
+      "normal_bettors": 37,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1446936,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Chloe valens",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 133143642,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793419030328,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 2546708,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Cool choi",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1987050,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Guardian",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 133144335,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
