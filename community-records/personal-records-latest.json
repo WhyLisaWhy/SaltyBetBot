@@ -811298,5 +811298,140 @@
     "sum": 133212778,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22043
+    },
+    "date": 1793413896327,
+    "duration": 164196,
+    "left": {
+      "bet_amount": 1976608,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Kyoji kasshu",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2218746,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "K.chris",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 133188934,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22639
+    },
+    "date": 1793414056527,
+    "duration": 100196,
+    "left": {
+      "bet_amount": 10142189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Shiki_sv",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1127913,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Samus",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 133188934,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793414238562,
+    "duration": 126033,
+    "left": {
+      "bet_amount": 1795570,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Asuka tmnt remix",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1805610,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "N.natsume",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 133169404,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 136
+    },
+    "date": 1793414382729,
+    "duration": 90205,
+    "left": {
+      "bet_amount": 931759,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tetsu yatoji",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5938927,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Adol christin",
+      "normal_bettors": 42,
+      "win_streak": 4
+    },
+    "sum": 133169403,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19859
+    },
+    "date": 1793414528728,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 3673503,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Saku EX2",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3412713,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Eagle-sabu",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 133169425,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
