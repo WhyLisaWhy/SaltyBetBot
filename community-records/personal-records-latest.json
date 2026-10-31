@@ -820289,5 +820289,113 @@
     "sum": 133321017,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 326
+    },
+    "date": 1793478003128,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 3815610,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Gel",
+      "normal_bettors": 33,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 866511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Caviar?",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 133344592,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23666
+    },
+    "date": 1793478153344,
+    "duration": 90216,
+    "left": {
+      "bet_amount": 2629645,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Anti.guile.zangief",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1428315,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Omni-psych chipp",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 133344667,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793478313334,
+    "duration": 100006,
+    "left": {
+      "bet_amount": 743605,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Musashi akatsuki",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4588899,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Eelis",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "sum": 133357407,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20880
+    },
+    "date": 1793478483528,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 1950478,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Jin kazama qyc",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1208735,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Eddie",
+      "normal_bettors": 14,
+      "win_streak": -8
+    },
+    "sum": 133357408,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
