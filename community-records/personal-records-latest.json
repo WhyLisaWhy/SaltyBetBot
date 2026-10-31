@@ -811190,5 +811190,113 @@
     "sum": 133225458,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35240
+    },
+    "date": 1793413161755,
+    "duration": 110227,
+    "left": {
+      "bet_amount": 5666017,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Teddie",
+      "normal_bettors": 41,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 966646,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Jin kazama qyc",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 133226795,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793413315942,
+    "duration": 94214,
+    "left": {
+      "bet_amount": 3412312,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Marona(beta)",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1204930,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ojisama",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 133232770,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19991
+    },
+    "date": 1793413531927,
+    "duration": 150001,
+    "left": {
+      "bet_amount": 2583019,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Super hornet",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1956144,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ragna mau",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 133232769,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23844
+    },
+    "date": 1793413676127,
+    "duration": 84001,
+    "left": {
+      "bet_amount": 4213595,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Iron man -mgmx-",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1199176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Venom MMV",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "sum": 133212778,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
