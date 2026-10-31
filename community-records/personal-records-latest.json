@@ -820397,5 +820397,165 @@
     "sum": 133357408,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21072
+    },
+    "date": 1793478679730,
+    "duration": 136203,
+    "left": {
+      "bet_amount": 3490024,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Lady ignis",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1222762,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Scorpion EX4",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 133390529,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1793478853725,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 2894221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Bs agumon",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1421038,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ultraman dyna",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "sum": 133397868,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25986
+    },
+    "date": 1793479039927,
+    "duration": 126001,
+    "left": {
+      "bet_amount": 2174792,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Shizuru",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1449402,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Blizzard EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 133397868,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13013
+    },
+    "date": 1793479206129,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 2366534,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Peketo EX3",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1723294,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Shinnosuke_kagami(shao)",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 133414983,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11154
+    },
+    "date": 1793479316129,
+    "duration": 55981,
+    "left": {
+      "bet_amount": 1112517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ace in the hole",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3172657,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Benimaru EX3",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 133432720,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27181
+    },
+    "date": 1793479466329,
+    "duration": 96099,
+    "left": {
+      "bet_amount": 1738420,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "King dedede ssbb",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1436607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Ryo945",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 133436618,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
