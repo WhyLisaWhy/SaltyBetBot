@@ -814376,5 +814376,113 @@
     "sum": 133170581,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27220
+    },
+    "date": 1793435681595,
+    "duration": 126040,
+    "left": {
+      "bet_amount": 4008708,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Shinobu kawasaki",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1470587,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Asuka EX2",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 133170580,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28106
+    },
+    "date": 1793435907532,
+    "duration": 169996,
+    "left": {
+      "bet_amount": 1236861,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuri945",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2175784,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 11,
+      "name": "Maraiah",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 133180499,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1929
+    },
+    "date": 1793436071728,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1094169,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kirikou",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4292872,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 18,
+      "name": "Task force flash",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 133152393,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 671
+    },
+    "date": 1793436271946,
+    "duration": 140216,
+    "left": {
+      "bet_amount": 1604388,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Moe yumezora",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3170318,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Master sakura",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 133152885,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
