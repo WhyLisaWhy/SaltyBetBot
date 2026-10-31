@@ -811784,5 +811784,113 @@
     "sum": 133184909,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28762
+    },
+    "date": 1793416906729,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 2877340,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Lee & ryoko",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2596992,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Cyclops_cota",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 133170212,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23114
+    },
+    "date": 1793417082729,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 3825526,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Ex-robert garcia",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1016042,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Yuyuko",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 133141450,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28785
+    },
+    "date": 1793417256932,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 1367895,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Juggernaut f",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2553881,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Arrange kohaku",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 133226542,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21427
+    },
+    "date": 1793417467127,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 2816172,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Sae kamaguchi",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1783890,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Syoh",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 133197757,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
