@@ -813809,5 +813809,140 @@
     "sum": 133003190,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26959
+    },
+    "date": 1793431956528,
+    "duration": 100194,
+    "left": {
+      "bet_amount": 2403633,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Stoneaxe",
+      "normal_bettors": 30,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1117983,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Rentaro satomi EX7",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 132953831,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4815
+    },
+    "date": 1793432206734,
+    "duration": 190207,
+    "left": {
+      "bet_amount": 6463724,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Rei EX",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 866753,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Lit ren",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 133010428,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31151
+    },
+    "date": 1793432326728,
+    "duration": 65938,
+    "left": {
+      "bet_amount": 4665367,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Turbo ryu",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1047678,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ultimate astro",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 133011074,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13722
+    },
+    "date": 1793432500942,
+    "duration": 120008,
+    "left": {
+      "bet_amount": 2730918,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Honki yuri",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1337979,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sendai miko",
+      "normal_bettors": 17,
+      "win_streak": -5
+    },
+    "sum": 133018024,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9626
+    },
+    "date": 1793432663126,
+    "duration": 102199,
+    "left": {
+      "bet_amount": 5395677,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Roll",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1121103,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Bloodrayne",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 133024714,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
