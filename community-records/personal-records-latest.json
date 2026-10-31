@@ -817643,5 +817643,113 @@
     "sum": 133239036,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23835
+    },
+    "date": 1793459053931,
+    "duration": 96205,
+    "left": {
+      "bet_amount": 1432418,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Leo-o",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1814554,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Clark 98",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 133221043,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22010
+    },
+    "date": 1793459288130,
+    "duration": 174206,
+    "left": {
+      "bet_amount": 1621981,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Mittelt",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1659009,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 11,
+      "name": "Zangief kof",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 133197208,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39830
+    },
+    "date": 1793459448127,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 1337549,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Cagney carnation",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2003002,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Hunk",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 133218445,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13539
+    },
+    "date": 1793459594331,
+    "duration": 86003,
+    "left": {
+      "bet_amount": 3479726,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Master toadman",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1896657,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Stardust crusader",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 133276367,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
