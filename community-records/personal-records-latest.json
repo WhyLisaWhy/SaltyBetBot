@@ -819047,5 +819047,86 @@
     "sum": 133207306,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793468107127,
+    "duration": 228198,
+    "left": {
+      "bet_amount": 854291,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Charlotte Aulin",
+      "normal_bettors": 18,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3497645,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Kraidgief",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 133224075,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22328
+    },
+    "date": 1793468313332,
+    "duration": 150159,
+    "left": {
+      "bet_amount": 1765960,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Zan-b EX",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1717437,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Marisa,k",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 133224074,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28571
+    },
+    "date": 1793468482728,
+    "duration": 109385,
+    "left": {
+      "bet_amount": 3366671,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Akame",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1509702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kyoji kasshu",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 133245518,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
