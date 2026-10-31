@@ -813242,5 +813242,86 @@
     "sum": 10665,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793426496121,
+    "duration": 169998,
+    "left": {
+      "bet_amount": 352496,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "The jackie chan",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 459350,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Exredking",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793426686323,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 454748,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Beerus, god of destruction",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 351157,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Steve",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2743
+    },
+    "date": 1793426944725,
+    "duration": 196398,
+    "left": {
+      "bet_amount": 320130,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Exredking",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 747410,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 26,
+      "name": "Beerus, god of destruction",
+      "normal_bettors": 41,
+      "win_streak": 4
+    },
+    "sum": 2743,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
