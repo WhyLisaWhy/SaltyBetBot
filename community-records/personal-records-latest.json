@@ -822069,5 +822069,113 @@
     "sum": 133467505,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31543
+    },
+    "date": 1793488825728,
+    "duration": 280183,
+    "left": {
+      "bet_amount": 1494650,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bc-sakura",
+      "normal_bettors": 22,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1822097,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Wonder boy shion",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 133434271,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27557
+    },
+    "date": 1793489059943,
+    "duration": 174203,
+    "left": {
+      "bet_amount": 2109518,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Bonker the clown",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1099247,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Wonder momo",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133471930,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27318
+    },
+    "date": 1793489179929,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 2299511,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Risotto nero",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1126710,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Zwei EX6",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 133444373,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19761
+    },
+    "date": 1793489326127,
+    "duration": 84173,
+    "left": {
+      "bet_amount": 1671505,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Ae86",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1410275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mini caster",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 133417055,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
