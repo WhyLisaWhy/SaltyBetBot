@@ -812891,5 +812891,113 @@
     "sum": 132978566,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22781
+    },
+    "date": 1793423782726,
+    "duration": 80601,
+    "left": {
+      "bet_amount": 1434633,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Gsg9_counter",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3986832,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 14,
+      "name": "Eirin rp",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 132964986,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793424264527,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 61804,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Bloodsurge-corpse",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 182161,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 21,
+      "name": "The jackie chan",
+      "normal_bettors": 44,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2072
+    },
+    "date": 1793424468525,
+    "duration": 144001,
+    "left": {
+      "bet_amount": 100888,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Valmer rugal",
+      "normal_bettors": 35,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 179214,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "G-adelhell",
+      "normal_bettors": 30,
+      "win_streak": -5
+    },
+    "sum": 2072,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3226
+    },
+    "date": 1793424594808,
+    "duration": 66055,
+    "left": {
+      "bet_amount": 61859,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Hybrid form sula",
+      "normal_bettors": 30,
+      "win_streak": -9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 300730,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Exredking",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 3226,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
