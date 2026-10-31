@@ -815510,5 +815510,140 @@
     "sum": 133040656,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 923
+    },
+    "date": 1793442863127,
+    "duration": 95962,
+    "left": {
+      "bet_amount": 3564482,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Jin chonrei",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1151430,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Detton",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133107827,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3863
+    },
+    "date": 1793443023327,
+    "duration": 96191,
+    "left": {
+      "bet_amount": 2119168,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Soda popinski",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1315997,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Raph EX2",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 133108126,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20195
+    },
+    "date": 1793443207327,
+    "duration": 134001,
+    "left": {
+      "bet_amount": 1160200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Samus",
+      "normal_bettors": 11,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2568535,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Hakurei omega",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 133104263,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2516
+    },
+    "date": 1793443383526,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 3816436,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Hugo andore jr.",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 807907,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Guile sftm",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "sum": 133113314,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18435
+    },
+    "date": 1793443509527,
+    "duration": 66007,
+    "left": {
+      "bet_amount": 1834545,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Tomoko",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1661856,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Hugo andore jr.",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133113847,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
