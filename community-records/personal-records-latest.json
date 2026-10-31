@@ -816401,5 +816401,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793449950129,
+    "duration": 321802,
+    "left": {
+      "bet_amount": 291827,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sissy",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 690549,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Snow",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
