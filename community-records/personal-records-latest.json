@@ -830950,5 +830950,113 @@
     "sum": 133326075,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5160
+    },
+    "date": 1793555460730,
+    "duration": 96004,
+    "left": {
+      "bet_amount": 6202414,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Lucifeller_ex",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1023882,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Asuka EX2",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 133327711,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 116
+    },
+    "date": 1793555716927,
+    "duration": 202202,
+    "left": {
+      "bet_amount": 720455,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sakata gintoki",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7503851,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Deathstroke",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 133328563,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21726
+    },
+    "date": 1793555881137,
+    "duration": 104008,
+    "left": {
+      "bet_amount": 3674561,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Scharlachrot-a",
+      "normal_bettors": 38,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442462,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Baiken(ac)",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "sum": 133328447,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27196
+    },
+    "date": 1793556057330,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 4601332,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ms.valliere",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1612370,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Save us anpanman!",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 133336926,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
