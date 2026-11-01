@@ -828682,5 +828682,113 @@
     "sum": 3108,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4989
+    },
+    "date": 1793539866529,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 109515,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Barbarccia",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 249940,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Cassie cage",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 4989,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7133
+    },
+    "date": 1793540100799,
+    "duration": 180240,
+    "left": {
+      "bet_amount": 368177,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Maverick hunter zero",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112218,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kevin rian",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 7133,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9266
+    },
+    "date": 1793540320730,
+    "duration": 159991,
+    "left": {
+      "bet_amount": 425065,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Evil ryu ssf'2 plus",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 117125,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Titan the great",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 9266,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11765
+    },
+    "date": 1793540536930,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 68018,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Cassie cage",
+      "normal_bettors": 18,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 548644,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Maverick hunter zero",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 11765,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
