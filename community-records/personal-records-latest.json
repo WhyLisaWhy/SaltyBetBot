@@ -830626,5 +830626,140 @@
     "sum": 133432264,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793553493324,
+    "duration": 110194,
+    "left": {
+      "bet_amount": 987378,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Asutorea EX3",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2719439,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 9,
+      "name": "Kusanagi_ex",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 133433443,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34487
+    },
+    "date": 1793553697340,
+    "duration": 144014,
+    "left": {
+      "bet_amount": 1465442,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gene",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2360479,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "B-cirno",
+      "normal_bettors": 32,
+      "win_streak": -8
+    },
+    "sum": 133433444,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20535
+    },
+    "date": 1793553853525,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 5446915,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Alpha candy",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 847081,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Gild tesoro",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 133454547,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26168
+    },
+    "date": 1793554003726,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 2470451,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Tormentor jinmen",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1560610,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Krauser",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 133457729,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1940
+    },
+    "date": 1793554163727,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 3519020,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Captain ginyu",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1179485,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Lei-lei",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133431561,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
