@@ -833488,5 +833488,167 @@
     "sum": 133184368,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793575958926,
+    "duration": 82001,
+    "left": {
+      "bet_amount": 1633933,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Sanada yukimura",
+      "normal_bettors": 32,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5419416,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ao-takagami",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 133155762,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5410
+    },
+    "date": 1793576123129,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 4139685,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Marcia",
+      "normal_bettors": 41,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 797235,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Limbo_bros",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 133155761,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2170
+    },
+    "date": 1793576263327,
+    "duration": 80197,
+    "left": {
+      "bet_amount": 2864931,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Gill hero",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1159750,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Saki mitonoya",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 133156802,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793576379328,
+    "duration": 56002,
+    "left": {
+      "bet_amount": 1042784,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shiva EX3",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7607823,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Boshy",
+      "normal_bettors": 42,
+      "win_streak": 5
+    },
+    "sum": 133154632,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17313
+    },
+    "date": 1793576569528,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 5594911,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Tohru adachi",
+      "normal_bettors": 43,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1755595,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Psylocke EX2",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 133154633,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1228
+    },
+    "date": 1793576693544,
+    "duration": 69989,
+    "left": {
+      "bet_amount": 2650734,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Sailor jupiter EX2",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3094113,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Nineball-seraph",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 133160049,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
