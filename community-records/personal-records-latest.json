@@ -827793,5 +827793,140 @@
     "sum": 133060689,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38721
+    },
+    "date": 1793533671525,
+    "duration": 95965,
+    "left": {
+      "bet_amount": 1279453,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Blade",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2078918,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zenryoku",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 133030671,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2952
+    },
+    "date": 1793533921792,
+    "duration": 190265,
+    "left": {
+      "bet_amount": 889344,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Card gunner",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3237620,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Minato arisato",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 133091739,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32016
+    },
+    "date": 1793534071726,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 4061391,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Mewtwo",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1067126,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Adelheid EX",
+      "normal_bettors": 13,
+      "win_streak": -9
+    },
+    "sum": 133088787,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11259
+    },
+    "date": 1793534231929,
+    "duration": 99995,
+    "left": {
+      "bet_amount": 826724,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Renge miyauchi",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5523102,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Hisui aa",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 133097134,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25631
+    },
+    "date": 1793534372126,
+    "duration": 80200,
+    "left": {
+      "bet_amount": 2665270,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Regalo",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 983171,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Toy",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 133098816,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
