@@ -825579,5 +825579,86 @@
     "sum": 3460,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6895
+    },
+    "date": 1793518531330,
+    "duration": 300204,
+    "left": {
+      "bet_amount": 746402,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Ttro",
+      "normal_bettors": 40,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89017,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Wing gundam zero custom",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 6895,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793518697525,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 316414,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Colynse",
+      "normal_bettors": 29,
+      "win_streak": 11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 389700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "R. lilith",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793519063825,
+    "duration": 306296,
+    "left": {
+      "bet_amount": 232424,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lieza_flora_melno",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 496869,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Wing gundam zero custom",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
