@@ -831328,5 +831328,113 @@
     "sum": 133327931,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19650
+    },
+    "date": 1793557968729,
+    "duration": 94004,
+    "left": {
+      "bet_amount": 6360742,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Wolverine_cota",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1278349,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Destoroyah_ex",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 133330204,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 587
+    },
+    "date": 1793558158930,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 1700566,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yet another rugal",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3978625,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Soy milk",
+      "normal_bettors": 27,
+      "win_streak": 6
+    },
+    "sum": 133334141,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793558415128,
+    "duration": 194113,
+    "left": {
+      "bet_amount": 1063342,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Angelique",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6583418,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Medusa",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 133333554,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27758
+    },
+    "date": 1793558615326,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 1632616,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "The Colonel",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2405991,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Omanyte EX3",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 133333555,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
