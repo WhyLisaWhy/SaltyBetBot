@@ -833083,5 +833083,140 @@
     "sum": 133087022,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34194
+    },
+    "date": 1793573282953,
+    "duration": 170226,
+    "left": {
+      "bet_amount": 6127153,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Order-sol",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 934150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dongdong",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 133090784,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18582
+    },
+    "date": 1793573448929,
+    "duration": 110003,
+    "left": {
+      "bet_amount": 1420989,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Q",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3232977,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Krumm",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 133307145,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29515
+    },
+    "date": 1793573639127,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 3085304,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Tu shou",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1281777,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Bills - o destruidor",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 133315266,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9992
+    },
+    "date": 1793573879328,
+    "duration": 183960,
+    "left": {
+      "bet_amount": 1379958,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Darth vader",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3820658,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Dooj mustachio",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 133285751,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5262
+    },
+    "date": 1793574025526,
+    "duration": 90181,
+    "left": {
+      "bet_amount": 2192941,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Robo weiss",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2130242,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Lord of the rangs",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 133289351,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
