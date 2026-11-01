@@ -827091,5 +827091,140 @@
     "sum": 133128360,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28460
+    },
+    "date": 1793529179926,
+    "duration": 110155,
+    "left": {
+      "bet_amount": 685405,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ryu hd",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4414041,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Himekawa kotone",
+      "normal_bettors": 35,
+      "win_streak": 6
+    },
+    "sum": 133128361,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30834
+    },
+    "date": 1793529329934,
+    "duration": 96009,
+    "left": {
+      "bet_amount": 1336284,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Missing iq gomes",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2925307,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Birdie EX3",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 133132752,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10509
+    },
+    "date": 1793529490129,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 1169225,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chris redfield",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3704374,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Alakazam",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 133101918,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793529684327,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 2114091,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Bonebreaker",
+      "normal_bettors": 24,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2728149,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Chonshu",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 133091409,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9839
+    },
+    "date": 1793529870529,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 838208,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Warmachine MVC2",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4664700,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Gelonimon",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 133091410,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
