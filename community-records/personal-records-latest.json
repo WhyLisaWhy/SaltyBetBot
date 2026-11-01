@@ -826416,5 +826416,113 @@
     "sum": 133090773,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1651
+    },
+    "date": 1793524802331,
+    "duration": 100005,
+    "left": {
+      "bet_amount": 3460215,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Pelecanus",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1809168,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sheep the royal",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 133093958,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20308
+    },
+    "date": 1793524976527,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 1903215,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Jack krauser",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1745744,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Super-Mario",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 133092307,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37468
+    },
+    "date": 1793525098527,
+    "duration": 69996,
+    "left": {
+      "bet_amount": 975594,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ria-10",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3013190,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Dink smallwood",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 133071999,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35494
+    },
+    "date": 1793525262725,
+    "duration": 103999,
+    "left": {
+      "bet_amount": 1049577,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Black_widoraemon",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2985216,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Andrew",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 133034531,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
