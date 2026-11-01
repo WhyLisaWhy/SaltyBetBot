@@ -829222,5 +829222,113 @@
     "sum": 133271330,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7387
+    },
+    "date": 1793544558125,
+    "duration": 83999,
+    "left": {
+      "bet_amount": 4507012,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Neco-arc",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 960878,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Clone dio",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 133276026,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29934
+    },
+    "date": 1793544754329,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 1500497,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Guillotine gen",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2185288,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yuki kushinada",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 133277599,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1391
+    },
+    "date": 1793544938528,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 2537120,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Guardian",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2105163,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Fuhashitei",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 133247665,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10526
+    },
+    "date": 1793545138728,
+    "duration": 144203,
+    "left": {
+      "bet_amount": 2658676,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Rocket raccoon",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Broadway",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 133248819,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
