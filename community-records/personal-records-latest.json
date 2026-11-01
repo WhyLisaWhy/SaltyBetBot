@@ -831436,5 +831436,113 @@
     "sum": 133333555,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32024
+    },
+    "date": 1793558735381,
+    "duration": 60053,
+    "left": {
+      "bet_amount": 1651659,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dark phoenix",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2765283,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Azami",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 133305797,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24497
+    },
+    "date": 1793558901526,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 2862751,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "White len EX",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1526652,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cci xiangfei",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 133324706,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39633
+    },
+    "date": 1793559030127,
+    "duration": 74602,
+    "left": {
+      "bet_amount": 933514,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Final",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4941542,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ultimate armor x8",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 133300209,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793559471929,
+    "duration": 170000,
+    "left": {
+      "bet_amount": 108896,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Anita msh",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 75652,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Real general",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
