@@ -830518,5 +830518,113 @@
     "sum": 133431032,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22005
+    },
+    "date": 1793552756726,
+    "duration": 70199,
+    "left": {
+      "bet_amount": 1460823,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kanna kamui",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2432112,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Rufuu ix",
+      "normal_bettors": 24,
+      "win_streak": -5
+    },
+    "sum": 133429715,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1526
+    },
+    "date": 1793552920727,
+    "duration": 109969,
+    "left": {
+      "bet_amount": 1761723,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Goku ssj 3",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6838568,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shaoran lee",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 133442814,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9024
+    },
+    "date": 1793553156958,
+    "duration": 180233,
+    "left": {
+      "bet_amount": 1563741,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ssf2x dhalsim",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4004598,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Gokuraku tarou EX5",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 133441288,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3314
+    },
+    "date": 1793553323125,
+    "duration": 106205,
+    "left": {
+      "bet_amount": 3435913,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Sannomiya_shiho",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1222984,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Dragon_warrior(dnf) +q",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133432264,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
