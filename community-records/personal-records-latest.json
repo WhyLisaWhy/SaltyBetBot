@@ -826524,5 +826524,140 @@
     "sum": 133034531,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22513
+    },
+    "date": 1793525528926,
+    "duration": 209996,
+    "left": {
+      "bet_amount": 1090130,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hitosyura EX3",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2122409,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Aihara natsumi",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 133132182,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793525691127,
+    "duration": 107995,
+    "left": {
+      "bet_amount": 797894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kaguya kimimaro",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5320659,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Sheamus",
+      "normal_bettors": 37,
+      "win_streak": -14
+    },
+    "sum": 133109669,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23516
+    },
+    "date": 1793525853327,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 3095464,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Blender",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 888347,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Purprill",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 133109668,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793526005328,
+    "duration": 96002,
+    "left": {
+      "bet_amount": 1250844,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Saya",
+      "normal_bettors": 25,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5284775,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Guile_a",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 133116366,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9491
+    },
+    "date": 1793526183531,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 2216672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ed-209",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1294685,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Cpt.falcon",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 133116367,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
