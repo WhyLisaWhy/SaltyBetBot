@@ -830194,5 +830194,140 @@
     "sum": 133326028,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2581
+    },
+    "date": 1793550859129,
+    "duration": 140004,
+    "left": {
+      "bet_amount": 3934639,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Dhalsim vp",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 853294,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Top man",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 133326029,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25526
+    },
+    "date": 1793551003326,
+    "duration": 90196,
+    "left": {
+      "bet_amount": 1191875,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lf2 - neodeep",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4635213,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Gomora",
+      "normal_bettors": 38,
+      "win_streak": 28
+    },
+    "sum": 133323448,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27651
+    },
+    "date": 1793551139326,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 3085755,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Raiya_mikazuchi",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1384282,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Thau machine",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 133329976,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 37287
+    },
+    "date": 1793551309526,
+    "duration": 116187,
+    "left": {
+      "bet_amount": 995355,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Julius belmont",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2452246,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Kitsune",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 133302325,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36110
+    },
+    "date": 1793551493727,
+    "duration": 124200,
+    "left": {
+      "bet_amount": 2429522,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kagami ex",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1107877,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Kurusugawa ayaka",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 133390872,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
