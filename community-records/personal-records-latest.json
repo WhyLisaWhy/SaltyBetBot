@@ -825849,5 +825849,140 @@
     "sum": 132937019,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30403
+    },
+    "date": 1793521261534,
+    "duration": 84005,
+    "left": {
+      "bet_amount": 785341,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rb2bob",
+      "normal_bettors": 10,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5248781,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Sanzou kongoumaru",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 132915566,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793521411728,
+    "duration": 90193,
+    "left": {
+      "bet_amount": 3522168,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kumao +q",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1033710,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Final",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 132920089,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21803
+    },
+    "date": 1793521631926,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 2608878,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Orochi shermie",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1163263,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Spiral",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 132920088,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19851
+    },
+    "date": 1793521797927,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 1915418,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Ecila",
+      "normal_bettors": 28,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2521897,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Millia tnt",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 132898285,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17754
+    },
+    "date": 1793521948130,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1497025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kuanyinshen_nagiai",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2387624,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Kungfumithra",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 132924154,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
