@@ -829465,5 +829465,140 @@
     "sum": 133298267,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20690
+    },
+    "date": 1793546225526,
+    "duration": 63990,
+    "left": {
+      "bet_amount": 2850853,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Abyss EX",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 928477,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Beelzebub",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 133275203,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4415
+    },
+    "date": 1793546435722,
+    "duration": 150192,
+    "left": {
+      "bet_amount": 1252534,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Witch",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2247700,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mito_mashiro",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 133281893,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 41296
+    },
+    "date": 1793546585729,
+    "duration": 94004,
+    "left": {
+      "bet_amount": 1096457,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mirage",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2548091,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Bad rorschach",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 133277478,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31436
+    },
+    "date": 1793546857927,
+    "duration": 215998,
+    "left": {
+      "bet_amount": 779142,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Snorlax EX2",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3065858,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Kizaru head",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 133236182,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16921
+    },
+    "date": 1793547008126,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 1364038,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "T.hawk sf2",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3604912,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Sentinel",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 133244090,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
