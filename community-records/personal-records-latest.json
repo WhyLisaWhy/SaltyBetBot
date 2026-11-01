@@ -827523,5 +827523,113 @@
     "sum": 133095137,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19138
+    },
+    "date": 1793531898128,
+    "duration": 144202,
+    "left": {
+      "bet_amount": 2537735,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Lafiras",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1562793,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Gaogaigar",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133112044,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9288
+    },
+    "date": 1793532098326,
+    "duration": 140187,
+    "left": {
+      "bet_amount": 2157902,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Nokia 3310",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2494815,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Dragon claw EX3",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "sum": 133092906,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9687
+    },
+    "date": 1793532264326,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 2162757,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Manticore",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1233619,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Kanna kamui",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 133083618,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7228
+    },
+    "date": 1793532504556,
+    "duration": 186220,
+    "left": {
+      "bet_amount": 749889,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ark EX8",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4347991,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Schlussel-pre",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 133073931,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
