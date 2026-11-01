@@ -831787,5 +831787,86 @@
     "sum": 57474,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 52769
+    },
+    "date": 1793561821931,
+    "duration": 302206,
+    "left": {
+      "bet_amount": 319783,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "D4 roll",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 88111,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kurahashi tokimi",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 76585,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23816
+    },
+    "date": 1793562005927,
+    "duration": 125985,
+    "left": {
+      "bet_amount": 204244,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Scathach",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 334131,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Lyner_barsett",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 23816,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793562266127,
+    "duration": 200191,
+    "left": {
+      "bet_amount": 259148,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Real general",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 375546,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Unlimited k'",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
