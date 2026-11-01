@@ -831193,5 +831193,140 @@
     "sum": 133296219,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9982
+    },
+    "date": 1793557148121,
+    "duration": 93994,
+    "left": {
+      "bet_amount": 1958718,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shinzero",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2863949,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Saku EX2",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 133312681,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30107
+    },
+    "date": 1793557304326,
+    "duration": 90115,
+    "left": {
+      "bet_amount": 1669476,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gatocyu",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2404084,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Evil god",
+      "normal_bettors": 33,
+      "win_streak": 8
+    },
+    "sum": 133319485,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19236
+    },
+    "date": 1793557494326,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 2104391,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sub-zero EX3",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2023015,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Jhons lee EX3",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 133289378,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19886
+    },
+    "date": 1793557634530,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 2075014,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Solisr8000",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2020119,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Satsuki shindou",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "sum": 133307703,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21508
+    },
+    "date": 1793557814726,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 698803,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hellbat schilt",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6592968,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Blaze-rock",
+      "normal_bettors": 36,
+      "win_streak": 25
+    },
+    "sum": 133327931,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
