@@ -831868,5 +831868,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2616
+    },
+    "date": 1793562466326,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 239914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Kurahashi tokimi",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 380380,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Lyner_barsett",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 2616,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4255
+    },
+    "date": 1793562761724,
+    "duration": 235397,
+    "left": {
+      "bet_amount": 208290,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Unlimited k'",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 413687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 15,
+      "name": "Lyner_barsett",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 4255,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
