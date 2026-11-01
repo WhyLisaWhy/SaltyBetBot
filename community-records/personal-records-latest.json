@@ -822771,5 +822771,167 @@
     "sum": 133382951,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39422
+    },
+    "date": 1793498671527,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 3661772,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Lambda",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1081856,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ryu",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 133401327,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25082
+    },
+    "date": 1793498835729,
+    "duration": 104203,
+    "left": {
+      "bet_amount": 4425319,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Tatsumaki",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1005612,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "C3reimu",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 133412851,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 41384
+    },
+    "date": 1793499001725,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 3137459,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Millia",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1519834,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Chaos hiryu",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 133387769,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22854
+    },
+    "date": 1793499122031,
+    "duration": 66093,
+    "left": {
+      "bet_amount": 2847699,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Akebi",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1224113,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tuxedo mask",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 133346385,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1139
+    },
+    "date": 1793499326126,
+    "duration": 144179,
+    "left": {
+      "bet_amount": 3792177,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Belmont trusdale",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 796252,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Sakata gintoki",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "sum": 133323531,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31875
+    },
+    "date": 1793499488127,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 1240750,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shishimaru",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2727126,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Mokoi",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 133323771,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
