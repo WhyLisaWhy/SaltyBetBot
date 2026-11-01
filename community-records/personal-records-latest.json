@@ -832300,5 +832300,140 @@
     "sum": 133234468,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793568014741,
+    "duration": 133989,
+    "left": {
+      "bet_amount": 780849,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nu-13",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4905386,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Thud",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 133222088,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35125
+    },
+    "date": 1793568194926,
+    "duration": 124203,
+    "left": {
+      "bet_amount": 4057886,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Zangiefs'",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 929390,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Otona suzu",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133222087,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8932
+    },
+    "date": 1793568340927,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 4893791,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Yuka",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1164766,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ni_san",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 133186962,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21554
+    },
+    "date": 1793568541226,
+    "duration": 134100,
+    "left": {
+      "bet_amount": 1840541,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Urien EX4",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2400095,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Rhino eoh",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 133189085,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793568731327,
+    "duration": 134207,
+    "left": {
+      "bet_amount": 3037255,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Kunio_k",
+      "normal_bettors": 36,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2270755,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Klose rinz",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133167531,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
