@@ -822636,5 +822636,140 @@
     "sum": 2857,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 202
+    },
+    "date": 1793497846925,
+    "duration": 128198,
+    "left": {
+      "bet_amount": 3353218,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Bunny marry",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 822561,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Zerozuchi",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 133396147,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19421
+    },
+    "date": 1793498018938,
+    "duration": 120007,
+    "left": {
+      "bet_amount": 979355,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Preposterous cirno",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5251339,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Fake okami",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 133396197,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19450
+    },
+    "date": 1793498171126,
+    "duration": 85999,
+    "left": {
+      "bet_amount": 3432774,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Athena heidern",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096147,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ettoman",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 133376776,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793498317324,
+    "duration": 92197,
+    "left": {
+      "bet_amount": 3121673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Glenn",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2005594,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shin gouki ssf'2 plus",
+      "normal_bettors": 25,
+      "win_streak": -14
+    },
+    "sum": 133382952,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6572
+    },
+    "date": 1793498501327,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 1079524,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Lilith",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3036782,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kaguya houraisan EX3",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 133382951,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
