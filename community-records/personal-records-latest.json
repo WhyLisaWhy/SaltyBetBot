@@ -828817,5 +828817,113 @@
     "sum": 13193,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24048
+    },
+    "date": 1793541970128,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 977200,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Marisa,k",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3026604,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Nekomo",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 133276602,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20516
+    },
+    "date": 1793542140328,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 714772,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Claus",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9868350,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Ikusan",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 133284306,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1488
+    },
+    "date": 1793542280327,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 3134966,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Juri pf",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1890226,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Miyukaka",
+      "normal_bettors": 12,
+      "win_streak": -10
+    },
+    "sum": 133285789,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793542480529,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 808661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Itachi",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5565765,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 10,
+      "name": "Royal air king",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 133286686,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
