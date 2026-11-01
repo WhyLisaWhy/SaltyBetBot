@@ -823068,5 +823068,113 @@
     "sum": 133353866,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4629
+    },
+    "date": 1793500438926,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 1123237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "K.goemon",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2604266,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Momomeno",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 133331785,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36256
+    },
+    "date": 1793500593128,
+    "duration": 94205,
+    "left": {
+      "bet_amount": 1557797,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "B.jenet_n",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1395225,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Earthquake svc",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 133327156,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35142
+    },
+    "date": 1793500785128,
+    "duration": 136002,
+    "left": {
+      "bet_amount": 1138273,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gowcaizer",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2913869,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Terry bogard",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 133290900,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12539
+    },
+    "date": 1793500945328,
+    "duration": 105995,
+    "left": {
+      "bet_amount": 942318,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Miko-q",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8941225,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Omega goenitz",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 133304465,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
