@@ -824229,5 +824229,113 @@
     "sum": 133085244,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4980
+    },
+    "date": 1793507694729,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 2891390,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Neo y&m",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1868972,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Mega tails",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 133051977,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30062
+    },
+    "date": 1793507864928,
+    "duration": 114201,
+    "left": {
+      "bet_amount": 1469279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Son gohan EX3",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3470435,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Imouto",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 133046997,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10986
+    },
+    "date": 1793508044930,
+    "duration": 124003,
+    "left": {
+      "bet_amount": 4575415,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Master juzo",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1371541,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mattrex",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "sum": 133016935,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23463
+    },
+    "date": 1793508281126,
+    "duration": 176157,
+    "left": {
+      "bet_amount": 2174256,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Skullman",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3610510,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Kaori&shiori EX",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 133005949,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
