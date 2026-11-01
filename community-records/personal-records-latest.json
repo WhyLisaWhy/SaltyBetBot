@@ -826821,5 +826821,140 @@
     "sum": 133084046,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24121
+    },
+    "date": 1793527466598,
+    "duration": 126072,
+    "left": {
+      "bet_amount": 3674584,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Clawbear",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1156465,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jack-hamma",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 133086645,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30817
+    },
+    "date": 1793527596526,
+    "duration": 75989,
+    "left": {
+      "bet_amount": 2061066,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Aimi",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1428141,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Cyber shredder",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 133094187,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20406
+    },
+    "date": 1793527772728,
+    "duration": 116006,
+    "left": {
+      "bet_amount": 1023763,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Takumi hattori",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3374412,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Mizore s.",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "sum": 133063370,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26940
+    },
+    "date": 1793527976929,
+    "duration": 144198,
+    "left": {
+      "bet_amount": 988692,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Violator",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3598151,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Konpaku youkumo",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 133069524,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22169
+    },
+    "date": 1793528133127,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 2571073,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Ironman EX",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 757113,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Cyber-woo",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "sum": 133076872,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
