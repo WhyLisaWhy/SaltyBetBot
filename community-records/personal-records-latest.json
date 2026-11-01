@@ -828439,5 +828439,140 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2292
+    },
+    "date": 1793538018929,
+    "duration": 136208,
+    "left": {
+      "bet_amount": 107869,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Cockle",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 112056,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Evil zodiac",
+      "normal_bettors": 23,
+      "win_streak": -8
+    },
+    "sum": 2292,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4455
+    },
+    "date": 1793538229129,
+    "duration": 150123,
+    "left": {
+      "bet_amount": 157496,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kuando",
+      "normal_bettors": 30,
+      "win_streak": -9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131410,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Judith odea",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 4455,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9620
+    },
+    "date": 1793538433329,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 143169,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Titan the great",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 215129,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "C.dome",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 9620,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23166
+    },
+    "date": 1793538603523,
+    "duration": 114193,
+    "left": {
+      "bet_amount": 73638,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Barbarccia",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 339935,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mad dog",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "sum": 23166,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793538783536,
+    "duration": 124007,
+    "left": {
+      "bet_amount": 323546,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Wolfgang krauser EX",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 183768,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Cassie cage",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
