@@ -832435,5 +832435,113 @@
     "sum": 133167531,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 47517
+    },
+    "date": 1793568891550,
+    "duration": 100222,
+    "left": {
+      "bet_amount": 1524707,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Raiden EX",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3352891,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Mariabell armitage",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 133167530,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22881
+    },
+    "date": 1793569117525,
+    "duration": 165999,
+    "left": {
+      "bet_amount": 1249089,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Puss in boots",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3730759,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Dio M",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "sum": 133188837,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 47804
+    },
+    "date": 1793569317729,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 846954,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Lit ren",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5575655,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Extrahighfairy",
+      "normal_bettors": 42,
+      "win_streak": 9
+    },
+    "sum": 133165956,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3506
+    },
+    "date": 1793569501925,
+    "duration": 130196,
+    "left": {
+      "bet_amount": 2701255,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Cyborg SFI",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1282162,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Crash bandicoot",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 133173156,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
