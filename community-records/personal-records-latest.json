@@ -831544,5 +831544,113 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793559748325,
+    "duration": 220398,
+    "left": {
+      "bet_amount": 132700,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Nega peach EX3",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 98425,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Space zero",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2687
+    },
+    "date": 1793560022529,
+    "duration": 210202,
+    "left": {
+      "bet_amount": 159406,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gill sf3",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 121293,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mitsuru kirijo",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 2687,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6142
+    },
+    "date": 1793560242528,
+    "duration": 164000,
+    "left": {
+      "bet_amount": 268119,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Unlimited k'",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86478,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Desperado+",
+      "normal_bettors": 18,
+      "win_streak": -11
+    },
+    "sum": 6142,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8079
+    },
+    "date": 1793560432729,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 306731,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "D4 roll",
+      "normal_bettors": 42,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 77869,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kabuki danjurou",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 8079,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
