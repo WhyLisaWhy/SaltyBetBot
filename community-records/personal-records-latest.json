@@ -828574,5 +828574,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4257
+    },
+    "date": 1793538983728,
+    "duration": 144202,
+    "left": {
+      "bet_amount": 284294,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Samwell han",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 255414,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Maverick hunter zero",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 4257,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8918
+    },
+    "date": 1793539235928,
+    "duration": 192202,
+    "left": {
+      "bet_amount": 53171,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Kevin rian",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 544445,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Toyotomi hideyoshi",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 8918,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793539420156,
+    "duration": 124228,
+    "left": {
+      "bet_amount": 298631,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Evil ryu ssf'2 plus",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 301700,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Evil zodiac",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3108
+    },
+    "date": 1793539646326,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 240048,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Judith odea",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 393580,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Titan the great",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 3108,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
