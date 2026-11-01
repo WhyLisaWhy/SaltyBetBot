@@ -825984,5 +825984,86 @@
     "sum": 132924154,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25701
+    },
+    "date": 1793522108323,
+    "duration": 96196,
+    "left": {
+      "bet_amount": 1511304,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Matunaga yukari",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1989999,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Heidiorn",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 132935204,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21387
+    },
+    "date": 1793522272327,
+    "duration": 103996,
+    "left": {
+      "bet_amount": 2203804,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Sion's bizarre adventure",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1072292,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Judith odea",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 132909503,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5915
+    },
+    "date": 1793522538527,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 900181,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Small ryu EX3",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3273747,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Aladdin EX3",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 132919810,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
