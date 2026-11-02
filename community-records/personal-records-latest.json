@@ -844340,5 +844340,86 @@
     "sum": 87062,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793658092125,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 1289963,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Baraki",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4379519,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 13,
+      "name": "Hisame shizumaru ex2",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 133840890,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19623
+    },
+    "date": 1793658268325,
+    "duration": 115998,
+    "left": {
+      "bet_amount": 2005254,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "ShinGouki",
+      "normal_bettors": 30,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2979514,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Ev trained charizard",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 133840889,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3274
+    },
+    "date": 1793658452533,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 3752203,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Adol christin",
+      "normal_bettors": 29,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1729081,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "The thing",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 133821266,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
