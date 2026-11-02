@@ -843935,5 +843935,113 @@
     "sum": 133732348,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793650540127,
+    "duration": 200001,
+    "left": {
+      "bet_amount": 98708,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Esmeralda",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 94400,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Opera elmer",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793650756326,
+    "duration": 158003,
+    "left": {
+      "bet_amount": 205219,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Frank castle",
+      "normal_bettors": 44,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 73249,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Luke EX",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2100
+    },
+    "date": 1793651052524,
+    "duration": 236200,
+    "left": {
+      "bet_amount": 119417,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shadow eiji",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 213375,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Captain boomerang",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 2100,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793651436927,
+    "duration": 326403,
+    "left": {
+      "bet_amount": 119780,
+      "ignored_bettors": 16,
+      "illuminati_bettors": 3,
+      "name": "Peter griffin",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 146183,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Feli",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
