@@ -835756,5 +835756,140 @@
     "sum": 133374044,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20833
+    },
+    "date": 1793594027328,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 2136284,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Silver surfer",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2100816,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Deathisono",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 133382155,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10119
+    },
+    "date": 1793594207324,
+    "duration": 125989,
+    "left": {
+      "bet_amount": 6358865,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Revenge of mr. x",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1227372,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Mario 119",
+      "normal_bettors": 18,
+      "win_streak": -7
+    },
+    "sum": 133403132,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19734
+    },
+    "date": 1793594417527,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 2141933,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rouga(coh)",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4192826,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Always bet kintaro",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 133405083,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22872
+    },
+    "date": 1793594577726,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1327128,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Corpse",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4460675,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Anita msh",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 133415118,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6844
+    },
+    "date": 1793594781926,
+    "duration": 150162,
+    "left": {
+      "bet_amount": 3857841,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Sonic EX3",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1569522,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Pocket Ken",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 133421889,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
