@@ -841316,5 +841316,113 @@
     "sum": 133713697,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32290
+    },
+    "date": 1793633724925,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2777761,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Kenny",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1127506,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kyogoku majikina mioh",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 133713698,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28405
+    },
+    "date": 1793633918928,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 2229928,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Nagaoka shiho",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1209931,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Dead vega",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 133791034,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32463
+    },
+    "date": 1793634159124,
+    "duration": 179996,
+    "left": {
+      "bet_amount": 1117694,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tusk ki2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1933337,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Marco rossi",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 133762629,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23827
+    },
+    "date": 1793634369327,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 1452732,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dragon claw EX3",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1265261,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Chiel",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 133730166,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
