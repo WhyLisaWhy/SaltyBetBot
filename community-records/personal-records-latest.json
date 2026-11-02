@@ -844313,5 +844313,32 @@
     "sum": 43902,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42886
+    },
+    "date": 1793654451329,
+    "duration": 320402,
+    "left": {
+      "bet_amount": 264737,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Peter griffin",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 665896,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ravange",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 87062,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
