@@ -841991,5 +841991,140 @@
     "sum": 133605414,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21773
+    },
+    "date": 1793638302527,
+    "duration": 146173,
+    "left": {
+      "bet_amount": 1645819,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Gajet",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1632142,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Satoko",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 133594486,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 36225
+    },
+    "date": 1793638472521,
+    "duration": 105993,
+    "left": {
+      "bet_amount": 1761195,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Rila",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1597598,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Super androide 17 hd",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 133572713,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3876
+    },
+    "date": 1793638652731,
+    "duration": 119994,
+    "left": {
+      "bet_amount": 2794060,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Tam-tam nrf",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2536790,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Bloodtide",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "sum": 133604911,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29642
+    },
+    "date": 1793638836970,
+    "duration": 120240,
+    "left": {
+      "bet_amount": 1799083,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Yami_miko EX",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1263481,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Chargeman ken!",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 133601035,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19572
+    },
+    "date": 1793638986925,
+    "duration": 93993,
+    "left": {
+      "bet_amount": 2413636,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Kagemaru",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1184994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "T-bone",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 133571393,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
