@@ -840724,5 +840724,138 @@
     "sum": 133691995,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6170
+    },
+    "date": 1793627153728,
+    "duration": 74203,
+    "left": {
+      "bet_amount": 960247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Ssj kyo",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3339144,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "K'_sv",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 133711523,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22453
+    },
+    "date": 1793627353729,
+    "duration": 144003,
+    "left": {
+      "bet_amount": 1389831,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Sion's bizarre adventure",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1635635,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Tear",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 133713295,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3168
+    },
+    "date": 1793627529926,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 1357412,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Crescent silvan",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1596525,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Baruganodon_ex",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 133690842,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1793627720529,
+    "duration": 130604,
+    "left": {
+      "bet_amount": 89479,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Final dio",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 151419,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Megamari",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793628150329,
+    "duration": 166002,
+    "left": {
+      "bet_amount": 132440,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "C_krizalid",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 723250,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Garou terry",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
