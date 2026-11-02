@@ -835891,5 +835891,113 @@
     "sum": 133421889,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6980
+    },
+    "date": 1793594967936,
+    "duration": 129962,
+    "left": {
+      "bet_amount": 1079194,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Wild ken ex",
+      "normal_bettors": 16,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4675657,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Ermac mk2",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 133424669,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23487
+    },
+    "date": 1793595088135,
+    "duration": 60210,
+    "left": {
+      "bet_amount": 1431867,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dopefish",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2471819,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Aika toarcreat",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 133426278,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22829
+    },
+    "date": 1793595248168,
+    "duration": 100039,
+    "left": {
+      "bet_amount": 1658334,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Elque",
+      "normal_bettors": 11,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2864669,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Reptile mk2",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 133466170,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793595438327,
+    "duration": 129989,
+    "left": {
+      "bet_amount": 2085679,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kumao +q",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2638660,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Dio M",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 133505071,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
