@@ -841019,5 +841019,113 @@
     "sum": 2499,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7888
+    },
+    "date": 1793630037927,
+    "duration": 133997,
+    "left": {
+      "bet_amount": 266612,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Arrange mukuro",
+      "normal_bettors": 42,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127875,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nashu EX7",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 7888,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11563
+    },
+    "date": 1793630294126,
+    "duration": 196170,
+    "left": {
+      "bet_amount": 421093,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Garou terry",
+      "normal_bettors": 41,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 42525,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "D4?roll?",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 11563,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793630438365,
+    "duration": 90240,
+    "left": {
+      "bet_amount": 442625,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Shrek",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 71782,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Bloodia EX3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1801
+    },
+    "date": 1793630824531,
+    "duration": 326203,
+    "left": {
+      "bet_amount": 85788,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Shirai kuroko dbfc",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 323589,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Goyan",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 1801,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
