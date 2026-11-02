@@ -834973,5 +834973,59 @@
     "sum": 7056,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793585948931,
+    "duration": 126206,
+    "left": {
+      "bet_amount": 333309,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Pocket batman",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 421279,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Mienshao",
+      "normal_bettors": 37,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793586222325,
+    "duration": 219392,
+    "left": {
+      "bet_amount": 624485,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ryu kang",
+      "normal_bettors": 47,
+      "win_streak": 12
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 242864,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Mienshao",
+      "normal_bettors": 19,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
