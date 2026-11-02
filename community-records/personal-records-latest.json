@@ -836431,5 +836431,140 @@
     "sum": 133696677,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793598388725,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 1528947,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ayatane michitaka",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4640640,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "S_youmu",
+      "normal_bettors": 38,
+      "win_streak": -2
+    },
+    "sum": 133665362,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2397
+    },
+    "date": 1793598528732,
+    "duration": 80004,
+    "left": {
+      "bet_amount": 1744358,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Rea katori EX7",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2341148,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Fullmetal haggar",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 133665363,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6053
+    },
+    "date": 1793598714928,
+    "duration": 131992,
+    "left": {
+      "bet_amount": 1796256,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Lin EX",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1669206,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Lelouch lamperouge",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 133668576,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793598847119,
+    "duration": 72189,
+    "left": {
+      "bet_amount": 10259542,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ex snow",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1634759,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Super vegeta",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "sum": 133662523,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23756
+    },
+    "date": 1793598965126,
+    "duration": 65999,
+    "left": {
+      "bet_amount": 1176702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kusanagi_ex",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3819262,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Regin",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 133662522,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
