@@ -844151,5 +844151,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3924
+    },
+    "date": 1793652749925,
+    "duration": 256175,
+    "left": {
+      "bet_amount": 112626,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 1,
+      "name": "Esmeralda",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 531943,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Frank castle",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 3924,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4749
+    },
+    "date": 1793653114126,
+    "duration": 304200,
+    "left": {
+      "bet_amount": 209198,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shadow eiji",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 504818,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Peter griffin",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 4749,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
