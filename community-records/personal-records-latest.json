@@ -843746,5 +843746,113 @@
     "sum": 133810822,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28947
+    },
+    "date": 1793648932926,
+    "duration": 109994,
+    "left": {
+      "bet_amount": 1048438,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chen juanmin",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7012032,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ash crimson-kofm",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 133787670,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27677
+    },
+    "date": 1793649103129,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 2670319,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Riesbyfe motw",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1269807,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sasquatch",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133791981,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26373
+    },
+    "date": 1793649283123,
+    "duration": 119996,
+    "left": {
+      "bet_amount": 3444680,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Nekonin ex",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1564566,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ryu_a",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "sum": 133805008,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37888
+    },
+    "date": 1793649469326,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 2058994,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Goryujin",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1508429,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Ryoko asakura",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 133778635,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
