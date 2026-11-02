@@ -839320,5 +839320,113 @@
     "sum": 133736037,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23709
+    },
+    "date": 1793618380727,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 1290176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nazrin deluxe",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3471824,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Chargeman len",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 133775106,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25844
+    },
+    "date": 1793618524729,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 1433327,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Akebono taro",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2319502,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Asuna",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 133783857,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21246
+    },
+    "date": 1793618664930,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 1284973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ex apollo",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3154720,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Satsuki yumiduka",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 133799652,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31382
+    },
+    "date": 1793618855127,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 2002273,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Umvc_gouki",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1117150,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mito_mashiro",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 133808248,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
