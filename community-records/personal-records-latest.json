@@ -845042,5 +845042,113 @@
     "sum": 133969111,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1477
+    },
+    "date": 1793662545727,
+    "duration": 86197,
+    "left": {
+      "bet_amount": 4689125,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "D4 makoto kikuchi",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1252699,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "K.goemon",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133976726,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25685
+    },
+    "date": 1793662675724,
+    "duration": 75996,
+    "left": {
+      "bet_amount": 4242779,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Daroach",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2201135,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Mattrex",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 133977121,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3031
+    },
+    "date": 1793662869928,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 1511154,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dhalsims",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4069868,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Hayato kanzaki",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 133951436,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27000
+    },
+    "date": 1793663056128,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 1184892,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Ss6 renfa EX2",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5106175,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Deluxe burter",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 133952561,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
