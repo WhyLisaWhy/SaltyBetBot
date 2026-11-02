@@ -842423,5 +842423,86 @@
     "sum": 133567671,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25944
+    },
+    "date": 1793640910523,
+    "duration": 69986,
+    "left": {
+      "bet_amount": 1281452,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Thau machine",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3151300,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Dantalion_alice",
+      "normal_bettors": 41,
+      "win_streak": 7
+    },
+    "sum": 133677156,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31138
+    },
+    "date": 1793641136730,
+    "duration": 166205,
+    "left": {
+      "bet_amount": 926135,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 4,
+      "name": "Tesla",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2020957,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gato z2",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 133687620,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7556
+    },
+    "date": 1793641310926,
+    "duration": 114202,
+    "left": {
+      "bet_amount": 2832897,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Tenko-abab",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 839558,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "New-spider-man",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 133656482,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
