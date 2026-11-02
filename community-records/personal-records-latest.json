@@ -844205,5 +844205,113 @@
     "sum": 4749,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6699
+    },
+    "date": 1793653334328,
+    "duration": 154000,
+    "left": {
+      "bet_amount": 51217,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Shandera-k",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 693595,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ravange",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 6699,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7189
+    },
+    "date": 1793653534538,
+    "duration": 140005,
+    "left": {
+      "bet_amount": 104432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Kuriza kun",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 685878,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Joachim",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 7189,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8273
+    },
+    "date": 1793653876925,
+    "duration": 280400,
+    "left": {
+      "bet_amount": 730758,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 20,
+      "name": "Frank castle",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 161411,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Peter griffin",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 8273,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 43902
+    },
+    "date": 1793654066924,
+    "duration": 135998,
+    "left": {
+      "bet_amount": 369804,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ravange",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 406705,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Joachim",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 43902,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
