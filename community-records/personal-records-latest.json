@@ -841127,5 +841127,86 @@
     "sum": 1801,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2276
+    },
+    "date": 1793631020730,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 345758,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "C-xion",
+      "normal_bettors": 41,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 182712,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Arrange mukuro",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "sum": 2276,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3471
+    },
+    "date": 1793631194926,
+    "duration": 114197,
+    "left": {
+      "bet_amount": 85582,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Garou terry",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 468853,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shrek",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 3471,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4100
+    },
+    "date": 1793631391128,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 77537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Goyan",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 492569,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "C-xion",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "sum": 4100,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
