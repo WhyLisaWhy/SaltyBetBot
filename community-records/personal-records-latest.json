@@ -841424,5 +841424,113 @@
     "sum": 133730166,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30479
+    },
+    "date": 1793634521525,
+    "duration": 96200,
+    "left": {
+      "bet_amount": 1087162,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sailor pluto",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4576506,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Spawn djhr",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 133757018,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23690
+    },
+    "date": 1793634711527,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 2462792,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "H-m-geese",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1292686,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fernandeath 2",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 133764211,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 50278
+    },
+    "date": 1793634881727,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 1564072,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Joe higashi EX3",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2806558,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Ako tamaki",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 133740521,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17808
+    },
+    "date": 1793635081935,
+    "duration": 140207,
+    "left": {
+      "bet_amount": 1947566,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 2,
+      "name": "Maxima 13",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1643202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Lancer EX2",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 133690243,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
