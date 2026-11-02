@@ -844583,5 +844583,113 @@
     "sum": 133829251,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17395
+    },
+    "date": 1793659699527,
+    "duration": 104155,
+    "left": {
+      "bet_amount": 1222270,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nannanda anta",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2120429,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Area",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 133830536,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15177
+    },
+    "date": 1793659879525,
+    "duration": 119965,
+    "left": {
+      "bet_amount": 3761197,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ultimate cell",
+      "normal_bettors": 43,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1291970,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Bubblun",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 133813141,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38886
+    },
+    "date": 1793660015726,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 2288663,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Gi gi",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1349662,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chief he-fonba",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 133797964,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26192
+    },
+    "date": 1793660195927,
+    "duration": 120196,
+    "left": {
+      "bet_amount": 1739598,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Roomi kof",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2029673,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Yamcha",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 133820513,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
