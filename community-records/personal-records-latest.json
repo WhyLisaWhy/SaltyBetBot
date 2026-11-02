@@ -840857,5 +840857,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1834
+    },
+    "date": 1793628510731,
+    "duration": 300201,
+    "left": {
+      "bet_amount": 802784,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "D4?roll?",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 215752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shin 2",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 1834,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2326
+    },
+    "date": 1793628666926,
+    "duration": 96193,
+    "left": {
+      "bet_amount": 142943,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "01-nameless",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 548795,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Shrek",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 2326,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
