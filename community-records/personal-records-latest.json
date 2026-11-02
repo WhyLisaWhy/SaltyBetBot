@@ -837295,5 +837295,140 @@
     "sum": 133623973,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22238
+    },
+    "date": 1793603967124,
+    "duration": 93980,
+    "left": {
+      "bet_amount": 2961488,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Miko-q",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1987497,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Eagle-sabu",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 133634425,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16254
+    },
+    "date": 1793604123324,
+    "duration": 100194,
+    "left": {
+      "bet_amount": 2413820,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Gustoff EX3",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2404287,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ss6 syunran-abab",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 133649239,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39014
+    },
+    "date": 1793604287327,
+    "duration": 104003,
+    "left": {
+      "bet_amount": 2051602,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Watatsuki no toyohime",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1387862,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Iori richtofen",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 133665321,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35923
+    },
+    "date": 1793604447524,
+    "duration": 93994,
+    "left": {
+      "bet_amount": 2512038,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Magic nanaya+ huunsaiki",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1550463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Zinsuke",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 133721417,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22953
+    },
+    "date": 1793604643726,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 1015707,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Serval",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4245660,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Isabeau",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 133743277,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
