@@ -843854,5 +843854,86 @@
     "sum": 133778635,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793649725524,
+    "duration": 196195,
+    "left": {
+      "bet_amount": 942184,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Skullomania EX3",
+      "normal_bettors": 23,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 14589799,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Jack turner ex",
+      "normal_bettors": 32,
+      "win_streak": -14
+    },
+    "sum": 133740747,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8398
+    },
+    "date": 1793649905726,
+    "duration": 120201,
+    "left": {
+      "bet_amount": 2723837,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Namek goku",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1933037,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Deluxe may",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 133740746,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4301
+    },
+    "date": 1793650064325,
+    "duration": 94603,
+    "left": {
+      "bet_amount": 2594461,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Fat joker",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2043370,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Acguy",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 133732348,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
