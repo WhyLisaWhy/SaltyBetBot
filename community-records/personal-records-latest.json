@@ -837565,5 +837565,140 @@
     "sum": 133726026,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 884
+    },
+    "date": 1793605750523,
+    "duration": 95992,
+    "left": {
+      "bet_amount": 4522297,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ririsu",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1035264,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Lf2 - deep",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 133708425,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6707
+    },
+    "date": 1793605864732,
+    "duration": 60205,
+    "left": {
+      "bet_amount": 1270433,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "A-pyron",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5898768,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Kafra hell",
+      "normal_bettors": 35,
+      "win_streak": 15
+    },
+    "sum": 133708628,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23597
+    },
+    "date": 1793606030724,
+    "duration": 105995,
+    "left": {
+      "bet_amount": 1027410,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kouma kishima",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3443542,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Awakened torao",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 133710071,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26735
+    },
+    "date": 1793606162934,
+    "duration": 71998,
+    "left": {
+      "bet_amount": 2206576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Yasha-hime",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353628,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Bloodia",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 133686474,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17767
+    },
+    "date": 1793606324925,
+    "duration": 103995,
+    "left": {
+      "bet_amount": 3134977,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Peketo EX3",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1328812,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Truffe",
+      "normal_bettors": 19,
+      "win_streak": -12
+    },
+    "sum": 133659739,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
