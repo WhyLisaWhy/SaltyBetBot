@@ -840319,5 +840319,140 @@
     "sum": 133773984,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23107
+    },
+    "date": 1793624499579,
+    "duration": 90055,
+    "left": {
+      "bet_amount": 4195485,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Chako",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1102319,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lf2 - henry",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 133765603,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23318
+    },
+    "date": 1793624695730,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 899080,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jagyuta EX2",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2512690,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Kibanohara ethica",
+      "normal_bettors": 27,
+      "win_streak": -5
+    },
+    "sum": 133765603,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17019
+    },
+    "date": 1793624865928,
+    "duration": 116199,
+    "left": {
+      "bet_amount": 3771751,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Satsuki kiryuin",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1518674,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Crystal",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 133742285,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26972
+    },
+    "date": 1793625059936,
+    "duration": 140007,
+    "left": {
+      "bet_amount": 1550380,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Dancing banana",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1464875,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Frisk",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "sum": 133725266,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28782
+    },
+    "date": 1793625296125,
+    "duration": 175998,
+    "left": {
+      "bet_amount": 2084204,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Neko re",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1435706,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Duester",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 133753297,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
