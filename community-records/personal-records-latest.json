@@ -838105,5 +838105,32 @@
     "sum": 2524,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7765
+    },
+    "date": 1793610017127,
+    "duration": 175401,
+    "left": {
+      "bet_amount": 446031,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 21,
+      "name": "Reak.f",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 475149,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jin chonrei",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 7765,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
