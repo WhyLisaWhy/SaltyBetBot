@@ -834541,5 +834541,113 @@
     "sum": 133233702,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 34978
+    },
+    "date": 1793582127926,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 2100260,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shun - andromeda",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2362386,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Pickle",
+      "normal_bettors": 43,
+      "win_streak": 3
+    },
+    "sum": 133255760,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 39061
+    },
+    "date": 1793582293925,
+    "duration": 106002,
+    "left": {
+      "bet_amount": 2042678,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Brunestud arcueid",
+      "normal_bettors": 23,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3664084,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Rubber soul",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 133220782,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30007
+    },
+    "date": 1793582569327,
+    "duration": 211388,
+    "left": {
+      "bet_amount": 2280841,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dracula EX2",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4254984,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "A-mishio",
+      "normal_bettors": 39,
+      "win_streak": -4
+    },
+    "sum": 133289534,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793582928525,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 46199,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Reptile umk3",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 146893,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ryu kang",
+      "normal_bettors": 47,
+      "win_streak": 9
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
