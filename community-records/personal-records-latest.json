@@ -834433,5 +834433,113 @@
     "sum": 133262652,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3223
+    },
+    "date": 1793581421326,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 2612440,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Rugal EX3",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2110345,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Atomic r chelnov",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 133218616,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20628
+    },
+    "date": 1793581561526,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 1961145,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Hyo amano",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2219007,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Super3 goku EX3",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 133215393,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4789
+    },
+    "date": 1793581741533,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 1252857,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Air fighter vega",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8341775,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "02-nameless",
+      "normal_bettors": 44,
+      "win_streak": -2
+    },
+    "sum": 133238491,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21272
+    },
+    "date": 1793581951726,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 2580867,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Master morrigan",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2467639,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sekiponki",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 133233702,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
