@@ -839590,5 +839590,140 @@
     "sum": 133859939,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7137
+    },
+    "date": 1793620037928,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 1016483,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Bristol weller",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4040040,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Hauzer",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 133886352,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33985
+    },
+    "date": 1793620252126,
+    "duration": 153996,
+    "left": {
+      "bet_amount": 1083879,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mack",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2931906,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Narukana EX3",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 133888145,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25359
+    },
+    "date": 1793620442323,
+    "duration": 140192,
+    "left": {
+      "bet_amount": 2297918,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Maverick hunter x",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1408208,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Mighty myon",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 133854160,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20799
+    },
+    "date": 1793620558329,
+    "duration": 60003,
+    "left": {
+      "bet_amount": 2815265,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Revenge of mr. x",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1459765,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "The invincible ironman",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133894809,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1783
+    },
+    "date": 1793620708528,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 1457153,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Tsukikomori",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3279212,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Ultron is",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 133874010,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
