@@ -840454,5 +840454,113 @@
     "sum": 133753297,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793625548323,
+    "duration": 192196,
+    "left": {
+      "bet_amount": 2535962,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Super buu z2",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2174591,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Salles",
+      "normal_bettors": 28,
+      "win_streak": -14
+    },
+    "sum": 133724515,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1077
+    },
+    "date": 1793625672528,
+    "duration": 70190,
+    "left": {
+      "bet_amount": 874206,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Hoshi kage",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4032280,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Kangaru",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "sum": 133724516,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23185
+    },
+    "date": 1793625866729,
+    "duration": 134202,
+    "left": {
+      "bet_amount": 1055553,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "T. kawk",
+      "normal_bettors": 12,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3790994,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Ares",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 133724750,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6058
+    },
+    "date": 1793625996802,
+    "duration": 74073,
+    "left": {
+      "bet_amount": 2850349,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Flan Scarlet",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1327661,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Senel",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 133731167,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
