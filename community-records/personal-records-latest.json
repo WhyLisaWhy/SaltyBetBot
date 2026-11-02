@@ -842126,5 +842126,140 @@
     "sum": 133571393,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19246
+    },
+    "date": 1793639177128,
+    "duration": 130000,
+    "left": {
+      "bet_amount": 2695527,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Ziria ns",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1439648,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Perfecti ex",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 133551821,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18821
+    },
+    "date": 1793639327331,
+    "duration": 84194,
+    "left": {
+      "bet_amount": 2320539,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "You are already dead",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1156489,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Shaolon",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 133532575,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24609
+    },
+    "date": 1793639517327,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 1614410,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ice climbers",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1730525,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Super3 goku",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 133513754,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4790
+    },
+    "date": 1793639639534,
+    "duration": 60004,
+    "left": {
+      "bet_amount": 2683756,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Another unknown",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1548606,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Jyubei yagyu EX3",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 133539737,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8234
+    },
+    "date": 1793639779526,
+    "duration": 85998,
+    "left": {
+      "bet_amount": 1471823,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Mars people EX3",
+      "normal_bettors": 24,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2114060,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Ecoco EX3",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 133534947,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
