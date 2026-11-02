@@ -835648,5 +835648,113 @@
     "sum": 133315849,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 878
+    },
+    "date": 1793593234741,
+    "duration": 80191,
+    "left": {
+      "bet_amount": 844268,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "R_ed",
+      "normal_bettors": 7,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7037698,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Cursehead",
+      "normal_bettors": 45,
+      "win_streak": 2
+    },
+    "sum": 133333454,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24388
+    },
+    "date": 1793593420852,
+    "duration": 126127,
+    "left": {
+      "bet_amount": 2975173,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Elena_n",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1850108,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Sonic machine",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 133333560,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12045
+    },
+    "date": 1793593564926,
+    "duration": 90177,
+    "left": {
+      "bet_amount": 7281456,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "K-core",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1074470,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Mario 119",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "sum": 133372269,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30106
+    },
+    "date": 1793593807128,
+    "duration": 186204,
+    "left": {
+      "bet_amount": 4520662,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Raira",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1225912,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mega tails",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 133374044,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
