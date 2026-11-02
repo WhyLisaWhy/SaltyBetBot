@@ -841235,5 +841235,86 @@
     "sum": 4741,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 42367
+    },
+    "date": 1793633264526,
+    "duration": 116196,
+    "left": {
+      "bet_amount": 1354128,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Holy strider",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3512955,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Tukuyo",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 133697559,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793633390572,
+    "duration": 66047,
+    "left": {
+      "bet_amount": 625946,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Sakon",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6634653,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Darkseid",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "sum": 133713696,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793633538726,
+    "duration": 90195,
+    "left": {
+      "bet_amount": 5607439,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Ninja turtles",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 979411,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Bully in the launderette",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 133713697,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
