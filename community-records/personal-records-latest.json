@@ -838024,5 +838024,86 @@
     "sum": 3884,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6014
+    },
+    "date": 1793609395526,
+    "duration": 264201,
+    "left": {
+      "bet_amount": 136180,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Tuyoshi",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 556409,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Muhammad avdol",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "sum": 6014,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793609621739,
+    "duration": 166215,
+    "left": {
+      "bet_amount": 330542,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Foxy-kofm",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 524559,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Reak.f",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2524
+    },
+    "date": 1793609781727,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 209085,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Jin chonrei",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 439383,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Tuyoshi",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "sum": 2524,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
