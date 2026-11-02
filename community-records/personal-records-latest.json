@@ -841208,5 +841208,32 @@
     "sum": 4100,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4741
+    },
+    "date": 1793631850327,
+    "duration": 399201,
+    "left": {
+      "bet_amount": 690797,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Shrek",
+      "normal_bettors": 40,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 289787,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "C-xion",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 4741,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
