@@ -856760,5 +856760,59 @@
     "sum": 2678,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793744647126,
+    "duration": 61972,
+    "left": {
+      "bet_amount": 1460950,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Shazzer",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4247143,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Sabotage",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 135278432,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21437
+    },
+    "date": 1793744855345,
+    "duration": 156219,
+    "left": {
+      "bet_amount": 1222215,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Achi cirno",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2546896,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Alien",
+      "normal_bettors": 40,
+      "win_streak": -3
+    },
+    "sum": 135278433,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
