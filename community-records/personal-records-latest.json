@@ -852494,5 +852494,140 @@
     "sum": 134909521,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 45550
+    },
+    "date": 1793713624556,
+    "duration": 140226,
+    "left": {
+      "bet_amount": 1942452,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Suneo",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1691000,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Chou hi EX7",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 134911889,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35544
+    },
+    "date": 1793713796525,
+    "duration": 99991,
+    "left": {
+      "bet_amount": 2031686,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Puppet master",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1722107,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Mizuki rashoujin",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 134950634,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34882
+    },
+    "date": 1793714006728,
+    "duration": 149995,
+    "left": {
+      "bet_amount": 1770170,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Dan",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2643720,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Jun asukai",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 134915090,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793714198926,
+    "duration": 137997,
+    "left": {
+      "bet_amount": 5213497,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Ultimate cap",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1538297,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Sheriff",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "sum": 134880208,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2019
+    },
+    "date": 1793714367130,
+    "duration": 116202,
+    "left": {
+      "bet_amount": 1183775,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Real Ryu",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2564286,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Spitfire_m",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "sum": 134880209,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
