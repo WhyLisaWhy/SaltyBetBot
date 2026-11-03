@@ -847148,5 +847148,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2130
+    },
+    "date": 1793676256729,
+    "duration": 266204,
+    "left": {
+      "bet_amount": 261229,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ayumu kasuga EX",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 234046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Brokken",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 2130,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
