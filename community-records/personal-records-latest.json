@@ -857273,5 +857273,140 @@
     "sum": 135657779,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4174
+    },
+    "date": 1793747889730,
+    "duration": 104204,
+    "left": {
+      "bet_amount": 1665202,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rassius fomalhaut",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1856851,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "B.jenet_n",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "sum": 135683315,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 13787
+    },
+    "date": 1793748119979,
+    "duration": 170251,
+    "left": {
+      "bet_amount": 1025489,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Juralian",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4630594,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Slarin",
+      "normal_bettors": 46,
+      "win_streak": 1
+    },
+    "sum": 135679141,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33957
+    },
+    "date": 1793748265925,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 4478217,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Mizuki hayakawa",
+      "normal_bettors": 34,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1074488,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Ryuhaku todoh",
+      "normal_bettors": 16,
+      "win_streak": -8
+    },
+    "sum": 135682186,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2266
+    },
+    "date": 1793748420127,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 1784683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Rosa - deep crimson vixen",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7756138,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Chargeman ken!",
+      "normal_bettors": 48,
+      "win_streak": 2
+    },
+    "sum": 135690273,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2844
+    },
+    "date": 1793748586327,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 860343,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Dobermann",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5033985,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Manjimaru EX3",
+      "normal_bettors": 40,
+      "win_streak": 0
+    },
+    "sum": 135690795,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
