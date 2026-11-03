@@ -848255,5 +848255,140 @@
     "sum": 134532639,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14580
+    },
+    "date": 1793684989730,
+    "duration": 174204,
+    "left": {
+      "bet_amount": 1800078,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Poochy",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1743045,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Mr.karateka",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 134521501,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28787
+    },
+    "date": 1793685085726,
+    "duration": 39989,
+    "left": {
+      "bet_amount": 2063618,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Miles edgeworth",
+      "normal_bettors": 21,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1513526,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Ryo",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 134535506,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28495
+    },
+    "date": 1793685265926,
+    "duration": 120199,
+    "left": {
+      "bet_amount": 1458551,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Cyclops_cota",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2830005,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Giant gunter",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 134506719,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22371
+    },
+    "date": 1793685475925,
+    "duration": 149991,
+    "left": {
+      "bet_amount": 2429206,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Ditto",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1379289,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Olof linderoth",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 134560948,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16239
+    },
+    "date": 1793685716129,
+    "duration": 180002,
+    "left": {
+      "bet_amount": 4733759,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Master moriya",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 693021,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Holy strider",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "sum": 134599720,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
