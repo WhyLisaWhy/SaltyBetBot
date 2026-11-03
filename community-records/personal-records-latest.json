@@ -853520,5 +853520,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2779
+    },
+    "date": 1793721092531,
+    "duration": 406405,
+    "left": {
+      "bet_amount": 582698,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Super queen beryl p",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 152033,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Gray fullbuster",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 2779,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3501
+    },
+    "date": 1793721388738,
+    "duration": 236208,
+    "left": {
+      "bet_amount": 774720,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kanade",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 95346,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Trunks mvc",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 3501,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
