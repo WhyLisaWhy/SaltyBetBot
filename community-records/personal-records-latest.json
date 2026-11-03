@@ -853574,5 +853574,86 @@
     "sum": 3501,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793721602921,
+    "duration": 160195,
+    "left": {
+      "bet_amount": 460985,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Saki mitonoya",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 468512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Chester cheetah",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793721953125,
+    "duration": 294199,
+    "left": {
+      "bet_amount": 628530,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Super queen beryl p",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 382515,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Trunks mvc",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793722219325,
+    "duration": 210196,
+    "left": {
+      "bet_amount": 608119,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Saki mitonoya",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 598006,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Trunks mvc",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
