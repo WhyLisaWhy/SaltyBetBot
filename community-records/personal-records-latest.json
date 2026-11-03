@@ -853655,5 +853655,113 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18476
+    },
+    "date": 1793722989941,
+    "duration": 134015,
+    "left": {
+      "bet_amount": 4253363,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ikkaku",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 847372,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "James",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 135079025,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20528
+    },
+    "date": 1793723186123,
+    "duration": 135987,
+    "left": {
+      "bet_amount": 2625187,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Wakasagi-hime",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1166094,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Eponine thenardier",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 135082690,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27833
+    },
+    "date": 1793723336327,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 1454888,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shin EX",
+      "normal_bettors": 18,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2098816,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Tamamushihime",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 135062162,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 834
+    },
+    "date": 1793723480326,
+    "duration": 90004,
+    "left": {
+      "bet_amount": 1562492,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Duck king xi",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3162558,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Herb",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 135034329,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
