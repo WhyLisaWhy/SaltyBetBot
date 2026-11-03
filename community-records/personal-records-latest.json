@@ -856247,5 +856247,140 @@
     "sum": 135325508,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12847
+    },
+    "date": 1793739667125,
+    "duration": 169997,
+    "left": {
+      "bet_amount": 787369,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Moguera",
+      "normal_bettors": 12,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4464705,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Imagine breaker",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 135308048,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18816
+    },
+    "date": 1793739807328,
+    "duration": 85984,
+    "left": {
+      "bet_amount": 3059193,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Lilith",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 849205,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Athena xiii",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 135295201,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17399
+    },
+    "date": 1793739987327,
+    "duration": 120001,
+    "left": {
+      "bet_amount": 967379,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Voltorb",
+      "normal_bettors": 16,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3695005,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Tournament of power goku",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 135300393,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28047
+    },
+    "date": 1793740145727,
+    "duration": 98200,
+    "left": {
+      "bet_amount": 2193012,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Maebara_keiichi",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2071338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Psychotic ryu",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 135304927,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793740613926,
+    "duration": 196184,
+    "left": {
+      "bet_amount": 49951,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Chaos",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 141659,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Dianus",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
