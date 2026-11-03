@@ -853304,5 +853304,140 @@
     "sum": 2104,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3972
+    },
+    "date": 1793718920724,
+    "duration": 158170,
+    "left": {
+      "bet_amount": 185418,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Chester cheetah",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119729,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fray",
+      "normal_bettors": 24,
+      "win_streak": -14
+    },
+    "sum": 3972,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6484
+    },
+    "date": 1793719176918,
+    "duration": 198196,
+    "left": {
+      "bet_amount": 93155,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sango EX",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 273133,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Hibiki",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 6484,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8645
+    },
+    "date": 1793719469125,
+    "duration": 234196,
+    "left": {
+      "bet_amount": 186088,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Jin",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 217651,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Super queen beryl p",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 8645,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793719647327,
+    "duration": 121968,
+    "left": {
+      "bet_amount": 353170,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Gray fullbuster",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 104822,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Son gohan",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793719849527,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 99241,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rancid",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 411189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kanade",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
