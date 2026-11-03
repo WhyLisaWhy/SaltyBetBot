@@ -845150,5 +845150,167 @@
     "sum": 133952561,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23185
+    },
+    "date": 1793663300324,
+    "duration": 184196,
+    "left": {
+      "bet_amount": 1521757,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Degola",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2990251,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Luna papa",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 133925561,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27030
+    },
+    "date": 1793663456328,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 1315307,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Xemnas",
+      "normal_bettors": 17,
+      "win_streak": -13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2555366,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Mythos zero",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "sum": 133902376,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11937
+    },
+    "date": 1793663610528,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 2906139,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "A-ko",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2343156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Joseph joestar EX3",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 133916144,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8766
+    },
+    "date": 1793663762727,
+    "duration": 96194,
+    "left": {
+      "bet_amount": 1610757,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Reptile umk3",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4758545,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Onslaught 1st",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "sum": 133904207,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11402
+    },
+    "date": 1793663876727,
+    "duration": 54000,
+    "left": {
+      "bet_amount": 5053315,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Dantalion_alice",
+      "normal_bettors": 39,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1167166,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Turbo ken",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 133895441,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4576
+    },
+    "date": 1793664036927,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 1118649,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Neko",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3570073,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Ohaou",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 133898069,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
