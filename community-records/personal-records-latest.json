@@ -852251,5 +852251,113 @@
     "sum": 134802942,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27744
+    },
+    "date": 1793711993128,
+    "duration": 95920,
+    "left": {
+      "bet_amount": 2212491,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Demitri EX3",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2078971,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Taiga ex",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 134806579,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22181
+    },
+    "date": 1793712197325,
+    "duration": 143997,
+    "left": {
+      "bet_amount": 789606,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Victor ortega",
+      "normal_bettors": 18,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3356279,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Ushio kai ni",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 134835716,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20055
+    },
+    "date": 1793712419527,
+    "duration": 162190,
+    "left": {
+      "bet_amount": 3307091,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Shuu",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1375388,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Alucard (v.2)",
+      "normal_bettors": 12,
+      "win_streak": -12
+    },
+    "sum": 134840901,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15752
+    },
+    "date": 1793712563726,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 6880390,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Devilotte de deathsatan ix",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 952382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Skapokan",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 134820846,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
