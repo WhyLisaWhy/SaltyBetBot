@@ -847310,5 +847310,86 @@
     "sum": 2966,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3657
+    },
+    "date": 1793677819926,
+    "duration": 212201,
+    "left": {
+      "bet_amount": 279037,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Brokken",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 217639,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Dr. robotnik",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 3657,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793678090128,
+    "duration": 210202,
+    "left": {
+      "bet_amount": 617959,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 23,
+      "name": "Elegant vaan",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93299,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Goku iadora",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1784
+    },
+    "date": 1793678254380,
+    "duration": 110251,
+    "left": {
+      "bet_amount": 461467,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Sailor saturn",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 295624,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Magical launcher aoko",
+      "normal_bettors": 27,
+      "win_streak": 7
+    },
+    "sum": 1784,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
