@@ -850523,5 +850523,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1720
+    },
+    "date": 1793700123528,
+    "duration": 190001,
+    "left": {
+      "bet_amount": 956716,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 20,
+      "name": "Koryu",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 127511,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kam'lanaut",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 1720,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
