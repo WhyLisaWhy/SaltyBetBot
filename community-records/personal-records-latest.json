@@ -845771,5 +845771,113 @@
     "sum": 133838018,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27127
+    },
+    "date": 1793667021327,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 1581798,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kuanyinshen_nagiai",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3369528,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Tina",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 133830242,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793667157327,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 1066088,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Aprile",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4192040,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Mohikan",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 133842875,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2394
+    },
+    "date": 1793667357526,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 1778217,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Hakolen-sbs EX3",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2106336,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "A-unagi",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 133842874,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793667549726,
+    "duration": 132198,
+    "left": {
+      "bet_amount": 1011436,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Metool",
+      "normal_bettors": 17,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2947120,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Jiroubou",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 133840480,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
