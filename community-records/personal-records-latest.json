@@ -856571,5 +856571,113 @@
     "sum": 2042,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4426
+    },
+    "date": 1793742481325,
+    "duration": 135979,
+    "left": {
+      "bet_amount": 138916,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Dianus",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 439809,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Belial",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 4426,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5811
+    },
+    "date": 1793742661524,
+    "duration": 123998,
+    "left": {
+      "bet_amount": 261206,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ryu-c",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 379931,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Asura taros",
+      "normal_bettors": 26,
+      "win_streak": 11
+    },
+    "sum": 5811,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793742981926,
+    "duration": 264402,
+    "left": {
+      "bet_amount": 629465,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shermie bc",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 55214,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Daiyousei EX",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1686
+    },
+    "date": 1793743272142,
+    "duration": 230215,
+    "left": {
+      "bet_amount": 375101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 16,
+      "name": "Alty garnet",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 352036,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Haku-len",
+      "normal_bettors": 26,
+      "win_streak": 5
+    },
+    "sum": 1686,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
