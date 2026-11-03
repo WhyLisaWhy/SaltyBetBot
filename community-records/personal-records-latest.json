@@ -847175,5 +847175,140 @@
     "sum": 2130,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793676542929,
+    "duration": 232194,
+    "left": {
+      "bet_amount": 111223,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Rin",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 223935,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Dr. robotnik",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793676723131,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 356769,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Elegant vaan",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 78866,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Raph EX2",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1892
+    },
+    "date": 1793677023323,
+    "duration": 240189,
+    "left": {
+      "bet_amount": 56840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Burner man",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 463211,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Goku iadora",
+      "normal_bettors": 39,
+      "win_streak": -2
+    },
+    "sum": 1892,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2124
+    },
+    "date": 1793677307526,
+    "duration": 230092,
+    "left": {
+      "bet_amount": 117747,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kamen rider accel",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 295143,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sailor saturn",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 2124,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2966
+    },
+    "date": 1793677553753,
+    "duration": 186225,
+    "left": {
+      "bet_amount": 87078,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hoshikage",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 371272,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Magical launcher aoko",
+      "normal_bettors": 43,
+      "win_streak": 6
+    },
+    "sum": 2966,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
