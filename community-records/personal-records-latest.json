@@ -850604,5 +850604,113 @@
     "sum": 134565481,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7791
+    },
+    "date": 1793702187325,
+    "duration": 85938,
+    "left": {
+      "bet_amount": 892660,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Adam EX3",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3165850,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Rainbow dash",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 134551303,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 35208
+    },
+    "date": 1793702357528,
+    "duration": 109962,
+    "left": {
+      "bet_amount": 5159545,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Absolute_white_len",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 806597,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gat-x105",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 134578695,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27044
+    },
+    "date": 1793702517727,
+    "duration": 104199,
+    "left": {
+      "bet_amount": 1484979,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "C.dome",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2828336,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Muscle power",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 134584162,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3278
+    },
+    "date": 1793702707927,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 4375596,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Mini caster",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 741435,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Ossan",
+      "normal_bettors": 11,
+      "win_streak": -13
+    },
+    "sum": 134598227,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
