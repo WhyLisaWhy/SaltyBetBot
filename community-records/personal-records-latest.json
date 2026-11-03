@@ -853439,5 +853439,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1923
+    },
+    "date": 1793720095727,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 128923,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Trunks mvc",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 425721,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Fuuma",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 1923,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793720311928,
+    "duration": 160198,
+    "left": {
+      "bet_amount": 470046,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Saki mitonoya",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 114304,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Yang kung fu do",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793720632125,
+    "duration": 260199,
+    "left": {
+      "bet_amount": 310563,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Chester cheetah",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 247319,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Hibiki",
+      "normal_bettors": 28,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
