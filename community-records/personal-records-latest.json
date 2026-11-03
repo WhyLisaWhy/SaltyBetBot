@@ -855518,5 +855518,140 @@
     "sum": 135298034,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28423
+    },
+    "date": 1793735199729,
+    "duration": 144203,
+    "left": {
+      "bet_amount": 2100025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Strongheart",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3165995,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shimo EX3",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 135305036,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793735327727,
+    "duration": 71996,
+    "left": {
+      "bet_amount": 1420065,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Santamu",
+      "normal_bettors": 18,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 10275329,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Shin mr. karate",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 135276613,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17122
+    },
+    "date": 1793735445928,
+    "duration": 59999,
+    "left": {
+      "bet_amount": 1305002,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Youko",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2624293,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Super shredder",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 135276614,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40872
+    },
+    "date": 1793735720135,
+    "duration": 214208,
+    "left": {
+      "bet_amount": 3492479,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Baki-hanma EX3",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1153287,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Team reimisen",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 135259492,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8732
+    },
+    "date": 1793735870328,
+    "duration": 84202,
+    "left": {
+      "bet_amount": 4718788,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Aoko aozaki",
+      "normal_bettors": 33,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 901240,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Yamisaka kureha",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 135218620,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
