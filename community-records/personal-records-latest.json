@@ -854546,5 +854546,140 @@
     "sum": 135143348,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4796
+    },
+    "date": 1793728924734,
+    "duration": 120209,
+    "left": {
+      "bet_amount": 4060687,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Bonkers",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 790905,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ryu 98",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 135142791,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30171
+    },
+    "date": 1793729084730,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 2144194,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Robo-ky mk-2",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 884736,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kawashima-san EX2",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 135143725,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17554
+    },
+    "date": 1793729290927,
+    "duration": 145994,
+    "left": {
+      "bet_amount": 1523470,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Lucifer",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1885111,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Trish una",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 135156002,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45194
+    },
+    "date": 1793729475129,
+    "duration": 124200,
+    "left": {
+      "bet_amount": 2362430,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "D'raven",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1837628,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Gikoneko",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 135138448,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17207
+    },
+    "date": 1793729611324,
+    "duration": 80151,
+    "left": {
+      "bet_amount": 1901501,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Mizuki EX2",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1658141,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "T.hawk sf2",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 135195155,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
