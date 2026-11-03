@@ -845879,5 +845879,167 @@
     "sum": 133840480,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5508
+    },
+    "date": 1793667677726,
+    "duration": 73949,
+    "left": {
+      "bet_amount": 1168373,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "MB-02",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5730757,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Mirror cube square",
+      "normal_bettors": 44,
+      "win_streak": 5
+    },
+    "sum": 133840481,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793667833928,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 4055654,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Animus",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1260515,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Doom vega",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 133841603,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14488
+    },
+    "date": 1793667988125,
+    "duration": 94197,
+    "left": {
+      "bet_amount": 1404428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Nakoruru",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4788626,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 17,
+      "name": "Blanka mvc",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 133841602,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793668140127,
+    "duration": 92001,
+    "left": {
+      "bet_amount": 1802051,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Santana",
+      "normal_bettors": 27,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11877559,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Galacta knight mvc",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 133845839,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21703
+    },
+    "date": 1793668324327,
+    "duration": 125998,
+    "left": {
+      "bet_amount": 4127769,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Hakolen-sbs EX3",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1168101,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sakuya (shining blade)",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "sum": 133845838,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20605
+    },
+    "date": 1793668448524,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 1825800,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Mishio & makoto",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2106278,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Rouwe EX3",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 133851948,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
