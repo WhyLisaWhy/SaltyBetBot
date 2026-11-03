@@ -849389,5 +849389,113 @@
     "sum": 134645945,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31279
+    },
+    "date": 1793692207326,
+    "duration": 155999,
+    "left": {
+      "bet_amount": 3839631,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Deliza",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1345199,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Birdie EX3",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 134646000,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3769
+    },
+    "date": 1793692431575,
+    "duration": 164047,
+    "left": {
+      "bet_amount": 2982133,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Gardevoir dx",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1591038,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kusaregedo EX",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 134614721,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7132
+    },
+    "date": 1793692601727,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 820329,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "B.jenet motw",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4872364,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Laurence blood rb2",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 134616730,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793692747929,
+    "duration": 86123,
+    "left": {
+      "bet_amount": 3572118,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Phoenix ikki",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2021819,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Urien",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 134609598,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
