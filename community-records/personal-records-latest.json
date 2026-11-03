@@ -856463,5 +856463,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6360
+    },
+    "date": 1793741614728,
+    "duration": 200162,
+    "left": {
+      "bet_amount": 112403,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ultimate warrior",
+      "normal_bettors": 16,
+      "win_streak": -8
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 291284,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Shermie bc",
+      "normal_bettors": 39,
+      "win_streak": -3
+    },
+    "sum": 6360,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8762
+    },
+    "date": 1793741820950,
+    "duration": 150223,
+    "left": {
+      "bet_amount": 316530,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Terry_ff3rb",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 121473,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Daiyousei EX",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 8762,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793742081124,
+    "duration": 206199,
+    "left": {
+      "bet_amount": 127675,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lian",
+      "normal_bettors": 20,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 401048,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Alty garnet",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2042
+    },
+    "date": 1793742281325,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 262605,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Haku-len",
+      "normal_bettors": 42,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 308933,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sailor neptune ex",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 2042,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
