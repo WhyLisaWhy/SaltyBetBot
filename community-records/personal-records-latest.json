@@ -846743,5 +846743,113 @@
     "sum": 134171649,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24272
+    },
+    "date": 1793673246323,
+    "duration": 94193,
+    "left": {
+      "bet_amount": 3444486,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Proto-omega",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1319642,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Googoo64 mario",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 134135348,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22515
+    },
+    "date": 1793673456325,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 1962178,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Piplup's 7th evolution",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2127863,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Anji",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 134111076,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38296
+    },
+    "date": 1793673602526,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 956685,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kobuta",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3396346,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Ironfist ryu",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 134088561,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11020
+    },
+    "date": 1793673736725,
+    "duration": 79788,
+    "left": {
+      "bet_amount": 994216,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mito_mashiro",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 8097227,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Foreigner",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 134050265,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
