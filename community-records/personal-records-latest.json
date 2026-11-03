@@ -851819,5 +851819,140 @@
     "sum": 134706105,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3392
+    },
+    "date": 1793709259001,
+    "duration": 126074,
+    "left": {
+      "bet_amount": 5574218,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Skythe",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1148795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "M.u.s.a.f.a.r.",
+      "normal_bettors": 12,
+      "win_streak": 0
+    },
+    "sum": 134747943,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6235
+    },
+    "date": 1793709489129,
+    "duration": 169940,
+    "left": {
+      "bet_amount": 1197134,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Megaroman",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4591972,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Overlord nobunaga",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 134748642,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29664
+    },
+    "date": 1793709639328,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 917739,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Y'",
+      "normal_bettors": 10,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5001271,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Warlock",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 134750266,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3413
+    },
+    "date": 1793709793326,
+    "duration": 93999,
+    "left": {
+      "bet_amount": 985070,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Fatter tony",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2710318,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Lf2 - woody",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "sum": 134755678,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18934
+    },
+    "date": 1793710015730,
+    "duration": 166404,
+    "left": {
+      "bet_amount": 2447770,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Ultraman dyna",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2813658,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Hawk",
+      "normal_bettors": 23,
+      "win_streak": 0
+    },
+    "sum": 134765037,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
