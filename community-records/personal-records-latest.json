@@ -849119,5 +849119,140 @@
     "sum": 134600961,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20025
+    },
+    "date": 1793690437929,
+    "duration": 214202,
+    "left": {
+      "bet_amount": 1406233,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Hellboy",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2011124,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 6,
+      "name": "Pesoguin",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 134582195,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25200
+    },
+    "date": 1793690594164,
+    "duration": 96239,
+    "left": {
+      "bet_amount": 1439344,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hrhs",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3908906,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Elder toguro",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "sum": 134562170,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31594
+    },
+    "date": 1793690754328,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 1531918,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "No.8",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2331329,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Adam",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 134536970,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27751
+    },
+    "date": 1793690930328,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 1299314,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Syo hayate EX",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2591525,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Raffleia",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 134505376,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2339
+    },
+    "date": 1793691074536,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 753693,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Mvsn nose-blood",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5008710,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Ryu-c",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 134519143,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
