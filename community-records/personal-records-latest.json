@@ -850415,5 +850415,113 @@
     "sum": 1868,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2126
+    },
+    "date": 1793699267129,
+    "duration": 140204,
+    "left": {
+      "bet_amount": 44024,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kam'lanaut",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 651612,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kutsuna yui ex",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "sum": 2126,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793699467326,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 476051,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Stan",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 259056,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Ace in the hole",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2391
+    },
+    "date": 1793699643326,
+    "duration": 120005,
+    "left": {
+      "bet_amount": 649887,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Koryu",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 185166,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Gagi_ex",
+      "normal_bettors": 31,
+      "win_streak": 8
+    },
+    "sum": 2391,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793699873528,
+    "duration": 170208,
+    "left": {
+      "bet_amount": 862753,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Kam'lanaut",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 94358,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Stan",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
