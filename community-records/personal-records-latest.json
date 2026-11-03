@@ -856679,5 +856679,86 @@
     "sum": 1686,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3474
+    },
+    "date": 1793743472125,
+    "duration": 139999,
+    "left": {
+      "bet_amount": 721640,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Belial",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 147462,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ryu-c",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 3474,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793743682327,
+    "duration": 150004,
+    "left": {
+      "bet_amount": 421390,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Shermie bc",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 577865,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Haku-len",
+      "normal_bettors": 40,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2678
+    },
+    "date": 1793743938126,
+    "duration": 195797,
+    "left": {
+      "bet_amount": 385869,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Ryu-c",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 659987,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Haku-len",
+      "normal_bettors": 30,
+      "win_streak": 6
+    },
+    "sum": 2678,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
