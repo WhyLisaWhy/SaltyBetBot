@@ -850064,5 +850064,113 @@
     "sum": 134507142,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10768
+    },
+    "date": 1793696462927,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 6080542,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Oyashiro_chie",
+      "normal_bettors": 37,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 878924,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Kamen rider duke",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 134511924,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793696628935,
+    "duration": 110005,
+    "left": {
+      "bet_amount": 5351829,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Peter griffin mvc",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1118884,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sketchy yoshi",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 134513478,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26232
+    },
+    "date": 1793696777926,
+    "duration": 88999,
+    "left": {
+      "bet_amount": 1358094,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Fire-donald",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2155491,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "G-hamster",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 134513479,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793697315528,
+    "duration": 266198,
+    "left": {
+      "bet_amount": 48451,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tin star",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148709,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Simonkin2019",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
