@@ -855410,5 +855410,113 @@
     "sum": 135362050,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34144
+    },
+    "date": 1793734423125,
+    "duration": 90146,
+    "left": {
+      "bet_amount": 1428174,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "May star",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1858292,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Moriya ex",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 135362374,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30422
+    },
+    "date": 1793734673325,
+    "duration": 190196,
+    "left": {
+      "bet_amount": 2889369,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Beauty queen etna",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1734616,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Nemesis",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 135328230,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 696
+    },
+    "date": 1793734833335,
+    "duration": 103992,
+    "left": {
+      "bet_amount": 1541013,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Fuuma",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4763837,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Gel",
+      "normal_bettors": 37,
+      "win_streak": 10
+    },
+    "sum": 135297808,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5865
+    },
+    "date": 1793734999526,
+    "duration": 106000,
+    "left": {
+      "bet_amount": 1583804,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Terumi",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1897579,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Elpizo",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 135298034,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
