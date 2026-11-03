@@ -847553,5 +847553,113 @@
     "sum": 134066204,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6060
+    },
+    "date": 1793680433924,
+    "duration": 201948,
+    "left": {
+      "bet_amount": 707607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Dekinaiko-santa",
+      "normal_bettors": 14,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4474431,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Tetris EX",
+      "normal_bettors": 35,
+      "win_streak": 69
+    },
+    "sum": 134066312,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19078
+    },
+    "date": 1793680638126,
+    "duration": 143986,
+    "left": {
+      "bet_amount": 2860275,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Nrvnqsr chaos",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1094316,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Genesic gaogaigar",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 134067270,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27764
+    },
+    "date": 1793680774340,
+    "duration": 76011,
+    "left": {
+      "bet_amount": 3474571,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "D4?roll?",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1238566,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Theskiver",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 134074521,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 45023
+    },
+    "date": 1793680954547,
+    "duration": 126221,
+    "left": {
+      "bet_amount": 4597162,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Kusanagi_ex",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1726221,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dragon waifu",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 134084340,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
