@@ -854060,5 +854060,113 @@
     "sum": 135027366,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19044
+    },
+    "date": 1793725489927,
+    "duration": 67960,
+    "left": {
+      "bet_amount": 2828811,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Nirvana",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1243982,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Turbo ken",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 135038872,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38519
+    },
+    "date": 1793725660125,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 2762961,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Ed-209",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1236000,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Yu-by",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 135019828,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17487
+    },
+    "date": 1793725870326,
+    "duration": 150178,
+    "left": {
+      "bet_amount": 2559161,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Comrade athena",
+      "normal_bettors": 33,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2015992,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Duo lon",
+      "normal_bettors": 12,
+      "win_streak": -9
+    },
+    "sum": 135103332,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6142
+    },
+    "date": 1793726134528,
+    "duration": 204204,
+    "left": {
+      "bet_amount": 962277,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Virginia mkv",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3648365,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Akane inuwaka ex",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 135125340,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
