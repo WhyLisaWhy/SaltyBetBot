@@ -856382,5 +856382,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2091
+    },
+    "date": 1793740818123,
+    "duration": 150197,
+    "left": {
+      "bet_amount": 162481,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Belial",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 77527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jago ki2",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 2091,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3077
+    },
+    "date": 1793741134325,
+    "duration": 250201,
+    "left": {
+      "bet_amount": 210968,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ryu-c",
+      "normal_bettors": 38,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 80286,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Charging chuck",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "sum": 3077,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793741350526,
+    "duration": 156199,
+    "left": {
+      "bet_amount": 239421,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Umvc onix",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 75611,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Asura taros",
+      "normal_bettors": 24,
+      "win_streak": 10
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
