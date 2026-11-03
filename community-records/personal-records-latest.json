@@ -854438,5 +854438,113 @@
     "sum": 135120047,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29441
+    },
+    "date": 1793728280126,
+    "duration": 206198,
+    "left": {
+      "bet_amount": 6060338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Vita EX3",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1333168,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Sas_counter",
+      "normal_bettors": 27,
+      "win_streak": -14
+    },
+    "sum": 135124141,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15861
+    },
+    "date": 1793728394329,
+    "duration": 50202,
+    "left": {
+      "bet_amount": 838041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Vegetto sb",
+      "normal_bettors": 14,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6257955,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Tachi chu",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 135130587,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22584
+    },
+    "date": 1793728514368,
+    "duration": 66026,
+    "left": {
+      "bet_amount": 1541466,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Buront",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3248794,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Belmod",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 135132706,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 557
+    },
+    "date": 1793728744528,
+    "duration": 176199,
+    "left": {
+      "bet_amount": 1252717,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Marisa EX",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2954460,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Piplup's 7th evolution",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 135143348,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
