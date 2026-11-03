@@ -846203,5 +846203,140 @@
     "sum": 133979042,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1595
+    },
+    "date": 1793669615335,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 5120163,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Kung fu mario",
+      "normal_bettors": 42,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1583780,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Mousse by ?",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 134092747,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38895
+    },
+    "date": 1793669801577,
+    "duration": 126247,
+    "left": {
+      "bet_amount": 4707518,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Joker-p",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4102230,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Dragon waifu",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 134093241,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24102
+    },
+    "date": 1793669955524,
+    "duration": 93976,
+    "left": {
+      "bet_amount": 1174349,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Tyssa willing",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2907157,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Agent nash",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 134137456,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19988
+    },
+    "date": 1793670211725,
+    "duration": 195999,
+    "left": {
+      "bet_amount": 2069653,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Strike freedom nitori",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2957671,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Boss black battler",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 134147112,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 999
+    },
+    "date": 1793670377936,
+    "duration": 110011,
+    "left": {
+      "bet_amount": 4845994,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Nostalgia critic",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2114465,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Chameleon",
+      "normal_bettors": 19,
+      "win_streak": 0
+    },
+    "sum": 134127124,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
