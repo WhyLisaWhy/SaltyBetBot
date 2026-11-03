@@ -853223,5 +853223,86 @@
     "sum": 135074439,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793718152526,
+    "duration": 124399,
+    "left": {
+      "bet_amount": 4103286,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Capsule monster",
+      "normal_bettors": 36,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 897664,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Italian juda",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 135075954,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793718518528,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 52641,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Diglett",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145807,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Saki mitonoya",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2104
+    },
+    "date": 1793718708526,
+    "duration": 135998,
+    "left": {
+      "bet_amount": 122130,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Yang kung fu do",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110247,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Taku",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 2104,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
