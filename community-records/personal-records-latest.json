@@ -847391,5 +847391,59 @@
     "sum": 1784,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793678480529,
+    "duration": 166204,
+    "left": {
+      "bet_amount": 167481,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Brokken",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 713201,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Elegant vaan",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1914
+    },
+    "date": 1793678802127,
+    "duration": 267602,
+    "left": {
+      "bet_amount": 505641,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 18,
+      "name": "Sailor saturn",
+      "normal_bettors": 23,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 479995,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Elegant vaan",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 1914,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
