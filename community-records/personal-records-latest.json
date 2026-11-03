@@ -850550,5 +850550,59 @@
     "sum": 1720,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22239
+    },
+    "date": 1793701851143,
+    "duration": 74016,
+    "left": {
+      "bet_amount": 2862252,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Kaname",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1194316,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gaira caffeine",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 134556273,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14178
+    },
+    "date": 1793702047329,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 1877712,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Rockbomb",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1642765,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Cube",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 134565481,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
