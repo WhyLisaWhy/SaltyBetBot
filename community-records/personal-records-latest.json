@@ -855140,5 +855140,140 @@
     "sum": 135220093,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22492
+    },
+    "date": 1793732695728,
+    "duration": 164000,
+    "left": {
+      "bet_amount": 2030489,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kosanjou",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1313627,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Kamehameha",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 135213282,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24227
+    },
+    "date": 1793732815728,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 1169058,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Thundermiss.shermie",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2824282,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Kyo clone-10 ex",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 135227674,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37829
+    },
+    "date": 1793732985933,
+    "duration": 114205,
+    "left": {
+      "bet_amount": 3026563,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Aiai",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 732242,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Sasuke uchiha",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 135237618,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24048
+    },
+    "date": 1793733202127,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 1124507,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Shadow diavolo",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2050656,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Huriken",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 135386296,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40522
+    },
+    "date": 1793733362329,
+    "duration": 106189,
+    "left": {
+      "bet_amount": 2696240,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Gutsman",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1537555,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ramparudo",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 135362248,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
