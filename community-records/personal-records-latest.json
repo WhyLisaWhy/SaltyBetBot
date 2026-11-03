@@ -856166,5 +856166,86 @@
     "sum": 135356343,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 8977
+    },
+    "date": 1793739010727,
+    "duration": 64201,
+    "left": {
+      "bet_amount": 5956132,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Lf2 - neodeep",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 923271,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nemesis",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 135348105,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23987
+    },
+    "date": 1793739210928,
+    "duration": 144200,
+    "left": {
+      "bet_amount": 944138,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Victor von gerdenheim",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4028221,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Dis astranagant",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 135349495,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17460
+    },
+    "date": 1793739437128,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 2673147,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Kasumi todo",
+      "normal_bettors": 28,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1518587,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Asura cvs2",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 135325508,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
