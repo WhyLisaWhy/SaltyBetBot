@@ -846338,5 +846338,113 @@
     "sum": 134127124,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19078
+    },
+    "date": 1793670592128,
+    "duration": 160202,
+    "left": {
+      "bet_amount": 3048957,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Thor",
+      "normal_bettors": 36,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3140353,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Max eagle",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 134129413,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793670740327,
+    "duration": 88199,
+    "left": {
+      "bet_amount": 1109694,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Keion chan",
+      "normal_bettors": 12,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7057566,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Predalien",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 134110335,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5282
+    },
+    "date": 1793670918326,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 1865740,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kyo kusanagi 97",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7236282,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 10,
+      "name": "Giant mech hisui",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 134110336,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20254
+    },
+    "date": 1793671132524,
+    "duration": 159979,
+    "left": {
+      "bet_amount": 3098389,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Cassius bright",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1103631,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Tio&megumi",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 134111697,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
