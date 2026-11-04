@@ -864019,5 +864019,140 @@
     "sum": 135651763,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28768
+    },
+    "date": 1793797478770,
+    "duration": 126243,
+    "left": {
+      "bet_amount": 1924936,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Puppet master",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1775611,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Hyper neo-kamek",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 135659487,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8856
+    },
+    "date": 1793797648725,
+    "duration": 103997,
+    "left": {
+      "bet_amount": 1027212,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Plum-ax",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2606850,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Boss igniz",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 135630719,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11910
+    },
+    "date": 1793797798928,
+    "duration": 89991,
+    "left": {
+      "bet_amount": 802962,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Priecia",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2480142,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Condor heads",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 135621863,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19592
+    },
+    "date": 1793798009152,
+    "duration": 150224,
+    "left": {
+      "bet_amount": 1374188,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fernandeath 2",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1505689,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Another igniz",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 135658113,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14064
+    },
+    "date": 1793798145128,
+    "duration": 75999,
+    "left": {
+      "bet_amount": 1102298,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shocker",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2243089,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Grox",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 135638521,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
