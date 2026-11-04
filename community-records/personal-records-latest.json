@@ -857570,5 +857570,113 @@
     "sum": 135763589,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37983
+    },
+    "date": 1793749773125,
+    "duration": 80000,
+    "left": {
+      "bet_amount": 2938915,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Foz",
+      "normal_bettors": 26,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1187428,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Evil donald",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 135744839,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31523
+    },
+    "date": 1793749967327,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 1120299,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ruby rose",
+      "normal_bettors": 23,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2307951,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Sensei karate kenji",
+      "normal_bettors": 32,
+      "win_streak": -4
+    },
+    "sum": 135706856,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20112
+    },
+    "date": 1793750153529,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2918385,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Iwaminokami",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1367976,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Lolicard",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 135675333,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14547
+    },
+    "date": 1793750343726,
+    "duration": 134169,
+    "left": {
+      "bet_amount": 1764076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Perfect oc",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3364668,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Houraisan kaguya",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 135655221,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
