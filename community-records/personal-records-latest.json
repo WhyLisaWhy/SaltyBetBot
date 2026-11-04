@@ -858542,5 +858542,113 @@
     "sum": 135576147,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23295
+    },
+    "date": 1793756194125,
+    "duration": 156199,
+    "left": {
+      "bet_amount": 1828909,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Noel vermillion",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6789453,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Pocket Sakura",
+      "normal_bettors": 37,
+      "win_streak": -3
+    },
+    "sum": 135582814,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22832
+    },
+    "date": 1793756304125,
+    "duration": 49998,
+    "left": {
+      "bet_amount": 7376279,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Radish ssj4",
+      "normal_bettors": 39,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1711952,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mami",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 135589068,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4814
+    },
+    "date": 1793756448328,
+    "duration": 84202,
+    "left": {
+      "bet_amount": 1401572,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ono kohaku",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4664010,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Kanae mkt",
+      "normal_bettors": 32,
+      "win_streak": 7
+    },
+    "sum": 135594351,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28823
+    },
+    "date": 1793756648528,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 3051048,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Cycloid omega EX",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2889331,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Tomitake jirou",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 135589537,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
