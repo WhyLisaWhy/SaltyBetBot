@@ -861483,5 +861483,113 @@
     "sum": 135759597,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23192
+    },
+    "date": 1793778593725,
+    "duration": 115997,
+    "left": {
+      "bet_amount": 1762242,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Animus EX3",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1280792,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Young geese",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "sum": 135749410,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14259
+    },
+    "date": 1793778729930,
+    "duration": 76201,
+    "left": {
+      "bet_amount": 4317499,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Acalyha",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 818916,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Heaven ascension dio",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 135766047,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793778901921,
+    "duration": 117995,
+    "left": {
+      "bet_amount": 758550,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Siegfried",
+      "normal_bettors": 15,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4250804,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Gohan zeta",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 135751788,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2587
+    },
+    "date": 1793779064129,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 847579,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Yang adam",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3763458,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ananzi",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 135751787,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
