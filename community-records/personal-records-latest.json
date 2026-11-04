@@ -865828,5 +865828,113 @@
     "sum": 10057,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33333
+    },
+    "date": 1793809141923,
+    "duration": 174195,
+    "left": {
+      "bet_amount": 158681,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Oserotto",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 208972,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sayuri bernstein",
+      "normal_bettors": 19,
+      "win_streak": -5
+    },
+    "sum": 33333,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793809318123,
+    "duration": 116193,
+    "left": {
+      "bet_amount": 125727,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ootani reimu",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 358852,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryuhaku todoh",
+      "normal_bettors": 19,
+      "win_streak": -9
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5921
+    },
+    "date": 1793809552330,
+    "duration": 174199,
+    "left": {
+      "bet_amount": 343752,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Jin chonshu rb2",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 170840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Mvc3 alice buster",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 5921,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8814
+    },
+    "date": 1793809758329,
+    "duration": 149950,
+    "left": {
+      "bet_amount": 78076,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ryu Master",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 494237,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shin gouki",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 8814,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
