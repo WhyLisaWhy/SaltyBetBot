@@ -865693,5 +865693,140 @@
     "sum": 135560496,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793808171130,
+    "duration": 136003,
+    "left": {
+      "bet_amount": 59274,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Vier",
+      "normal_bettors": 21,
+      "win_streak": -11
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 107350,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Ryu Master",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2394
+    },
+    "date": 1793808335336,
+    "duration": 104206,
+    "left": {
+      "bet_amount": 48511,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ex-kyo",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157622,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Shin gouki",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 2394,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3120
+    },
+    "date": 1793808505327,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 142389,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Turn-a",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 105828,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Yoko kurama",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 3120,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5390
+    },
+    "date": 1793808735540,
+    "duration": 170005,
+    "left": {
+      "bet_amount": 162512,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Zangief maskered",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 145362,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Adelheid EX",
+      "normal_bettors": 18,
+      "win_streak": -10
+    },
+    "sum": 5390,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10057
+    },
+    "date": 1793808907740,
+    "duration": 112213,
+    "left": {
+      "bet_amount": 262869,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Alessi",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 103524,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Heavyarms custom",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 10057,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
