@@ -858839,5 +858839,113 @@
     "sum": 135640493,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17535
+    },
+    "date": 1793757951530,
+    "duration": 116184,
+    "left": {
+      "bet_amount": 1678066,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Darkness-of-red",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2116644,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "M.bison mvc2",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 135643644,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19645
+    },
+    "date": 1793758095530,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 2645717,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Rin rin",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2276225,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Light yagami",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 135657432,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20232
+    },
+    "date": 1793758255727,
+    "duration": 100001,
+    "left": {
+      "bet_amount": 992047,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Koto",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3963182,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Gouki-kofm",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 135674209,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34613
+    },
+    "date": 1793758481928,
+    "duration": 170202,
+    "left": {
+      "bet_amount": 1197756,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Eko",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3444380,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Nui harime",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 135653977,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
