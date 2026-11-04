@@ -859244,5 +859244,140 @@
     "sum": 135672222,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22304
+    },
+    "date": 1793760639528,
+    "duration": 179991,
+    "left": {
+      "bet_amount": 2343194,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Sorluska EX2",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1465697,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Sakura ccs-qoh",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 135685417,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2179
+    },
+    "date": 1793760859728,
+    "duration": 164000,
+    "left": {
+      "bet_amount": 1454530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Black.t",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6744319,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Master maionese",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 135720540,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793761009926,
+    "duration": 94197,
+    "left": {
+      "bet_amount": 4416249,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Saki",
+      "normal_bettors": 42,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1724968,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Lucifer 2",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 135721010,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4448
+    },
+    "date": 1793761276126,
+    "duration": 210199,
+    "left": {
+      "bet_amount": 5288500,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Shimo EX3",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1075673,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Meth Blue Ranger",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 135721011,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793761416128,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 4913356,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Old robo-ky",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 902060,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Donkeykongjr EX",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 135721915,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
