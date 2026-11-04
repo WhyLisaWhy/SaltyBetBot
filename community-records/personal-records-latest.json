@@ -859136,5 +859136,113 @@
     "sum": 135628919,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1709
+    },
+    "date": 1793759844925,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 5965715,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Valgar reinhart",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1047352,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "The blob",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 135628920,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24650
+    },
+    "date": 1793760025214,
+    "duration": 126288,
+    "left": {
+      "bet_amount": 2836309,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Umvc_redarcueid",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4348159,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kid gohan EX3",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 135629220,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15710
+    },
+    "date": 1793760219329,
+    "duration": 134204,
+    "left": {
+      "bet_amount": 1507705,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jill ex",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4261505,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ringo aomori",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "sum": 135666684,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40595
+    },
+    "date": 1793760399343,
+    "duration": 120018,
+    "left": {
+      "bet_amount": 4075632,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Vivi_ornitier",
+      "normal_bettors": 37,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1337863,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Senna",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 135672222,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
