@@ -859460,5 +859460,111 @@
     "sum": 135733039,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": "None",
+    "date": 1793762083726,
+    "duration": 76996,
+    "left": {
+      "bet_amount": 27124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Super_zak",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 313398,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Another takuma",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 3451,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3451
+    },
+    "date": 1793762619127,
+    "duration": 270199,
+    "left": {
+      "bet_amount": 316427,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Kuroyukihime",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 331079,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Black goku",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 3451,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6716
+    },
+    "date": 1793762913326,
+    "duration": 230195,
+    "left": {
+      "bet_amount": 458515,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Jumbo ozaki",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 295266,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Sp-shingo",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 6716,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793763069530,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 68051,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Red tornado ex",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 755067,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "God rugal-kofm",
+      "normal_bettors": 47,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
