@@ -866071,5 +866071,32 @@
     "sum": 20390,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22167
+    },
+    "date": 1793811187350,
+    "duration": 252016,
+    "left": {
+      "bet_amount": 789220,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Shin gouki",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 252677,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jin chonshu rb2",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "sum": 22167,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
