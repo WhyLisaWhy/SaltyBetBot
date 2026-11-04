@@ -867151,5 +867151,140 @@
     "sum": 135550671,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 986
+    },
+    "date": 1793819023731,
+    "duration": 86190,
+    "left": {
+      "bet_amount": 4819063,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kfm",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 715343,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 2,
+      "name": "Illyasviel von einzbern",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 135567454,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3752
+    },
+    "date": 1793819203726,
+    "duration": 126000,
+    "left": {
+      "bet_amount": 1062627,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shazam ex",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1924866,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Supernovice",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 135567601,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32573
+    },
+    "date": 1793819393927,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 846594,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Sigfried doble de alfa",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1714929,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Oserotto",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 135569669,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1969
+    },
+    "date": 1793819518126,
+    "duration": 64200,
+    "left": {
+      "bet_amount": 4480862,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Odenya saki",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 662604,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Donkeykongjr EX",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 135585450,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26339
+    },
+    "date": 1793819708127,
+    "duration": 133999,
+    "left": {
+      "bet_amount": 868414,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Yuyuko",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2328358,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Eiji shirow",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 135585742,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
