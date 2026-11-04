@@ -866098,5 +866098,140 @@
     "sum": 22167,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2209
+    },
+    "date": 1793811942126,
+    "duration": 120173,
+    "left": {
+      "bet_amount": 3204121,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Katsura kotonoha",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 911094,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Nisego",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "sum": 135552884,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3874
+    },
+    "date": 1793812116327,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 2929253,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Kousaku",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 924570,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sakagami tomoyo",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 135550675,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1452
+    },
+    "date": 1793812302380,
+    "duration": 126053,
+    "left": {
+      "bet_amount": 1376416,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Godzillen",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1088120,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "The mountain",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 135546801,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22735
+    },
+    "date": 1793812472526,
+    "duration": 115984,
+    "left": {
+      "bet_amount": 856818,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Menat",
+      "normal_bettors": 17,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2002839,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Magma-dragoon",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 135545349,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25675
+    },
+    "date": 1793812612522,
+    "duration": 80005,
+    "left": {
+      "bet_amount": 923324,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sonya kmb",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2729173,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Mary EX3",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "sum": 135522614,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
