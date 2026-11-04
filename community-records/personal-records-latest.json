@@ -863587,5 +863587,113 @@
     "sum": 135731062,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22306
+    },
+    "date": 1793794894728,
+    "duration": 146180,
+    "left": {
+      "bet_amount": 2299501,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Hururu",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 744449,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yaruo_aa",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 135742263,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25382
+    },
+    "date": 1793795070735,
+    "duration": 116007,
+    "left": {
+      "bet_amount": 2049076,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Luka",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 935520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ramda EX3",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 135749416,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16845
+    },
+    "date": 1793795190927,
+    "duration": 59981,
+    "left": {
+      "bet_amount": 657818,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Knightman mvc",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4240261,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Ryoko(mugen)",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 135760863,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27812
+    },
+    "date": 1793795361128,
+    "duration": 116203,
+    "left": {
+      "bet_amount": 2103325,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Omanyte EX3",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1054957,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mirage",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 135763466,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
