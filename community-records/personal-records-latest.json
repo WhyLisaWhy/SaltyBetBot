@@ -867016,5 +867016,140 @@
     "sum": 135463741,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793818076931,
+    "duration": 110004,
+    "left": {
+      "bet_amount": 4980331,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Byakuya kuchiki",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1804728,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Tibigintou",
+      "normal_bettors": 27,
+      "win_streak": 0
+    },
+    "sum": 135459285,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793818213129,
+    "duration": 82202,
+    "left": {
+      "bet_amount": 3168363,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bullzeye",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2015539,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Pitt",
+      "normal_bettors": 30,
+      "win_streak": -14
+    },
+    "sum": 135459286,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22297
+    },
+    "date": 1793818451326,
+    "duration": 184200,
+    "left": {
+      "bet_amount": 3581724,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Qb",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 730562,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Gumball watterson",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "sum": 135459287,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 45630
+    },
+    "date": 1793818601325,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 4797507,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Agni akof",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1880025,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "G-impact",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 135436990,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21179
+    },
+    "date": 1793818877529,
+    "duration": 220200,
+    "left": {
+      "bet_amount": 1220218,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Pheus_mor",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1518676,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Black-rock_shooter",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 135550671,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
