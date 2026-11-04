@@ -860403,5 +860403,113 @@
     "sum": 135908229,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10016
+    },
+    "date": 1793771341925,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 5791308,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Spiral mvc2",
+      "normal_bettors": 34,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 785924,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Lord of the rangs",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 135914475,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12521
+    },
+    "date": 1793771492126,
+    "duration": 94000,
+    "left": {
+      "bet_amount": 3954746,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Haizilyo",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 805623,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Undeadsoldier",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 135915832,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3816
+    },
+    "date": 1793771722342,
+    "duration": 170216,
+    "left": {
+      "bet_amount": 1851272,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Future gohan",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1756475,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Sanada ani",
+      "normal_bettors": 30,
+      "win_streak": -5
+    },
+    "sum": 135918375,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3820
+    },
+    "date": 1793771942529,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 648070,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Fygar",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3545364,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Ririsu",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 135922389,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
