@@ -868015,5 +868015,113 @@
     "sum": 135540502,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31683
+    },
+    "date": 1793824415925,
+    "duration": 79995,
+    "left": {
+      "bet_amount": 2247509,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Giganto prototype",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1204782,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Ryuhaku todoh",
+      "normal_bettors": 13,
+      "win_streak": -10
+    },
+    "sum": 135601604,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21709
+    },
+    "date": 1793824616127,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2315454,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Reimu-q",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1212387,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Akagi shigeru",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 135569921,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2244
+    },
+    "date": 1793824816373,
+    "duration": 140240,
+    "left": {
+      "bet_amount": 1180857,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Hol 'butt king' funtimes",
+      "normal_bettors": 21,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2121834,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Santamu",
+      "normal_bettors": 25,
+      "win_streak": 0
+    },
+    "sum": 135581183,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19911
+    },
+    "date": 1793825066327,
+    "duration": 194001,
+    "left": {
+      "bet_amount": 690784,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Sparkster",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3839661,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Suwako ai",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 135578939,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
