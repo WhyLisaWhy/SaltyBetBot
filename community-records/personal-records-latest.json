@@ -861753,5 +861753,113 @@
     "sum": 135778065,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23083
+    },
+    "date": 1793780431330,
+    "duration": 114204,
+    "left": {
+      "bet_amount": 3076309,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mech.hisui 404",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1271869,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hyo amano",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 135789126,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29295
+    },
+    "date": 1793780637528,
+    "duration": 156182,
+    "left": {
+      "bet_amount": 1605863,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ume_age19",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442107,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Misaka sisters",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 135798599,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29556
+    },
+    "date": 1793780827529,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 891282,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Fake hd radish",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3184417,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Miko-q",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 135769304,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 13194
+    },
+    "date": 1793780991725,
+    "duration": 100204,
+    "left": {
+      "bet_amount": 1643791,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Omni-psych justice",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1191905,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Cho-kichiku masamune",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 135739748,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
