@@ -869041,5 +869041,113 @@
     "sum": 2154,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3898
+    },
+    "date": 1793831587521,
+    "duration": 166194,
+    "left": {
+      "bet_amount": 392851,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Akiha tohno EX",
+      "normal_bettors": 44,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 159092,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Clarice_di_lanza",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 3898,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793831923728,
+    "duration": 276203,
+    "left": {
+      "bet_amount": 259231,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Angelia",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 458985,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Azusa hinomori",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4279
+    },
+    "date": 1793832137925,
+    "duration": 149994,
+    "left": {
+      "bet_amount": 155594,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Element kyo",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287519,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Hibachi",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 4279,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793832464124,
+    "duration": 266200,
+    "left": {
+      "bet_amount": 288998,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Clarice_di_lanza",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 255084,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Angelia",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
