@@ -867610,5 +867610,86 @@
     "sum": 135593644,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16887
+    },
+    "date": 1793821867930,
+    "duration": 126202,
+    "left": {
+      "bet_amount": 4303899,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Frank west",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 705615,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Shikieiki yamaxanadu",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "sum": 135589185,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11092
+    },
+    "date": 1793822048220,
+    "duration": 126287,
+    "left": {
+      "bet_amount": 1667444,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Hamon kyo",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 978742,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Purprill",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 135591943,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21924
+    },
+    "date": 1793822178128,
+    "duration": 76006,
+    "left": {
+      "bet_amount": 1961647,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Kubikiri basara EX",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1043764,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Jill ex",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 135580851,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
