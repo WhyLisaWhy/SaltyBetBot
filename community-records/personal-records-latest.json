@@ -866368,5 +866368,113 @@
     "sum": 135506287,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17627
+    },
+    "date": 1793813553329,
+    "duration": 74001,
+    "left": {
+      "bet_amount": 752271,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Aya hasebe",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2277815,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Thouther 2",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 135512308,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8771
+    },
+    "date": 1793813713527,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 3001227,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Toki 2",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 849642,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Broly lssj4",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 135518085,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 403
+    },
+    "date": 1793814055727,
+    "duration": 95956,
+    "left": {
+      "bet_amount": 3191155,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Axel hawk special",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 972720,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Moleman",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 135509314,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793814285928,
+    "duration": 176179,
+    "left": {
+      "bet_amount": 3486457,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Lisa lisa",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 707662,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Tony won",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 135508911,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
