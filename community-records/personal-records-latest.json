@@ -866638,5 +866638,113 @@
     "sum": 135479709,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 39713
+    },
+    "date": 1793815592926,
+    "duration": 96000,
+    "left": {
+      "bet_amount": 1046148,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Hyo amano",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1551831,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Bloo",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 135460122,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8905
+    },
+    "date": 1793815767125,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 960612,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 4,
+      "name": "Heart-armardi",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1297916,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mani-mani koxa",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 135420409,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30014
+    },
+    "date": 1793816003327,
+    "duration": 176200,
+    "left": {
+      "bet_amount": 722355,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 4,
+      "name": "Gaibon",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1776612,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Arabian moon",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 135426955,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24314
+    },
+    "date": 1793816153527,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 1120568,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Sion(coh)",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1900110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Kishimax EX2",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 135497829,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
