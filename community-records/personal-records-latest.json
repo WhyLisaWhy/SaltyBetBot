@@ -869446,5 +869446,113 @@
     "sum": 135850243,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793835378525,
+    "duration": 94196,
+    "left": {
+      "bet_amount": 3152604,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Duck king xi",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2162387,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Ayame_ai",
+      "normal_bettors": 31,
+      "win_streak": 0
+    },
+    "sum": 135861649,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33590
+    },
+    "date": 1793835528526,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 3393735,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Joseph joestar EX3",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155817,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Ryu 98",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 135861650,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6104
+    },
+    "date": 1793835664727,
+    "duration": 75996,
+    "left": {
+      "bet_amount": 4596567,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Cafelier",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1090083,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Pupa",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 135828060,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26246
+    },
+    "date": 1793835844927,
+    "duration": 116200,
+    "left": {
+      "bet_amount": 2893571,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Spiral mvc2",
+      "normal_bettors": 36,
+      "win_streak": 11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1183638,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Eternal champion",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 135829506,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
