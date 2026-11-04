@@ -859863,5 +859863,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1759
+    },
+    "date": 1793765964726,
+    "duration": 257200,
+    "left": {
+      "bet_amount": 166427,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Dongon",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1144636,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 28,
+      "name": "Broli",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 1759,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
