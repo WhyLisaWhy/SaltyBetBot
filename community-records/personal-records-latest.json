@@ -869176,5 +869176,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17733
+    },
+    "date": 1793833661126,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1395967,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Reiji arisu",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1669847,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "No.6 hibiki",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 135710875,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37048
+    },
+    "date": 1793833785351,
+    "duration": 70225,
+    "left": {
+      "bet_amount": 1406942,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hon-fu rb2",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2203499,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Chain combo yuyuko",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 135725544,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10220
+    },
+    "date": 1793833931329,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 782919,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Rusty",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2933077,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Yumeko",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 135688496,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
