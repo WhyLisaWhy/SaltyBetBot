@@ -863155,5 +863155,113 @@
     "sum": 135740998,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25397
+    },
+    "date": 1793792170529,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 1989767,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Accelerator 2",
+      "normal_bettors": 30,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1173780,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Akiko EX",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 135715325,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 521
+    },
+    "date": 1793792314549,
+    "duration": 84021,
+    "left": {
+      "bet_amount": 683240,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 3,
+      "name": "Ace attorney",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3634392,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Arcadboy",
+      "normal_bettors": 25,
+      "win_streak": 5
+    },
+    "sum": 135757466,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14101
+    },
+    "date": 1793792486726,
+    "duration": 111999,
+    "left": {
+      "bet_amount": 4181493,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Skolldir",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 938601,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kitanaininjya",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 135757564,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16203
+    },
+    "date": 1793792720925,
+    "duration": 180197,
+    "left": {
+      "bet_amount": 1884307,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Rolf",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1082979,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Legendary super saiyan akuma",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 135743463,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
