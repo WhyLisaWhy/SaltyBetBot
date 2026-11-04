@@ -865936,5 +865936,140 @@
     "sum": 8814,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10182
+    },
+    "date": 1793810022554,
+    "duration": 210023,
+    "left": {
+      "bet_amount": 490084,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Turn-a",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 123918,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zangief maskered",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 10182,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12705
+    },
+    "date": 1793810258726,
+    "duration": 176196,
+    "left": {
+      "bet_amount": 106873,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Heavyarms custom",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 534777,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Sayuri bernstein",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 12705,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15186
+    },
+    "date": 1793810458926,
+    "duration": 139992,
+    "left": {
+      "bet_amount": 117836,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Ootani reimu",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 629503,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Jin chonshu rb2",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 15186,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17962
+    },
+    "date": 1793810639130,
+    "duration": 124203,
+    "left": {
+      "bet_amount": 736275,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Shin gouki",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 101914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Turn-a",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "sum": 17962,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20390
+    },
+    "date": 1793810875332,
+    "duration": 180205,
+    "left": {
+      "bet_amount": 75047,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sayuri bernstein",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 840739,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Jin chonshu rb2",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 20390,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
