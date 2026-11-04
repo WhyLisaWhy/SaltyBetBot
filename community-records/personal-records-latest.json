@@ -868798,5 +868798,140 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2430
+    },
+    "date": 1793829619926,
+    "duration": 135998,
+    "left": {
+      "bet_amount": 150721,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Element kyo",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 85226,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Mini caster",
+      "normal_bettors": 23,
+      "win_streak": 3
+    },
+    "sum": 2430,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3783
+    },
+    "date": 1793829810128,
+    "duration": 126204,
+    "left": {
+      "bet_amount": 62713,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Chipp_arrange",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 240416,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Hibachi",
+      "normal_bettors": 42,
+      "win_streak": 3
+    },
+    "sum": 3783,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4755
+    },
+    "date": 1793830000329,
+    "duration": 130204,
+    "left": {
+      "bet_amount": 262397,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Admiral fujitora",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 74880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tatami",
+      "normal_bettors": 28,
+      "win_streak": -10
+    },
+    "sum": 4755,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6088
+    },
+    "date": 1793830174325,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 325812,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Akiha tohno EX",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 57428,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Human kazuya",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 6088,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7142
+    },
+    "date": 1793830500741,
+    "duration": 264362,
+    "left": {
+      "bet_amount": 58126,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kiyohime",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 370835,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Clarice_di_lanza",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 7142,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
