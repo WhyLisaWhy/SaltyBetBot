@@ -860916,5 +860916,113 @@
     "sum": 135947139,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29466
+    },
+    "date": 1793774816733,
+    "duration": 64003,
+    "left": {
+      "bet_amount": 1558936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Saint kyo",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1746903,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Happosai",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 135965505,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24792
+    },
+    "date": 1793775078927,
+    "duration": 199984,
+    "left": {
+      "bet_amount": 2604258,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Maggyo IX",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 997994,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Layban",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 135991365,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19901
+    },
+    "date": 1793775269130,
+    "duration": 130003,
+    "left": {
+      "bet_amount": 5367954,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Oldmon",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 711835,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Colonel.exe",
+      "normal_bettors": 9,
+      "win_streak": -4
+    },
+    "sum": 136000777,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29258
+    },
+    "date": 1793775409327,
+    "duration": 86200,
+    "left": {
+      "bet_amount": 853819,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Structure list",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3398357,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ssf2x ken",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 136003407,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
