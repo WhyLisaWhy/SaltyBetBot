@@ -862023,5 +862023,86 @@
     "sum": 135669726,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23535
+    },
+    "date": 1793782194730,
+    "duration": 106203,
+    "left": {
+      "bet_amount": 993723,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Shampoo",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3521660,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Elon catghost",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 135641257,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29905
+    },
+    "date": 1793782404728,
+    "duration": 145989,
+    "left": {
+      "bet_amount": 3113815,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Hopper",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1257321,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Evil zodiac",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 135647854,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1333
+    },
+    "date": 1793782634927,
+    "duration": 170001,
+    "left": {
+      "bet_amount": 4046052,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Virtus",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1159211,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chloe valens",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 135659815,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
