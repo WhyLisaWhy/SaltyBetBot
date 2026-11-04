@@ -859890,5 +859890,86 @@
     "sum": 1759,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 733
+    },
+    "date": 1793768181527,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 989525,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sanosuke EX3",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2175710,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Kim jae hoon",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 135735057,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2545
+    },
+    "date": 1793768311726,
+    "duration": 74200,
+    "left": {
+      "bet_amount": 1077540,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yukionna",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3269265,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Lin EX",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 135735391,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7551
+    },
+    "date": 1793768461732,
+    "duration": 90007,
+    "left": {
+      "bet_amount": 1118398,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sauzer",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5003911,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Shin valdoll",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 135732846,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
