@@ -859379,5 +859379,86 @@
     "sum": 135721915,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3737
+    },
+    "date": 1793761622328,
+    "duration": 146000,
+    "left": {
+      "bet_amount": 1784333,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mithra",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5322461,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Naruto kun",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 135721916,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793761792527,
+    "duration": 110202,
+    "left": {
+      "bet_amount": 2683660,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Benimaru lv3",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3097807,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Yuri_shiranui",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 135733040,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21501
+    },
+    "date": 1793761952526,
+    "duration": 99996,
+    "left": {
+      "bet_amount": 634881,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "E-terry 71113",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5549172,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 18,
+      "name": "9",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 135733039,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
