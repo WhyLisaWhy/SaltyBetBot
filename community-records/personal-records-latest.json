@@ -869743,5 +869743,113 @@
     "sum": 135857440,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19362
+    },
+    "date": 1793837135929,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 2570128,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Z kim",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 911540,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "C3po & r2d2",
+      "normal_bettors": 7,
+      "win_streak": -5
+    },
+    "sum": 135835704,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4779
+    },
+    "date": 1793837265937,
+    "duration": 74012,
+    "left": {
+      "bet_amount": 965523,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Manticore",
+      "normal_bettors": 8,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3249732,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Zz_gundam",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 135842520,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17439
+    },
+    "date": 1793837456128,
+    "duration": 130179,
+    "left": {
+      "bet_amount": 4358180,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Garou terry",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 747144,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Megafurashi",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "sum": 135837741,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22098
+    },
+    "date": 1793837592128,
+    "duration": 80001,
+    "left": {
+      "bet_amount": 4181110,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Remy",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1040455,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Goddman batman",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "sum": 135840719,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
