@@ -878113,5 +878113,113 @@
     "sum": 18751,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26358
+    },
+    "date": 1793899224527,
+    "duration": 236199,
+    "left": {
+      "bet_amount": 468827,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Hei meiling",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86391,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Cassius bright",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 26358,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793899370730,
+    "duration": 85987,
+    "left": {
+      "bet_amount": 289266,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Rugal b. EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 380918,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Gustab munchausen",
+      "normal_bettors": 31,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793899550932,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 336135,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ryougi_shiki",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 344645,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Azteca",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3055
+    },
+    "date": 1793899745017,
+    "duration": 130086,
+    "left": {
+      "bet_amount": 176003,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hyper beast",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 658025,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Vengeful bardock",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 3055,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
