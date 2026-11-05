@@ -870580,5 +870580,140 @@
     "sum": 135942742,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 33597
+    },
+    "date": 1793842470130,
+    "duration": 70202,
+    "left": {
+      "bet_amount": 1301716,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Roomi",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3157301,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Kusanagi",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "sum": 135970039,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793842596129,
+    "duration": 72000,
+    "left": {
+      "bet_amount": 3384216,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Ego.akys",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1338729,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Yagami iori",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 135936442,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6895
+    },
+    "date": 1793842764328,
+    "duration": 109972,
+    "left": {
+      "bet_amount": 1689208,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "K dash xiii",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3621803,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Kamakura-kun-san",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 135936443,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33215
+    },
+    "date": 1793842930339,
+    "duration": 110009,
+    "left": {
+      "bet_amount": 1840044,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Hanaqo",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1060372,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Dachon",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 135929548,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 42179
+    },
+    "date": 1793843070553,
+    "duration": 80012,
+    "left": {
+      "bet_amount": 1752280,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Dee bee kaw EX3",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1588341,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Straight cougar",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 135948350,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
