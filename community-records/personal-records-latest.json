@@ -874036,5 +874036,140 @@
     "sum": 135946959,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3766
+    },
+    "date": 1793870143742,
+    "duration": 166190,
+    "left": {
+      "bet_amount": 1249038,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Sol-pw",
+      "normal_bettors": 16,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1996905,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Atusi",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 135951444,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12954
+    },
+    "date": 1793870333725,
+    "duration": 129996,
+    "left": {
+      "bet_amount": 3648969,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Le policier",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 769784,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Sektor umk3",
+      "normal_bettors": 12,
+      "win_streak": -12
+    },
+    "sum": 135947678,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19819
+    },
+    "date": 1793870513925,
+    "duration": 119968,
+    "left": {
+      "bet_amount": 829801,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 2,
+      "name": "Portgas d. ace",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1812484,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Nagato yuki EX",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 135950402,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24104
+    },
+    "date": 1793870744140,
+    "duration": 164213,
+    "left": {
+      "bet_amount": 1006838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kurahashi tokimi",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2225717,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Mech hisui iqs",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 135992682,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18267
+    },
+    "date": 1793870884326,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 918578,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Chargeman len",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3051394,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "A-rugal",
+      "normal_bettors": 31,
+      "win_streak": 10
+    },
+    "sum": 135968578,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
