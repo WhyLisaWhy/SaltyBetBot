@@ -879031,5 +879031,113 @@
     "sum": 135948616,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38115
+    },
+    "date": 1793909090328,
+    "duration": 150199,
+    "left": {
+      "bet_amount": 1871507,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Wing gundam",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1442251,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Yoko EX",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 135948617,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14797
+    },
+    "date": 1793909280373,
+    "duration": 130043,
+    "left": {
+      "bet_amount": 4137672,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Lion_gunta",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 860820,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Xemnas",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 135910502,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26308
+    },
+    "date": 1793909506526,
+    "duration": 155996,
+    "left": {
+      "bet_amount": 1240037,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Order of ecclesia death",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1064688,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Mr. broly",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 135913570,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2252
+    },
+    "date": 1793909636727,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 4911107,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "K9999-kofm",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 810532,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kamen rider garren",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 135943472,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
