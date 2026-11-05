@@ -875278,5 +875278,86 @@
     "sum": 4721,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31260
+    },
+    "date": 1793880655925,
+    "duration": 59995,
+    "left": {
+      "bet_amount": 709441,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Double",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3628363,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Orochi akiha",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 135696445,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31052
+    },
+    "date": 1793880820152,
+    "duration": 104024,
+    "left": {
+      "bet_amount": 1878347,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Mictlan",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1132573,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Deluxe adon",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 135702505,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19256
+    },
+    "date": 1793880950328,
+    "duration": 70201,
+    "left": {
+      "bet_amount": 3095836,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Majin alice",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 946512,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Black rugal",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 135720924,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
