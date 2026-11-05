@@ -874873,5 +874873,113 @@
     "sum": 135670242,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793875802148,
+    "duration": 124021,
+    "left": {
+      "bet_amount": 113863,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ikumi amasawa",
+      "normal_bettors": 34,
+      "win_streak": 12
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 49377,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Cyclops the dick",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2214
+    },
+    "date": 1793876032326,
+    "duration": 174196,
+    "left": {
+      "bet_amount": 79471,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Geisya",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 121134,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Azusa & tiger",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 2214,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793876348527,
+    "duration": 256198,
+    "left": {
+      "bet_amount": 88164,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mitsuji tanimati",
+      "normal_bettors": 19,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148783,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mithra classic knight",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793876524726,
+    "duration": 122003,
+    "left": {
+      "bet_amount": 59604,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Lord yamcha",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 242456,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Ra",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
