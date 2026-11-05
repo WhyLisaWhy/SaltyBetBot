@@ -872686,5 +872686,140 @@
     "sum": 136005661,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23276
+    },
+    "date": 1793861138533,
+    "duration": 70006,
+    "left": {
+      "bet_amount": 3164651,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Killer croc",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1357936,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Iron man z",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "sum": 136005660,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32466
+    },
+    "date": 1793861354726,
+    "duration": 156202,
+    "left": {
+      "bet_amount": 1461748,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Shiena bee",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1718656,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Airou ver2.11",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 136015575,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30275
+    },
+    "date": 1793861524926,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 697475,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Accelerator 2",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5763673,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Primeus",
+      "normal_bettors": 38,
+      "win_streak": 7
+    },
+    "sum": 135983109,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23536
+    },
+    "date": 1793861775129,
+    "duration": 194203,
+    "left": {
+      "bet_amount": 803366,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kasumi todoh?",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4893034,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Vegeta",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 135986754,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6790
+    },
+    "date": 1793861911127,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 2367829,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Ryo fu",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 868864,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Hercule z2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 135963218,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
