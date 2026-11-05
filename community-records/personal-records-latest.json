@@ -869851,5 +869851,140 @@
     "sum": 135840719,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15498
+    },
+    "date": 1793837982528,
+    "duration": 144201,
+    "left": {
+      "bet_amount": 2572427,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Medamaoyaji",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 853400,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Black glass",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 135846190,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23170
+    },
+    "date": 1793838132729,
+    "duration": 90201,
+    "left": {
+      "bet_amount": 816780,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kusaregedo EX",
+      "normal_bettors": 9,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2889500,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Sentro EX7",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 135830692,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21367
+    },
+    "date": 1793838308726,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2741922,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Vixen ex",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1500580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Evil ken ssf'2 plus",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "sum": 135837190,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33818
+    },
+    "date": 1793838438928,
+    "duration": 76005,
+    "left": {
+      "bet_amount": 1138855,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Goombario",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3407099,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Monster marco",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 135815823,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7657
+    },
+    "date": 1793838653153,
+    "duration": 154223,
+    "left": {
+      "bet_amount": 7063609,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "M.bison mvc2",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1224844,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Jecht EX",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 135914079,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
