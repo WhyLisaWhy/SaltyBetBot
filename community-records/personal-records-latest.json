@@ -880867,5 +880867,140 @@
     "sum": 136035667,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4032
+    },
+    "date": 1793920953529,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 758023,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Shin akuma s-r",
+      "normal_bettors": 14,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2049172,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Mech kain",
+      "normal_bettors": 37,
+      "win_streak": 8
+    },
+    "sum": 136036363,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25216
+    },
+    "date": 1793921139801,
+    "duration": 120021,
+    "left": {
+      "bet_amount": 1585887,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Trixie lulamoon",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1835484,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Alter wind",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 136037852,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22996
+    },
+    "date": 1793921293927,
+    "duration": 94198,
+    "left": {
+      "bet_amount": 2557592,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Metaknight",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1133115,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Shredder 2097",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 136066580,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23960
+    },
+    "date": 1793921423928,
+    "duration": 73987,
+    "left": {
+      "bet_amount": 1453127,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Shen EX2",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2875054,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Miko sd",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 136076678,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17845
+    },
+    "date": 1793921574126,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 3163598,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Hotaru futaba",
+      "normal_bettors": 39,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1312456,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Roomi",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 136088688,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
