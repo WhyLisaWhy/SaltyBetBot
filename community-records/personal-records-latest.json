@@ -875359,5 +875359,140 @@
     "sum": 135720924,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793881080327,
+    "duration": 73984,
+    "left": {
+      "bet_amount": 1155844,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Jagi bike",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2818607,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Ein",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "sum": 135701668,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17973
+    },
+    "date": 1793881246527,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 1120091,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ryuji yamazaki",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1372874,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Ssf2x ken",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 135701667,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18871
+    },
+    "date": 1793881380531,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 1766336,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Hyperbattlecyborg",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1626262,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Giganto prototype",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 135683694,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3770
+    },
+    "date": 1793881592727,
+    "duration": 152196,
+    "left": {
+      "bet_amount": 1270209,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Astonishing Cyclops",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1590331,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Underdog",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 135703956,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25628
+    },
+    "date": 1793881812926,
+    "duration": 160168,
+    "left": {
+      "bet_amount": 1026150,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jackie Drunken Fist",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1540181,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "A'",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 135700186,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
