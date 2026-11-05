@@ -876520,5 +876520,140 @@
     "sum": 135833886,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2276
+    },
+    "date": 1793888398124,
+    "duration": 126199,
+    "left": {
+      "bet_amount": 2564046,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Nise gosei",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 754281,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 3,
+      "name": "Arcueid",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 135860593,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9922
+    },
+    "date": 1793888558129,
+    "duration": 100003,
+    "left": {
+      "bet_amount": 4445626,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Masked rider 555(emanon)",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 758894,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Etrigan",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 135868307,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18327
+    },
+    "date": 1793888738347,
+    "duration": 126019,
+    "left": {
+      "bet_amount": 2315514,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Roppen heimer EX FF",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1033573,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Robert945",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 135869997,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793888918563,
+    "duration": 126234,
+    "left": {
+      "bet_amount": 780097,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Turbo bonkers",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4299632,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Tormentor jinmen",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 135851670,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 38850
+    },
+    "date": 1793889154725,
+    "duration": 182193,
+    "left": {
+      "bet_amount": 1476169,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kingslime",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1657501,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Grebam",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "sum": 135851671,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
