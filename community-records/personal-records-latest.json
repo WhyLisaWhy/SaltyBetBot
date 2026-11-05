@@ -874981,5 +874981,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793876774929,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 133820,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Shielder",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 172945,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Jhons lee EX3",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3531
+    },
+    "date": 1793876959130,
+    "duration": 124199,
+    "left": {
+      "bet_amount": 187132,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dr. husser",
+      "normal_bettors": 17,
+      "win_streak": -9
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 184422,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Helmet",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 3531,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7047
+    },
+    "date": 1793877165326,
+    "duration": 148199,
+    "left": {
+      "bet_amount": 272280,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Darthvader",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 138707,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dark Slayer",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 7047,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793877465528,
+    "duration": 246200,
+    "left": {
+      "bet_amount": 332649,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Superior spider-man",
+      "normal_bettors": 27,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 149920,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Aura",
+      "normal_bettors": 21,
+      "win_streak": 7
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
