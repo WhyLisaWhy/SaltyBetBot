@@ -877222,5 +877222,140 @@
     "sum": 136052580,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24951
+    },
+    "date": 1793892919528,
+    "duration": 206004,
+    "left": {
+      "bet_amount": 647090,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mc-jade type-k",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2631988,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Mallow smrpg",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 136082617,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18431
+    },
+    "date": 1793893089727,
+    "duration": 109995,
+    "left": {
+      "bet_amount": 1075953,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Seifuku akiha",
+      "normal_bettors": 11,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3177848,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Rugal",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 136057666,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4088
+    },
+    "date": 1793893289929,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 1882715,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Lunasa prismriver",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1573465,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "The gold ranger",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 136039235,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6880
+    },
+    "date": 1793893469928,
+    "duration": 124000,
+    "left": {
+      "bet_amount": 1354015,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Masta gambit",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3171352,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Goku ssj3 EX2",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 136035147,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15755
+    },
+    "date": 1793893686127,
+    "duration": 160002,
+    "left": {
+      "bet_amount": 1636978,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "The man of steel",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1341302,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ikemen",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 136038079,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
