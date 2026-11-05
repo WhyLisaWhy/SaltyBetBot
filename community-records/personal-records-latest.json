@@ -876925,5 +876925,140 @@
     "sum": 136057946,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20438
+    },
+    "date": 1793890996129,
+    "duration": 69979,
+    "left": {
+      "bet_amount": 719676,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Weather dopant",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5813905,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Colossus mvc2 ex",
+      "normal_bettors": 38,
+      "win_streak": 6
+    },
+    "sum": 136061584,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19568
+    },
+    "date": 1793891152327,
+    "duration": 96148,
+    "left": {
+      "bet_amount": 2470313,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Mf viga",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1270099,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Kane",
+      "normal_bettors": 14,
+      "win_streak": -4
+    },
+    "sum": 136064106,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26166
+    },
+    "date": 1793891352327,
+    "duration": 140000,
+    "left": {
+      "bet_amount": 996049,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Felix the cat EX3",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2445525,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Geese xi",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 136101588,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16349
+    },
+    "date": 1793891476526,
+    "duration": 63922,
+    "left": {
+      "bet_amount": 1710521,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Tenko",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1455276,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "V2ab",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 136075422,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25935
+    },
+    "date": 1793891622527,
+    "duration": 86001,
+    "left": {
+      "bet_amount": 918511,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Athena xiii",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2692777,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Gouki-kofm",
+      "normal_bettors": 39,
+      "win_streak": -4
+    },
+    "sum": 136089200,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
