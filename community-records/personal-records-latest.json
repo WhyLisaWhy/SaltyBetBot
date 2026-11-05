@@ -878383,5 +878383,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31471
+    },
+    "date": 1793905069128,
+    "duration": 146203,
+    "left": {
+      "bet_amount": 1008637,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mega robo-len",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1652450,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Kirara",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 136004403,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
