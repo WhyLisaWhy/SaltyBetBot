@@ -879139,5 +879139,140 @@
     "sum": 135943472,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14070
+    },
+    "date": 1793909800928,
+    "duration": 104201,
+    "left": {
+      "bet_amount": 4666531,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Taokaka",
+      "normal_bettors": 42,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 944160,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Youhei 1p",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 135943844,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29005
+    },
+    "date": 1793909936927,
+    "duration": 76001,
+    "left": {
+      "bet_amount": 791687,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Doctor wily",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2447505,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Kfm_k",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 135946683,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23042
+    },
+    "date": 1793910101140,
+    "duration": 100206,
+    "left": {
+      "bet_amount": 2239849,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Iori may cry",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2111027,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Valmar rugal",
+      "normal_bettors": 13,
+      "win_streak": -15
+    },
+    "sum": 135917678,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8982
+    },
+    "date": 1793910353326,
+    "duration": 190158,
+    "left": {
+      "bet_amount": 839914,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Bionicles",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2468480,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Curehappy",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 135941863,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21002
+    },
+    "date": 1793910533328,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 1253965,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Raiden 512e1",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358324,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Order of ecclesia death",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 135932881,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
