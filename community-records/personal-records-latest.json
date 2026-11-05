@@ -879274,5 +879274,140 @@
     "sum": 135932881,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793910703537,
+    "duration": 115875,
+    "left": {
+      "bet_amount": 869483,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Thirteen",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2266465,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Snow knight",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 135911879,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9110
+    },
+    "date": 1793910953726,
+    "duration": 190145,
+    "left": {
+      "bet_amount": 752103,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sekibanki",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1833295,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Nyu",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 135911880,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18026
+    },
+    "date": 1793911109928,
+    "duration": 102153,
+    "left": {
+      "bet_amount": 6873814,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Sportacus",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1605658,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Living armor",
+      "normal_bettors": 31,
+      "win_streak": -14
+    },
+    "sum": 135915599,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19519
+    },
+    "date": 1793911273928,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 974868,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Gon the dinosaur",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1735971,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Captain rolf",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 135919799,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15892
+    },
+    "date": 1793911414131,
+    "duration": 80203,
+    "left": {
+      "bet_amount": 1771150,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Valgasu",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1070528,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Kusanagi EX",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 135900280,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
