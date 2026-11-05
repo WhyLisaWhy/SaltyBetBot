@@ -879868,5 +879868,86 @@
     "sum": 136000885,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27259
+    },
+    "date": 1793914604528,
+    "duration": 206003,
+    "left": {
+      "bet_amount": 694593,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shaka de virgo",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2551196,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Kukulkan",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "sum": 136010986,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20084
+    },
+    "date": 1793914734728,
+    "duration": 69987,
+    "left": {
+      "bet_amount": 2095776,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Psyqhical kofm",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1284930,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Chie_rumiko",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 136107326,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 863
+    },
+    "date": 1793914898928,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 729255,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Trouble man, part 2",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4468958,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ra",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 136087242,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
