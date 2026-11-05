@@ -873253,5 +873253,140 @@
     "sum": 135998555,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25566
+    },
+    "date": 1793864909529,
+    "duration": 99994,
+    "left": {
+      "bet_amount": 860949,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Hachune miku",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1712233,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Rubette EX2",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 136006729,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25435
+    },
+    "date": 1793865161728,
+    "duration": 192204,
+    "left": {
+      "bet_amount": 2120452,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Hades izanami",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1485973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sailor moon EX",
+      "normal_bettors": 17,
+      "win_streak": -6
+    },
+    "sum": 136056108,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21225
+    },
+    "date": 1793865341926,
+    "duration": 120163,
+    "left": {
+      "bet_amount": 790655,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Laguna",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2400101,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Fake kaede",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 136030673,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19896
+    },
+    "date": 1793865531929,
+    "duration": 125996,
+    "left": {
+      "bet_amount": 898989,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gill sf3",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6054831,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Tokinomiya kamui EX3",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 136037604,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5607
+    },
+    "date": 1793865752130,
+    "duration": 159981,
+    "left": {
+      "bet_amount": 4589451,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Minecraft goku",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1375963,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Hawkeye sd",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "sum": 136040549,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
