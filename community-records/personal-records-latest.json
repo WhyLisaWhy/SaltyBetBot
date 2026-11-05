@@ -872227,5 +872227,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18470
+    },
+    "date": 1793858394526,
+    "duration": 53990,
+    "left": {
+      "bet_amount": 2064105,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Urmnaf bort hyuga",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1197113,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Xena",
+      "normal_bettors": 20,
+      "win_streak": 7
+    },
+    "sum": 136046211,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
