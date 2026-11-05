@@ -870121,5 +870121,140 @@
     "sum": 135870368,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19363
+    },
+    "date": 1793839645926,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 1350059,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Inverno",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2357708,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Lightning cb",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 135837621,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12774
+    },
+    "date": 1793839835927,
+    "duration": 136001,
+    "left": {
+      "bet_amount": 1337540,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Orochi(rance)",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3528912,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Omega EX",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 135818258,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1517
+    },
+    "date": 1793839970127,
+    "duration": 73997,
+    "left": {
+      "bet_amount": 1223299,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Keel",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4184792,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Gel",
+      "normal_bettors": 37,
+      "win_streak": 11
+    },
+    "sum": 135823083,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793840156125,
+    "duration": 125994,
+    "left": {
+      "bet_amount": 2549045,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Maoko",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1679417,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "E.honda sf2",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 135823527,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2087
+    },
+    "date": 1793840292326,
+    "duration": 81994,
+    "left": {
+      "bet_amount": 1143594,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Kuando",
+      "normal_bettors": 19,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3069378,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Barns",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "sum": 135823528,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
