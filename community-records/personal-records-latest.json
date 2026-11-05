@@ -879571,5 +879571,113 @@
     "sum": 135927537,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20369
+    },
+    "date": 1793912484964,
+    "duration": 74036,
+    "left": {
+      "bet_amount": 1243063,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Fire quacker",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2643066,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Tuxedo mask",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 135927538,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40665
+    },
+    "date": 1793912671135,
+    "duration": 126206,
+    "left": {
+      "bet_amount": 1316550,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Final dio",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1611788,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Wonder woman revolutions",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 135937045,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26290
+    },
+    "date": 1793912911351,
+    "duration": 180224,
+    "left": {
+      "bet_amount": 961259,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Remilia",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3277399,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Piyokong",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 135985338,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2341
+    },
+    "date": 1793913087327,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 1963348,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Megaman x EX",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1049870,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Jack",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "sum": 136072588,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
