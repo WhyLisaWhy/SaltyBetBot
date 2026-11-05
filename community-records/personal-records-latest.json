@@ -875143,5 +875143,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793878336125,
+    "duration": 179959,
+    "left": {
+      "bet_amount": 287197,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shielder",
+      "normal_bettors": 20,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 94077,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Helmet",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2056
+    },
+    "date": 1793878652530,
+    "duration": 260203,
+    "left": {
+      "bet_amount": 493960,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Darthvader",
+      "normal_bettors": 31,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 311214,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Aura",
+      "normal_bettors": 15,
+      "win_streak": 8
+    },
+    "sum": 2056,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5298
+    },
+    "date": 1793878872529,
+    "duration": 160003,
+    "left": {
+      "bet_amount": 455141,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Azusa & tiger",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 246770,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Mithra classic knight",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "sum": 5298,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
