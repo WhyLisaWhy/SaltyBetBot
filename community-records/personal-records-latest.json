@@ -873118,5 +873118,140 @@
     "sum": 136060091,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793864058927,
+    "duration": 114200,
+    "left": {
+      "bet_amount": 3806072,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Mikudayo-",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 855985,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Docinho",
+      "normal_bettors": 22,
+      "win_streak": 0
+    },
+    "sum": 136048880,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19617
+    },
+    "date": 1793864198931,
+    "duration": 70005,
+    "left": {
+      "bet_amount": 802027,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Zoma",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5288376,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Elizabeth p4a",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "sum": 136048879,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26637
+    },
+    "date": 1793864349129,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 5354281,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Yun",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 863483,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Astranalent ex",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136051844,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26652
+    },
+    "date": 1793864515124,
+    "duration": 109956,
+    "left": {
+      "bet_amount": 631120,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kung fu m.bison",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4582328,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Talonarten",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 136025207,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20453
+    },
+    "date": 1793864689328,
+    "duration": 109968,
+    "left": {
+      "bet_amount": 1086966,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 1,
+      "name": "Retro suika",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2699625,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Hoshikage",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 135998555,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
