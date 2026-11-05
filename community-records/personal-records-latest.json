@@ -875791,5 +875791,140 @@
     "sum": 135697073,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27716
+    },
+    "date": 1793883834526,
+    "duration": 110206,
+    "left": {
+      "bet_amount": 2056838,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Sion(coh)",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1109377,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Tyrog",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 135697784,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18267
+    },
+    "date": 1793884000527,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 1775985,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Tokiko",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1118187,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Takumi hattori",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 135712535,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25676
+    },
+    "date": 1793884270927,
+    "duration": 210198,
+    "left": {
+      "bet_amount": 1377950,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Eddie mvc",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1377061,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kyo rotd",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 135694268,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 11924
+    },
+    "date": 1793884466927,
+    "duration": 136000,
+    "left": {
+      "bet_amount": 2597347,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Twin syllin",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 997815,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Chun-li_a",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 135668592,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17069
+    },
+    "date": 1793884647169,
+    "duration": 126035,
+    "left": {
+      "bet_amount": 2153131,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Byrne",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 953447,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Jon talbain",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "sum": 135656668,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
