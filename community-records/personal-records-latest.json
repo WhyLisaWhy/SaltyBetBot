@@ -874792,5 +874792,86 @@
     "sum": 135688979,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27401
+    },
+    "date": 1793875031551,
+    "duration": 100024,
+    "left": {
+      "bet_amount": 1642245,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Fuchigami saiki",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1048819,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 3,
+      "name": "Sasuke kun",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 135698035,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 392
+    },
+    "date": 1793875241726,
+    "duration": 150149,
+    "left": {
+      "bet_amount": 1059232,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Dark warrior 2",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2973843,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Black rabite",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 135670634,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29725
+    },
+    "date": 1793875405727,
+    "duration": 108000,
+    "left": {
+      "bet_amount": 1823866,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Phone(redux)",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189162,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Reiko",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 135670242,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
