@@ -872821,5 +872821,113 @@
     "sum": 135963218,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 322
+    },
+    "date": 1793862065322,
+    "duration": 94191,
+    "left": {
+      "bet_amount": 838643,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Kung fu m.bison",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4368966,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Shingo as",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 135956428,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793862221326,
+    "duration": 96001,
+    "left": {
+      "bet_amount": 2595972,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Mysterio",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2104244,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Commander keen",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 135956490,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21344
+    },
+    "date": 1793862365525,
+    "duration": 89998,
+    "left": {
+      "bet_amount": 3059767,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Saggot v2",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4581480,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ash of blueblood",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 135956492,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5658
+    },
+    "date": 1793862751724,
+    "duration": 330198,
+    "left": {
+      "bet_amount": 1058527,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Akiko EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6489139,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "778v",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 135970681,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
