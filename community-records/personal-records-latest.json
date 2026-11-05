@@ -881002,5 +881002,59 @@
     "sum": 136088688,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26288
+    },
+    "date": 1793921760381,
+    "duration": 126254,
+    "left": {
+      "bet_amount": 1427860,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Hina bardy",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1569772,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Yang adam",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 136070843,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 17389
+    },
+    "date": 1793921952126,
+    "duration": 131729,
+    "left": {
+      "bet_amount": 1292031,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gumball watterson",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1913072,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Baraka obama",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 136094361,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
