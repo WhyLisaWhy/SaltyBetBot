@@ -871039,5 +871039,140 @@
     "sum": 135996311,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 16965
+    },
+    "date": 1793845288345,
+    "duration": 120219,
+    "left": {
+      "bet_amount": 876799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nagato yuki",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2823837,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Aldebaran de tauro",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 135997009,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10164
+    },
+    "date": 1793845440329,
+    "duration": 89943,
+    "left": {
+      "bet_amount": 3546431,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Sailor neptune ex",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1270220,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Pietro",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 136002246,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8281
+    },
+    "date": 1793845610526,
+    "duration": 116001,
+    "left": {
+      "bet_amount": 3428880,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Death ogre",
+      "normal_bettors": 19,
+      "win_streak": -11
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3333887,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Kyoudou senna",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 136005877,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24916
+    },
+    "date": 1793845804727,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 2715846,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Seth-kofm",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1176089,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Ramda EX3",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "sum": 136014373,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20998
+    },
+    "date": 1793845910807,
+    "duration": 48080,
+    "left": {
+      "bet_amount": 2608200,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Natsuki subaru",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1014651,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Colonel.exe",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 136070716,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
