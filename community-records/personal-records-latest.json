@@ -874360,5 +874360,113 @@
     "sum": 135858832,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35333
+    },
+    "date": 1793872171331,
+    "duration": 63987,
+    "left": {
+      "bet_amount": 1481124,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Fire-donald",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2486727,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "S.sinclair EX",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 135864387,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31913
+    },
+    "date": 1793872321325,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 1392953,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Wonder Woman Reloaded",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1188565,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Sparq",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 135829054,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2323
+    },
+    "date": 1793872567532,
+    "duration": 125997,
+    "left": {
+      "bet_amount": 1611959,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Cammy svc chaos",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1499213,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mvc2 cyclops",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 135797141,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31109
+    },
+    "date": 1793872733727,
+    "duration": 106179,
+    "left": {
+      "bet_amount": 798435,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Nami mvc",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1985835,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Catherine kyohbashi mvc",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 135799299,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
