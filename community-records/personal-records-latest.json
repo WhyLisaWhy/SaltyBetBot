@@ -873955,5 +873955,86 @@
     "sum": 135972937,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30919
+    },
+    "date": 1793869547127,
+    "duration": 133990,
+    "left": {
+      "bet_amount": 3024890,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Nightmare madotsuki",
+      "normal_bettors": 35,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 989608,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Mizuka tank",
+      "normal_bettors": 12,
+      "win_streak": 3
+    },
+    "sum": 135972993,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20799
+    },
+    "date": 1793869763327,
+    "duration": 149999,
+    "left": {
+      "bet_amount": 3901281,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Noob-smoke mk1",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 921009,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ss6 syunran-abab",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 135942074,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23481
+    },
+    "date": 1793869923524,
+    "duration": 106188,
+    "left": {
+      "bet_amount": 3854996,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mahoko",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 740810,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Goenitz rotd(shao)",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 135946959,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
