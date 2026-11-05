@@ -873388,5 +873388,113 @@
     "sum": 136040549,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27322
+    },
+    "date": 1793866022326,
+    "duration": 205984,
+    "left": {
+      "bet_amount": 1606260,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Eirin yagokoro",
+      "normal_bettors": 21,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1155771,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Crazy mukuro",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 136034942,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28168
+    },
+    "date": 1793866136528,
+    "duration": 60005,
+    "left": {
+      "bet_amount": 3301818,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Master kaede",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1103444,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Skater",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136007620,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9237
+    },
+    "date": 1793866312528,
+    "duration": 120003,
+    "left": {
+      "bet_amount": 3553453,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Kawaiman",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1107769,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Fuhashitei",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 135979452,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10530
+    },
+    "date": 1793866482734,
+    "duration": 114006,
+    "left": {
+      "bet_amount": 5241359,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Miyako arima iqs",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 850611,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Neo geegus whp",
+      "normal_bettors": 15,
+      "win_streak": -4
+    },
+    "sum": 135982325,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
