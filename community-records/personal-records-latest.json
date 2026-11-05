@@ -873820,5 +873820,140 @@
     "sum": 135962736,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34200
+    },
+    "date": 1793868636527,
+    "duration": 106188,
+    "left": {
+      "bet_amount": 1504433,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Berserker f/sn",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2755898,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Ms.valliere",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 135940335,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23867
+    },
+    "date": 1793868826527,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 695676,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Alex sf3",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2769785,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Yoshitora",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 135958776,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20180
+    },
+    "date": 1793869002754,
+    "duration": 116224,
+    "left": {
+      "bet_amount": 2444222,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Kagami EX2",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1003239,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Wing.0",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 135964720,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793869142925,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 1389801,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Nero DMC4",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2797824,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Orochi earth yashiro",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 135972936,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 187
+    },
+    "date": 1793869347037,
+    "duration": 150111,
+    "left": {
+      "bet_amount": 1121171,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 3,
+      "name": "Peeking lord pirate",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3767435,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Kurokami medaka",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 135972937,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
