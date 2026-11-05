@@ -878221,5 +878221,113 @@
     "sum": 3055,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3869
+    },
+    "date": 1793899961127,
+    "duration": 156000,
+    "left": {
+      "bet_amount": 531949,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Miyuki shiba",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 273208,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Akane yatogi",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 3869,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5842
+    },
+    "date": 1793900201331,
+    "duration": 179988,
+    "left": {
+      "bet_amount": 127116,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Maverick hunter x",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 718501,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Hei meiling",
+      "normal_bettors": 30,
+      "win_streak": 4
+    },
+    "sum": 5842,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 6868
+    },
+    "date": 1793900487529,
+    "duration": 225992,
+    "left": {
+      "bet_amount": 138610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 14,
+      "name": "Rugal b. EX",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 781005,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Azteca",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 6868,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793900727727,
+    "duration": 175957,
+    "left": {
+      "bet_amount": 469285,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Vengeful bardock",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 655999,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Miyuki shiba",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "sum": 8077,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
