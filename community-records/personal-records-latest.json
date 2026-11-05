@@ -871282,5 +871282,86 @@
     "sum": 136016640,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22330
+    },
+    "date": 1793846851528,
+    "duration": 114001,
+    "left": {
+      "bet_amount": 3217806,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Sue sakamoto",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1209125,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Wong_dong_fei_hung",
+      "normal_bettors": 17,
+      "win_streak": 4
+    },
+    "sum": 136065768,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32761
+    },
+    "date": 1793847027732,
+    "duration": 116204,
+    "left": {
+      "bet_amount": 1014457,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hitosyura ex",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2475463,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Shadow labrys",
+      "normal_bettors": 39,
+      "win_streak": -1
+    },
+    "sum": 136043438,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18455
+    },
+    "date": 1793847147756,
+    "duration": 66027,
+    "left": {
+      "bet_amount": 3518847,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Yujiro-hanma",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1050133,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Megalon",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 136056689,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
