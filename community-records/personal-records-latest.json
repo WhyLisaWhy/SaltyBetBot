@@ -878329,5 +878329,59 @@
     "sum": 8077,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8076
+    },
+    "date": 1793900921977,
+    "duration": 140249,
+    "left": {
+      "bet_amount": 98136,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Hei meiling",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1180145,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 22,
+      "name": "Azteca",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 8076,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793901264933,
+    "duration": 283007,
+    "left": {
+      "bet_amount": 472768,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Miyuki shiba",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 438376,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Hei meiling",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
