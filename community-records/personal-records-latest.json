@@ -875494,5 +875494,167 @@
     "sum": 135700186,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7481
+    },
+    "date": 1793881959127,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 3521562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Billy lee",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1349367,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Sigma x2",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "sum": 135737715,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19731
+    },
+    "date": 1793882147127,
+    "duration": 134000,
+    "left": {
+      "bet_amount": 686229,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gorilla",
+      "normal_bettors": 9,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4836364,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Rock volnutt",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 135740576,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22153
+    },
+    "date": 1793882303326,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 1190333,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "S.geist",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2029464,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Omega rugal 95-kofm",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 135743365,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23105
+    },
+    "date": 1793882503527,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 4459816,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Ritsu tainaka",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 781849,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nami",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 135756219,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9439
+    },
+    "date": 1793882627541,
+    "duration": 69987,
+    "left": {
+      "bet_amount": 971537,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Goombario",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3187872,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Shimo EX3",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "sum": 135733114,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18818
+    },
+    "date": 1793882813728,
+    "duration": 126200,
+    "left": {
+      "bet_amount": 923249,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Aqua",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3115998,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Noob saibot mk2",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 135735983,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
