@@ -887401,5 +887401,113 @@
     "sum": 2098,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3242
+    },
+    "date": 1793971989523,
+    "duration": 230197,
+    "left": {
+      "bet_amount": 73097,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Cueca",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 358706,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Zabi",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 3242,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3897
+    },
+    "date": 1793972225727,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 395433,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 86179,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sekiponki",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 3897,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793972469924,
+    "duration": 180196,
+    "left": {
+      "bet_amount": 332697,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Houou jmf",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 239359,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Anita msh",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793972670126,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 242317,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "C-xion",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 289938,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Toguro 100%",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
