@@ -883783,5 +883783,140 @@
     "sum": 136058760,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21930
+    },
+    "date": 1793943124929,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 6190917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Wangchang EX",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 881474,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Kairu a",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 136059503,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3193
+    },
+    "date": 1793943259131,
+    "duration": 74203,
+    "left": {
+      "bet_amount": 3630482,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "White rbdm-kof",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 984214,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Kou",
+      "normal_bettors": 20,
+      "win_streak": -8
+    },
+    "sum": 136062615,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22076
+    },
+    "date": 1793943411127,
+    "duration": 91998,
+    "left": {
+      "bet_amount": 4314539,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Rachel alucard",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1065926,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kaigen",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 136063480,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12587
+    },
+    "date": 1793943589331,
+    "duration": 124003,
+    "left": {
+      "bet_amount": 3353838,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Condor heads",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 739540,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "King 13",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 136068907,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22190
+    },
+    "date": 1793943749546,
+    "duration": 104217,
+    "left": {
+      "bet_amount": 1370953,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Kazu",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1921108,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 8,
+      "name": "Assassin",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 136056320,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
