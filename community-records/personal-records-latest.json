@@ -881353,5 +881353,86 @@
     "sum": 5242,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7633
+    },
+    "date": 1793925131020,
+    "duration": 300187,
+    "left": {
+      "bet_amount": 106268,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Project_f",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 407254,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Joe kusanagi aodk",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 7633,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9589
+    },
+    "date": 1793925371205,
+    "duration": 186285,
+    "left": {
+      "bet_amount": 374904,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Ryoko",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 248396,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Hashimoto",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 9589,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793925681326,
+    "duration": 254197,
+    "left": {
+      "bet_amount": 226308,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Gideon",
+      "normal_bettors": 29,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 513126,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Joe kusanagi aodk",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
