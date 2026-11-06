@@ -883378,5 +883378,113 @@
     "sum": 136134474,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22352
+    },
+    "date": 1793940590929,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 2078699,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Aner rolange",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 862849,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kinoko",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 136138150,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28252
+    },
+    "date": 1793940765127,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 3082384,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Chipp_arrange",
+      "normal_bettors": 11,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3527203,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 13,
+      "name": "Dq2",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "sum": 136147330,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 30947
+    },
+    "date": 1793940925329,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1453957,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ultimate gohan",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1258606,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Hirasaka hina",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 136171823,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23161
+    },
+    "date": 1793941105327,
+    "duration": 119999,
+    "left": {
+      "bet_amount": 1246444,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Zuihou",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1229183,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Giorno giovanna ge",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "sum": 136206716,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
