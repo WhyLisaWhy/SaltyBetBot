@@ -887320,5 +887320,86 @@
     "sum": 2734,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3426
+    },
+    "date": 1793971142959,
+    "duration": 120227,
+    "left": {
+      "bet_amount": 56002,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Toguro 100%",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 243234,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Suika_pon",
+      "normal_bettors": 35,
+      "win_streak": 8
+    },
+    "sum": 3426,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793971369127,
+    "duration": 170201,
+    "left": {
+      "bet_amount": 261720,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Raiden 512e1",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93021,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Thundermiss.shermie",
+      "normal_bettors": 22,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2098
+    },
+    "date": 1793971699327,
+    "duration": 260200,
+    "left": {
+      "bet_amount": 143985,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Nazrin deluxe",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 262173,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kimexemaru",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 2098,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
