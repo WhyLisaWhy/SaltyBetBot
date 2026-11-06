@@ -884431,5 +884431,86 @@
     "sum": 2449,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793949389725,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 205277,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Extreme bardock",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 483558,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Misuzu",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2206
+    },
+    "date": 1793949599927,
+    "duration": 150000,
+    "left": {
+      "bet_amount": 298930,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Uesugi kensin EX",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 529389,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ken asuka",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 2206,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793949864125,
+    "duration": 210187,
+    "left": {
+      "bet_amount": 94815,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "M.raiga",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 287035,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Misuzu",
+      "normal_bettors": 37,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
