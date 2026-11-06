@@ -890614,5 +890614,113 @@
     "sum": 2938,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793996178532,
+    "duration": 170000,
+    "left": {
+      "bet_amount": 389141,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Kana-chan dhq",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 339963,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Terryman",
+      "normal_bettors": 27,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793996392726,
+    "duration": 153998,
+    "left": {
+      "bet_amount": 441465,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Syllin",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 289530,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Ikemen",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3901
+    },
+    "date": 1793996642980,
+    "duration": 184016,
+    "left": {
+      "bet_amount": 534332,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Tios",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 278996,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kula & eddie",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 3901,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793996929130,
+    "duration": 226207,
+    "left": {
+      "bet_amount": 677532,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 18,
+      "name": "Kana-chan dhq",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 128696,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ikemen",
+      "normal_bettors": 24,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
