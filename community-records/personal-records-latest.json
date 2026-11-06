@@ -890533,5 +890533,86 @@
     "sum": 1697,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2295
+    },
+    "date": 1793995458128,
+    "duration": 112196,
+    "left": {
+      "bet_amount": 47672,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sasuke Cosplay",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 637486,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ikemen",
+      "normal_bettors": 43,
+      "win_streak": 3
+    },
+    "sum": 2295,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2467
+    },
+    "date": 1793995708126,
+    "duration": 195995,
+    "left": {
+      "bet_amount": 598709,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Tios",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 114702,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Vegeta ssj5",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 2467,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2938
+    },
+    "date": 1793995948328,
+    "duration": 180001,
+    "left": {
+      "bet_amount": 66607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Kula & eddie",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 580804,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Itachi uchiha nzc",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 2938,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
