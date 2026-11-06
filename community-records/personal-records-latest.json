@@ -881164,5 +881164,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793923373526,
+    "duration": 180199,
+    "left": {
+      "bet_amount": 115482,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yoma komatsu",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 401472,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Jin kazama",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1995
+    },
+    "date": 1793923517726,
+    "duration": 90158,
+    "left": {
+      "bet_amount": 398167,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Gideon",
+      "normal_bettors": 43,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 181189,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Goombario",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 1995,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2899
+    },
+    "date": 1793923853927,
+    "duration": 276200,
+    "left": {
+      "bet_amount": 373786,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Foxy the pirate",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 239336,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Project_f",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 2899,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
