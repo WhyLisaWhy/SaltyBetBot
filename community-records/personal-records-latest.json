@@ -889750,5 +889750,140 @@
     "sum": 135801616,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26873
+    },
+    "date": 1793989997726,
+    "duration": 134179,
+    "left": {
+      "bet_amount": 868449,
+      "ignored_bettors": 15,
+      "illuminati_bettors": 3,
+      "name": "Bob sagat",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1589970,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Eva-01 srw",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "sum": 135834292,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 49916
+    },
+    "date": 1793990123925,
+    "duration": 70195,
+    "left": {
+      "bet_amount": 2765504,
+      "ignored_bettors": 17,
+      "illuminati_bettors": 5,
+      "name": "Mag-fuckin'-neto",
+      "normal_bettors": 18,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1017900,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dan smith, the tyrant",
+      "normal_bettors": 6,
+      "win_streak": 3
+    },
+    "sum": 135807419,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 34958
+    },
+    "date": 1793990317929,
+    "duration": 133998,
+    "left": {
+      "bet_amount": 1874891,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "D4 reimu",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1862325,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ace",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 135825466,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12818
+    },
+    "date": 1793990498160,
+    "duration": 124233,
+    "left": {
+      "bet_amount": 3290940,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Superior spider-man",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 710040,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Aty",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 135790508,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25461
+    },
+    "date": 1793990654327,
+    "duration": 100187,
+    "left": {
+      "bet_amount": 2588966,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Mio sakamoto",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 645870,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Mystique",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 135777690,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
