@@ -891827,5 +891827,113 @@
     "sum": 135989585,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20945
+    },
+    "date": 1794008095928,
+    "duration": 69999,
+    "left": {
+      "bet_amount": 1937166,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Buckdozer",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 904107,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nuclear man",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "sum": 136104840,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21853
+    },
+    "date": 1794008248128,
+    "duration": 92202,
+    "left": {
+      "bet_amount": 1001525,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Gehorsam",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2018507,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Hamakaze",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 136083895,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25743
+    },
+    "date": 1794008408127,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 816177,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Bloo",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3323563,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Ryuji yamazaki",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 136062042,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 31705
+    },
+    "date": 1794008618325,
+    "duration": 149976,
+    "left": {
+      "bet_amount": 1038694,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Shiki_tohno kofum",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2984864,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "D4 alice margatroid",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "sum": 136068316,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
