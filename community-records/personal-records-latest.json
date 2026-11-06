@@ -887185,5 +887185,140 @@
     "sum": 136026533,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25666
+    },
+    "date": 1793969961927,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 616325,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 15,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2299250,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Mecha sonic",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 136002410,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2169
+    },
+    "date": 1793970102929,
+    "duration": 86989,
+    "left": {
+      "bet_amount": 2896188,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Shin aomizu",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 657977,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Maebara_keiichi",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "sum": 136009214,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793970548325,
+    "duration": 170002,
+    "left": {
+      "bet_amount": 45801,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Gomora ug",
+      "normal_bettors": 23,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 125947,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Houou jmf",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2107
+    },
+    "date": 1793970752527,
+    "duration": 139997,
+    "left": {
+      "bet_amount": 166164,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Anita msh",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 50031,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lou mvc",
+      "normal_bettors": 16,
+      "win_streak": -6
+    },
+    "sum": 2107,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2734
+    },
+    "date": 1793970962803,
+    "duration": 150073,
+    "left": {
+      "bet_amount": 51578,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Richter belmont(hd)",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 201251,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "C-xion",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 2734,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
