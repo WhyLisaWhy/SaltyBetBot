@@ -882325,5 +882325,113 @@
     "sum": 136138145,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18447
+    },
+    "date": 1793934189982,
+    "duration": 140053,
+    "left": {
+      "bet_amount": 2505160,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Burnie",
+      "normal_bettors": 31,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 956146,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Mimic",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 136109479,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39076
+    },
+    "date": 1793934336125,
+    "duration": 86196,
+    "left": {
+      "bet_amount": 1449179,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Kim 98",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 958057,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Geoform 187",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "sum": 136156897,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31499
+    },
+    "date": 1793934516126,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2571349,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Bloodia EX3",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1182392,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Fragrant310",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 136117821,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41160
+    },
+    "date": 1793934736329,
+    "duration": 159997,
+    "left": {
+      "bet_amount": 1007803,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 4,
+      "name": "Vanilla h",
+      "normal_bettors": 26,
+      "win_streak": 10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1866003,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Alba meira",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 136086322,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
