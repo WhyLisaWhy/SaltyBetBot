@@ -889048,5 +889048,113 @@
     "sum": 135975086,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10097
+    },
+    "date": 1793985582328,
+    "duration": 92205,
+    "left": {
+      "bet_amount": 626602,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Xiaoyen",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4280762,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Red ranger EX6",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 135945889,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 24294
+    },
+    "date": 1793985756326,
+    "duration": 113996,
+    "left": {
+      "bet_amount": 649974,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Cvs terry bogard",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2709472,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 12,
+      "name": "Saya(p_ai)",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 135947364,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 23310
+    },
+    "date": 1793985912529,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1034290,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Button masher onomatopoeia",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2921613,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Yukkuri z-ton 2",
+      "normal_bettors": 30,
+      "win_streak": 7
+    },
+    "sum": 135923070,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 35048
+    },
+    "date": 1793986132727,
+    "duration": 166166,
+    "left": {
+      "bet_amount": 3486208,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Pulseman",
+      "normal_bettors": 36,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 573710,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Pasity",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 135899760,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
