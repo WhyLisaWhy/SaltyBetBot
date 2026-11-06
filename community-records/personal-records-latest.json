@@ -881056,5 +881056,113 @@
     "sum": 136094361,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793922350726,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 116156,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Ryoko",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 93508,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ex apollo",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2782
+    },
+    "date": 1793922580933,
+    "duration": 174163,
+    "left": {
+      "bet_amount": 105698,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Majin Virginia",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 189908,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Teen vampire",
+      "normal_bettors": 40,
+      "win_streak": -2
+    },
+    "sum": 2782,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4309
+    },
+    "date": 1793922831146,
+    "duration": 190179,
+    "left": {
+      "bet_amount": 287322,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Predalien",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 69890,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hashimoto",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 4309,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793923127357,
+    "duration": 234230,
+    "left": {
+      "bet_amount": 114508,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ami ex",
+      "normal_bettors": 14,
+      "win_streak": -13
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 320161,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Rinfa",
+      "normal_bettors": 48,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
