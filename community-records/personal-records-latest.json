@@ -881812,5 +881812,113 @@
     "sum": 136181481,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 15386
+    },
+    "date": 1793930679326,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 783614,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gouki",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5878157,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Master kojiroh",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 136192352,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22237
+    },
+    "date": 1793930915591,
+    "duration": 176264,
+    "left": {
+      "bet_amount": 1953467,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "New kakyoin",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1412018,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Lee_chen",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "sum": 136194398,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793931119526,
+    "duration": 149993,
+    "left": {
+      "bet_amount": 2749166,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Sonson",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 869610,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Trs",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 136172161,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 663
+    },
+    "date": 1793931389727,
+    "duration": 214001,
+    "left": {
+      "bet_amount": 4964351,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Fighter fly",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1659830,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Axl low",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 136172160,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
