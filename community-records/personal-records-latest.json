@@ -881461,5 +881461,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17681
+    },
+    "date": 1793928381529,
+    "duration": 120203,
+    "left": {
+      "bet_amount": 1236721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ramda EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2036658,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Talonarten",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 136107551,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793928525527,
+    "duration": 84000,
+    "left": {
+      "bet_amount": 1277556,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Regend",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1691396,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Cpt.falcon",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "sum": 136089870,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
