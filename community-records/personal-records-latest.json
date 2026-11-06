@@ -888346,5 +888346,113 @@
     "sum": 135999182,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39777
+    },
+    "date": 1793981084730,
+    "duration": 89994,
+    "left": {
+      "bet_amount": 2970007,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Ultimate armor x8",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 686383,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Shin oni",
+      "normal_bettors": 16,
+      "win_streak": 3
+    },
+    "sum": 135997825,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26391
+    },
+    "date": 1793981304926,
+    "duration": 160196,
+    "left": {
+      "bet_amount": 1018249,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Makendo2",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1431548,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Silk hat baron",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "sum": 135958048,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1056
+    },
+    "date": 1793981505129,
+    "duration": 146203,
+    "left": {
+      "bet_amount": 1242991,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Mettaton",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3454876,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Temjin arrange",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 135931657,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29469
+    },
+    "date": 1793981625130,
+    "duration": 60004,
+    "left": {
+      "bet_amount": 535207,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kingbehinnmoth",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4137020,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Proto-omega",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 135930601,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
