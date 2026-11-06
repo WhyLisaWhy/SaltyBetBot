@@ -887617,5 +887617,32 @@
     "sum": 6315,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7805
+    },
+    "date": 1793975344325,
+    "duration": 310400,
+    "left": {
+      "bet_amount": 384035,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Anita msh",
+      "normal_bettors": 11,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 78576,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Raiden 512e1",
+      "normal_bettors": 2,
+      "win_streak": 3
+    },
+    "sum": 7805,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
