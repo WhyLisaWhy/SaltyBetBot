@@ -887914,5 +887914,113 @@
     "sum": 135964875,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23210
+    },
+    "date": 1793978324525,
+    "duration": 140197,
+    "left": {
+      "bet_amount": 2299807,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "E.soldat",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 708022,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Emily barnet",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 135958355,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793978444727,
+    "duration": 64202,
+    "left": {
+      "bet_amount": 3636513,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Chizuru98",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 807873,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "K9999",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 136031354,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24126
+    },
+    "date": 1793978690725,
+    "duration": 169976,
+    "left": {
+      "bet_amount": 680728,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Masked rider 1st",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4519921,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Lemeza",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 136031353,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20004
+    },
+    "date": 1793978844927,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 1578131,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Elisabeth xiii",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 901583,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kimala the bouncer",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "sum": 136034968,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
