@@ -885835,5 +885835,113 @@
     "sum": 136094882,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19002
+    },
+    "date": 1793961313143,
+    "duration": 120007,
+    "left": {
+      "bet_amount": 1122113,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Raymond",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1470384,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "D Chun-li",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 136083803,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9179
+    },
+    "date": 1793961527327,
+    "duration": 154182,
+    "left": {
+      "bet_amount": 546131,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Crocodile",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2067800,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Doppo orochi EX3",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 136108289,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25837
+    },
+    "date": 1793961689527,
+    "duration": 106199,
+    "left": {
+      "bet_amount": 543773,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Prinny asagi dood",
+      "normal_bettors": 12,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3270315,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 17,
+      "name": "Goku black ssr",
+      "normal_bettors": 32,
+      "win_streak": 5
+    },
+    "sum": 136110703,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20748
+    },
+    "date": 1793961823527,
+    "duration": 74000,
+    "left": {
+      "bet_amount": 1358804,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Cell junior",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 822408,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Boring vigilante EX3",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "sum": 136114966,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
