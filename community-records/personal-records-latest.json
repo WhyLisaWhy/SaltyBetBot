@@ -890317,5 +890317,113 @@
     "sum": 135883446,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3766
+    },
+    "date": 1793993547725,
+    "duration": 129397,
+    "left": {
+      "bet_amount": 911752,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Rugal gb",
+      "normal_bettors": 18,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3285650,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Misaka sisters",
+      "normal_bettors": 32,
+      "win_streak": -4
+    },
+    "sum": 135883445,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793993968926,
+    "duration": 154200,
+    "left": {
+      "bet_amount": 124787,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kaku seiga",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 63452,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Tios",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793994229133,
+    "duration": 200207,
+    "left": {
+      "bet_amount": 129751,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Ironhide",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 172672,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Vegeta ssj5",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2705
+    },
+    "date": 1793994465330,
+    "duration": 170153,
+    "left": {
+      "bet_amount": 247170,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Chomper",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 161045,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kula & eddie",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 2705,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
