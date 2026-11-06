@@ -890425,5 +890425,113 @@
     "sum": 2705,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6789
+    },
+    "date": 1793994665329,
+    "duration": 140001,
+    "left": {
+      "bet_amount": 248665,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Itachi uchiha nzc",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 234178,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Momasusta",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 6789,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13013
+    },
+    "date": 1793994871528,
+    "duration": 149890,
+    "left": {
+      "bet_amount": 234613,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Keith wayne EX2",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 302418,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Kana-chan dhq",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 13013,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793995105726,
+    "duration": 173994,
+    "left": {
+      "bet_amount": 51499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Yoko EX",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 543993,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Terryman",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1697
+    },
+    "date": 1793995285935,
+    "duration": 120008,
+    "left": {
+      "bet_amount": 169638,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Agony",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 479912,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Syllin",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 1697,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
