@@ -885214,5 +885214,113 @@
     "sum": 136033234,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 40590
+    },
+    "date": 1793957656325,
+    "duration": 84200,
+    "left": {
+      "bet_amount": 1811603,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Kage",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1651231,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Crow",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 136061807,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793957802328,
+    "duration": 90000,
+    "left": {
+      "bet_amount": 813241,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Ume",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2330660,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Russkey kai",
+      "normal_bettors": 25,
+      "win_streak": -3
+    },
+    "sum": 136021217,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4338
+    },
+    "date": 1793958012528,
+    "duration": 154199,
+    "left": {
+      "bet_amount": 3796234,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Kanako yasaka EX3",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 615297,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Rea katori EX7",
+      "normal_bettors": 13,
+      "win_streak": 2
+    },
+    "sum": 136021218,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793958218726,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 624746,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Real mikudayo-",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3439098,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Mui ex",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 136016880,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
