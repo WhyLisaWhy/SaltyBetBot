@@ -887644,5 +887644,140 @@
     "sum": 7805,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14927
+    },
+    "date": 1793976527125,
+    "duration": 160191,
+    "left": {
+      "bet_amount": 461840,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Lilly kane",
+      "normal_bettors": 8,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2905873,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Shimako",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 136019079,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793976717328,
+    "duration": 130202,
+    "left": {
+      "bet_amount": 1567217,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Bridget(ac)",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1444408,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Tyrant EX",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 136004152,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7179
+    },
+    "date": 1793976863330,
+    "duration": 86004,
+    "left": {
+      "bet_amount": 811257,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Fiona mayfield",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1782184,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "White rbdm-kof",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 136004151,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21329
+    },
+    "date": 1793977073526,
+    "duration": 156197,
+    "left": {
+      "bet_amount": 595093,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Zelos(you-ki_ai)",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2730474,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 11,
+      "name": "Mf viga",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "sum": 135996972,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 17275
+    },
+    "date": 1793977269730,
+    "duration": 136204,
+    "left": {
+      "bet_amount": 1448600,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "False echo",
+      "normal_bettors": 26,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 959428,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Final",
+      "normal_bettors": 13,
+      "win_streak": -6
+    },
+    "sum": 135975643,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
