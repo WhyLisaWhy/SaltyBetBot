@@ -884512,5 +884512,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2060
+    },
+    "date": 1793950255135,
+    "duration": 335006,
+    "left": {
+      "bet_amount": 186785,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Uesugi kensin EX",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 255272,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Misuzu",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 2060,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
