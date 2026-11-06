@@ -886267,5 +886267,140 @@
     "sum": 136049267,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37977
+    },
+    "date": 1793963937126,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 2796610,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Dongon",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 522351,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Walkure",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 136029873,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23583
+    },
+    "date": 1793964083330,
+    "duration": 86002,
+    "left": {
+      "bet_amount": 475606,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Yashiro EX6",
+      "normal_bettors": 11,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3063550,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Maxima 13",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 136036872,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10028
+    },
+    "date": 1793964223325,
+    "duration": 75991,
+    "left": {
+      "bet_amount": 455290,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Quietus-sakuraba neku",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3767265,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Wolverine_cota",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 136013289,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793964353527,
+    "duration": 75998,
+    "left": {
+      "bet_amount": 522997,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Efreet",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3718858,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Burning futo",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 136014498,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27391
+    },
+    "date": 1793964547753,
+    "duration": 134226,
+    "left": {
+      "bet_amount": 538687,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Hrhs",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3937784,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Sahaquiel",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 136014499,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
