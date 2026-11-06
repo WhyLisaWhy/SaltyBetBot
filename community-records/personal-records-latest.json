@@ -884647,5 +884647,113 @@
     "sum": 135948038,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20712
+    },
+    "date": 1793954131525,
+    "duration": 200179,
+    "left": {
+      "bet_amount": 601085,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Master gundam",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3292470,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 12,
+      "name": "Azrael",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 135951162,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34861
+    },
+    "date": 1793954281557,
+    "duration": 90032,
+    "left": {
+      "bet_amount": 1252415,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Lyndis EX",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2374463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Demitri cvs",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 135954920,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793954447727,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 1961218,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Mr funny",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1529461,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Phoenix ikki",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 136019224,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16945
+    },
+    "date": 1793954641926,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 717065,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Lion(coh)",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2432494,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Major alan dutch schaefer",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 136019223,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
