@@ -884755,5 +884755,113 @@
     "sum": 136019223,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17397
+    },
+    "date": 1793954838127,
+    "duration": 136199,
+    "left": {
+      "bet_amount": 644013,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ruckus",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2172861,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 11,
+      "name": "Rozaly",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 136002278,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793955070327,
+    "duration": 172202,
+    "left": {
+      "bet_amount": 2862978,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Mt",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1756883,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "SonGohan",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 135984881,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1793955228326,
+    "duration": 100000,
+    "left": {
+      "bet_amount": 4305452,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Slightly pissed off ryu",
+      "normal_bettors": 34,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 665260,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Sirohime",
+      "normal_bettors": 8,
+      "win_streak": -5
+    },
+    "sum": 135984883,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23380
+    },
+    "date": 1793955374527,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 1016285,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Maverick hunter zero",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1696257,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Troll",
+      "normal_bettors": 28,
+      "win_streak": 2
+    },
+    "sum": 135984884,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
