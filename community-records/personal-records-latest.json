@@ -890749,5 +890749,59 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12617
+    },
+    "date": 1794001336727,
+    "duration": 170202,
+    "left": {
+      "bet_amount": 587034,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Cola",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5538972,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Kamishiro_kunagi",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 135881601,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6685
+    },
+    "date": 1794001526928,
+    "duration": 130177,
+    "left": {
+      "bet_amount": 1772654,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 5,
+      "name": "Albus",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1409266,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Dokuganp",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 135868984,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
