@@ -889885,5 +889885,140 @@
     "sum": 135777690,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19601
+    },
+    "date": 1793990840333,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 2384742,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Krizalid-kofm-kbr",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 837873,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kaio helmo",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 135783980,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32310
+    },
+    "date": 1793991040527,
+    "duration": 146001,
+    "left": {
+      "bet_amount": 4500488,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Mr.elecbyte",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 710915,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Boo smb",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "sum": 135764379,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793991200729,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 718193,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rusty",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2356723,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Heavy d!s",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 135960028,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19582
+    },
+    "date": 1793991340726,
+    "duration": 79998,
+    "left": {
+      "bet_amount": 899659,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Jyashinsai",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2756570,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Saki omokane",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 135960027,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20312
+    },
+    "date": 1793991460926,
+    "duration": 66175,
+    "left": {
+      "bet_amount": 551305,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Chris wayne",
+      "normal_bettors": 9,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5948937,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 17,
+      "name": "O_flan-var.2",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 135940445,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
