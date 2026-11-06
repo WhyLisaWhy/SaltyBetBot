@@ -881434,5 +881434,32 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793926119327,
+    "duration": 382003,
+    "left": {
+      "bet_amount": 119875,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ryoko",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 802795,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 24,
+      "name": "Joe kusanagi aodk",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
