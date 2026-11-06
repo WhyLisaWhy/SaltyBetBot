@@ -881515,5 +881515,113 @@
     "sum": 136089870,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22662
+    },
+    "date": 1793928741725,
+    "duration": 156168,
+    "left": {
+      "bet_amount": 875761,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kilyousuke",
+      "normal_bettors": 15,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3906167,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Albert wesker",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 136089869,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25142
+    },
+    "date": 1793928895934,
+    "duration": 94205,
+    "left": {
+      "bet_amount": 1010587,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Yuen-joe",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3377445,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Asagi EX3",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 136067207,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31864
+    },
+    "date": 1793929085942,
+    "duration": 130016,
+    "left": {
+      "bet_amount": 1074095,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Boggy b",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2076939,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Raoh-jp",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 136074675,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 5237
+    },
+    "date": 1793929332191,
+    "duration": 184188,
+    "left": {
+      "bet_amount": 1317880,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 5,
+      "name": "Fenice",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2260358,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Lord zedd",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "sum": 136134515,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
