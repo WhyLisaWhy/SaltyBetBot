@@ -881245,5 +881245,113 @@
     "sum": 2899,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1793924110128,
+    "duration": 202197,
+    "left": {
+      "bet_amount": 182643,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Joe kusanagi aodk",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 119381,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Hasshie",
+      "normal_bettors": 20,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2555
+    },
+    "date": 1793924330329,
+    "duration": 166209,
+    "left": {
+      "bet_amount": 206917,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Ryoko",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 126285,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Teen vampire",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 2555,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4096
+    },
+    "date": 1793924594557,
+    "duration": 204228,
+    "left": {
+      "bet_amount": 293455,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Hashimoto",
+      "normal_bettors": 44,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 83211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ami ex",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 4096,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5242
+    },
+    "date": 1793924764528,
+    "duration": 109996,
+    "left": {
+      "bet_amount": 134735,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Jin kazama",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 290195,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Gideon",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "sum": 5242,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
