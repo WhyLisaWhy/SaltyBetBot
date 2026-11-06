@@ -884296,5 +884296,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3069
+    },
+    "date": 1793946899938,
+    "duration": 74212,
+    "left": {
+      "bet_amount": 55742,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tamtam",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 380699,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Extreme bardock",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "sum": 3069,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3515
+    },
+    "date": 1793947095925,
+    "duration": 135996,
+    "left": {
+      "bet_amount": 167493,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Cornflakes sagat",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 336531,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Misuzu",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 3515,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5247
+    },
+    "date": 1793947330128,
+    "duration": 180002,
+    "left": {
+      "bet_amount": 46725,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Uesugi kensin EX",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 428697,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Jubilee ex",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 5247,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1793947620328,
+    "duration": 230004,
+    "left": {
+      "bet_amount": 197681,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "True lotus master",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 339639,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Ken asuka",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
