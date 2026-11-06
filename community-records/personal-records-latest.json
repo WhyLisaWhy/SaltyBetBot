@@ -890182,5 +890182,140 @@
     "sum": 135941851,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 755
+    },
+    "date": 1793992697926,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 777395,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kotetsu",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3532892,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Kaede kasiwagi",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "sum": 135917323,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33459
+    },
+    "date": 1793992877926,
+    "duration": 119983,
+    "left": {
+      "bet_amount": 448683,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "The moon",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4974615,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Riesbyfe stridberg",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 135917490,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 720
+    },
+    "date": 1793993054128,
+    "duration": 122198,
+    "left": {
+      "bet_amount": 1050470,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kao",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2969693,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Washizuka xi",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 135884031,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 367
+    },
+    "date": 1793993178153,
+    "duration": 63826,
+    "left": {
+      "bet_amount": 1584523,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Invisible woman",
+      "normal_bettors": 30,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4315158,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Black guardian",
+      "normal_bettors": 18,
+      "win_streak": -3
+    },
+    "sum": 135883311,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1793993366329,
+    "duration": 138002,
+    "left": {
+      "bet_amount": 7265788,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Tessa",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 473529,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Kitanaitaru",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 135883446,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
