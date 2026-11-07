@@ -895445,5 +895445,140 @@
     "sum": 135870378,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5214
+    },
+    "date": 1794036696124,
+    "duration": 113997,
+    "left": {
+      "bet_amount": 863839,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "94_flan",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 9858543,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Sion tatari EX2",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 135879513,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2572
+    },
+    "date": 1794036882331,
+    "duration": 130004,
+    "left": {
+      "bet_amount": 765570,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Caster_extra",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4484393,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Asagi EX3",
+      "normal_bettors": 35,
+      "win_streak": 6
+    },
+    "sum": 135879970,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19388
+    },
+    "date": 1794037048527,
+    "duration": 110166,
+    "left": {
+      "bet_amount": 1616856,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Burnie",
+      "normal_bettors": 27,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2009493,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Sylphie nxc",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 135880409,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3236
+    },
+    "date": 1794037262731,
+    "duration": 154202,
+    "left": {
+      "bet_amount": 2814731,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Gregariously",
+      "normal_bettors": 28,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 930105,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Ogichi inner hollow",
+      "normal_bettors": 15,
+      "win_streak": 0
+    },
+    "sum": 135895860,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23763
+    },
+    "date": 1794037402729,
+    "duration": 84004,
+    "left": {
+      "bet_amount": 1985243,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Lian-d",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 627955,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Zako-dan",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 135892624,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
