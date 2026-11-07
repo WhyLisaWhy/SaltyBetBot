@@ -893960,5 +893960,113 @@
     "sum": 136053941,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794026992525,
+    "duration": 161984,
+    "left": {
+      "bet_amount": 10144482,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Zenia valov",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 762682,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "D4 alice margatroid",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136054722,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19550
+    },
+    "date": 1794027226726,
+    "duration": 180002,
+    "left": {
+      "bet_amount": 2643151,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Mr. bear",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1189155,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Arai san",
+      "normal_bettors": 10,
+      "win_streak": -9
+    },
+    "sum": 136054721,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 16317
+    },
+    "date": 1794027372925,
+    "duration": 85980,
+    "left": {
+      "bet_amount": 3410209,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Gaia EX2",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 919484,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Guile machine",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136035171,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3949
+    },
+    "date": 1794027466928,
+    "duration": 64003,
+    "left": {
+      "bet_amount": 700504,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Light speed gonzales",
+      "normal_bettors": 13,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4774694,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "H_yujiro",
+      "normal_bettors": 30,
+      "win_streak": 73
+    },
+    "sum": 136039550,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
