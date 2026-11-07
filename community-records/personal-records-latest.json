@@ -893420,5 +893420,113 @@
     "sum": 136134552,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794018878602,
+    "duration": 184226,
+    "left": {
+      "bet_amount": 71151,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Boss syndrome igniz",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 115053,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "A-noel",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2496
+    },
+    "date": 1794019024528,
+    "duration": 89991,
+    "left": {
+      "bet_amount": 174818,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Touka",
+      "normal_bettors": 36,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 99206,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "A-celsius",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 2496,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794019164728,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 113176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "A-guile",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 232089,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Shizuo-ax",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2301
+    },
+    "date": 1794019318724,
+    "duration": 99997,
+    "left": {
+      "bet_amount": 281251,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Oda nobuko ex",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 118392,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Orochi iori 97",
+      "normal_bettors": 29,
+      "win_streak": -12
+    },
+    "sum": 2301,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
