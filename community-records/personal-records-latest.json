@@ -894527,5 +894527,140 @@
     "sum": 136110917,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32929
+    },
+    "date": 1794030581528,
+    "duration": 60201,
+    "left": {
+      "bet_amount": 1962436,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Kemular",
+      "normal_bettors": 29,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3111560,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Karai EX2",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136110918,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22834
+    },
+    "date": 1794030717528,
+    "duration": 80003,
+    "left": {
+      "bet_amount": 6791627,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 19,
+      "name": "Shiva",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 851680,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Deluxe cassandra",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "sum": 136162268,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20876
+    },
+    "date": 1794030863725,
+    "duration": 86198,
+    "left": {
+      "bet_amount": 6041399,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Tachibana ukyo",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 871086,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Gomora ug",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "sum": 136139434,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27847
+    },
+    "date": 1794031043942,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 1121252,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "False echo",
+      "normal_bettors": 19,
+      "win_streak": -10
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2140243,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Dlanor a. knox",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 136142434,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26586
+    },
+    "date": 1794031257926,
+    "duration": 153998,
+    "left": {
+      "bet_amount": 1238176,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Um-krizalid-2k1",
+      "normal_bettors": 19,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1884524,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Kamen rider kiva",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 136194301,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
