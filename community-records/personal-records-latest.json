@@ -899414,5 +899414,140 @@
     "sum": 135992649,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20902
+    },
+    "date": 1794064722326,
+    "duration": 200199,
+    "left": {
+      "bet_amount": 786217,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "King kong",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3611467,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Irene",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 136000362,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21921
+    },
+    "date": 1794064936521,
+    "duration": 160193,
+    "left": {
+      "bet_amount": 1515019,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Daga-ru",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1528160,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Nim woo",
+      "normal_bettors": 23,
+      "win_streak": 6
+    },
+    "sum": 136093889,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19527
+    },
+    "date": 1794065142541,
+    "duration": 150014,
+    "left": {
+      "bet_amount": 2283290,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Wolverine 71113 i",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1319164,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Full kusya",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "sum": 136071968,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18464
+    },
+    "date": 1794065282726,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 3974535,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Toki 2",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 934036,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hugo dc",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 136052441,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 11313
+    },
+    "date": 1794065436728,
+    "duration": 94006,
+    "left": {
+      "bet_amount": 4987807,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Rapterrometh",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 657031,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "C-aob",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 136056761,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
