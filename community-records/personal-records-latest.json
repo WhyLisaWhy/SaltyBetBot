@@ -898145,5 +898145,113 @@
     "sum": 135890095,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21149
+    },
+    "date": 1794056647928,
+    "duration": 130201,
+    "left": {
+      "bet_amount": 3287988,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Misuzu",
+      "normal_bettors": 34,
+      "win_streak": 6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 741484,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Dudley streets",
+      "normal_bettors": 13,
+      "win_streak": -3
+    },
+    "sum": 135900671,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7477
+    },
+    "date": 1794056823937,
+    "duration": 120007,
+    "left": {
+      "bet_amount": 6103709,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Neji",
+      "normal_bettors": 29,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 897252,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Geneshic gaogaiger",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 135879522,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794056970130,
+    "duration": 85962,
+    "left": {
+      "bet_amount": 762459,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Moriya ngbc",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4121618,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Divine skullomania",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 135880620,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 33914
+    },
+    "date": 1794057154326,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2136917,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Taiga ex",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1433096,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Dai rai oh",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 135880621,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
