@@ -898523,5 +898523,140 @@
     "sum": 135815051,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19046
+    },
+    "date": 1794059117926,
+    "duration": 130192,
+    "left": {
+      "bet_amount": 1522011,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Fang",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1184809,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Tiger mask 0d",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "sum": 135815285,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794059368130,
+    "duration": 190204,
+    "left": {
+      "bet_amount": 962325,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Jun asukai",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2384445,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Hisano ogami",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 135839365,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17062
+    },
+    "date": 1794059534129,
+    "duration": 105987,
+    "left": {
+      "bet_amount": 1440036,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Aselia",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1244822,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Dq2",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 135839366,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 17689
+    },
+    "date": 1794059758326,
+    "duration": 160201,
+    "left": {
+      "bet_amount": 2165821,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 12,
+      "name": "Kikugoro",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 819452,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Raydric_and_archer",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 135853943,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794059938535,
+    "duration": 110209,
+    "left": {
+      "bet_amount": 3170479,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Masked rider 2nd",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 816133,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Spin akuma",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 135836254,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
