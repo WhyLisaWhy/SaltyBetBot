@@ -902654,5 +902654,113 @@
     "sum": 136098929,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25242
+    },
+    "date": 1794087189329,
+    "duration": 71404,
+    "left": {
+      "bet_amount": 2233656,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Cci kim kaphwan",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1656758,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Kyo kusanagi 97",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "sum": 136108937,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794087588326,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 33541,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Urban champion",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 141160,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ballform felicia",
+      "normal_bettors": 43,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1915
+    },
+    "date": 1794087838528,
+    "duration": 196200,
+    "left": {
+      "bet_amount": 42069,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Max thunder",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 159966,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Binran",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 1915,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2413
+    },
+    "date": 1794088022528,
+    "duration": 124002,
+    "left": {
+      "bet_amount": 125678,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Abyss",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 104564,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sensei ken",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 2413,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
