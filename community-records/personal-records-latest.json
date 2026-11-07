@@ -900008,5 +900008,140 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21361
+    },
+    "date": 1794070150523,
+    "duration": 176195,
+    "left": {
+      "bet_amount": 1508147,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Makao and joma",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 921221,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Double_sword",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 136027330,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 23415
+    },
+    "date": 1794070310728,
+    "duration": 106206,
+    "left": {
+      "bet_amount": 2686009,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Evil ryu",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 893197,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Yuiren",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 136005969,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27529
+    },
+    "date": 1794070514728,
+    "duration": 144001,
+    "left": {
+      "bet_amount": 656605,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Robo-jam",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3547272,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Lycee fgo",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 136013689,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 820
+    },
+    "date": 1794070660950,
+    "duration": 80022,
+    "left": {
+      "bet_amount": 1931272,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Victor von simonstein",
+      "normal_bettors": 22,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1619809,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Fw_gigan",
+      "normal_bettors": 27,
+      "win_streak": -12
+    },
+    "sum": 135986160,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31358
+    },
+    "date": 1794070807128,
+    "duration": 86199,
+    "left": {
+      "bet_amount": 3642834,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Genjuro-kofm",
+      "normal_bettors": 37,
+      "win_streak": 13
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 736517,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Daisy dw",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 135986848,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
