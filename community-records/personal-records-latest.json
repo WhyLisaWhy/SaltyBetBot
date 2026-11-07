@@ -894932,5 +894932,167 @@
     "sum": 136039927,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 24907
+    },
+    "date": 1794033095541,
+    "duration": 144034,
+    "left": {
+      "bet_amount": 3615025,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Lf2 - freeze",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3431313,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Hatsune miku",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 136074165,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2729
+    },
+    "date": 1794033357729,
+    "duration": 200161,
+    "left": {
+      "bet_amount": 1683066,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Reimu hakurei rp",
+      "normal_bettors": 32,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1455169,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Nachtsieger",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 136049258,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8655
+    },
+    "date": 1794033601960,
+    "duration": 170234,
+    "left": {
+      "bet_amount": 4255264,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Mahvel gouki",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 907241,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Nuclear ralf",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 136046529,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 18628
+    },
+    "date": 1794033757929,
+    "duration": 100004,
+    "left": {
+      "bet_amount": 4117418,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Metal sonic",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 639649,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Vexen",
+      "normal_bettors": 15,
+      "win_streak": -11
+    },
+    "sum": 136037874,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11600
+    },
+    "date": 1794033922126,
+    "duration": 110200,
+    "left": {
+      "bet_amount": 3275334,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Eins EX6",
+      "normal_bettors": 34,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2792449,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Masta gambit",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 136019246,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35827
+    },
+    "date": 1794034072326,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 2308810,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 11,
+      "name": "Daiyousei EX",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 911606,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Bowser jr.",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 136029101,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
