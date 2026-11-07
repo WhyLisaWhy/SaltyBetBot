@@ -900737,5 +900737,113 @@
     "sum": 135955368,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 40693
+    },
+    "date": 1794074732127,
+    "duration": 133981,
+    "left": {
+      "bet_amount": 563580,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Takano_miyo",
+      "normal_bettors": 10,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2547560,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 11,
+      "name": "B-cirno",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 135935731,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22456
+    },
+    "date": 1794074932327,
+    "duration": 140198,
+    "left": {
+      "bet_amount": 963585,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gaibon",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1673906,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Nappa mvc",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 135944592,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35879
+    },
+    "date": 1794075122526,
+    "duration": 134197,
+    "left": {
+      "bet_amount": 645502,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mercurius",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2371309,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Joe higashi arrange",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "sum": 135957348,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 6316
+    },
+    "date": 1794075252530,
+    "duration": 69998,
+    "left": {
+      "bet_amount": 2905264,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "John crawley kof",
+      "normal_bettors": 31,
+      "win_streak": 12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1409382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Silver surfer",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 136082213,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
