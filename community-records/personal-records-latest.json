@@ -898415,5 +898415,113 @@
     "sum": 135815908,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 14697
+    },
+    "date": 1794058431330,
+    "duration": 130173,
+    "left": {
+      "bet_amount": 830793,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sarashina",
+      "normal_bettors": 15,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3254659,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Zabi",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 135815909,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14914
+    },
+    "date": 1794058627528,
+    "duration": 136195,
+    "left": {
+      "bet_amount": 3635493,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Killer plaster",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 895343,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Char's z'gok",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 135801212,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 28489
+    },
+    "date": 1794058777527,
+    "duration": 90001,
+    "left": {
+      "bet_amount": 765011,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Sumo sw",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2112350,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 12,
+      "name": "Chinese gouki",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "sum": 135804870,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1396
+    },
+    "date": 1794058927727,
+    "duration": 96202,
+    "left": {
+      "bet_amount": 5055446,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Sae kamaguchi",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 844416,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Xiaomu",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 135815051,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
