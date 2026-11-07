@@ -900575,5 +900575,167 @@
     "sum": 135954603,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5390
+    },
+    "date": 1794073705329,
+    "duration": 83918,
+    "left": {
+      "bet_amount": 804402,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Joker EX3",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2491666,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Honki yuri",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 135958163,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19822
+    },
+    "date": 1794073871529,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 674398,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mitsuru kirijo",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4657829,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "G-adelheid",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 135959900,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8133
+    },
+    "date": 1794074045556,
+    "duration": 120026,
+    "left": {
+      "bet_amount": 647723,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Lf2 - louis",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4041032,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Frankenstein",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 135962758,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8295
+    },
+    "date": 1794074225734,
+    "duration": 130005,
+    "left": {
+      "bet_amount": 675764,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Werdna EX7",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7555617,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Nixhemera",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 135954625,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794074355926,
+    "duration": 74116,
+    "left": {
+      "bet_amount": 3629399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Yamcha",
+      "normal_bettors": 31,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 953156,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ken IV",
+      "normal_bettors": 15,
+      "win_streak": -11
+    },
+    "sum": 135955367,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19637
+    },
+    "date": 1794074537929,
+    "duration": 121999,
+    "left": {
+      "bet_amount": 1500962,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Neo dark mai",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1086587,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 4,
+      "name": "Curfue",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 135955368,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
