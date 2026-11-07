@@ -895148,5 +895148,140 @@
     "sum": 135972429,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11365
+    },
+    "date": 1794034708729,
+    "duration": 124202,
+    "left": {
+      "bet_amount": 882575,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Luffy mvc",
+      "normal_bettors": 20,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2999361,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Hel'lauren",
+      "normal_bettors": 30,
+      "win_streak": 5
+    },
+    "sum": 135949534,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4511
+    },
+    "date": 1794034924983,
+    "duration": 156256,
+    "left": {
+      "bet_amount": 6643735,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Saber_alter",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 839513,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ss6 renfa EX2",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 135952866,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794035105129,
+    "duration": 120204,
+    "left": {
+      "bet_amount": 1886303,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "Bloody",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1090026,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 8,
+      "name": "Zero nightmare remake",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 135948355,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30049
+    },
+    "date": 1794035319128,
+    "duration": 154006,
+    "left": {
+      "bet_amount": 4094225,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 12,
+      "name": "Saiki",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1076842,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shimakaze atm",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 135948354,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10487
+    },
+    "date": 1794035485326,
+    "duration": 105998,
+    "left": {
+      "bet_amount": 3688363,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Gajet",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1993345,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yoshi EX2",
+      "normal_bettors": 17,
+      "win_streak": -7
+    },
+    "sum": 135918305,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
