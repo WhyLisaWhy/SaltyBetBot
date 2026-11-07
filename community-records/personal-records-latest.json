@@ -893177,5 +893177,140 @@
     "sum": 136016021,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1579
+    },
+    "date": 1794017077125,
+    "duration": 112189,
+    "left": {
+      "bet_amount": 1454332,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Virtus",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1526389,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Frosty ninja",
+      "normal_bettors": 23,
+      "win_streak": 14
+    },
+    "sum": 135994921,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30473
+    },
+    "date": 1794017241126,
+    "duration": 99971,
+    "left": {
+      "bet_amount": 825675,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kharar",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2920735,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Omega red mvc2",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 135996577,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5093
+    },
+    "date": 1794017397327,
+    "duration": 100202,
+    "left": {
+      "bet_amount": 1895584,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The flash (new-52)",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2101800,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "Nests kyo xiii",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 136100536,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44374
+    },
+    "date": 1794017577534,
+    "duration": 120207,
+    "left": {
+      "bet_amount": 1082921,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Ky kiske #reload",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1843948,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Kat",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 136105119,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27683
+    },
+    "date": 1794017741526,
+    "duration": 109998,
+    "left": {
+      "bet_amount": 3722119,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Shirakawa kotori",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 722045,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "L.c.yubari",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136177703,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
