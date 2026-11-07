@@ -892502,5 +892502,113 @@
     "sum": 136173069,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21253
+    },
+    "date": 1794012613526,
+    "duration": 83996,
+    "left": {
+      "bet_amount": 3413328,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "F.killerbee",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 663151,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Aty",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 136209571,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 38432
+    },
+    "date": 1794012809726,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 2498083,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Wind-se",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 765041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Yawara",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 136213675,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1106
+    },
+    "date": 1794012953737,
+    "duration": 90007,
+    "left": {
+      "bet_amount": 4079908,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Kumi",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 712523,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Boss syndrome mukai",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 136225267,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29166
+    },
+    "date": 1794013199985,
+    "duration": 186059,
+    "left": {
+      "bet_amount": 727292,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Ss6 renfa",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3334247,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 13,
+      "name": "Black goku",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 136225461,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
