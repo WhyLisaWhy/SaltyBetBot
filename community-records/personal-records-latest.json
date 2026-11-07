@@ -892232,5 +892232,113 @@
     "sum": 136189134,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28536
+    },
+    "date": 1794010675926,
+    "duration": 95994,
+    "left": {
+      "bet_amount": 3111900,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "The kung fu man",
+      "normal_bettors": 37,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 746262,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Enegori",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136189727,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794010892127,
+    "duration": 156194,
+    "left": {
+      "bet_amount": 4871121,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Metagang",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 981566,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Remy Etienne LeBeau",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 136196509,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19093
+    },
+    "date": 1794011106326,
+    "duration": 160186,
+    "left": {
+      "bet_amount": 1248783,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 2,
+      "name": "Poongko's seth",
+      "normal_bettors": 28,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1752269,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 9,
+      "name": "Kouyalen",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 136196510,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29485
+    },
+    "date": 1794011292541,
+    "duration": 126213,
+    "left": {
+      "bet_amount": 952905,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mercurius",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1879123,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Testament",
+      "normal_bettors": 25,
+      "win_streak": -2
+    },
+    "sum": 136222898,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
