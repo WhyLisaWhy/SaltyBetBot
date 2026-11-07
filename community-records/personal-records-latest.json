@@ -901034,5 +901034,113 @@
     "sum": 136108999,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18795
+    },
+    "date": 1794076575525,
+    "duration": 149997,
+    "left": {
+      "bet_amount": 1061468,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Yamazaki 98",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1568078,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 6,
+      "name": "Tesse 7",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 136091521,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8247
+    },
+    "date": 1794076745729,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 597956,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Tingle",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4576368,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Joachim",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 136072726,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794076885928,
+    "duration": 80199,
+    "left": {
+      "bet_amount": 570750,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Sonic v2 EX",
+      "normal_bettors": 10,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5376446,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 14,
+      "name": "Google chrome t-rex",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "sum": 136073802,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27917
+    },
+    "date": 1794077031930,
+    "duration": 86003,
+    "left": {
+      "bet_amount": 2142941,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "O-kbk",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1113377,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Mech hisui iqs",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136073803,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
