@@ -892610,5 +892610,140 @@
     "sum": 136225461,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 8174
+    },
+    "date": 1794013336151,
+    "duration": 76016,
+    "left": {
+      "bet_amount": 4828937,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Copy dizzy",
+      "normal_bettors": 39,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 529330,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Alessi",
+      "normal_bettors": 10,
+      "win_streak": -3
+    },
+    "sum": 136196295,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29207
+    },
+    "date": 1794013526325,
+    "duration": 136197,
+    "left": {
+      "bet_amount": 2269340,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Hirasaka hatsune-if",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 996123,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Death adder",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 136197190,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27206
+    },
+    "date": 1794013696327,
+    "duration": 116000,
+    "left": {
+      "bet_amount": 2362201,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Wing",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 814804,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Subaru",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "sum": 136167983,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3744
+    },
+    "date": 1794013886529,
+    "duration": 129995,
+    "left": {
+      "bet_amount": 2278265,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Kucheat",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 951656,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Sailor uranus",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 136140777,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21309
+    },
+    "date": 1794014140786,
+    "duration": 200253,
+    "left": {
+      "bet_amount": 2053667,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Blade",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1487000,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Genma",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "sum": 136149706,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
