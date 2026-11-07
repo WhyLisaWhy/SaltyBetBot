@@ -897605,5 +897605,113 @@
     "sum": 135966477,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31412
+    },
+    "date": 1794052982927,
+    "duration": 120006,
+    "left": {
+      "bet_amount": 1222178,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Huryou hatune",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1297387,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Soldier ms",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "sum": 135975532,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 119
+    },
+    "date": 1794053219129,
+    "duration": 169989,
+    "left": {
+      "bet_amount": 2851425,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 13,
+      "name": "Kusanagi_ex",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 919499,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jumbo ozaki",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "sum": 136008042,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2673
+    },
+    "date": 1794053413333,
+    "duration": 140007,
+    "left": {
+      "bet_amount": 2793284,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Ninja",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1106461,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Sakura Cosplay",
+      "normal_bettors": 20,
+      "win_streak": 0
+    },
+    "sum": 136008081,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 37316
+    },
+    "date": 1794053663525,
+    "duration": 189997,
+    "left": {
+      "bet_amount": 1582360,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Main Man Knuckles",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1520199,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Pikachu sumin",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "sum": 136005408,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
