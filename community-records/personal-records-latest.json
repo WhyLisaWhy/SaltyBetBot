@@ -902249,5 +902249,140 @@
     "sum": 136094799,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13024
+    },
+    "date": 1794084623927,
+    "duration": 166199,
+    "left": {
+      "bet_amount": 2901256,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Chinnen EX5",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1176846,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Ultimate aizen",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 136096076,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5479
+    },
+    "date": 1794084794125,
+    "duration": 116197,
+    "left": {
+      "bet_amount": 3311953,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Heavyarmscustom",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1062245,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Speck",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "sum": 136083052,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22700
+    },
+    "date": 1794084994326,
+    "duration": 136176,
+    "left": {
+      "bet_amount": 895128,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Melusine",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1780774,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Shishimaru EX",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 136084807,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12341
+    },
+    "date": 1794085108329,
+    "duration": 84004,
+    "left": {
+      "bet_amount": 1956695,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Heart-armardi",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 769177,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Death EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136128850,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7642
+    },
+    "date": 1794085288527,
+    "duration": 120143,
+    "left": {
+      "bet_amount": 1054838,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "The god of death",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1800873,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Curse of judas",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 136116509,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
