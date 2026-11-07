@@ -896849,5 +896849,59 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2629
+    },
+    "date": 1794046784126,
+    "duration": 131981,
+    "left": {
+      "bet_amount": 591926,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Flan Scarlet",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 393557,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Alchemy man",
+      "normal_bettors": 16,
+      "win_streak": 5
+    },
+    "sum": 2629,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4370
+    },
+    "date": 1794047027128,
+    "duration": 188977,
+    "left": {
+      "bet_amount": 572382,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "The Colonel",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 537601,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Flan Scarlet",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 4370,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
