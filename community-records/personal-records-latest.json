@@ -894824,5 +894824,113 @@
     "sum": 136100326,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 30177
+    },
+    "date": 1794032354923,
+    "duration": 104196,
+    "left": {
+      "bet_amount": 2926292,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Android 16 ai-barbatos",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1470925,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "One tough koopa",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 136066773,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16645
+    },
+    "date": 1794032524930,
+    "duration": 103950,
+    "left": {
+      "bet_amount": 517904,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "C-aob",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5121775,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 19,
+      "name": "Kamen rider amazon alpha",
+      "normal_bettors": 32,
+      "win_streak": 8
+    },
+    "sum": 136036596,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8161
+    },
+    "date": 1794032675144,
+    "duration": 94004,
+    "left": {
+      "bet_amount": 764799,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Swalot",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3768316,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Evil soul",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 136038274,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28523
+    },
+    "date": 1794032885342,
+    "duration": 150216,
+    "left": {
+      "bet_amount": 1286906,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Honoka",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1578973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ultraman 1st",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136039927,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
