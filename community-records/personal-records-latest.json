@@ -899873,5 +899873,113 @@
     "sum": 2145,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2474
+    },
+    "date": 1794068303130,
+    "duration": 136209,
+    "left": {
+      "bet_amount": 78123,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Faust",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 503120,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Nirvana",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 2474,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2857
+    },
+    "date": 1794068517328,
+    "duration": 160197,
+    "left": {
+      "bet_amount": 346412,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Sogiita gunha",
+      "normal_bettors": 37,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 307195,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Team ash",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 2857,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5370
+    },
+    "date": 1794068697335,
+    "duration": 124009,
+    "left": {
+      "bet_amount": 90135,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Hayato kanzaki",
+      "normal_bettors": 21,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 620754,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Shindo tamaki",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "sum": 5370,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6144
+    },
+    "date": 1794068977730,
+    "duration": 220202,
+    "left": {
+      "bet_amount": 461025,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Nirvana",
+      "normal_bettors": 26,
+      "win_streak": 6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 308824,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Sogiita gunha",
+      "normal_bettors": 33,
+      "win_streak": 4
+    },
+    "sum": 6144,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
