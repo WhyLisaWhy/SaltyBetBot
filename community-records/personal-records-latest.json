@@ -892745,5 +892745,113 @@
     "sum": 136149706,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 40137
+    },
+    "date": 1794014390937,
+    "duration": 190193,
+    "left": {
+      "bet_amount": 1063941,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Nitori(emanon)",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3334223,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shaka de virgo",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 136164977,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 779
+    },
+    "date": 1794014533128,
+    "duration": 82200,
+    "left": {
+      "bet_amount": 1914232,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Whip",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2784168,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Jeff howard",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 136124840,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27471
+    },
+    "date": 1794014707330,
+    "duration": 120200,
+    "left": {
+      "bet_amount": 2532768,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Kao",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1252437,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Dark karin EX2",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136125376,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23418
+    },
+    "date": 1794014897321,
+    "duration": 123977,
+    "left": {
+      "bet_amount": 815221,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kenoh",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3037592,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Balrog f",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 136138815,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
