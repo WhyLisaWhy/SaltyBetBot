@@ -898820,5 +898820,140 @@
     "sum": 135889713,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 9514
+    },
+    "date": 1794060975325,
+    "duration": 83998,
+    "left": {
+      "bet_amount": 1046128,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Onmyouji",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2441854,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Eve justice",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 135916260,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32403
+    },
+    "date": 1794061121529,
+    "duration": 90204,
+    "left": {
+      "bet_amount": 645458,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Red arremer",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2647522,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Gradriel",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 135906746,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 35890
+    },
+    "date": 1794061261531,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 3552188,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Xiangfei-c",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 738210,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Lil' chirno",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 135874343,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7078
+    },
+    "date": 1794061465726,
+    "duration": 144192,
+    "left": {
+      "bet_amount": 1958050,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Kula diana",
+      "normal_bettors": 20,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2991309,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Jiraiya",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 136039035,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18281
+    },
+    "date": 1794061655927,
+    "duration": 130197,
+    "left": {
+      "bet_amount": 726220,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Neinhalt sieger",
+      "normal_bettors": 14,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3677182,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Ushiromiya battler",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "sum": 136031957,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
