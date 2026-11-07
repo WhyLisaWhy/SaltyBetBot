@@ -894230,5 +894230,113 @@
     "sum": 136056778,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 19357
+    },
+    "date": 1794028840124,
+    "duration": 146201,
+    "left": {
+      "bet_amount": 1142797,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Asuna.exe",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2199831,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Arrange sion",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 136067687,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 26836
+    },
+    "date": 1794029050324,
+    "duration": 150198,
+    "left": {
+      "bet_amount": 3578556,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Hotaru xi",
+      "normal_bettors": 38,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1024086,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Andromeda shun",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 136048330,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30882
+    },
+    "date": 1794029230324,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 730174,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Dhaos ND3",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2125868,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Marco rossi",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 136055953,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 25812
+    },
+    "date": 1794029370527,
+    "duration": 80002,
+    "left": {
+      "bet_amount": 1295126,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Stewie griffin",
+      "normal_bettors": 23,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1226262,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 6,
+      "name": "Ando",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 136142217,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
