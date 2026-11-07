@@ -901304,5 +901304,113 @@
     "sum": 136052711,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31562
+    },
+    "date": 1794078242921,
+    "duration": 110194,
+    "left": {
+      "bet_amount": 681176,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Margaret",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2678115,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Azami",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 136055965,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 43029
+    },
+    "date": 1794078382928,
+    "duration": 80009,
+    "left": {
+      "bet_amount": 1449051,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Tsubasa",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 768216,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Yukionna",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 136024403,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36299
+    },
+    "date": 1794078653327,
+    "duration": 210198,
+    "left": {
+      "bet_amount": 3895152,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Anastasia",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2642395,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Battler ushiromiya",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 135981374,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 35655
+    },
+    "date": 1794078869328,
+    "duration": 155995,
+    "left": {
+      "bet_amount": 1177400,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Durian EX3",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1911163,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Salamandra_fe",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 136034158,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
