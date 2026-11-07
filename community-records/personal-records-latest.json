@@ -895283,5 +895283,167 @@
     "sum": 135918305,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10589
+    },
+    "date": 1794035645395,
+    "duration": 100068,
+    "left": {
+      "bet_amount": 485483,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Shikamaru nara",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4511976,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Kuronoa",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 135923957,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 15849
+    },
+    "date": 1794035811527,
+    "duration": 110001,
+    "left": {
+      "bet_amount": 578078,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Robocop",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3461161,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 19,
+      "name": "Bruce banner",
+      "normal_bettors": 38,
+      "win_streak": -2
+    },
+    "sum": 135925094,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36297
+    },
+    "date": 1794035971724,
+    "duration": 100195,
+    "left": {
+      "bet_amount": 704476,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Mvc phoenix wright",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3415923,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Reject no. 253",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 135927730,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21056
+    },
+    "date": 1794036171928,
+    "duration": 146191,
+    "left": {
+      "bet_amount": 3427408,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 17,
+      "name": "Rainbow mika",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 905727,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Death machine mb-59",
+      "normal_bettors": 18,
+      "win_streak": -5
+    },
+    "sum": 135891433,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794036381928,
+    "duration": 155993,
+    "left": {
+      "bet_amount": 3381932,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 15,
+      "name": "Onslaught 2",
+      "normal_bettors": 32,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1019237,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Tukuyo",
+      "normal_bettors": 20,
+      "win_streak": 3
+    },
+    "sum": 135870377,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29835
+    },
+    "date": 1794036516143,
+    "duration": 80014,
+    "left": {
+      "bet_amount": 3621212,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Dongon",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1117846,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Real mikudayo-",
+      "normal_bettors": 16,
+      "win_streak": -4
+    },
+    "sum": 135870378,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
