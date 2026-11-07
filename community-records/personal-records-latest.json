@@ -896471,5 +896471,86 @@
     "sum": 135833913,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23968
+    },
+    "date": 1794043066525,
+    "duration": 89395,
+    "left": {
+      "bet_amount": 934779,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gelonimon",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3583288,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Johnny(ac)",
+      "normal_bettors": 32,
+      "win_streak": 3
+    },
+    "sum": 135832793,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794043553529,
+    "duration": 216205,
+    "left": {
+      "bet_amount": 69505,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Ed-209",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 110414,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Lightning bd",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2513
+    },
+    "date": 1794043757727,
+    "duration": 149996,
+    "left": {
+      "bet_amount": 47194,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Valdoll",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 190148,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "The Colonel",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 2513,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
