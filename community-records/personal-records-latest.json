@@ -899549,5 +899549,113 @@
     "sum": 136056761,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17575
+    },
+    "date": 1794065592931,
+    "duration": 95998,
+    "left": {
+      "bet_amount": 3882975,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Domina heyley",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 841891,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Gouki",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "sum": 136045448,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23463
+    },
+    "date": 1794065724556,
+    "duration": 71627,
+    "left": {
+      "bet_amount": 3097941,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Johnny pantyhose",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1079553,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Sasuke 0d",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "sum": 136049242,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794066179328,
+    "duration": 179982,
+    "left": {
+      "bet_amount": 46576,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Super3 goku EX3",
+      "normal_bettors": 19,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 136515,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Default mugen character",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2073
+    },
+    "date": 1794066453529,
+    "duration": 219998,
+    "left": {
+      "bet_amount": 53005,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Sasojinka-b-style",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 165336,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Hayato kanzaki",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 2073,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
