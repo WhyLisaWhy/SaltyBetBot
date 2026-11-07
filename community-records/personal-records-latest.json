@@ -902762,5 +902762,86 @@
     "sum": 2413,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5248
+    },
+    "date": 1794088222730,
+    "duration": 140003,
+    "left": {
+      "bet_amount": 184275,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "J.p.polnareff",
+      "normal_bettors": 37,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 118182,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Kenshin",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 5248,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 8521
+    },
+    "date": 1794088496924,
+    "duration": 218198,
+    "left": {
+      "bet_amount": 75025,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Jonathan",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 274549,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Metagang",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 8521,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10780
+    },
+    "date": 1794088685129,
+    "duration": 136202,
+    "left": {
+      "bet_amount": 132663,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Condor",
+      "normal_bettors": 23,
+      "win_streak": 0
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 253232,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Krillin",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 10780,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
