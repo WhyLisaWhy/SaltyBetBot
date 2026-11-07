@@ -901682,5 +901682,113 @@
     "sum": 136040523,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38486
+    },
+    "date": 1794081033127,
+    "duration": 116201,
+    "left": {
+      "bet_amount": 636980,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Walkyrie EX2",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2170229,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Yuki ex EX3",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 136021663,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27411
+    },
+    "date": 1794081247329,
+    "duration": 150202,
+    "left": {
+      "bet_amount": 651181,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Bemular",
+      "normal_bettors": 13,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5211192,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 15,
+      "name": "Negativezero",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 135983177,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32299
+    },
+    "date": 1794081393328,
+    "duration": 90007,
+    "left": {
+      "bet_amount": 3230608,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Vlade",
+      "normal_bettors": 27,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1145419,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Ichigo EX",
+      "normal_bettors": 16,
+      "win_streak": -5
+    },
+    "sum": 135986585,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4070
+    },
+    "date": 1794081533529,
+    "duration": 86201,
+    "left": {
+      "bet_amount": 703538,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Emily barnet",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3452083,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Rid hershel",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 135954286,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
