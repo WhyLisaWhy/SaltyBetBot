@@ -899657,5 +899657,86 @@
     "sum": 2073,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2730
+    },
+    "date": 1794066643721,
+    "duration": 129977,
+    "left": {
+      "bet_amount": 168215,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Dress cinderella mio EX7",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 102963,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Akashima",
+      "normal_bettors": 21,
+      "win_streak": 5
+    },
+    "sum": 2730,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794066799928,
+    "duration": 100183,
+    "left": {
+      "bet_amount": 68520,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Death-stuff",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 251800,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Shindo tamaki",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1970
+    },
+    "date": 1794067056132,
+    "duration": 196207,
+    "left": {
+      "bet_amount": 87795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Mildred avallone",
+      "normal_bettors": 20,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 271513,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Faust",
+      "normal_bettors": 38,
+      "win_streak": -6
+    },
+    "sum": 1970,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
