@@ -897200,5 +897200,113 @@
     "sum": 135824195,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 51219
+    },
+    "date": 1794050398932,
+    "duration": 180008,
+    "left": {
+      "bet_amount": 3477284,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Vanilla h",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 672796,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Soulgen",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 135850311,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38409
+    },
+    "date": 1794050635131,
+    "duration": 172001,
+    "left": {
+      "bet_amount": 696607,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Zabi",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5399428,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Hibachi",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "sum": 135860078,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7241
+    },
+    "date": 1794050789325,
+    "duration": 93989,
+    "left": {
+      "bet_amount": 2550618,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Hitsugaya",
+      "normal_bettors": 11,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3236500,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 14,
+      "name": "Noa",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 135864999,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20355
+    },
+    "date": 1794050935528,
+    "duration": 86196,
+    "left": {
+      "bet_amount": 770059,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Mitsuji tanimati",
+      "normal_bettors": 14,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2754751,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 13,
+      "name": "Andy_ff3rb",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 135870693,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
