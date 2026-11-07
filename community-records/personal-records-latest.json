@@ -896903,5 +896903,140 @@
     "sum": 4370,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1458
+    },
+    "date": 1794048511525,
+    "duration": 130198,
+    "left": {
+      "bet_amount": 844795,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Goten",
+      "normal_bettors": 18,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4795993,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 13,
+      "name": "Hulk 2099",
+      "normal_bettors": 28,
+      "win_streak": 0
+    },
+    "sum": 135817811,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5121
+    },
+    "date": 1794048641525,
+    "duration": 76005,
+    "left": {
+      "bet_amount": 1077135,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Ohaou",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1599071,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Akari kamigishi EX3",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 135818068,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794048801729,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 1520908,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Asuras",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1358006,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Mr_shihan_ky",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 135812947,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794048963928,
+    "duration": 108199,
+    "left": {
+      "bet_amount": 5090515,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Tatsuo",
+      "normal_bettors": 19,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1002810,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "Lord shaolin lee",
+      "normal_bettors": 21,
+      "win_streak": -14
+    },
+    "sum": 135812946,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12705
+    },
+    "date": 1794049051924,
+    "duration": 49998,
+    "left": {
+      "bet_amount": 631708,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "No_data",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11035864,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 16,
+      "name": "Rare akuma",
+      "normal_bettors": 34,
+      "win_streak": 16
+    },
+    "sum": 135812945,
+    "tier": "X",
+    "winner": "Left"
   }
 ]
