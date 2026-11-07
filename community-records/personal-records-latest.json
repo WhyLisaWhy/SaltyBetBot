@@ -896201,5 +896201,113 @@
     "sum": 135811782,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 37402
+    },
+    "date": 1794041584125,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 601283,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Younger link",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2447631,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Lilith",
+      "normal_bettors": 31,
+      "win_streak": -1
+    },
+    "sum": 135811786,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2437
+    },
+    "date": 1794041714129,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 3349741,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Joe higashi EX3",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 723368,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Rock howard motw",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 135820836,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 36652
+    },
+    "date": 1794041880328,
+    "duration": 104203,
+    "left": {
+      "bet_amount": 685679,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Cci jhun EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3283705,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "May star",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 135821362,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 39353
+    },
+    "date": 1794042070327,
+    "duration": 130001,
+    "left": {
+      "bet_amount": 462189,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Maleficent",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3978158,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "Mr. broly",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 135828931,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
