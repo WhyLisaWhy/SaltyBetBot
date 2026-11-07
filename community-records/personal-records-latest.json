@@ -893771,5 +893771,59 @@
     "sum": 3601,
     "tier": "X",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7741
+    },
+    "date": 1794021438365,
+    "duration": 156039,
+    "left": {
+      "bet_amount": 149771,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "K-unknown",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 659229,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 17,
+      "name": "Rabi-ribi syaro",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 7741,
+    "tier": "X",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794021653333,
+    "duration": 155007,
+    "left": {
+      "bet_amount": 260192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Oda nobuko ex",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 700844,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "K-unknown",
+      "normal_bettors": 43,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
