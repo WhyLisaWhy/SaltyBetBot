@@ -893312,5 +893312,113 @@
     "sum": 136177703,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18823
+    },
+    "date": 1794017851738,
+    "duration": 50209,
+    "left": {
+      "bet_amount": 2530433,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Superior dragon",
+      "normal_bettors": 28,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1668925,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Giant gunter",
+      "normal_bettors": 26,
+      "win_streak": -1
+    },
+    "sum": 136183034,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794018097953,
+    "duration": 186185,
+    "left": {
+      "bet_amount": 2068367,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 11,
+      "name": "Scott pilgrim EX3",
+      "normal_bettors": 36,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1362759,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Doparmin",
+      "normal_bettors": 14,
+      "win_streak": -9
+    },
+    "sum": 136164211,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29660
+    },
+    "date": 1794018274018,
+    "duration": 122079,
+    "left": {
+      "bet_amount": 1111491,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Serval",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1760407,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 8,
+      "name": "Fernandeath",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 136164212,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27937
+    },
+    "date": 1794018422126,
+    "duration": 88198,
+    "left": {
+      "bet_amount": 1458340,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Dooby dummy",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1423401,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Samchay ex",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "sum": 136134552,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
