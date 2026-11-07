@@ -895094,5 +895094,59 @@
     "sum": 136029101,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20845
+    },
+    "date": 1794034252342,
+    "duration": 120014,
+    "left": {
+      "bet_amount": 2842622,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Yoriko-mvc EX3",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1786928,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Gold lightan",
+      "normal_bettors": 19,
+      "win_streak": 4
+    },
+    "sum": 135993274,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22895
+    },
+    "date": 1794034524524,
+    "duration": 212198,
+    "left": {
+      "bet_amount": 1511049,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Commode serika",
+      "normal_bettors": 22,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1846015,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Hisui aa",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 135972429,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
