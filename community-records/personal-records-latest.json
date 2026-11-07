@@ -897713,5 +897713,140 @@
     "sum": 136005408,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25607
+    },
+    "date": 1794053863729,
+    "duration": 144202,
+    "left": {
+      "bet_amount": 1029119,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Lilia",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1949244,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 10,
+      "name": "Saya_g",
+      "normal_bettors": 22,
+      "win_streak": -1
+    },
+    "sum": 136043320,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31986
+    },
+    "date": 1794053993927,
+    "duration": 74197,
+    "left": {
+      "bet_amount": 822709,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Hybrid",
+      "normal_bettors": 19,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1974682,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Aska EX2",
+      "normal_bettors": 24,
+      "win_streak": -1
+    },
+    "sum": 136017713,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5575
+    },
+    "date": 1794054190131,
+    "duration": 136205,
+    "left": {
+      "bet_amount": 3447596,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Kawaiman",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 983747,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Sanada ani",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 135985727,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22308
+    },
+    "date": 1794054416126,
+    "duration": 162199,
+    "left": {
+      "bet_amount": 1011528,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Cure black",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1871051,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Farmer strikes back",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "sum": 135987316,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 2667
+    },
+    "date": 1794054580325,
+    "duration": 110197,
+    "left": {
+      "bet_amount": 945846,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Super man",
+      "normal_bettors": 9,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3257050,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Ring man",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 135965008,
+    "tier": "P",
+    "winner": "Right"
   }
 ]
