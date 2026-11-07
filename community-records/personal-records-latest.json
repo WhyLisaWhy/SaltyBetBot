@@ -893528,5 +893528,113 @@
     "sum": 2301,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3262
+    },
+    "date": 1794019691127,
+    "duration": 322402,
+    "left": {
+      "bet_amount": 87973,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Etk_geese",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 413396,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "K-unknown",
+      "normal_bettors": 43,
+      "win_streak": 2
+    },
+    "sum": 3262,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3951
+    },
+    "date": 1794019945328,
+    "duration": 200200,
+    "left": {
+      "bet_amount": 121410,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "S_aqn",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 414132,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 17,
+      "name": "Joymech katima",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 3951,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5099
+    },
+    "date": 1794020181527,
+    "duration": 176181,
+    "left": {
+      "bet_amount": 47062,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Frostman hell",
+      "normal_bettors": 17,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 523473,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 18,
+      "name": "Rabi-ribi syaro",
+      "normal_bettors": 50,
+      "win_streak": -1
+    },
+    "sum": 5099,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5553
+    },
+    "date": 1794020335524,
+    "duration": 93997,
+    "left": {
+      "bet_amount": 98540,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Love of z",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 500667,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 12,
+      "name": "Admiral kizaru",
+      "normal_bettors": 48,
+      "win_streak": 1
+    },
+    "sum": 5553,
+    "tier": "X",
+    "winner": "Right"
   }
 ]
