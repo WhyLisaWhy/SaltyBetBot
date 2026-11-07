@@ -902519,5 +902519,140 @@
     "sum": 136095562,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4657
+    },
+    "date": 1794086195127,
+    "duration": 109999,
+    "left": {
+      "bet_amount": 705634,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Pengintou",
+      "normal_bettors": 15,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 17266471,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 13,
+      "name": "Ai anesan",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 136072154,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4294
+    },
+    "date": 1794086321327,
+    "duration": 70198,
+    "left": {
+      "bet_amount": 2835041,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Monster ball",
+      "normal_bettors": 10,
+      "win_streak": -12
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5416718,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 16,
+      "name": "Omega rugal 95-kofm",
+      "normal_bettors": 44,
+      "win_streak": -1
+    },
+    "sum": 136072345,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 12792
+    },
+    "date": 1794086505327,
+    "duration": 120000,
+    "left": {
+      "bet_amount": 14451194,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Bloodbane",
+      "normal_bettors": 41,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 566399,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Yuzuriha",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 136074591,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32291
+    },
+    "date": 1794086691527,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 1737375,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Killa and ren EX",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1306308,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Boon",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 136075092,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 14609
+    },
+    "date": 1794086911728,
+    "duration": 160199,
+    "left": {
+      "bet_amount": 2924382,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Yoshiyuki takagi",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2013293,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Satsuki shindou",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 136098929,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
