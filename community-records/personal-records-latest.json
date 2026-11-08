@@ -903923,5 +903923,140 @@
     "sum": 136116074,
     "tier": "P",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23795
+    },
+    "date": 1794100792729,
+    "duration": 94159,
+    "left": {
+      "bet_amount": 1408504,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "Ootani reimu",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1967301,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Gaoh kyougoku hinowanokami",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136112996,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 36446
+    },
+    "date": 1794100948781,
+    "duration": 96052,
+    "left": {
+      "bet_amount": 2429908,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Raidou EX",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1353167,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Tsukiyomi kinako EX5",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 136129829,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30080
+    },
+    "date": 1794101168927,
+    "duration": 154000,
+    "left": {
+      "bet_amount": 1220805,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Syobo-n",
+      "normal_bettors": 23,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2325031,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 10,
+      "name": "Evil talon",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 136093383,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7085
+    },
+    "date": 1794101399128,
+    "duration": 174200,
+    "left": {
+      "bet_amount": 4291292,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Lumina",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 904062,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Rouge the bat",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 136149293,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22151
+    },
+    "date": 1794101585327,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 2003399,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Tony won",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1660340,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Shinshi",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "sum": 136142208,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
