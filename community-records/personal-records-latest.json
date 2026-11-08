@@ -906191,5 +906191,32 @@
     "sum": 9820,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 11619
+    },
+    "date": 1794117535728,
+    "duration": 90200,
+    "left": {
+      "bet_amount": 811616,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Arrange mukuro",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4111329,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Akiha tohno EX",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "sum": 136357963,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
