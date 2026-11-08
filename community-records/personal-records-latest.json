@@ -915018,5 +915018,86 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794178261347,
+    "duration": 236223,
+    "left": {
+      "bet_amount": 162063,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Cci xiangfei",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 101579,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Anna kyoyama",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3986
+    },
+    "date": 1794178495526,
+    "duration": 174198,
+    "left": {
+      "bet_amount": 249869,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Akashi_kaoru",
+      "normal_bettors": 36,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 132510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Atari dragon EX2",
+      "normal_bettors": 20,
+      "win_streak": -7
+    },
+    "sum": 3986,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 6067
+    },
+    "date": 1794178757726,
+    "duration": 206197,
+    "left": {
+      "bet_amount": 246596,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Captain sawada",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 148301,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Perfect storm x",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 6067,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
