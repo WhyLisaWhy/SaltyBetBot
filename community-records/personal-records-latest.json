@@ -906218,5 +906218,113 @@
     "sum": 136357963,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3397
+    },
+    "date": 1794117755923,
+    "duration": 156198,
+    "left": {
+      "bet_amount": 1211743,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Mukuro",
+      "normal_bettors": 17,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2638666,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Nekonin",
+      "normal_bettors": 35,
+      "win_streak": -3
+    },
+    "sum": 136360251,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17922
+    },
+    "date": 1794117949945,
+    "duration": 133995,
+    "left": {
+      "bet_amount": 1403538,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Oliver",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1541518,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 7,
+      "name": "Lotus master",
+      "normal_bettors": 28,
+      "win_streak": 1
+    },
+    "sum": 136356854,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20879
+    },
+    "date": 1794118190125,
+    "duration": 179997,
+    "left": {
+      "bet_amount": 2787439,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Reisen-deadpool-inaba",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 817377,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 5,
+      "name": "Onsokumaru",
+      "normal_bettors": 22,
+      "win_streak": -5
+    },
+    "sum": 136376290,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29752
+    },
+    "date": 1794118382335,
+    "duration": 136208,
+    "left": {
+      "bet_amount": 897508,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Rulue",
+      "normal_bettors": 15,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2293177,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 6,
+      "name": "F-117 stealth",
+      "normal_bettors": 35,
+      "win_streak": 7
+    },
+    "sum": 136382367,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
