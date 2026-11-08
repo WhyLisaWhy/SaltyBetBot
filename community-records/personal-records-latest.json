@@ -909242,5 +909242,32 @@
     "sum": 4726,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21681
+    },
+    "date": 1794140175528,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 1013475,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Trish una",
+      "normal_bettors": 21,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1843616,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Momomeno",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "sum": 136358539,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
