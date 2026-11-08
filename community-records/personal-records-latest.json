@@ -905327,5 +905327,113 @@
     "sum": 136346543,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 10666
+    },
+    "date": 1794109697526,
+    "duration": 195989,
+    "left": {
+      "bet_amount": 1275734,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 3,
+      "name": "Kamek EX3",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1640937,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Shadowroo (pf 3)",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 136377214,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794109877728,
+    "duration": 123955,
+    "left": {
+      "bet_amount": 739146,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Real justice",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3310811,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 11,
+      "name": "Kanorin",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "sum": 136366548,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25447
+    },
+    "date": 1794110103926,
+    "duration": 170198,
+    "left": {
+      "bet_amount": 2615731,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Bsb samus",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 898777,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Peter griffin mvc",
+      "normal_bettors": 21,
+      "win_streak": 1
+    },
+    "sum": 136366549,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23273
+    },
+    "date": 1794110298127,
+    "duration": 140176,
+    "left": {
+      "bet_amount": 1854752,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Mike bison",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1318479,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Gouki sf",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136341102,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
