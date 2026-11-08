@@ -913074,5 +913074,113 @@
     "sum": 136180453,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21853
+    },
+    "date": 1794165545527,
+    "duration": 140201,
+    "left": {
+      "bet_amount": 3656224,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "H_witch",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 637268,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Hatsune miku mmd t",
+      "normal_bettors": 14,
+      "win_streak": -5
+    },
+    "sum": 136182085,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3076
+    },
+    "date": 1794165715527,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 501203,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Hyper buu",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4381215,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "Jentai",
+      "normal_bettors": 34,
+      "win_streak": 0
+    },
+    "sum": 136185872,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20821
+    },
+    "date": 1794165875726,
+    "duration": 104200,
+    "left": {
+      "bet_amount": 673885,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Voltage zeroko",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3801412,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Zen mc",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 136186224,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 39590
+    },
+    "date": 1794166035727,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 2875759,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 9,
+      "name": "Darun mister",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 612671,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Final",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 136300156,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
