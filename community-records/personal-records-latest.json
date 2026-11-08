@@ -908405,5 +908405,113 @@
     "sum": 136331231,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27858
+    },
+    "date": 1794132319356,
+    "duration": 120228,
+    "left": {
+      "bet_amount": 1057494,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Shadow geist ex",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1535594,
+      "ignored_bettors": 13,
+      "illuminati_bettors": 5,
+      "name": "Lynn 02",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 136312279,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 29635
+    },
+    "date": 1794132509528,
+    "duration": 130203,
+    "left": {
+      "bet_amount": 1540950,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 7,
+      "name": "Walkyrie EX2",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1341832,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 4,
+      "name": "Ss6 shisyun-abab",
+      "normal_bettors": 11,
+      "win_streak": -7
+    },
+    "sum": 136331122,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10421
+    },
+    "date": 1794132643529,
+    "duration": 74002,
+    "left": {
+      "bet_amount": 1505142,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Black demonica",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1865777,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 7,
+      "name": "Murochi",
+      "normal_bettors": 30,
+      "win_streak": 1
+    },
+    "sum": 136364420,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794132843729,
+    "duration": 144204,
+    "left": {
+      "bet_amount": 1350186,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Ralf EX3",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2945829,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Diablo_skeleton",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 136372781,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
