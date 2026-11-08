@@ -913641,5 +913641,113 @@
     "sum": 136384585,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794169082129,
+    "duration": 100002,
+    "left": {
+      "bet_amount": 1277162,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Gaou",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3294306,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Hessian lobo",
+      "normal_bettors": 30,
+      "win_streak": -4
+    },
+    "sum": 136431761,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 21828
+    },
+    "date": 1794169362325,
+    "duration": 220189,
+    "left": {
+      "bet_amount": 1904135,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Eva-01 srw",
+      "normal_bettors": 24,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1204529,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Goku z2 EX3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 136431760,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 21092
+    },
+    "date": 1794169542530,
+    "duration": 120205,
+    "left": {
+      "bet_amount": 2195273,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 6,
+      "name": "Jack the ripper",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1096790,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Cci kim",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "sum": 136465652,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26828
+    },
+    "date": 1794169666527,
+    "duration": 64000,
+    "left": {
+      "bet_amount": 2495474,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Yamazaki rb",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 11596238,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Shiki tohno iqs",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "sum": 136476090,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
