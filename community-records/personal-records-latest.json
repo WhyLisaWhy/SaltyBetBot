@@ -905732,5 +905732,86 @@
     "sum": 136324859,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 18122
+    },
+    "date": 1794112317725,
+    "duration": 192199,
+    "left": {
+      "bet_amount": 1922730,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Kenshin uesugi",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2676773,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Lilith aileron",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 136324860,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33566
+    },
+    "date": 1794112476326,
+    "duration": 98599,
+    "left": {
+      "bet_amount": 1213107,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Weiss daemon bride",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2153183,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Master hand",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "sum": 136337790,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794112938126,
+    "duration": 190202,
+    "left": {
+      "bet_amount": 122235,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 13,
+      "name": "Deathscythe ao",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 76002,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 6,
+      "name": "Grass mud horse",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
