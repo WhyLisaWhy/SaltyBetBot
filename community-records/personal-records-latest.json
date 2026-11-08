@@ -911807,5 +911807,113 @@
     "sum": 136084884,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 20316
+    },
+    "date": 1794155815729,
+    "duration": 109997,
+    "left": {
+      "bet_amount": 2054276,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Shigure",
+      "normal_bettors": 37,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 941974,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Kamui tenrou",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 136085726,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794155987926,
+    "duration": 118182,
+    "left": {
+      "bet_amount": 1814719,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Scarlet witch",
+      "normal_bettors": 31,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4928199,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Shocker",
+      "normal_bettors": 23,
+      "win_streak": -5
+    },
+    "sum": 136065410,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20772
+    },
+    "date": 1794156141928,
+    "duration": 95996,
+    "left": {
+      "bet_amount": 2069700,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "2b",
+      "normal_bettors": 27,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1172870,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Hiro-ex",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "sum": 136065411,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17477
+    },
+    "date": 1794156286124,
+    "duration": 83961,
+    "left": {
+      "bet_amount": 2227547,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Yuri_sv",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1093614,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "S.sinclair",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136044639,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
