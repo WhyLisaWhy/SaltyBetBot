@@ -905948,5 +905948,113 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794114245125,
+    "duration": 129991,
+    "left": {
+      "bet_amount": 147209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Heitasupermode",
+      "normal_bettors": 24,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 444284,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Mei",
+      "normal_bettors": 41,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794114415329,
+    "duration": 116193,
+    "left": {
+      "bet_amount": 406679,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Shin akuma",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270662,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 10,
+      "name": "Gundam nataku",
+      "normal_bettors": 24,
+      "win_streak": 4
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3866
+    },
+    "date": 1794114645325,
+    "duration": 175998,
+    "left": {
+      "bet_amount": 187258,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Deathscythe ao",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 543432,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Taideo EX",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "sum": 3866,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794114841526,
+    "duration": 139998,
+    "left": {
+      "bet_amount": 379192,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Daisy EX3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 473212,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Evil ash diabolosis",
+      "normal_bettors": 45,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
