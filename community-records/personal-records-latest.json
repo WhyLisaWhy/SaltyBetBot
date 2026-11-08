@@ -909188,5 +909188,59 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2435
+    },
+    "date": 1794138564327,
+    "duration": 262388,
+    "left": {
+      "bet_amount": 376992,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Ridley other m",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 356930,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 10,
+      "name": "Alucard (v.2)",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 2435,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 4726
+    },
+    "date": 1794138853929,
+    "duration": 229602,
+    "left": {
+      "bet_amount": 884513,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 26,
+      "name": "Yujiro-hanma",
+      "normal_bettors": 35,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 131463,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Ridley other m",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "sum": 4726,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
