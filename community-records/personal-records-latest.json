@@ -903329,5 +903329,113 @@
     "sum": 136094675,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20868
+    },
+    "date": 1794097153728,
+    "duration": 115992,
+    "left": {
+      "bet_amount": 795907,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Shizuha aki",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2202824,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 10,
+      "name": "Lotus master",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 136180853,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5874
+    },
+    "date": 1794097293927,
+    "duration": 86197,
+    "left": {
+      "bet_amount": 1024988,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chisa tsukamoto",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2067153,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Billy karn",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 136188323,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12612
+    },
+    "date": 1794097494126,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 2138505,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Iori xiii",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1988394,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 11,
+      "name": "O.m.n.i. enforcer",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 136191228,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16409
+    },
+    "date": 1794097674140,
+    "duration": 126012,
+    "left": {
+      "bet_amount": 1947186,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Paul the monkey",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1510371,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Ganondorf mythos",
+      "normal_bettors": 28,
+      "win_streak": 4
+    },
+    "sum": 136178616,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
