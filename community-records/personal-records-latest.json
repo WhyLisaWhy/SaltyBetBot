@@ -906893,5 +906893,113 @@
     "sum": 136348093,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 7957
+    },
+    "date": 1794122427527,
+    "duration": 184200,
+    "left": {
+      "bet_amount": 1927730,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Orochi kyo wf",
+      "normal_bettors": 26,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1125802,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "C-ryu",
+      "normal_bettors": 15,
+      "win_streak": -5
+    },
+    "sum": 136376680,
+    "tier": "X",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11860
+    },
+    "date": 1794122597729,
+    "duration": 110198,
+    "left": {
+      "bet_amount": 2964857,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Robo-sol",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2108349,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Khameleon mk2",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 136368723,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22574
+    },
+    "date": 1794122787727,
+    "duration": 129999,
+    "left": {
+      "bet_amount": 1009628,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Brunestud arcueid",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2213231,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Rainbow dash",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 136377124,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 34976
+    },
+    "date": 1794122997924,
+    "duration": 149998,
+    "left": {
+      "bet_amount": 1945073,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Shin gouki EX2",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 937003,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Shocker",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 136354550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
