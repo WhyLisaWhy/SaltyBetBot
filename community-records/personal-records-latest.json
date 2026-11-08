@@ -914775,5 +914775,167 @@
     "sum": 136975496,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794176375926,
+    "duration": 108200,
+    "left": {
+      "bet_amount": 878602,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Scorpion",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5422077,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Archer",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 136929148,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 17161
+    },
+    "date": 1794176568129,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 2268000,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Sandrock",
+      "normal_bettors": 27,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 937049,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Bubble slime",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 136929147,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 21375
+    },
+    "date": 1794176684129,
+    "duration": 60004,
+    "left": {
+      "bet_amount": 3368260,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Supersonic ellic",
+      "normal_bettors": 28,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2820599,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Gyarados",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136936185,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 31623
+    },
+    "date": 1794176824326,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 1279482,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 5,
+      "name": "Len",
+      "normal_bettors": 25,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3445616,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 6,
+      "name": "Skapokan",
+      "normal_bettors": 21,
+      "win_streak": -5
+    },
+    "sum": 136914810,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 869
+    },
+    "date": 1794176958326,
+    "duration": 79969,
+    "left": {
+      "bet_amount": 2264787,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Sage kabuto",
+      "normal_bettors": 33,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1005154,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 3,
+      "name": "Voltage zeroko",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 136926446,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 29387
+    },
+    "date": 1794177158527,
+    "duration": 140199,
+    "left": {
+      "bet_amount": 2198800,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 6,
+      "name": "Makoto nanaya",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 894230,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Patoelietoe 2",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136925577,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
