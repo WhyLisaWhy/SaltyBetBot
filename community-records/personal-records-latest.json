@@ -904058,5 +904058,113 @@
     "sum": 136142208,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 10271
+    },
+    "date": 1794101735326,
+    "duration": 95972,
+    "left": {
+      "bet_amount": 773125,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Meta knight mythos",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2138277,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 8,
+      "name": "Unber",
+      "normal_bettors": 24,
+      "win_streak": -4
+    },
+    "sum": 136168584,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37049
+    },
+    "date": 1794101909527,
+    "duration": 113996,
+    "left": {
+      "bet_amount": 1249890,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Kage",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1813533,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Reak.f",
+      "normal_bettors": 26,
+      "win_streak": -3
+    },
+    "sum": 136196619,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26231
+    },
+    "date": 1794102069726,
+    "duration": 100198,
+    "left": {
+      "bet_amount": 1482325,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Syaoran",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1416164,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Older hihumi",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "sum": 136159570,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20393
+    },
+    "date": 1794102235757,
+    "duration": 110030,
+    "left": {
+      "bet_amount": 2505211,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Tiger mask 0d",
+      "normal_bettors": 26,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1883119,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Fenri-lunaedge",
+      "normal_bettors": 29,
+      "win_streak": -1
+    },
+    "sum": 136133339,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
