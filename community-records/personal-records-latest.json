@@ -909080,5 +909080,113 @@
     "sum": 1987,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4946
+    },
+    "date": 1794137617529,
+    "duration": 190204,
+    "left": {
+      "bet_amount": 334952,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Supermario64",
+      "normal_bettors": 18,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 294044,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Raiden 512e1",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 4946,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1794137837729,
+    "duration": 156202,
+    "left": {
+      "bet_amount": 550785,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Cycloid sigma y",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 214445,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Ridley other m",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794138111928,
+    "duration": 220199,
+    "left": {
+      "bet_amount": 279339,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Alucard (v.2)",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 506847,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Kakine tetoku",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1794138241933,
+    "duration": 74004,
+    "left": {
+      "bet_amount": 520317,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 16,
+      "name": "Yujiro-hanma",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 297721,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Supermario64",
+      "normal_bettors": 22,
+      "win_streak": 5
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
