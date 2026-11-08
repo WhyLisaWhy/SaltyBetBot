@@ -906623,5 +906623,140 @@
     "sum": 136340005,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27894
+    },
+    "date": 1794120553926,
+    "duration": 104001,
+    "left": {
+      "bet_amount": 1081830,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Charlotte s",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1830537,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Saint-of-silver",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 136360605,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23165
+    },
+    "date": 1794120674132,
+    "duration": 60001,
+    "left": {
+      "bet_amount": 1296647,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Risotto nero",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1914210,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Aoko aozaki",
+      "normal_bettors": 34,
+      "win_streak": 12
+    },
+    "sum": 136376843,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5248
+    },
+    "date": 1794120804126,
+    "duration": 69982,
+    "left": {
+      "bet_amount": 805277,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Nazuna_inuwaka",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3888390,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Myzr delta",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 136353678,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24789
+    },
+    "date": 1794120920360,
+    "duration": 54040,
+    "left": {
+      "bet_amount": 614684,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Zuepia",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3986954,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "A-agito",
+      "normal_bettors": 39,
+      "win_streak": 4
+    },
+    "sum": 136354764,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6318
+    },
+    "date": 1794121070345,
+    "duration": 89939,
+    "left": {
+      "bet_amount": 1876532,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Kyko",
+      "normal_bettors": 35,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 879421,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Blaze agent",
+      "normal_bettors": 15,
+      "win_streak": -3
+    },
+    "sum": 136358563,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
