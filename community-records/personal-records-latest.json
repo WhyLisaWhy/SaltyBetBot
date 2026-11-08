@@ -904760,5 +904760,140 @@
     "sum": 136415486,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26316
+    },
+    "date": 1794106042728,
+    "duration": 95999,
+    "left": {
+      "bet_amount": 1871542,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Master morrigan",
+      "normal_bettors": 33,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1162355,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Resonance",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "sum": 136415792,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 19107
+    },
+    "date": 1794106202926,
+    "duration": 106201,
+    "left": {
+      "bet_amount": 1405493,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Elirin",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1511508,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Gliformoth EX3",
+      "normal_bettors": 21,
+      "win_streak": -3
+    },
+    "sum": 136457227,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 19814
+    },
+    "date": 1794106316937,
+    "duration": 64010,
+    "left": {
+      "bet_amount": 741211,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Kusaregedo EX",
+      "normal_bettors": 9,
+      "win_streak": -6
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3490140,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 13,
+      "name": "May(ac)",
+      "normal_bettors": 48,
+      "win_streak": 1
+    },
+    "sum": 136438120,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 27083
+    },
+    "date": 1794106517245,
+    "duration": 140117,
+    "left": {
+      "bet_amount": 1227280,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Android 18",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1158777,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Broly",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 136442305,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 19826
+    },
+    "date": 1794106693326,
+    "duration": 116198,
+    "left": {
+      "bet_amount": 987592,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Chief he-fonba",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2687165,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Abubo",
+      "normal_bettors": 43,
+      "win_streak": 8
+    },
+    "sum": 136467325,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
