@@ -912345,5 +912345,59 @@
     "sum": 3376,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23715
+    },
+    "date": 1794160657529,
+    "duration": 94005,
+    "left": {
+      "bet_amount": 451749,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Cool choi",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4687212,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Ikusan",
+      "normal_bettors": 38,
+      "win_streak": 5
+    },
+    "sum": 136046188,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 32724
+    },
+    "date": 1794160847726,
+    "duration": 134200,
+    "left": {
+      "bet_amount": 649221,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 1,
+      "name": "Shining ristar",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3336759,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 14,
+      "name": "Jackal",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "sum": 136048463,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
