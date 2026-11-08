@@ -911915,5 +911915,111 @@
     "sum": 136044639,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": "None",
+    "date": 1794156481341,
+    "duration": 135215,
+    "left": {
+      "bet_amount": 45510,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Farmer strikes back",
+      "normal_bettors": 21,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 132040,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Emi yusa",
+      "normal_bettors": 29,
+      "win_streak": -2
+    },
+    "sum": 9514,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9514
+    },
+    "date": 1794156852525,
+    "duration": 110000,
+    "left": {
+      "bet_amount": 776209,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 7,
+      "name": "Cody the hedgehusky",
+      "normal_bettors": 28,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 265433,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 8,
+      "name": "Sideswipe",
+      "normal_bettors": 33,
+      "win_streak": 1
+    },
+    "sum": 9514,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794157054726,
+    "duration": 141995,
+    "left": {
+      "bet_amount": 177747,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 1,
+      "name": "Shadow kouma",
+      "normal_bettors": 26,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 821877,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Sauri",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1885
+    },
+    "date": 1794157382920,
+    "duration": 276191,
+    "left": {
+      "bet_amount": 705040,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Divine poison",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 330069,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Neferpitou",
+      "normal_bettors": 31,
+      "win_streak": 3
+    },
+    "sum": 1885,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
