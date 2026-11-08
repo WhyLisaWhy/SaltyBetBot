@@ -908270,5 +908270,140 @@
     "sum": 136301964,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5660
+    },
+    "date": 1794131266526,
+    "duration": 84199,
+    "left": {
+      "bet_amount": 1210798,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Perfect cell EX3",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4245546,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Gaisei",
+      "normal_bettors": 38,
+      "win_streak": -1
+    },
+    "sum": 136329088,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15534
+    },
+    "date": 1794131426529,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 2406434,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Fang 0d",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1333216,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Joe higashi arrange",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "sum": 136330701,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794131572730,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 1367679,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Sceptile",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 5432432,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Shadowman cfas",
+      "normal_bettors": 31,
+      "win_streak": 7
+    },
+    "sum": 136339252,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 8022
+    },
+    "date": 1794131956963,
+    "duration": 90037,
+    "left": {
+      "bet_amount": 1235756,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Hugo EX",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1366263,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Nisego chaos",
+      "normal_bettors": 18,
+      "win_streak": -1
+    },
+    "sum": 136339253,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18952
+    },
+    "date": 1794132143129,
+    "duration": 126003,
+    "left": {
+      "bet_amount": 1643550,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Garou terry",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1374938,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Dragon EX",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 136331231,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
