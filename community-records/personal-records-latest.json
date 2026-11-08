@@ -911321,5 +911321,140 @@
     "sum": 136146799,
     "tier": "X",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 9741
+    },
+    "date": 1794152891526,
+    "duration": 146200,
+    "left": {
+      "bet_amount": 1124498,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 4,
+      "name": "Basilisx",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1703139,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 8,
+      "name": "False echo",
+      "normal_bettors": 26,
+      "win_streak": 1
+    },
+    "sum": 136149910,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794153021531,
+    "duration": 70002,
+    "left": {
+      "bet_amount": 1687681,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Axearmor",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3160150,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Date masamune",
+      "normal_bettors": 24,
+      "win_streak": 8
+    },
+    "sum": 136140169,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31414
+    },
+    "date": 1794153201729,
+    "duration": 119987,
+    "left": {
+      "bet_amount": 689546,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 1,
+      "name": "D4kirby_r",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2996946,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Sonic mvc",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 136140168,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 759
+    },
+    "date": 1794153351930,
+    "duration": 90208,
+    "left": {
+      "bet_amount": 803244,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Missmarvel",
+      "normal_bettors": 13,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4824364,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Spy-dama-man",
+      "normal_bettors": 39,
+      "win_streak": 1
+    },
+    "sum": 136108754,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 12007
+    },
+    "date": 1794153521932,
+    "duration": 109962,
+    "left": {
+      "bet_amount": 703386,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Maccho",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4344509,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Cheep-chomp",
+      "normal_bettors": 40,
+      "win_streak": -1
+    },
+    "sum": 136108881,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
