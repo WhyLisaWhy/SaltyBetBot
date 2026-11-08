@@ -908675,5 +908675,113 @@
     "sum": 136352791,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 28234
+    },
+    "date": 1794134016729,
+    "duration": 126203,
+    "left": {
+      "bet_amount": 1941297,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Kaigen",
+      "normal_bettors": 31,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1696874,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Green arrow",
+      "normal_bettors": 15,
+      "win_streak": -7
+    },
+    "sum": 136359187,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22768
+    },
+    "date": 1794134180724,
+    "duration": 109986,
+    "left": {
+      "bet_amount": 1625242,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Inferior-kyo",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1950890,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 6,
+      "name": "Xbl balrog",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "sum": 136330953,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18029
+    },
+    "date": 1794134401008,
+    "duration": 160080,
+    "left": {
+      "bet_amount": 1331523,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Laharl-chan",
+      "normal_bettors": 18,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2516482,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Weather dopant",
+      "normal_bettors": 30,
+      "win_streak": -2
+    },
+    "sum": 136357906,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23349
+    },
+    "date": 1794134561129,
+    "duration": 90203,
+    "left": {
+      "bet_amount": 841316,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Ken amada & koromaru",
+      "normal_bettors": 8,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4979494,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 14,
+      "name": "Ciel EX",
+      "normal_bettors": 38,
+      "win_streak": 8
+    },
+    "sum": 136367378,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
