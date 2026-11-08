@@ -906164,5 +906164,32 @@
     "sum": 7180,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9820
+    },
+    "date": 1794115974127,
+    "duration": 201803,
+    "left": {
+      "bet_amount": 404647,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Evil ash diabolosis",
+      "normal_bettors": 40,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 386445,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 15,
+      "name": "Gundam nataku",
+      "normal_bettors": 24,
+      "win_streak": 6
+    },
+    "sum": 9820,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
