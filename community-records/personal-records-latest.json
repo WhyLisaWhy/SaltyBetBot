@@ -909404,5 +909404,86 @@
     "sum": 136357890,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18587
+    },
+    "date": 1794141152350,
+    "duration": 124191,
+    "left": {
+      "bet_amount": 1448627,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Drigger",
+      "normal_bettors": 17,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1475218,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Task force aquaman",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "sum": 136358095,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 32025
+    },
+    "date": 1794141318328,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 913863,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Tatsuo shiki",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3590428,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Hoihoi",
+      "normal_bettors": 35,
+      "win_streak": -1
+    },
+    "sum": 136376120,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32235
+    },
+    "date": 1794141768728,
+    "duration": 210202,
+    "left": {
+      "bet_amount": 1334674,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Heidi",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3540649,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Goku black",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 136319290,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
