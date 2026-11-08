@@ -912399,5 +912399,140 @@
     "sum": 136048463,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 16636
+    },
+    "date": 1794161093927,
+    "duration": 190199,
+    "left": {
+      "bet_amount": 3223742,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Gen shougo",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1069343,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Kishimax",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 136208582,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 26126
+    },
+    "date": 1794161229929,
+    "duration": 76003,
+    "left": {
+      "bet_amount": 4693078,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 12,
+      "name": "Ultraman gaia_a",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 642625,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Bob wilson EX2",
+      "normal_bettors": 7,
+      "win_streak": -4
+    },
+    "sum": 136214072,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18034
+    },
+    "date": 1794161424131,
+    "duration": 144006,
+    "left": {
+      "bet_amount": 546730,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Misaka sisters",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4732900,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Unlimited k'",
+      "normal_bettors": 38,
+      "win_streak": 4
+    },
+    "sum": 136217630,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 12330
+    },
+    "date": 1794161640327,
+    "duration": 150200,
+    "left": {
+      "bet_amount": 532537,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Griffon",
+      "normal_bettors": 10,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2669269,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 12,
+      "name": "Rob lucci",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 136199596,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794161782525,
+    "duration": 88187,
+    "left": {
+      "bet_amount": 4736651,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Batsu EX2",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 979659,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Sabretooth",
+      "normal_bettors": 16,
+      "win_streak": -14
+    },
+    "sum": 136202045,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
