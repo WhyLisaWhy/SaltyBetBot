@@ -914208,5 +914208,140 @@
     "sum": 136791749,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1353
+    },
+    "date": 1794172716927,
+    "duration": 89973,
+    "left": {
+      "bet_amount": 2774205,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Etrigan",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2229097,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Future trunks",
+      "normal_bettors": 28,
+      "win_streak": -7
+    },
+    "sum": 136769220,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794172913126,
+    "duration": 135999,
+    "left": {
+      "bet_amount": 488395,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Getter1",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6068075,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "Crash 1105",
+      "normal_bettors": 39,
+      "win_streak": 3
+    },
+    "sum": 136770307,
+    "tier": "P",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22749
+    },
+    "date": 1794173097325,
+    "duration": 124196,
+    "left": {
+      "bet_amount": 1950649,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 8,
+      "name": "Akatuki zetu",
+      "normal_bettors": 24,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1051334,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Android 16 EX3",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 136770308,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 41341
+    },
+    "date": 1794173267526,
+    "duration": 110199,
+    "left": {
+      "bet_amount": 2937313,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "Shintaro",
+      "normal_bettors": 36,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 762162,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Ando",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 136782428,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 7182
+    },
+    "date": 1794173417525,
+    "duration": 89997,
+    "left": {
+      "bet_amount": 589917,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Junko sendo",
+      "normal_bettors": 14,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6022118,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 11,
+      "name": "Hugo andore jr.",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "sum": 136793007,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
