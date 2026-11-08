@@ -907838,5 +907838,113 @@
     "sum": 136309627,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 31897
+    },
+    "date": 1794128522330,
+    "duration": 110176,
+    "left": {
+      "bet_amount": 4907375,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 15,
+      "name": "Boggy",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1020539,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Epyon",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136309628,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 25459
+    },
+    "date": 1794128668526,
+    "duration": 90199,
+    "left": {
+      "bet_amount": 3112693,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Natasha",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2805359,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Gelonimon",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 136277731,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 7115
+    },
+    "date": 1794128832529,
+    "duration": 109981,
+    "left": {
+      "bet_amount": 1114624,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "New mechagodzilla",
+      "normal_bettors": 17,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2506476,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 7,
+      "name": "Kid goku sb",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 136305726,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794128978728,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 3478909,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 10,
+      "name": "Yuusuke",
+      "normal_bettors": 36,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1249384,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Meta knight mythos",
+      "normal_bettors": 16,
+      "win_streak": 2
+    },
+    "sum": 136298611,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
