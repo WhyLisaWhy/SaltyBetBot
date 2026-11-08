@@ -912129,5 +912129,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794158473726,
+    "duration": 183955,
+    "left": {
+      "bet_amount": 787481,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Well",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 263090,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Dante D4",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794158609926,
+    "duration": 79996,
+    "left": {
+      "bet_amount": 71262,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Cody the hedgehusky",
+      "normal_bettors": 27,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 691829,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Sauri",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1710
+    },
+    "date": 1794158830135,
+    "duration": 160211,
+    "left": {
+      "bet_amount": 712133,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Neferpitou",
+      "normal_bettors": 42,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 435084,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Chonshu EX3",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 1710,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2753
+    },
+    "date": 1794158996350,
+    "duration": 106229,
+    "left": {
+      "bet_amount": 913367,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 6,
+      "name": "Cyber shredder 2.1",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 177767,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 9,
+      "name": "Resistance",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 2753,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794159150330,
+    "duration": 94002,
+    "left": {
+      "bet_amount": 279770,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Tora",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 806189,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Well",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
