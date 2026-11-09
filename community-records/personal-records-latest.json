@@ -921388,5 +921388,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2188
+    },
+    "date": 1794226847127,
+    "duration": 164000,
+    "left": {
+      "bet_amount": 64889,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Kyoko",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 371430,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 10,
+      "name": "Sakai yuuji",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 2188,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2569
+    },
+    "date": 1794227023326,
+    "duration": 119997,
+    "left": {
+      "bet_amount": 112751,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Kira izuru",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 620946,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 16,
+      "name": "Yang kung fu do",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 2569,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3034
+    },
+    "date": 1794227183527,
+    "duration": 100197,
+    "left": {
+      "bet_amount": 155057,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Mephiles the dark",
+      "normal_bettors": 25,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 289796,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Roomi kof",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "sum": 3034,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
