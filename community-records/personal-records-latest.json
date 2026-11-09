@@ -919795,5 +919795,140 @@
     "sum": 136853196,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4610
+    },
+    "date": 1794215724325,
+    "duration": 93996,
+    "left": {
+      "bet_amount": 633673,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Bluestreak sd",
+      "normal_bettors": 10,
+      "win_streak": -9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 4595653,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Sagat",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "sum": 136853589,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 33682
+    },
+    "date": 1794215956528,
+    "duration": 171990,
+    "left": {
+      "bet_amount": 1098542,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Chuu",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1464383,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Hob-goblin 2009",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136854225,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13683
+    },
+    "date": 1794216090727,
+    "duration": 73992,
+    "left": {
+      "bet_amount": 2846079,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Quick silver",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 907130,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Silvermoon",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136820543,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 34571
+    },
+    "date": 1794216280957,
+    "duration": 130230,
+    "left": {
+      "bet_amount": 1171647,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Jagi",
+      "normal_bettors": 21,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1709632,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Petora",
+      "normal_bettors": 27,
+      "win_streak": -2
+    },
+    "sum": 136824884,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 36450
+    },
+    "date": 1794216436926,
+    "duration": 95997,
+    "left": {
+      "bet_amount": 2899175,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Guido mista",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 762230,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kou EX",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 136848107,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
