@@ -919660,5 +919660,140 @@
     "sum": 136864240,
     "tier": "P",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22280
+    },
+    "date": 1794214859724,
+    "duration": 119998,
+    "left": {
+      "bet_amount": 585918,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Omega zero",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3962140,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Holy god earth svg",
+      "normal_bettors": 32,
+      "win_streak": 4
+    },
+    "sum": 136864239,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 22084
+    },
+    "date": 1794215003926,
+    "duration": 74201,
+    "left": {
+      "bet_amount": 1269649,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Viper",
+      "normal_bettors": 26,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1580751,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Jack the ripper",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "sum": 136867516,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21657
+    },
+    "date": 1794215194125,
+    "duration": 130199,
+    "left": {
+      "bet_amount": 3692451,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Evangelion",
+      "normal_bettors": 35,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 801232,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Cap.com",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 136845432,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 16608
+    },
+    "date": 1794215384124,
+    "duration": 129993,
+    "left": {
+      "bet_amount": 676608,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Lucifer 2",
+      "normal_bettors": 12,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3618429,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Neige pebble",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "sum": 136850104,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1828
+    },
+    "date": 1794215574329,
+    "duration": 134189,
+    "left": {
+      "bet_amount": 577601,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Eliza EX",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2690434,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Agent nash",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "sum": 136853196,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
