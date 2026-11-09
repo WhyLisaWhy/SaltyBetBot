@@ -921253,5 +921253,140 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 3479
+    },
+    "date": 1794225846326,
+    "duration": 145979,
+    "left": {
+      "bet_amount": 61159,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Roomi kof",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 163449,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 11,
+      "name": "Vegalunker",
+      "normal_bettors": 33,
+      "win_streak": -1
+    },
+    "sum": 3479,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 12277
+    },
+    "date": 1794226012528,
+    "duration": 112198,
+    "left": {
+      "bet_amount": 170532,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 8,
+      "name": "Titi",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 157554,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Toriel",
+      "normal_bettors": 20,
+      "win_streak": 2
+    },
+    "sum": 12277,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 22858
+    },
+    "date": 1794226242728,
+    "duration": 170199,
+    "left": {
+      "bet_amount": 205962,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Cci shermie",
+      "normal_bettors": 16,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 194349,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Super skrull",
+      "normal_bettors": 34,
+      "win_streak": 4
+    },
+    "sum": 22858,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 44533
+    },
+    "date": 1794226468927,
+    "duration": 172198,
+    "left": {
+      "bet_amount": 345223,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Pokeathena",
+      "normal_bettors": 29,
+      "win_streak": -14
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 147926,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Kim kaphwan CVS2",
+      "normal_bettors": 22,
+      "win_streak": -3
+    },
+    "sum": 44533,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1794226623124,
+    "duration": 100195,
+    "left": {
+      "bet_amount": 457223,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 20,
+      "name": "Goofy",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 188734,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 2,
+      "name": "Koldan",
+      "normal_bettors": 20,
+      "win_streak": -4
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
