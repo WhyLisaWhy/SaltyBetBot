@@ -915396,5 +915396,32 @@
     "sum": 1550,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 22759
+    },
+    "date": 1794182492725,
+    "duration": 80162,
+    "left": {
+      "bet_amount": 6998503,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Koryu",
+      "normal_bettors": 39,
+      "win_streak": 5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 808825,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Bloo",
+      "normal_bettors": 13,
+      "win_streak": -1
+    },
+    "sum": 136878850,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
