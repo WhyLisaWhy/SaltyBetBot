@@ -920551,5 +920551,167 @@
     "sum": 137046910,
     "tier": "S",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 20099
+    },
+    "date": 1794221184726,
+    "duration": 106001,
+    "left": {
+      "bet_amount": 3470370,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Black tiger",
+      "normal_bettors": 35,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 684636,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Elecman mvc",
+      "normal_bettors": 12,
+      "win_streak": 2
+    },
+    "sum": 137104624,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25061
+    },
+    "date": 1794221304738,
+    "duration": 66009,
+    "left": {
+      "bet_amount": 861338,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Skapokan",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1810666,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 5,
+      "name": "Cycloid omega q",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 137108567,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20520
+    },
+    "date": 1794221454928,
+    "duration": 89970,
+    "left": {
+      "bet_amount": 2646570,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 8,
+      "name": "Ryo fu",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 586760,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Mongori EX",
+      "normal_bettors": 11,
+      "win_streak": -4
+    },
+    "sum": 137120326,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 2958
+    },
+    "date": 1794221695129,
+    "duration": 186201,
+    "left": {
+      "bet_amount": 482171,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 1,
+      "name": "Mika returna",
+      "normal_bettors": 10,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3354839,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Aurum axe",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 137124841,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 613
+    },
+    "date": 1794221839129,
+    "duration": 90003,
+    "left": {
+      "bet_amount": 828857,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Nise athena",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2771449,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 9,
+      "name": "Caramelman no.2",
+      "normal_bettors": 33,
+      "win_streak": 6
+    },
+    "sum": 137121883,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 38279
+    },
+    "date": 1794222025326,
+    "duration": 125983,
+    "left": {
+      "bet_amount": 1483503,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Kencyan",
+      "normal_bettors": 17,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2348902,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Sahaquiel",
+      "normal_bettors": 29,
+      "win_streak": 2
+    },
+    "sum": 137122067,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
