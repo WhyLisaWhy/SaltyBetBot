@@ -920065,5 +920065,140 @@
     "sum": 136870265,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 10101
+    },
+    "date": 1794217533924,
+    "duration": 160195,
+    "left": {
+      "bet_amount": 3693888,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Mictlan",
+      "normal_bettors": 34,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 705052,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Alice smt",
+      "normal_bettors": 12,
+      "win_streak": -8
+    },
+    "sum": 136843264,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 3515
+    },
+    "date": 1794217647925,
+    "duration": 59997,
+    "left": {
+      "bet_amount": 614433,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Golrian",
+      "normal_bettors": 16,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2866429,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Highway-star",
+      "normal_bettors": 33,
+      "win_streak": 5
+    },
+    "sum": 136845187,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 23655
+    },
+    "date": 1794217888143,
+    "duration": 170215,
+    "left": {
+      "bet_amount": 753890,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Gate x6",
+      "normal_bettors": 18,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2000402,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Edgelord ravenous",
+      "normal_bettors": 29,
+      "win_streak": -3
+    },
+    "sum": 136845940,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 3861
+    },
+    "date": 1794218100324,
+    "duration": 146196,
+    "left": {
+      "bet_amount": 14014420,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 11,
+      "name": "Custom omk beatrice EX3",
+      "normal_bettors": 32,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 637594,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Lumei",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "sum": 136854751,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 13955
+    },
+    "date": 1794218348527,
+    "duration": 194203,
+    "left": {
+      "bet_amount": 2385140,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Shao kahn",
+      "normal_bettors": 34,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 985435,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Kula xiii",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 136854927,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
