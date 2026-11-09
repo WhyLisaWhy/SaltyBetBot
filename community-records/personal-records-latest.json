@@ -919282,5 +919282,113 @@
     "sum": 136872807,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 4705
+    },
+    "date": 1794212385926,
+    "duration": 90202,
+    "left": {
+      "bet_amount": 3165512,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 10,
+      "name": "Athena asamiya-kofm",
+      "normal_bettors": 32,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 950711,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Fatter tony",
+      "normal_bettors": 14,
+      "win_streak": -1
+    },
+    "sum": 136890518,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794212571957,
+    "duration": 132034,
+    "left": {
+      "bet_amount": 527411,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Lion sora",
+      "normal_bettors": 13,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6096066,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 9,
+      "name": "Pure and fur",
+      "normal_bettors": 32,
+      "win_streak": 7
+    },
+    "sum": 136885813,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 25734
+    },
+    "date": 1794212726126,
+    "duration": 100153,
+    "left": {
+      "bet_amount": 2569059,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ms.valliere",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1036733,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Uzume",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136885814,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 30289
+    },
+    "date": 1794212876327,
+    "duration": 96190,
+    "left": {
+      "bet_amount": 2869225,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 5,
+      "name": "Chiester410",
+      "normal_bettors": 27,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1865636,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Regular ass krauser",
+      "normal_bettors": 18,
+      "win_streak": 3
+    },
+    "sum": 136896096,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
