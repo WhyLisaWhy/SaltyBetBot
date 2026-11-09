@@ -918985,5 +918985,113 @@
     "sum": 136824503,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 24085
+    },
+    "date": 1794210682525,
+    "duration": 100200,
+    "left": {
+      "bet_amount": 1986207,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Ultron",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 978942,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 5,
+      "name": "Blubberman",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136804406,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 30740
+    },
+    "date": 1794210792525,
+    "duration": 55993,
+    "left": {
+      "bet_amount": 934621,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Googoo64 mario",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3975535,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Soldier ms",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "sum": 136852100,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 11016
+    },
+    "date": 1794211002760,
+    "duration": 146173,
+    "left": {
+      "bet_amount": 1297649,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 7,
+      "name": "Felix b",
+      "normal_bettors": 22,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2275364,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 6,
+      "name": "Muhammad avdol",
+      "normal_bettors": 27,
+      "win_streak": -4
+    },
+    "sum": 136821360,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 26745
+    },
+    "date": 1794211128925,
+    "duration": 66197,
+    "left": {
+      "bet_amount": 991445,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Robert 98",
+      "normal_bettors": 18,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2133408,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "00 bigbear",
+      "normal_bettors": 30,
+      "win_streak": 3
+    },
+    "sum": 136840514,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
