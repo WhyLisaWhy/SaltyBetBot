@@ -921118,5 +921118,140 @@
     "sum": 137264983,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 23094
+    },
+    "date": 1794224815525,
+    "duration": 76000,
+    "left": {
+      "bet_amount": 418919,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Soushihan k.s.k 12p color",
+      "normal_bettors": 11,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6699416,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 13,
+      "name": "Hunter killer hydralisk",
+      "normal_bettors": 37,
+      "win_streak": 13
+    },
+    "sum": 137271663,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 20033
+    },
+    "date": 1794224975728,
+    "duration": 106202,
+    "left": {
+      "bet_amount": 4417399,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 13,
+      "name": "D4?roll?",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 705241,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 2,
+      "name": "Death-stuff",
+      "normal_bettors": 12,
+      "win_streak": -2
+    },
+    "sum": 137273103,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794225119725,
+    "duration": 73996,
+    "left": {
+      "bet_amount": 1881243,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 3,
+      "name": "Mizoguchi!",
+      "normal_bettors": 32,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1232913,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Sabu EX3",
+      "normal_bettors": 17,
+      "win_streak": 5
+    },
+    "sum": 137276287,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25135
+    },
+    "date": 1794225247526,
+    "duration": 67598,
+    "left": {
+      "bet_amount": 1050783,
+      "ignored_bettors": 11,
+      "illuminati_bettors": 5,
+      "name": "Ex snow",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1233508,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 3,
+      "name": "Nakoruru",
+      "normal_bettors": 24,
+      "win_streak": -3
+    },
+    "sum": 137276288,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1550
+    },
+    "date": 1794225646326,
+    "duration": 130200,
+    "left": {
+      "bet_amount": 70611,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 6,
+      "name": "Mephiles the dark",
+      "normal_bettors": 25,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 89777,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Ippo",
+      "normal_bettors": 25,
+      "win_streak": -6
+    },
+    "sum": 1550,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
