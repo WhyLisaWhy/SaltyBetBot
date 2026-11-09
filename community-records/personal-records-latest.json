@@ -918391,5 +918391,113 @@
     "sum": 20710,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 50412
+    },
+    "date": 1794202534129,
+    "duration": 170203,
+    "left": {
+      "bet_amount": 258794,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Hakufu sonsaku",
+      "normal_bettors": 36,
+      "win_streak": 4
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 516598,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Ogigaya tetsuko",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "sum": 79524,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 29112
+    },
+    "date": 1794202824325,
+    "duration": 224159,
+    "left": {
+      "bet_amount": 781233,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Anita msh",
+      "normal_bettors": 35,
+      "win_streak": 7
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 226332,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Dragon claw EX3",
+      "normal_bettors": 20,
+      "win_streak": 1
+    },
+    "sum": 29112,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 37244
+    },
+    "date": 1794203000529,
+    "duration": 116205,
+    "left": {
+      "bet_amount": 240004,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Nakoruru ex EX3",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 741115,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 11,
+      "name": "Tyrantrum",
+      "normal_bettors": 19,
+      "win_streak": 2
+    },
+    "sum": 37244,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794203170726,
+    "duration": 110201,
+    "left": {
+      "bet_amount": 227558,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 12,
+      "name": "Ogigaya tetsuko",
+      "normal_bettors": 23,
+      "win_streak": 2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1042691,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Anita msh",
+      "normal_bettors": 35,
+      "win_streak": 8
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
