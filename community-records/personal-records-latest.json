@@ -916530,5 +916530,113 @@
     "sum": 136929595,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794189824383,
+    "duration": 186051,
+    "left": {
+      "bet_amount": 2451781,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "Kanji",
+      "normal_bettors": 30,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2840894,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "A Bison",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 136902253,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18803
+    },
+    "date": 1794190010530,
+    "duration": 132184,
+    "left": {
+      "bet_amount": 2760368,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 8,
+      "name": "Lilica_felchenerow",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1027440,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Rainbow edition ryu",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "sum": 136902255,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14089
+    },
+    "date": 1794190184790,
+    "duration": 114262,
+    "left": {
+      "bet_amount": 1208976,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 2,
+      "name": "Shiki vp",
+      "normal_bettors": 29,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1860239,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 9,
+      "name": "Dan mk ii",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 136951865,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794190384929,
+    "duration": 140200,
+    "left": {
+      "bet_amount": 4759417,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Gochack bigbomb",
+      "normal_bettors": 24,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1347736,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Kanji",
+      "normal_bettors": 27,
+      "win_streak": 3
+    },
+    "sum": 136960953,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
