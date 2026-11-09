@@ -919552,5 +919552,113 @@
     "sum": 136863876,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 10777
+    },
+    "date": 1794214187330,
+    "duration": 134201,
+    "left": {
+      "bet_amount": 950042,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Xerxes",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2985769,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Valgasu",
+      "normal_bettors": 34,
+      "win_streak": 3
+    },
+    "sum": 136873533,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5640
+    },
+    "date": 1794214363329,
+    "duration": 120004,
+    "left": {
+      "bet_amount": 2029781,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 4,
+      "name": "Dan CVS",
+      "normal_bettors": 22,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1436816,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 7,
+      "name": "Flash",
+      "normal_bettors": 23,
+      "win_streak": -1
+    },
+    "sum": 136862756,
+    "tier": "P",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 32293
+    },
+    "date": 1794214487528,
+    "duration": 64187,
+    "left": {
+      "bet_amount": 4636709,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Brawl meta knight",
+      "normal_bettors": 33,
+      "win_streak": 8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1029967,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Rouwe EX3",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136857116,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794214673539,
+    "duration": 130013,
+    "left": {
+      "bet_amount": 2664432,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Fox mccloud",
+      "normal_bettors": 36,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 967914,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Natsume",
+      "normal_bettors": 14,
+      "win_streak": -2
+    },
+    "sum": 136864240,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
