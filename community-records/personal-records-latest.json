@@ -918499,5 +918499,32 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1888
+    },
+    "date": 1794203681329,
+    "duration": 446575,
+    "left": {
+      "bet_amount": 67056,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 5,
+      "name": "Tyrantrum",
+      "normal_bettors": 17,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 1332627,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 24,
+      "name": "Anita msh",
+      "normal_bettors": 45,
+      "win_streak": 8
+    },
+    "sum": 1888,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
