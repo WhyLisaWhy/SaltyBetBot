@@ -916422,5 +916422,113 @@
     "sum": 136789038,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 2178
+    },
+    "date": 1794189057727,
+    "duration": 129998,
+    "left": {
+      "bet_amount": 768710,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Johnny cage EX",
+      "normal_bettors": 17,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 6005683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Yong-taiga",
+      "normal_bettors": 40,
+      "win_streak": 2
+    },
+    "sum": 136897090,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 28667
+    },
+    "date": 1794189243927,
+    "duration": 130002,
+    "left": {
+      "bet_amount": 1297354,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 4,
+      "name": "Galford nrf",
+      "normal_bettors": 22,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1168814,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 6,
+      "name": "Hero m",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136897369,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 5063
+    },
+    "date": 1794189384129,
+    "duration": 80198,
+    "left": {
+      "bet_amount": 3913042,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Kliff",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 903602,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 3,
+      "name": "Akiko EX",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 136928427,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 27342
+    },
+    "date": 1794189578134,
+    "duration": 134008,
+    "left": {
+      "bet_amount": 2946778,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 9,
+      "name": "The moon",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1860222,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Jobber jose",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "sum": 136929595,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
