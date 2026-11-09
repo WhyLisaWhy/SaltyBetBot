@@ -920713,5 +920713,113 @@
     "sum": 137122067,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27906
+    },
+    "date": 1794222261530,
+    "duration": 176204,
+    "left": {
+      "bet_amount": 2135271,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 7,
+      "name": "Einsatz",
+      "normal_bettors": 34,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 757444,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Ichigo EX",
+      "normal_bettors": 14,
+      "win_streak": -6
+    },
+    "sum": 137145856,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 25511
+    },
+    "date": 1794222421733,
+    "duration": 106205,
+    "left": {
+      "bet_amount": 446537,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Cell Hyper Dimension",
+      "normal_bettors": 8,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3175609,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Kaori yanase",
+      "normal_bettors": 38,
+      "win_streak": 3
+    },
+    "sum": 137117950,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 6335
+    },
+    "date": 1794222571729,
+    "duration": 96003,
+    "left": {
+      "bet_amount": 702000,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Reisen-e",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3694404,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 11,
+      "name": "Miles",
+      "normal_bettors": 36,
+      "win_streak": 2
+    },
+    "sum": 137121509,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 4339
+    },
+    "date": 1794222751928,
+    "duration": 125989,
+    "left": {
+      "bet_amount": 6117759,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 7,
+      "name": "Ryu hayabusa nes",
+      "normal_bettors": 37,
+      "win_streak": 0
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 625785,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Chucky",
+      "normal_bettors": 12,
+      "win_streak": -4
+    },
+    "sum": 137115174,
+    "tier": "P",
+    "winner": "Left"
   }
 ]
