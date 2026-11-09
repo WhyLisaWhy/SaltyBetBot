@@ -915855,5 +915855,113 @@
     "sum": 136964563,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 29012
+    },
+    "date": 1794185342929,
+    "duration": 66001,
+    "left": {
+      "bet_amount": 2485056,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Sabotage",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 949009,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 5,
+      "name": "Marvel Marrow",
+      "normal_bettors": 12,
+      "win_streak": 1
+    },
+    "sum": 137034998,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 1
+    },
+    "date": 1794185494936,
+    "duration": 98007,
+    "left": {
+      "bet_amount": 531754,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Krillin dude",
+      "normal_bettors": 11,
+      "win_streak": -14
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 7096837,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 11,
+      "name": "Yukina_h",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "sum": 137005986,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 9465
+    },
+    "date": 1794185653125,
+    "duration": 99999,
+    "left": {
+      "bet_amount": 3764835,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Han EX3",
+      "normal_bettors": 36,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 651665,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "G silver",
+      "normal_bettors": 12,
+      "win_streak": -3
+    },
+    "sum": 137005985,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 46113
+    },
+    "date": 1794185943320,
+    "duration": 236157,
+    "left": {
+      "bet_amount": 3441133,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 10,
+      "name": "King arturo",
+      "normal_bettors": 39,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 832558,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 4,
+      "name": "Luke cage",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 137007620,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
