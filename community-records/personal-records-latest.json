@@ -919930,5 +919930,140 @@
     "sum": 136848107,
     "tier": "A",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 1817
+    },
+    "date": 1794216651126,
+    "duration": 150002,
+    "left": {
+      "bet_amount": 3542685,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Mageko",
+      "normal_bettors": 38,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 781888,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Yue hizoku",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "sum": 136811657,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 31328
+    },
+    "date": 1794216811325,
+    "duration": 100176,
+    "left": {
+      "bet_amount": 1577142,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 6,
+      "name": "Undeadhero",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1068321,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ridley zm",
+      "normal_bettors": 19,
+      "win_streak": -1
+    },
+    "sum": 136812058,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21398
+    },
+    "date": 1794217011345,
+    "duration": 140016,
+    "left": {
+      "bet_amount": 2728329,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Asellus EX",
+      "normal_bettors": 34,
+      "win_streak": 7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1227159,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Sf4 omni",
+      "normal_bettors": 18,
+      "win_streak": 1
+    },
+    "sum": 136832866,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18941
+    },
+    "date": 1794217163525,
+    "duration": 75997,
+    "left": {
+      "bet_amount": 1647415,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 7,
+      "name": "Chartette",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1101535,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Eirin rp",
+      "normal_bettors": 21,
+      "win_streak": 2
+    },
+    "sum": 136842416,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 27001
+    },
+    "date": 1794217313726,
+    "duration": 90198,
+    "left": {
+      "bet_amount": 1881232,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 7,
+      "name": "Wanda",
+      "normal_bettors": 31,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1167394,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 5,
+      "name": "Saya IX",
+      "normal_bettors": 17,
+      "win_streak": -2
+    },
+    "sum": 136870265,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
