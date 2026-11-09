@@ -921631,5 +921631,86 @@
     "sum": 1550,
     "tier": "B",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 32016
+    },
+    "date": 1794229607332,
+    "duration": 56004,
+    "left": {
+      "bet_amount": 501503,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Hayato kanzaki",
+      "normal_bettors": 12,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3164718,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 11,
+      "name": "Mega weapon",
+      "normal_bettors": 33,
+      "win_streak": 8
+    },
+    "sum": 137299626,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 14771
+    },
+    "date": 1794229757527,
+    "duration": 89995,
+    "left": {
+      "bet_amount": 3737263,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 14,
+      "name": "Robo weiss",
+      "normal_bettors": 33,
+      "win_streak": 2
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 795848,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Gouki",
+      "normal_bettors": 13,
+      "win_streak": -2
+    },
+    "sum": 137304649,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 24691
+    },
+    "date": 1794229997729,
+    "duration": 184199,
+    "left": {
+      "bet_amount": 671395,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Nonon jakuzure",
+      "normal_bettors": 13,
+      "win_streak": -5
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2845185,
+      "ignored_bettors": 10,
+      "illuminati_bettors": 9,
+      "name": "M-gato EX7",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "sum": 137307783,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
