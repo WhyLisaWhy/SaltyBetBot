@@ -921469,5 +921469,140 @@
     "sum": 3034,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 4641
+    },
+    "date": 1794227429757,
+    "duration": 186177,
+    "left": {
+      "bet_amount": 462023,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 12,
+      "name": "Titi",
+      "normal_bettors": 31,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 70940,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Super skrull",
+      "normal_bettors": 20,
+      "win_streak": 5
+    },
+    "sum": 4641,
+    "tier": "B",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 5347
+    },
+    "date": 1794227673930,
+    "duration": 190210,
+    "left": {
+      "bet_amount": 29514,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 1,
+      "name": "Kim kaphwan CVS2",
+      "normal_bettors": 14,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 550683,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Goofy",
+      "normal_bettors": 41,
+      "win_streak": 2
+    },
+    "sum": 5347,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 5347
+    },
+    "date": 1794227833945,
+    "duration": 100017,
+    "left": {
+      "bet_amount": 151543,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 13,
+      "name": "Sakai yuuji",
+      "normal_bettors": 15,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 459626,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Yang kung fu do",
+      "normal_bettors": 40,
+      "win_streak": 1
+    },
+    "sum": 5347,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 7374
+    },
+    "date": 1794228044151,
+    "duration": 150021,
+    "left": {
+      "bet_amount": 180533,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 8,
+      "name": "Roomi kof",
+      "normal_bettors": 16,
+      "win_streak": 5
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 773051,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 14,
+      "name": "Titi",
+      "normal_bettors": 38,
+      "win_streak": 2
+    },
+    "sum": 7374,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 9080
+    },
+    "date": 1794228204326,
+    "duration": 100199,
+    "left": {
+      "bet_amount": 696009,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 19,
+      "name": "Goofy",
+      "normal_bettors": 26,
+      "win_streak": 3
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 199101,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Yang kung fu do",
+      "normal_bettors": 25,
+      "win_streak": 2
+    },
+    "sum": 9080,
+    "tier": "B",
+    "winner": "Left"
   }
 ]
