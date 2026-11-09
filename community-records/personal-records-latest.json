@@ -918175,5 +918175,86 @@
     "sum": 1550,
     "tier": "S",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2262
+    },
+    "date": 1794200736725,
+    "duration": 145999,
+    "left": {
+      "bet_amount": 84530,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 4,
+      "name": "Boss neo-dio",
+      "normal_bettors": 18,
+      "win_streak": -6
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 268439,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 15,
+      "name": "Glacial_girl",
+      "normal_bettors": 36,
+      "win_streak": 12
+    },
+    "sum": 2262,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 1550
+    },
+    "date": 1794200951065,
+    "duration": 160331,
+    "left": {
+      "bet_amount": 249574,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 6,
+      "name": "Heracross",
+      "normal_bettors": 23,
+      "win_streak": 1
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 220631,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 13,
+      "name": "Tyrantrum",
+      "normal_bettors": 32,
+      "win_streak": -3
+    },
+    "sum": 1550,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 3292
+    },
+    "date": 1794201197172,
+    "duration": 186237,
+    "left": {
+      "bet_amount": 250065,
+      "ignored_bettors": 0,
+      "illuminati_bettors": 3,
+      "name": "Nightmare of ruin",
+      "normal_bettors": 22,
+      "win_streak": -2
+    },
+    "mode": "Tournament",
+    "right": {
+      "bet_amount": 270425,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 16,
+      "name": "Hakufu sonsaku",
+      "normal_bettors": 33,
+      "win_streak": 3
+    },
+    "sum": 3292,
+    "tier": "S",
+    "winner": "Right"
   }
 ]
