@@ -916962,5 +916962,113 @@
     "sum": 136866610,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Left": 21615
+    },
+    "date": 1794192654525,
+    "duration": 189909,
+    "left": {
+      "bet_amount": 1043234,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 3,
+      "name": "Zeus (disney)",
+      "normal_bettors": 19,
+      "win_streak": -7
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2303641,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 9,
+      "name": "Lion(coh)",
+      "normal_bettors": 34,
+      "win_streak": -2
+    },
+    "sum": 136841178,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 28403
+    },
+    "date": 1794192794727,
+    "duration": 80203,
+    "left": {
+      "bet_amount": 1349902,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Largefencer_mysty",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2498343,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 9,
+      "name": "Elion",
+      "normal_bettors": 31,
+      "win_streak": -2
+    },
+    "sum": 136819563,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 26569
+    },
+    "date": 1794192968725,
+    "duration": 114002,
+    "left": {
+      "bet_amount": 2178716,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 7,
+      "name": "Corpse",
+      "normal_bettors": 16,
+      "win_streak": -3
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 1699038,
+      "ignored_bettors": 12,
+      "illuminati_bettors": 7,
+      "name": "Neo dark mai",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "sum": 136791160,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 1
+    },
+    "date": 1794193168933,
+    "duration": 140007,
+    "left": {
+      "bet_amount": 905562,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Ibuki IV",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3825210,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 8,
+      "name": "TheThing",
+      "normal_bettors": 35,
+      "win_streak": 5
+    },
+    "sum": 136824706,
+    "tier": "B",
+    "winner": "Right"
   }
 ]
