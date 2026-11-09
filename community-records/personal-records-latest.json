@@ -920200,5 +920200,113 @@
     "sum": 136854927,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 38822
+    },
+    "date": 1794218620725,
+    "duration": 210151,
+    "left": {
+      "bet_amount": 1524526,
+      "ignored_bettors": 8,
+      "illuminati_bettors": 8,
+      "name": "Biped EX7",
+      "normal_bettors": 25,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 853616,
+      "ignored_bettors": 3,
+      "illuminati_bettors": 2,
+      "name": "Fritz",
+      "normal_bettors": 19,
+      "win_streak": 3
+    },
+    "sum": 136860660,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 2321
+    },
+    "date": 1794218790728,
+    "duration": 110002,
+    "left": {
+      "bet_amount": 2757196,
+      "ignored_bettors": 7,
+      "illuminati_bettors": 5,
+      "name": "Omnimon",
+      "normal_bettors": 32,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 652163,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 4,
+      "name": "Mika returna",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "sum": 136926979,
+    "tier": "S",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 18362
+    },
+    "date": 1794219010927,
+    "duration": 165994,
+    "left": {
+      "bet_amount": 597709,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 1,
+      "name": "Daiyousei EX",
+      "normal_bettors": 13,
+      "win_streak": 1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3009629,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 14,
+      "name": "Rouga(coh)",
+      "normal_bettors": 35,
+      "win_streak": 1
+    },
+    "sum": 136924658,
+    "tier": "A",
+    "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 27784
+    },
+    "date": 1794219221130,
+    "duration": 156002,
+    "left": {
+      "bet_amount": 814733,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Nazrin",
+      "normal_bettors": 16,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 2141244,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 10,
+      "name": "Kyoushirou senryou",
+      "normal_bettors": 31,
+      "win_streak": 4
+    },
+    "sum": 136906296,
+    "tier": "A",
+    "winner": "Right"
   }
 ]
