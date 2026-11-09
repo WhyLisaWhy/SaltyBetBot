@@ -917070,5 +917070,113 @@
     "sum": 136824706,
     "tier": "B",
     "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 22438
+    },
+    "date": 1794193379124,
+    "duration": 150191,
+    "left": {
+      "bet_amount": 4806584,
+      "ignored_bettors": 5,
+      "illuminati_bettors": 12,
+      "name": "Dantalion_alice",
+      "normal_bettors": 38,
+      "win_streak": 9
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3300179,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 5,
+      "name": "Maoh",
+      "normal_bettors": 15,
+      "win_streak": 5
+    },
+    "sum": 136824707,
+    "tier": "S",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 15702
+    },
+    "date": 1794193575326,
+    "duration": 136194,
+    "left": {
+      "bet_amount": 3614715,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 11,
+      "name": "Luke skywalker EX3",
+      "normal_bettors": 37,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 899047,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 3,
+      "name": "Stan smith",
+      "normal_bettors": 16,
+      "win_streak": 1
+    },
+    "sum": 136802269,
+    "tier": "B",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Right": 14918
+    },
+    "date": 1794193705328,
+    "duration": 70001,
+    "left": {
+      "bet_amount": 742439,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 2,
+      "name": "Blanka 0d",
+      "normal_bettors": 14,
+      "win_streak": -8
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3447328,
+      "ignored_bettors": 4,
+      "illuminati_bettors": 12,
+      "name": "Braun",
+      "normal_bettors": 37,
+      "win_streak": 1
+    },
+    "sum": 136786567,
+    "tier": "A",
+    "winner": "Right"
+  },
+  {
+    "bet": {
+      "Left": 18270
+    },
+    "date": 1794193861539,
+    "duration": 90215,
+    "left": {
+      "bet_amount": 3189179,
+      "ignored_bettors": 9,
+      "illuminati_bettors": 9,
+      "name": "Balrog f",
+      "normal_bettors": 29,
+      "win_streak": 4
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 3708305,
+      "ignored_bettors": 1,
+      "illuminati_bettors": 4,
+      "name": "Dark god rugal kofm",
+      "normal_bettors": 20,
+      "win_streak": -1
+    },
+    "sum": 136789766,
+    "tier": "S",
+    "winner": "Left"
   }
 ]
