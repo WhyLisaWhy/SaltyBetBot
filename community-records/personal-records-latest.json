@@ -922117,5 +922117,32 @@
     "sum": 137315622,
     "tier": "A",
     "winner": "Left"
+  },
+  {
+    "bet": {
+      "Right": 20864
+    },
+    "date": 1794232932149,
+    "duration": 100157,
+    "left": {
+      "bet_amount": 2412106,
+      "ignored_bettors": 6,
+      "illuminati_bettors": 9,
+      "name": "Athena heidern",
+      "normal_bettors": 30,
+      "win_streak": -1
+    },
+    "mode": "Matchmaking",
+    "right": {
+      "bet_amount": 717961,
+      "ignored_bettors": 2,
+      "illuminati_bettors": 2,
+      "name": "Maebara_keiichi",
+      "normal_bettors": 19,
+      "win_streak": 1
+    },
+    "sum": 137355728,
+    "tier": "A",
+    "winner": "Left"
   }
 ]
